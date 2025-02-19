@@ -24,6 +24,12 @@ async function sendUserInput() {
     // Escape input to prevent XSS
     userInput = escapeHTML(userInput);
 
+    // Post user message
+    let userMessage = document.createElement("div");
+    userMessage.className = "message user-message";
+    userMessage.innerText = userInput;
+    chatBox.appendChild(userMessage);
+
     console.log("User Input:", userInput);
     console.log(analyzeUserInputUrl);
 
@@ -37,6 +43,13 @@ async function sendUserInput() {
             body: JSON.stringify({ message: userInput })
         });
         const data = await response.json();
+
+        // ✅ Create a div for the bot response
+        let botMessage = document.createElement("div");
+        botMessage.className = "message bot-message";
+        botMessage.innerText = data.message;  // ✅ Append text, not an element
+
+        chatBox.appendChild(botMessage); // ✅ Use the correct variable name
         console.log("Server Response:", data);
     } catch (error) {
         console.error("Error sending message:", error);

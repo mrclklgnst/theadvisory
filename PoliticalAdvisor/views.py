@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 import json
+import time
 
 
 def index(request):
@@ -14,6 +15,7 @@ def analyze_user_input(request):
         try:
             data = json.loads(request.body)
             user_input = data["message"]
+            time.sleep(2)
             return JsonResponse({"message": f"User input: {user_input}"})
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
