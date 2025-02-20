@@ -46,7 +46,8 @@ def initialize_faiss():
 def create_pdf_splits(file_path):
 
     # Load the pdf PyMUPDFLoader works much better than PyPDFLoader
-    loader = PyMuPDFLoader('programs/'+file_path)
+    programfolder = os.path.join(os.path.dirname(__file__), 'programs')
+    loader = PyMuPDFLoader(os.path.join(programfolder, file_path))
     pdf_doc = loader.load()
     print(f"Loaded {len(pdf_doc)} pages from {file_path}")
 
@@ -73,8 +74,12 @@ def load_faiss(faiss_path):
     return vector_store
 def build_faiss_programs(faiss_path):
     vector_store = initialize_faiss()
-    pdf_list = ['AFD_Program.pdf', 'CDU_Program.pdf', 'FDP_Program.pdf',
-                'Gruene_Program.pdf', 'Linke_Program.pdf', 'SPD_Program.pdf']
+    pdf_list = ['AFD_Program.pdf',
+                # 'CDU_Program.pdf',
+                # 'FDP_Program.pdf',
+                # 'Gruene_Program.pdf',
+                # 'Linke_Program.pdf',
+                'SPD_Program.pdf']
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf)
         vector_store.add_documents(pdf_splits)
@@ -174,7 +179,7 @@ prompt = PromptTemplate(template=template, input_variables=["context", "question
 q = "Ich habe Angst vor einem Krieg in Europa"
 
 # Define the path for local storage
-faiss_path = "faiss_index"
+faiss_path = os.getcwd() + "/faiss_index"
 
 # Build the FAISS index from the PDFs and store locally
 # build_faiss_programs(faiss_path)
@@ -182,37 +187,40 @@ faiss_path = "faiss_index"
 
 
 # Load the FAISS index
-vector_store = load_faiss(faiss_path)
+# vector_store = load_faiss(faiss_path)
 
-# Get user query, build a grapph invoke it
-user_query = q
-graph = build_graph()
-result = graph.invoke({"question": user_query})
+# Get user query, build a graph invoke it
+# user_query = q
+# graph = build_graph()
 
 
-# Transform response to locally stored JSON
-response = {}
+def respond_to_query(user_query, graph):
+    result = graph.invoke({"question": user_query})
 
-# Store the chatbot answer
-response['answer'] = result["answer"]
-print(type(result["answer"]))
 
-# Create a list of citations from the similarity search
-citations = {}
-for i, c in enumerate(result["context"]):
-    citation_dict = {}
-    citation_dict["score"] = c.metadata["score"]
-    citation_dict["source"] = c.metadata["source"]
-    citation_dict["location"] = str(c.metadata["page"])+" / "+str(c.metadata["total_pages"])
-    citation_dict["content"] = c.page_content
-    citations[i] = citation_dict
+    # Transform response to locally stored JSON
+    response = {}
 
-# Store the citations in the response
-response['citations'] = citations
+    # Store the chatbot answer
+    response['answer'] = result["answer"]
+    print(type(result["answer"]))
+
+    # Create a list of citations from the similarity search
+    citations = {}
+    for i, c in enumerate(result["context"]):
+        citation_dict = {}
+        citation_dict["score"] = c.metadata["score"]
+        citation_dict["source"] = c.metadata["source"]
+        citation_dict["location"] = str(c.metadata["page"])+" / "+str(c.metadata["total_pages"])
+        citation_dict["content"] = c.page_content
+        citations[i] = citation_dict
+
+    # Store the citations in the response
+    response['citations'] = citations
 
 # Save the full file locally
-with open('response.json', 'w') as f:
-    json.dump(response, f, indent=2)
+# with open('response.json', 'w') as f:
+#     json.dump(response, f, indent=2)
 
 
 
