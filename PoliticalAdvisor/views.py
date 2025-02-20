@@ -1,5 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
+from .myFAISS import respond_to_query
+from PoliticalAdvisor.apps import graph, vector_store
 import json
 import time
 
@@ -15,8 +17,9 @@ def analyze_user_input(request):
         try:
             data = json.loads(request.body)
             user_input = data["message"]
-            time.sleep(2)
-            return JsonResponse({"message": f"User input: {user_input}"})
+            model_output = respond_to_query(user_input, graph)
+            answer = model_output["answer"]
+            return JsonResponse({"message": f"User input: {answer}"})
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
 

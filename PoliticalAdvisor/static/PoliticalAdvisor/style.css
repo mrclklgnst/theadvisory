@@ -1,6 +1,6 @@
 body {
     background-color: #202023;
-    color: white;  /* Makes text readable */
+    color: #000000;  /* Makes text readable */
 }
 
 chat-container {
@@ -25,7 +25,7 @@ chat-container {
         }
         .user-message {
             background: #83af7d;
-            color: white;
+            color: #000000;
             text-align: right;
         }
         .bot-message {

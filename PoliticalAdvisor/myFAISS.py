@@ -75,10 +75,10 @@ def load_faiss(faiss_path):
 def build_faiss_programs(faiss_path):
     vector_store = initialize_faiss()
     pdf_list = ['AFD_Program.pdf',
-                # 'CDU_Program.pdf',
-                # 'FDP_Program.pdf',
-                # 'Gruene_Program.pdf',
-                # 'Linke_Program.pdf',
+                'CDU_Program.pdf',
+                'FDP_Program.pdf',
+                'Gruene_Program.pdf',
+                'Linke_Program.pdf',
                 'SPD_Program.pdf']
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf)
@@ -101,7 +101,7 @@ def query_faiss(query, vector_store):
         print(f"{citation[:300]}")
         print(f"{doc.metadata['source']}")
         print("-"*50)
-def build_graph():
+def build_graph(vector_store):
     class State(TypedDict):
         question: str
         context: List[Document]
@@ -113,7 +113,7 @@ def build_graph():
         # return {"context": retrieved_docs}
 
         retrieved_docs = []
-        results = vector_store.similarity_search_with_score(state['question'], k=10)
+        results = vector_store.similarity_search_with_score(state['question'], k=3)
         for doc, score in results:
             citation = doc.metadata['source'].split("_")[0] + ": "
             cont = doc.page_content
@@ -197,7 +197,6 @@ faiss_path = os.getcwd() + "/faiss_index"
 def respond_to_query(user_query, graph):
     result = graph.invoke({"question": user_query})
 
-
     # Transform response to locally stored JSON
     response = {}
 
@@ -217,6 +216,8 @@ def respond_to_query(user_query, graph):
 
     # Store the citations in the response
     response['citations'] = citations
+
+    return response
 
 # Save the full file locally
 # with open('response.json', 'w') as f:
