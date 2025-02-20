@@ -18,8 +18,10 @@ def analyze_user_input(request):
             data = json.loads(request.body)
             user_input = data["message"]
             model_output = respond_to_query(user_input, graph)
-            answer = model_output["answer"]
-            return JsonResponse({"message": f"User input: {answer}"})
+            answer = model_output["citations"]
+            answer = json.dumps(answer, indent=2)
+            print(answer)
+            return JsonResponse({"message": f"{answer}"})
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
 

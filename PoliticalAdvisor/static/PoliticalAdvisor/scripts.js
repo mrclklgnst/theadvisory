@@ -47,9 +47,8 @@ async function sendUserInput() {
         // ✅ Create a div for the bot response
         let botMessage = document.createElement("div");
         botMessage.className = "message bot-message";
-        botMessage.innerText = data.message;  // ✅ Append text, not an element
-
-        chatBox.appendChild(botMessage); // ✅ Use the correct variable name
+        botMessage.innerText = data.message;  //
+        chatBox.appendChild(botMessage); //
         console.log("Server Response:", data);
     } catch (error) {
         console.error("Error sending message:", error);

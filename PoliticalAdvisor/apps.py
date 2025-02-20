@@ -16,7 +16,7 @@ class PoliticaladvisorConfig(AppConfig):
         current_directory = os.path.dirname(__file__)
         faiss_path = os.path.join(current_directory, "faiss_index")
 
-        build_faiss_programs(faiss_path)
+        # build_faiss_programs(faiss_path)
 
         global vector_store, graph
         vector_store = load_faiss(faiss_path)
