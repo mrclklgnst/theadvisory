@@ -1,41 +1,62 @@
 body {
-    background-color: #8e8ed6;
+    background-color: #0909dd;
     color: #000000;  /* Makes text readable */
 }
 
-chat-container {
-            width: 400px;
-            background: white;
-            padding: 20px;
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+            width: 90%;
+            background: rgba(255, 255, 255, 0.5);
+            margin: 5px;
+            padding: 10px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
             border-radius: 10px;
         }
-        .chat-box {
-            height: 300px;
-            overflow-y: auto;
-            border: 1px solid #ddd;
-            padding: 10px;
-            background: #fff;
-            border-radius: 5px;
-        }
-        .message {
-            margin: 10px 0;
-            padding: 8px;
-            border-radius: 5px;
-        }
-        .user-message {
-            background: #83af7d;
-            color: #000000;
-            text-align: right;
-        }
-        .bot-message {
-            background: #ddd;
-            text-align: left;
-        }
-        input, button {
-            width: 100%;
-            padding: 10px;
-            margin-top: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
+.chat-box {
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+}
+.message {
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 5px;
+}
+.user-message {
+    background: #83af7d;
+    color: #000000;
+    text-align: right;
+}
+.bot-message {
+    background: #ddd;
+    text-align: left;
+}
+.input-box {
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+
+}
+input {
+    flex: 1;  /* Allows the input to expand */
+    padding: 10px;
+    border: 3px solid #ea0e0e;
+    border-radius: 5px;
+}
+
+button {
+    flex-shrink: 0;
+    width: auto;
+    padding: 10px;
+    border: 3px solid #ddd;
+    border-radius: 5px;
+}
