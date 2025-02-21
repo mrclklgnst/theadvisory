@@ -90,8 +90,8 @@ function createTable(data) {
 
 async function sendUserInput() {
     // Function that sends user input to the server and awaits a response
-    let userInput = document.getElementById('user-input').value.trim(); // Trimmed user input
-    let chatBox = document.getElementById('chat-box'); // Chat box element
+    let userInput = document.getElementById('userInput').value.trim(); // Trimmed user input
+    let chatBox = document.getElementById('messageWindow'); // Chat box element
 
     if (!userInput) {
         alert("Please enter a message!");
