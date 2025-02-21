@@ -5,7 +5,8 @@ from PoliticalAdvisor.apps import graph, vector_store
 import json
 import time
 
-
+def centering(request):
+    return render(request, "PoliticalAdvisor/centering.html")
 def index(request):
     return HttpResponse("Hello, world. You're at the Political Advisor index.")
 
