@@ -2,6 +2,18 @@ function getCSRFToken() {
     return document.querySelector('meta[name="csrf-token"]').getAttribute('content');
 }
 
+document.getElementById('userInput').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        event.preventDefault(); // Prevent the default form submission
+        document.querySelector('button[onclick="sendUserInput()"]').click(); // Trigger the button click
+    }
+});
+
+function scrollToBottom() {
+    const messageWindow = document.getElementById('messageWindow');
+    messageWindow.scrollTop = messageWindow.scrollHeight;
+}
+
 function escapeHTML(str) {
     return str.replace(/&/g, "&amp;")
               .replace(/</g, "&lt;")
@@ -22,7 +34,8 @@ function displayBotMessage(data) {
     }
 
     // show bot message
-    document.getElementById('chat-box').appendChild(botMessage);
+    document.getElementById('messageWindow').appendChild(botMessage);
+    scrollToBottom();
 
 }
 
@@ -106,6 +119,8 @@ async function sendUserInput() {
     userMessage.className = "message user-message";
     userMessage.innerText = userInput;
     chatBox.appendChild(userMessage);
+
+    scrollToBottom();
 
 
     try {

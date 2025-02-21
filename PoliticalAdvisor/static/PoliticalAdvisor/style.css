@@ -62,6 +62,7 @@ main, body, html {
 input {
     flex: 1;
     padding: 10px;
+    color: black;
     border: 1px solid #ddd;
     background-color: #eeeeee;
     border-radius: 5px;
@@ -72,7 +73,7 @@ button {
     margin-left: 10px;
     padding: 10px 15px;
     border: none;
-    background: #75aae3;
+    background: #4ca6fb;
     color: white;
     border-radius: 5px;
     cursor: pointer;
