@@ -17,11 +17,22 @@ def analyze_user_input(request):
         try:
             data = json.loads(request.body)
             user_input = data["message"]
-            model_output = respond_to_query(user_input, graph)
-            answer = model_output["citations"]
-            answer = json.dumps(answer, indent=2)
-            print(answer)
-            return JsonResponse({"message": f"{answer}"})
+            print(user_input)
+
+            # Just to reduce the cost of OpenAI
+            try:
+                print('trying')
+                with open("response.json", "r") as f:
+                    model_output = json.load(f)
+                    output = model_output
+                    return JsonResponse({"message": output})
+            except:
+                model_output = respond_to_query(user_input, graph)
+                with open("response.json", "w") as f:
+                    json.dump(model_output, f, indent=2)
+                answer = model_output["answer"]
+                answer = json.dumps(answer, indent=2)
+                return JsonResponse({"message": f"{answer}"})
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
 

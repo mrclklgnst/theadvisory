@@ -1,0 +1,110 @@
+{
+  "answer": {
+    "afd": {
+      "agreement": 75,
+      "explanation": "Die AfD betont den Schutz der Grundrechte und lehnt Einschr\u00e4nkungen im Namen der Sicherheit ab, was in Einklang mit der Forderung nach mehr Eigenverantwortung steht.",
+      "citations": [
+        "Wir sehen die zunehmende Einschr\u00e4nkung von Grundrechten im Namen der Sicherheit kritisch.",
+        "Wir lehnen die Tendenz zum \u00dcberwachungsstaat entschieden ab."
+      ]
+    },
+    "bsw": {
+      "agreement": 50,
+      "explanation": "Die BSW hat keine klare Stellungnahme zu dieser Aussage abgegeben, k\u00f6nnte jedoch im Kontext von Eigenverantwortung und sozialer Kompetenz einige \u00dcbereinstimmungen haben.",
+      "citations": []
+    },
+    "cdu_csu": {
+      "agreement": 30,
+      "explanation": "Die CDU hat einen pragmatischen Ansatz zur Steuerung von Migration und Integration, was in Teilen von der AfD behandelt wird, jedoch besteht ein grundlegender Unterschied in der Herangehensweise.",
+      "citations": [
+        "Wir \u00e4ndern das Recht so, dass jeder ausreisepflichtige Straft\u00e4ter und Gef\u00e4hrder im Anschluss an seine Haft in zeitlich unbegrenzten Ausreisearrest genommen werden kann."
+      ]
+    },
+    "linke": {
+      "agreement": 20,
+      "explanation": "Die Linke hat sich in anderen Kontexten f\u00fcr die Vertretung von Minderheitenrechten stark gemacht, was im Widerspruch zu den Positionen der AfD steht.",
+      "citations": []
+    },
+    "fdp": {
+      "agreement": 60,
+      "explanation": "Die FDP unterst\u00fctzt die Meinungsfreiheit und die Notwendigkeit einer verantwortungsvollen Einwanderung, was teilweise mit den Forderungen der AfD zur Eigenverantwortung \u00fcbereinstimmt.",
+      "citations": [
+        "Die Meinungsfreiheit ist eine der tragenden S\u00e4ulen des demokratischen Gemeinwesens."
+      ]
+    },
+    "gruene": {
+      "agreement": 40,
+      "explanation": "Die Gr\u00fcnen haben eine Umwelt- und Sozialpolitik im Fokus und k\u00f6nnten sich in puncto Grundrechte oder \u00dcberwachungspolitik von der AfD unterscheiden.",
+      "citations": []
+    },
+    "spd": {
+      "agreement": 80,
+      "explanation": "Die SPD unterst\u00fctzt eine starke EU und Reformen, die auch Grundrechte betreffen, was in Diskussionen \u00fcber B\u00fcrgerrechte ein gewisses Ma\u00df an \u00dcbereinstimmung mit den AfD-Positionen zeigt.",
+      "citations": [
+        "Ein wachsendes Europa muss auch ein besseres Europa sein."
+      ]
+    }
+  },
+  "citations": {
+    "0": {
+      "score": 0.4256317913532257,
+      "source": "AFD_Program.pdf",
+      "location": "124 / 177",
+      "content": "AFD: Grundrechte sch\u00fctzen Wir sehen die zunehmende Einschr\u00e4nkung von Grundrechten  im Namen der Sicherheit kritisch. Vielfach werden B\u00fcrgerrechte  eingeschr\u00e4nkt, obwohl mit einer effektiven Umsetzung bestehender  Gesetze und einem angemessenen Personaleinsatz das vorgebliche  Ziel erreicht werden kann. Die AfD lehnt die Tendenz zum \u00dcberwa- chungsstaat entschieden ab. Wir stellen uns gegen eine fl\u00e4chen- deckende Video\u00fcberwachung als Einschr\u00e4nkung der Freiheit und  bestenfalls Symptombek\u00e4mpfung. Wir lehnen Staatstrojaner und die  Vorratsdatenspeicherung ab. Polygamie, Zwangsheirat und Kinderehen Ehen von in Deutschland lebenden Muslimen, die auf Polygamie,  Zwangsheirat und Kinderehen beruhen, laufen der deutschen Rechts- ordnung und der \u00f6ffentlichen Ordnung entgegen. Sie sind zu annul- lieren. Hierf\u00fcr sind die gesetzlichen Normen zu schaffen, welche die  Folgen einer solchen Annullierung unter den Beteiligten regeln."
+    },
+    "1": {
+      "score": 0.43012192845344543,
+      "source": "AFD_Program.pdf",
+      "location": "15 / 177",
+      "content": "AFD: Ausgangspunkt f\u00fcr die St\u00e4rkung der Eigenverantwortung ist f\u00fcr uns ne- ben der St\u00e4rkung des famili\u00e4ren Lebens eine umfassende Schulbildung,  die unsere jungen B\u00fcrger zu gut gebildeten und kritischen Mitgliedern  unserer Gesellschaft macht, den Grundstein f\u00fcr eine erfolgreiche be- rufliche Entwicklung legt und sie zur Mitwirkung in Staat und Ehrenamt  bef\u00e4higt. Unser Verst\u00e4ndnis von Bildung schlie\u00dft neben geistigen F\u00e4hig- keiten und handwerklichem K\u00f6nnen auch soziale Kompetenz mit ein. Unsere B\u00fcrger im Mehltau des linken Zeitgeistes Die Stimmung der B\u00fcrger unseres Landes ist heute von Verunsi- cherung und Pessimismus gepr\u00e4gt: Unsicherheit durch b\u00fcrgerferne  Politik; Unsicherheit dar\u00fcber, was man noch sagen darf; Unsicherheit  \u00fcber die Sicherheit in unseren St\u00e4dten; Angst vor einem gro\u00dfen Krieg  und Sorge um die finanzielle Zukunft."
+    },
+    "2": {
+      "score": 0.43063825368881226,
+      "source": "Linke_Program.pdf",
+      "location": "59 / 60",
+      "content": "Linke: "
+    },
+    "3": {
+      "score": 0.4405187964439392,
+      "source": "SPD_Program.pdf",
+      "location": "59 / 68",
+      "content": "SPD: Dar\u00fcber hinaus setzen wir uns f\u00fcr versch\u00e4rfte finanzielle Sanktionsm\u00f6glichkeiten und  ein unabh\u00e4ngiges Kontrollgremium zur \u00dcberwachung des konsequenten Einsatzes bestehender  Instrumente ein. Ein wachsendes Europa muss auch ein besseres Europa sein. Schon heute kommt die EU an die  Grenzen ihrer Handlungsf\u00e4higkeit. Sp\u00e4testens mit der EU-Erweiterung m\u00fcssen Europ\u00e4ische  Vertragsreformen erfolgen. Hierf\u00fcr setzen wir uns f\u00fcr eine ergebnisorientierte Einsetzung eines  Europ\u00e4ischen Konvents ein. Ein wesentlicher Bestandteil institutioneller Reformen ist f\u00fcr uns,  das Einstimmigkeitsprinzip im Europ\u00e4ischen Rat und im Ministerrat durch die Einf\u00fchrung von  Mehrheitsentscheidungen abzul\u00f6sen. Vetorechte einzelner Mitgliedstaaten sind nicht mehr  zeitgem\u00e4\u00df, da sie schon heute sachfremd als Druckmittel eingesetzt werden. Deswegen wollen  wir alle M\u00f6glichkeiten aussch\u00f6pfen, um die Entscheidungsverfahren schon kurzfristig so effizient  wie m\u00f6glich zu machen."
+    },
+    "4": {
+      "score": 0.44087547063827515,
+      "source": "FDP_Program.pdf",
+      "location": "26 / 52",
+      "content": "FDP: Strafbarkeitsl\u00fccken wollen wir konsequent schlie\u00dfen. Presse- und Meinungsfreiheit  stehen von innen und au\u00dfen zunehmend unter Druck und m\u00fcssen gesch\u00fctzt werden. Die  Meinungsfreiheit ist eine der tragenden S\u00e4ulen des demokratischen Gemeinwesens. Auch digitale  Plattformen haben eine eigene Verantwortung, wenn es um den Schutz der Meinungsfreiheit geht. Wir bekennen uns zum dualen Mediensystem \u2013 bestehend aus dem \u00d6RR und privaten  Medien. Konkurrenz zu jedem Angebot privater Medien ist jedoch nicht Aufgabe des \u00d6RR. Deshalb  wollen wir einen moderneren und schlankeren \u00d6RR, der sich auf seine Kernaufgaben konzentriert:  Nachrichten, Bildung und Informationen. Durch eine Reduktion der Kan\u00e4le sowie den Abbau von  Doppelstrukturen wollen wir den Rundfunkbeitrag deutlich senken. Junge Menschen in Ausbildung  wollen wir vom Rundfunkbeitrag befreien. F\u00fcr eine neue Realpolitik in der Migration  Wir wollen geordnete Migration nach klaren Regeln, die auch durchgesetzt werden. Wir wollen  Einwanderung in den Arbeitsmarkt, nicht in die sozialen Sicherungssysteme. Und wir wollen  unserer humanit\u00e4ren Verantwortung gerecht werden, sie aber auch an unseren realen  M\u00f6glichkeiten ausrichten. Nur durch nachhaltige Integration l\u00e4sst sich zudem die gesellschaftliche  Akzeptanz f\u00fcr Einwanderung erhalten. Wir haben mit dem  Einwanderungsgesetz die Regeln verbessert. Als n\u00e4chsten Schritt fordern wir ein  Einwanderungsgesetzbuch aus einem Guss, in dem alle gesetzlichen Grundlagen f\u00fcr Einwanderung  und Asyl geb\u00fcndelt werden. Zudem muss jetzt eine Neuorganisation der beh\u00f6rdlichen Strukturen  und Verfahren im Bereich der Arbeitsmigration folgen. Wir wollen, dass Menschen, die in den  deutschen Arbeitsmarkt einwandern wollen, nur noch mit einer staatlichen Stelle zu tun haben. Um  einen solchen One-Stop-Shop f\u00fcr die Einwanderung in den Arbeitsmarkt zu schaffen, muss der  gesamte Visaprozess auf den Pr\u00fcfstand gestellt werden."
+    },
+    "5": {
+      "score": 0.44119659066200256,
+      "source": "AFD_Program.pdf",
+      "location": "25 / 177",
+      "content": "AFD: Gleichzeitig senken wir so die Kosten f\u00fcr die Steuerzahler,  die unsere Grundsicherungssysteme finanzieren. Dabei gehen wir  vom Grundsatz aus, dass jeder, der arbeiten kann, auch arbeiten soll,  anstatt der Gesellschaft zur Last zu fallen."
+    },
+    "6": {
+      "score": 0.4467080533504486,
+      "source": "CDU_Program.pdf",
+      "location": "42 / 82",
+      "content": "CDU: Wir \u00e4ndern das Recht so, dass jeder aus- reisepflichtige Straft\u00e4ter und Gef\u00e4hrder im Anschluss an seine Haft in zeitlich unbe- grenzten Ausreisearrest genommen werden kann, bis er freiwillig ausreist oder die  zwangsweise Abschiebung gelingt."
+    },
+    "7": {
+      "score": 0.44686418771743774,
+      "source": "CDU_Program.pdf",
+      "location": "14 / 82",
+      "content": "CDU: Das grenz\u00fcberschreitende mobile Arbeiten innerhalb der EU  muss sowohl f\u00fcr Arbeitnehmerinnen und Arbeitnehmer als auch f\u00fcr Arbeitgeberinnen  und Arbeitgeber rechtssicher und m\u00f6glichst flexibel werden. So k\u00f6nnen sich zwei  Unternehmen im Rahmen einer Kooperation freie Personalkapazit\u00e4ten mit Zustimmung  der Betriebsr\u00e4te untereinander zur Verf\u00fcgung stellen. Aus demo- grafischen Gr\u00fcnden versch\u00e4rft er sich weiter und wird zu einem echten Standortrisiko. Ei- gentlich k\u00f6nnten die Unternehmen mehr produzieren, doch daf\u00fcr fehlt das Personal. Mit  einer Fachkr\u00e4fteoffensive bek\u00e4mpfen wir das Problem und sorgen f\u00fcr mehr Produktivit\u00e4t. Vor allem Frauen in Teilzeit sind eine Gruppe mit gro\u00dfem  Potenzial f\u00fcr den Arbeitsmarkt. Es braucht bessere Rahmenbedingungen f\u00fcr Vollzeitar- beit oder vollzeitnahe Arbeit. Wir verbessern die steuerliche Absetzbarkeit  haushaltsnaher Dienstleistungen. Menschen in Helfert\u00e4tigkeiten f\u00f6rdern wir auf ihrem Weg zu  einer qualifizierten Fachkraft und entwickeln Anreize zum Erwerb beruflicher Qualifika- tionen. Damit  machen wir Arbeitsvertr\u00e4ge rechtssicher. So sorgen wir auch f\u00fcr mehr Flexibilit\u00e4t. Dabei ist eine gute Qualifikation von zentraler Be- deutung. So kann dauerhafte Besch\u00e4ftigung erreicht werden. Den Fokus legen wir auf die  vereinfachte und beschleunigte Anerkennung ausl\u00e4ndischer Berufsqualifikationen. Dazu richten wir eine digitale  Bundesagentur f\u00fcr Einwanderung (\u201eWork-and-Stay-Agentur\u201c) ein. Fachkr\u00e4fte erhalten so  Service aus einer Hand: von der Anwerbung und Arbeitsplatzvermittlung \u00fcber die Pr\u00fc- fung der Einreisevoraussetzungen und Visavergabe bis hin zum Aufenthaltstitel. Wir  trennen die Asylverfahren von den Verfahren zur Einwanderung in den Arbeitsmarkt."
+    },
+    "8": {
+      "score": 0.4482477307319641,
+      "source": "Gruene_Program.pdf",
+      "location": "41 / 160",
+      "content": "Gruene: Die Umlage aus dem Erneuer- bare-Energien-Gesetz (EEG) wurde f\u00fcr die  Verbraucher*innen bereits abgeschafft und  wird nun vollst\u00e4ndig aus dem Haushalt  finanziert."
+    },
+    "9": {
+      "score": 0.4489380121231079,
+      "source": "CDU_Program.pdf",
+      "location": "38 / 82",
+      "content": "CDU: Das gebietet der Respekt vor den Opfern. Sie brauchen ausreichend und gut qualifiziertes Personal sowie  moderne Befugnisse f\u00fcr ihre Arbeit. Wir setzen auf eine engere Zusammenarbeit und Ver- netzung, auch mit internationalen Partnern."
+    }
+  }
+}

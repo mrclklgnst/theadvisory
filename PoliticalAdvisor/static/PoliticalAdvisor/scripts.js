@@ -10,6 +10,83 @@ function escapeHTML(str) {
               .replace(/'/g, "&#039;");
 }
 
+function displayBotMessage(data) {
+    let botMessage = document.createElement("div");
+    botMessage.className = "message bot-message";
+
+    // Set the inner text depending on format of the data
+    if (typeof data === "string") {
+        botMessage.innerText = data;
+    } else if (typeof data === "object") {
+        botMessage.appendChild(createTable(data));
+    }
+
+    // show bot message
+    document.getElementById('chat-box').appendChild(botMessage);
+
+}
+
+function createTable(data) {
+    let table = document.createElement("table");
+    table.style.width = "100%";
+    table.style.borderCollapse = "collapse";
+    table.style.marginTop = "10px";
+
+    // Create table header
+    let thead = table.createTHead();
+    let headerRow = thead.insertRow();
+    let headers = ["Partei", "Relevanz", "Position"];
+    headers.forEach(headerText => {
+        let th = document.createElement("th");
+        th.innerText = headerText;
+        th.style.border = "1px solid #ddd";
+        th.style.padding = "8px";
+        headerRow.appendChild(th);
+    });
+
+    // Create table body
+    let tbody = table.createTBody();
+    let rows =[];
+
+    for (let party in data) {
+        console.log("party", party);
+        let row = tbody.insertRow();
+
+        // Partei Name
+        let cell1 = row.insertCell(0);
+        cell1.innerHTML = `<strong>${party.toUpperCase()}</strong>`;
+        cell1.style.border = "1px solid #ddd";
+        cell1.style.padding = "8px";
+
+        // Relevanz
+        let cell2 = row.insertCell(1);
+        cell2.innerText = `${data[party].agreement}%`;
+        cell2.style.textAlign = "center";
+        cell2.style.border = "1px solid #ddd";
+        cell2.style.padding = "8px";
+
+        // Position
+        let cell3 = row.insertCell(2);
+        cell3.innerText = data[party].explanation;
+        cell3.style.border = "1px solid #ddd";
+        cell3.style.padding = "8px";
+
+        rows.push(row);
+    }
+
+    // Sort rows by Zustimmung column
+    rows.sort((a, b) => {
+        let aValue = parseFloat(a.cells[1].innerText);
+        let bValue = parseFloat(b.cells[1].innerText);
+        return bValue - aValue;
+    });
+
+    // Append sorted rows to tbody
+    rows.forEach(row => tbody.appendChild(row));
+
+    return table;
+}
+
 
 async function sendUserInput() {
     // Function that sends user input to the server and awaits a response
@@ -30,8 +107,6 @@ async function sendUserInput() {
     userMessage.innerText = userInput;
     chatBox.appendChild(userMessage);
 
-    console.log("User Input:", userInput);
-    console.log(analyzeUserInputUrl);
 
     try {
         const response = await fetch(analyzeUserInputUrl, {
@@ -42,14 +117,19 @@ async function sendUserInput() {
             },
             body: JSON.stringify({ message: userInput })
         });
-        const data = await response.json();
+        let data = await response.json();
+        data = data.message.answer;
+        console.log("data passsed to display", data);
 
-        // ✅ Create a div for the bot response
-        let botMessage = document.createElement("div");
-        botMessage.className = "message bot-message";
-        botMessage.innerText = data.message;  //
-        chatBox.appendChild(botMessage); //
-        console.log("Server Response:", data);
+        // No checks for errors yet
+        displayBotMessage(data);
+
+        // // Create a div for the bot response
+        // let botMessage = document.createElement("div");
+        // botMessage.className = "message bot-message";
+        // botMessage.innerText = data.message;  //
+        // chatBox.appendChild(botMessage); //
+
     } catch (error) {
         console.error("Error sending message:", error);
     }

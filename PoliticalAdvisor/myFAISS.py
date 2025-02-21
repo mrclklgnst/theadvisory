@@ -113,7 +113,7 @@ def build_graph(vector_store):
         # return {"context": retrieved_docs}
 
         retrieved_docs = []
-        results = vector_store.similarity_search_with_score(state['question'], k=3)
+        results = vector_store.similarity_search_with_score(state['question'], k=10)
         for doc, score in results:
             citation = doc.metadata['source'].split("_")[0] + ": "
             cont = doc.page_content
@@ -198,6 +198,7 @@ def respond_to_query(user_query, graph):
     result = graph.invoke({"question": user_query})
 
     # Transform response to locally stored JSON
+    # Dictionary with 2 keys: 'answer' and 'citations'
     response = {}
 
     # Store the chatbot answer
