@@ -3,7 +3,11 @@ from django.http import HttpResponse, JsonResponse
 from .myFAISS import respond_to_query
 from PoliticalAdvisor.apps import graph, vector_store
 import json
+import dotenv
+import os
 import time
+
+dotenv.load_dotenv()
 
 def centering(request):
     return render(request, "PoliticalAdvisor/centering.html")
@@ -15,27 +19,25 @@ def statement_matcher(request):
 
 def analyze_user_input(request):
     if request.method == "POST":
-        try:
-            data = json.loads(request.body)
-            user_input = data["message"]
-
-            # Just to reduce the cost of OpenAI
+        mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
+        print(mockup_response)
+        data = json.loads(request.body)
+        user_input = data["message"]
+        if mockup_response == True:
             try:
-                print('trying')
-                with open("response.json", "r") as f:
-                    model_output = json.load(f)
-                    output = model_output
+                # try to load the local JSON response, otherwise query OpenAI
+                try:
+                    with open("response.json", "r") as f:
+                        model_output = json.load(f)
+                        return JsonResponse({"message": model_output})
+                except:
+                    model_output = respond_to_query(user_input, graph)
+                    with open("response.json", "w") as f:
+                        json.dump(model_output, f, indent=2)
                     return JsonResponse({"message": model_output})
-            except:
-                print('querying openAI')
-                model_output = respond_to_query(user_input, graph)
-                print(model_output)
-                with open("response.json", "w") as f:
-                    json.dump(model_output, f, indent=2)
-                answer = model_output["answer"]
-                answer = json.dumps(answer, indent=2)
-                return JsonResponse({"message": model_output})
-        except json.JSONDecodeError:
-            return JsonResponse({"error": "Invalid JSON"}, status=400)
+            except json.JSONDecodeError:
+                return JsonResponse({"error": "Invalid JSON"}, status=400)
+        else:
+            model_output = respond_to_query(user_input, graph)
+            return JsonResponse({"message": model_output})
 
-    return JsonResponse({"message": "Hello, world. Please send a POST request "})
