@@ -12,6 +12,19 @@ h1 {
     margin-top: 20px;
 }
 
+/*.index-text {*/
+/*    margin: 20px;*/
+/*}*/
+.index-text {
+    text-align: justify;
+    padding: 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+
 /* 🟢 Main chat container */
 .chat-container {
     display: flex;

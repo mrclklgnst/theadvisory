@@ -9,10 +9,8 @@ import time
 
 dotenv.load_dotenv()
 
-def centering(request):
-    return render(request, "PoliticalAdvisor/centering.html")
 def index(request):
-    return HttpResponse("Hello, world. You're at the Political Advisor index.")
+    return render(request, "PoliticalAdvisor/index.html")
 
 def statement_matcher(request):
     return render(request, "PoliticalAdvisor/statementmatcher.html")
