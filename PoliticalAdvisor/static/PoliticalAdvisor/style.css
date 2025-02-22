@@ -15,10 +15,10 @@ h1 {
 /*.index-text {*/
 /*    margin: 20px;*/
 /*}*/
-.index-text {
-    text-align: justify;
-    padding: 15px;
-}
+/*.index-text {*/
+/*    text-align: justify;*/
+/*    padding: 15px;*/
+/*}*/
 
 .row {
     display: flex;
