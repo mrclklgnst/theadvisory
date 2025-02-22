@@ -23,7 +23,7 @@ def analyze_user_input(request):
         print(mockup_response)
         data = json.loads(request.body)
         user_input = data["message"]
-        if mockup_response == True:
+        if mockup_response == "True":
             try:
                 # try to load the local JSON response, otherwise query OpenAI
                 try:
