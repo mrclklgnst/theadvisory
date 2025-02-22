@@ -12,26 +12,35 @@ h1 {
     margin-top: 20px;
 }
 
-/*.index-text {*/
-/*    margin: 20px;*/
-/*}*/
-/*.index-text {*/
-/*    text-align: justify;*/
-/*    padding: 15px;*/
-/*}*/
+.navbar-light {
+    background-color: #e3e3e3 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #878787 !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #1b1b1b !important;
+}
+
+.index-text {
+    text-align: justify;
+    padding: 15px;
+}
 
 .row {
     display: flex;
     flex-wrap: wrap;
     margin: 20px;
-
+}
 /* 🟢 Main chat container */
 .chat-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     width: 90%;
-    height: 90vh;  /* Takes up 90% of the screen */
+    height: 80vh;  /* Takes up 90% of the screen */
     background: white;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -89,14 +98,14 @@ button {
     margin-left: 10px;
     padding: 10px 15px;
     border: none;
-    background: #FFCC00;
+    background: #ffe081;
     color: #1b1b1b;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background: #ffe68b;
+    background: #fff8ed;
 }
 
 .carousel-container {
