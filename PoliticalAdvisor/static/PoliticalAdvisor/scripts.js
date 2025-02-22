@@ -11,7 +11,10 @@ document.getElementById('userInput').addEventListener('keypress', function(event
 
 function scrollToBottom() {
     const messageWindow = document.getElementById('messageWindow');
-    messageWindow.scrollTop = messageWindow.scrollHeight;
+    const lastChild = messageWindow.lastElementChild;
+    if (lastChild) {
+        lastChild.scrollIntoView({behavior: "smooth", block: "end"});
+    }
 }
 
 function escapeHTML(str) {
@@ -30,7 +33,16 @@ function displayBotMessage(data) {
     if (typeof data === "string") {
         botMessage.innerText = data;
     } else if (typeof data === "object") {
+
+        let introText = document.createElement("p");
+        introText.innerText = "KI generierte Zusammenfassung der Position der Parteien:";
+        botMessage.appendChild(introText);
+
         botMessage.appendChild(createTable(data));
+
+        let outroText = document.createElement("p");
+        outroText.innerText = "Unten finden sie relevante Aussagen aus den Parteiprogrammen:";
+        botMessage.appendChild(outroText);
     }
 
     // show bot message
