@@ -47,11 +47,64 @@ function displayProgCitations(data) {
     if (typeof data === "string") {
         botMessage.innerText = data;
     } else if (typeof data === "object") {
-        botMessage.appendChild(createProgCitations(data));
+        botMessage.appendChild(createProgCitationCarousal(data));
     }
 
     // show bot message
     document.getElementById('messageWindow').appendChild(botMessage);
+
+}
+
+function createProgCitationCarousal(data) {
+    let carouselContainer = document.createElement("div");
+    carouselContainer.className = "carousel-container";
+
+    let carouselInner = document.createElement("div");
+    carouselInner.className = "carousel-inner";
+
+    for (let citat in data) {
+
+        let carouselItem = document.createElement("div");
+        carouselItem.className = "carousel-item";
+        if (citat === "0") {
+            carouselItem.classList.add("active");
+        }
+
+        let citationContent = `
+            <div class="citation">
+                <div style="text-align: center"><strong>${data[citat].source.toUpperCase()}</strong></div>
+                <div style="text-align: center"><p>Seite: ${data[citat].location}</p></div>
+                <p>${data[citat].content}</p>
+            </div>
+        `;
+        carouselItem.innerHTML = citationContent;
+        carouselInner.appendChild(carouselItem);
+    }
+
+    let prevButton = document.createElement("button");
+    prevButton.className = "carousel-control-prev";
+    prevButton.innerHTML = "&#10094;";
+    prevButton.onclick = () => showCarouselItem(-1);
+
+    let nextButton = document.createElement("button");
+    nextButton.className = "carousel-control-next";
+    nextButton.innerHTML = "&#10095;";
+    nextButton.onclick = () => showCarouselItem(1);
+
+    carouselContainer.appendChild(prevButton);
+    carouselContainer.appendChild(carouselInner);
+    carouselContainer.appendChild(nextButton);
+
+    return carouselContainer;
+}
+
+let currentCarouselIndex = 0;
+
+function showCarouselItem(direction) {
+    let items = document.querySelectorAll(".carousel-item");
+    items[currentCarouselIndex].classList.remove("active");
+    currentCarouselIndex = (currentCarouselIndex + direction + items.length) % items.length;
+    items[currentCarouselIndex].classList.add("active");
     scrollToBottom();
 }
 
