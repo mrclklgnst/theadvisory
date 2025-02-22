@@ -53,7 +53,7 @@ def create_pdf_splits(file_path):
 
     # Split the document into chunks
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=3000,  # split the text into chunks of 1000 characters
+        chunk_size=1500,  # split the text into chunks
         chunk_overlap=200,
         add_start_index=True #retains in metadata the where each text split starts
     )

@@ -8,6 +8,9 @@ main, body, html {
     align-items: center;
     background-color: #f5f5f5;
 }
+h1 {
+    margin-top: 20px;
+}
 
 /* 🟢 Main chat container */
 .chat-container {
@@ -73,12 +76,12 @@ button {
     margin-left: 10px;
     padding: 10px 15px;
     border: none;
-    background: #4ca6fb;
-    color: white;
+    background: #FFCC00;
+    color: #1b1b1b;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background: #2883e6;
+    background: #ffe68b;
 }
