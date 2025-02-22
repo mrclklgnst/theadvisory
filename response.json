@@ -1,0 +1,101 @@
+{
+  "answer": {
+    "afd": {
+      "agreement": 75,
+      "explanation": "Die AfD unterst\u00fctzt eine strategische Autonomie Europas und lehnt zentralistische Bestrebungen der EU ab.",
+      "citations": []
+    },
+    "bsw": {
+      "agreement": 50,
+      "explanation": "Die Position ist unklar, da es keine spezifische Aussage zu NATO gibt.",
+      "citations": []
+    },
+    "cdu_csu": {
+      "agreement": 30,
+      "explanation": "Die CDU betont die Wichtigkeit der NATO und sieht eine eigenst\u00e4ndige Verteidigung in Partnerschaft mit der NATO.",
+      "citations": []
+    },
+    "linke": {
+      "agreement": 20,
+      "explanation": "Die Linke hat keine explizite Aussage zum Verlassen der NATO, aber tendenziell eine kritische Haltung gegen\u00fcber milit\u00e4rischen B\u00fcndnissen.",
+      "citations": []
+    },
+    "fdp": {
+      "agreement": 60,
+      "explanation": "Die FDP verfolgt einen starken Fokus auf die NATO, hat jedoch auch diplomatische Ans\u00e4tze, was zu einer ambivalenten Haltung f\u00fchren kann.",
+      "citations": []
+    },
+    "gruene": {
+      "agreement": 40,
+      "explanation": "Die Gr\u00fcnen betonen die Notwendigkeit einer reformierten und inklusiven Bundeswehr, aber st\u00e4rken die Zusammenarbeit innerhalb der NATO.",
+      "citations": []
+    },
+    "spd": {
+      "agreement": 80,
+      "explanation": "Die SPD sieht die NATO als unverzichtbar an, blicken aber in Anbetracht der globalen Sicherheit kritisch auf Abh\u00e4ngigkeiten.",
+      "citations": []
+    }
+  },
+  "citations": {
+    "0": {
+      "score": 0.3334551155567169,
+      "source": "FDP_Program.pdf",
+      "location": "47 / 52",
+      "content": "FDP: Der Bedrohung durch Putins Russland m\u00fcssen wir Diplomatie und  milit\u00e4rische St\u00e4rke entgegensetzen. Wir setzen uns daf\u00fcr ein, dass  Deutschland die NATO-Anforderungen und -Ziele vollumf\u00e4nglich erf\u00fcllt. Hierzu geh\u00f6rt, dass  Deutschland mindestens das 2%-Ziel der NATO erf\u00fcllt. Wenn die NATO h\u00f6here Ziele vereinbart,  werden wir auch diese erf\u00fcllen und noch mehr in unsere Sicherheit investieren. Den europ\u00e4ischen  Pfeiler der NATO wollen wir st\u00e4rken und dadurch die Handlungsf\u00e4higkeit der EU-Partner im  B\u00fcndnis erh\u00f6hen. Dementsprechend m\u00fcssen die europ\u00e4ischen NATO-Partner mehr Verantwortung  \u00fcbernehmen. Voraussetzung hierf\u00fcr ist, die Zusammenarbeit der EU-Partner in der NATO enger zu  verzahnen. Unser langfristiges Ziel ist der Aufbau einer Europ\u00e4ischen Armee, auch  als ein integraler Bestandteil der St\u00e4rkung des europ\u00e4ischen Pfeilers innerhalb der NATO. Unseren  Gegnern muss klarwerden, dass wir in der Lage und willens sind, uns milit\u00e4risch erfolgreich  verteidigen zu k\u00f6nnen. Dazu braucht die Bundeswehr eine bessere Finanzierung und Ausstattung. Wir orientieren uns hierbei an den F\u00e4higkeitszielen der NATO. Die Wiedereinsetzung der  allgemeinen Wehrpflicht lehnen wir ab. Die Attraktivit\u00e4t des Dienstes bei der Bundeswehr soll durch  hervorragende Rahmenbedingungen wie Gehalt sowie gesellschaftliche Vorteile massiv gesteigert  werden. Deshalb darf es kein \u201eWeiter so\u201c in der  deutschen Sicherheitspolitik geben. Wir wollen daher einen Nationalen Sicherheitsrat einrichten,  der Risiken fr\u00fchzeitig identifiziert, eine sinnvolle Entscheidungsfindung erm\u00f6glicht und gemeinsame  Strategien entwickelt. F\u00fcr kluge Au\u00dfenpolitik im Zeitalter systemischer Rivalit\u00e4t  Wir befinden uns im Zeitalter systemischer Rivalit\u00e4t zwischen aggressiven Autokratien einerseits  und liberalen Demokratien andererseits."
+    },
+    "1": {
+      "score": 0.34323054552078247,
+      "source": "SPD_Program.pdf",
+      "location": "56 / 68",
+      "content": "SPD: Juni eingef\u00fchrt und setzen  uns f\u00fcr den empathischen Umgang und die Verbesserung der Versorgung einsatzgesch\u00e4digter  Soldatinnen und Soldaten sowie ihrer Familien ein. Als SPD stehen wir f\u00fcr das Konzept des  \u201eStaatsb\u00fcrgers in Uniform\u201c. Die NATO ist ein tragender Pfeiler der transatlantischen Partnerschaft und f\u00fcr die europ\u00e4ische  Sicherheit unverzichtbar. Gleichzeitig m\u00fcssen wir damit rechnen, dass Washington nicht mehr die  Hauptlast f\u00fcr den Schutz Europas tragen wird. Die Entscheidungen, das neue Ostseekommando in  Rostock durch die Deutsche Marine einzurichten, neue europ\u00e4ische Abstandswaffen (European Long- Range Strike Approach, ELSA) zusammen mit unseren europ\u00e4ischen Verb\u00fcndeten zu entwickeln und  die europ\u00e4ische Luftverteidigungsinitiative Sky Shield (European Sky Shield Initiative, ESSI) zu starten,  zeigen, dass wir bereit sind, mehr Verantwortung bei der B\u00fcndnisverteidigung zu \u00fcbernehmen."
+    },
+    "2": {
+      "score": 0.3631688058376312,
+      "source": "CDU_Program.pdf",
+      "location": "51 / 82",
+      "content": "CDU: Jetzt ist es an  der Zeit, mehr Verantwortung zu \u00fcbernehmen. Unser Ziel: Europa soll in transatlantischer  Partnerschaft die eigenst\u00e4ndige Verteidigungsbereitschaft erh\u00f6hen und mit der NATO als  wertebasierter Verteidigungsallianz Frieden, Freiheit und Sicherheit garantieren. Wir halten die NATO-Verpflichtungen f\u00fcr die Fi- nanzierung unserer Verteidigung verl\u00e4sslich und dauerhaft ein. Wir verstehen das aktu- elle Zwei-Prozent-Ziel der NATO als Untergrenze unserer Verteidigungsausgaben, um  eine vollst\u00e4ndig einsatzbereite Bundeswehr mit einer personellen und materiellen Voll- ausstattung zu erm\u00f6glichen. Zudem stehen wir zur nuklearen Teilhabe. Sie ist unver- zichtbares Element der Abschreckung und R\u00fcckversicherung im gemeinsamen B\u00fcndnis. Wir wollen die Bundeswehr gemeinsam mit anderen  europ\u00e4ischen Streitkr\u00e4ften in eine Verteidigungsunion integrieren, die in die Strukturen  der NATO eingebettet ist. Das Vereinigte K\u00f6nigreich wollen wir eng einbeziehen. Wir begr\u00fc\u00dfen die Ank\u00fcndigung der USA zur Stationierung  weitreichender Waffensysteme in Deutschland. Diese Stationierung ist die folgerichtige  Antwort auf die Aufr\u00fcstung Russlands und tr\u00e4gt in bedeutender Weise zur glaubw\u00fcrdigen  Abschreckung bei. Wir wollen sie von 180. F\u00fcr uns ist die Bundeswehr eine Armee von Staatsb\u00fcrgerinnen und  Staatsb\u00fcrgern in Uniform. Unsere Frauen und M\u00e4nner in Uniform leisten einen unverzicht- baren Dienst f\u00fcr die gesamte Gesellschaft. Sie verdienen unsere h\u00f6chste Anerkennung und  volle Unterst\u00fctzung. Ihr Platz ist in der Mitte der Gesellschaft. Wir wollen die Bundeswehr st\u00e4rker im \u00f6ffentli- chen Leben verankern, etwa durch mehr \u00f6ffentliche Gel\u00f6bnisse oder im Rahmen des  j\u00e4hrlichen Veteranentages. Herausragende milit\u00e4rische Leistungen w\u00fcrdigen wir st\u00e4r- ker. An dem Modell der Jugendoffiziere, die an Schulen einen wichtigen Bildungsauftrag  erf\u00fcllen, halten wir fest. Wir setzen perspektivisch auf ein verpflichtendes  Gesellschaftsjahr, das wir mit der aufwachsenden Wehrpflicht zusammendenken. So  werden wir dem Personalbedarf zur St\u00e4rkung unserer Verteidigungsf\u00e4higkeit gerecht."
+    },
+    "3": {
+      "score": 0.37987732887268066,
+      "source": "CDU_Program.pdf",
+      "location": "50 / 82",
+      "content": "CDU: Sie soll den Bedrohungen  des 21. Jahrhunderts die Stirn bieten und unser Land zuverl\u00e4ssig sch\u00fctzen k\u00f6nnen. Aus  diesem Grund st\u00e4rken wir die Bundeswehr und sch\u00e4tzen unsere Soldatinnen und Soldaten  besonders wert. Auch setzen wir notwendige Reformen um. Unser Ziel ist es, dass die Bun- deswehr einen zentralen Beitrag zur Abschreckungs- und Verteidigungsf\u00e4higkeit der NATO  leistet und zu einem Vorbild im Kreis unserer Verb\u00fcndeten wird. Wir stellen die milit\u00e4rischen und zivilen Strukturen der  Bundeswehr neu auf und fokussieren uns dabei auf den milit\u00e4rischen Zweck und Nutzen  zur Erf\u00fcllung des Kernauftrags. Die Bundeswehr braucht eine ad\u00e4quate Infrastruktur mit  modernen Kasernen und \u00dcbungspl\u00e4tzen, Flugpl\u00e4tzen, Marinest\u00fctzpunkten, Depotstruk- turen und Verwaltungseinheiten. Unsere Sicherheit ist umfassend, auch in Deutsch- land, herausgefordert. Unsere Aufgaben im Rahmen der NATO-Verpflichtungen wollen  wir umfassend erf\u00fcllen, insbesondere auch mit dem Ausbau des Heimatschutzes. Wir setzen uns f\u00fcr eine  Vollausstattung ein. Dar\u00fcber hinaus bedarf es breiter Reserven von allem, was die Bun- deswehr f\u00fcr die Verteidigung einsetzt. Nur das gew\u00e4hrleistet die Durchsetzungsf\u00e4higkeit  und Einsatzbereitschaft. Die aktive Truppe muss sich auf eine  starke Reserve verlassen k\u00f6nnen, die sie im Einsatzfall abl\u00f6sen und entlasten kann. Dazu  ist die Reserve strukturell neu aufzustellen und m\u00f6glichst so auszubilden und auszustat- ten wie vergleichbare aktive Truppenteile. Auch als Mittler f\u00fcr die Truppe in der Mitte der  Gesellschaft kommt den Reservisten eine besondere Bedeutung zu. Diese Rolle gilt es zu  st\u00e4rken. Die Bundeswehr muss als f\u00fchrende europ\u00e4i- sche Armee in den Bereichen Weltraum-, Drohnen- und beim europ\u00e4ischen Abwehr- schirm weiter vorangehen. Hierzu werden wir die eigenen Cyberf\u00e4higkeiten massiv auf- bauen und den nationalen und supranationalen Rechtsrahmen f\u00fcr den effektiven Einsatz  fortentwickeln. Wir bauen eine Drohnenarmee auf, inklusive der notwenigen Produkti- onskapazit\u00e4ten. Dazu geh\u00f6ren auch Investitionen in die Drohnenforschung und das Er- richten einer Drohnenabwehr."
+    },
+    "4": {
+      "score": 0.38047975301742554,
+      "source": "FDP_Program.pdf",
+      "location": "4 / 52",
+      "content": "FDP: Denn: Alles l\u00e4sst  sich \u00e4ndern. F\u00fcr eine Politik des kleinsten  gemeinsamen Nenners haben wir keine Zeit mehr. Denn sonst sehen wir nur weiter zu, wie  Wohlstand und Lebenschancen auf der Welt zu unseren Lasten neu verteilt werden. Seit der Gro\u00dfen  Koalition von 2013 haben sich Regierungen und Mehrheiten nur in Trippelschritten den gro\u00dfen  Herausforderungen der Zeit gen\u00e4hert - ohne den Mut f\u00fcr eine strukturelle St\u00e4rkung unserer  Wettbewerbsf\u00e4higkeit und unserer Innovationskraft."
+    },
+    "5": {
+      "score": 0.38107210397720337,
+      "source": "AFD_Program.pdf",
+      "location": "88 / 177",
+      "content": "AFD: Trotzdem bleiben die erforderlichen  Ma\u00dfnahmen f\u00fcr den Wiederaufbau der Bundeswehr aus. Aufgrund  der chronischen Unterfinanzierung \u00fcber Jahrzehnte, sowie der  fortlaufenden Abgabe von einsatzf\u00e4higem Material und Waffen- systemen aus Best\u00e4nden der Bundeswehr an die Ukraine und der  Dauerbelastung der Truppe durch die Ausbildung von ukrainischen  Soldaten, befinden sich die deutschen Streitkr\u00e4fte in einem desola- ten Zustand. Es fehlt an Personal und einsatzf\u00e4higer Ausr\u00fcstung. Damit dem Hauptauftrag der Landes- und B\u00fcndnisverteidigung  wieder Rechnung getragen werden kann, muss unsere Bundeswehr  nicht nur finanziell gut ausgestattet sein, sondern ihr muss auch  die Einsatzbereitschaft insbesondere bei Material und Personal  zur\u00fcckgegeben werden. Daher wollen wir die Wehrpflicht wieder  einsetzen. Diese beinhaltet gem\u00e4\u00df aktueller Gesetzeslage auch den  Ersatzdienst. Um Loyalit\u00e4tskonflikte zu vermeiden, soll der Dienst in den Streit- kr\u00e4ften ausschlie\u00dflich deutschen Staatsb\u00fcrgern vorbehalten bleiben. Die Verantwortung muss  zur\u00fcck in die H\u00e4nde der Inspekteure und Kommandeure, die f\u00fcr die  Auftragserf\u00fcllung verantwortlich sind, gegeben werden. Die AfD fordert den Ausbau einer autonomen und leistungsf\u00e4higen  wehrtechnischen Industrie in Deutschland."
+    },
+    "6": {
+      "score": 0.3810961842536926,
+      "source": "Gruene_Program.pdf",
+      "location": "153 / 160",
+      "content": "Gruene: Die Lehren und Empfehlungen der  Enquetekommission des Bundestags zu  Afghanistan und k\u00fcnftigen vernetzten  Krisenengagements verdienen sorgf\u00e4ltige  Ber\u00fccksichtigung. Als einer der gr\u00f6\u00dften Arbeitgeber der  Bundesrepublik hat die Bundeswehr eine  gro\u00dfe gesellschaftliche Verantwortung  und F\u00fcrsorgeverpflichtung f\u00fcr alle, die  in ihr dienen und dienten. Die Prinzipien  der Inneren F\u00fchrung mit dem Leitbild des  Soldaten bzw. Wir stehen ein f\u00fcr eine  Bundeswehr, die die Vielfalt unserer Ge- sellschaft abbildet und f\u00fcr alle Menschen  ein sicherer Ort ist. Die Rekrutierung Min- derj\u00e4hriger lehnen wir ab. Auch nach dem  Ausscheiden aus dem Dienst muss klar  sein: Wer bereit war, sein Leben f\u00fcr den  Frieden einzusetzen, hat unsere Aufmerk- samkeit und Unterst\u00fctzung verdient. Um die Einsatzbereitschaft der Bundes- wehr sicherzustellen, muss sie personell  und materiell gut ausgestattet sein. Statt  den aus guten Gr\u00fcnden seit 2011 aus- gesetzten allgemeinen Grundwehrdienst  wieder einzuf\u00fchren, wollen wir den frei- willigen Wehrdienst und die Reserve f\u00fcr  eine breite Zielgruppe attraktiver machen  und durch gute Lebens- und Arbeitsbedin- gungen f\u00fcr Soldat*innen Personal lang- fristig binden. Neben den notwendigen  Investitionen braucht es auch strukturelle  Reformen. Dazu geh\u00f6ren etwa die bessere  Vereinbarkeit von Familie und Beruf, B\u00fcro- kratieabbau, eine angemessene Ausr\u00fcstung  und Fortbildungsm\u00f6glichkeiten. F\u00fcr den  potenziellen Verteidigungsfall braucht  es schnelle Rekrutierungsmechanismen  \u2013 unterst\u00fctzt durch eine neue Form der  Wehrerfassung, die auch den Zivil- und  Heimatschutz st\u00e4rkt. Dar\u00fcber hinaus  wollen wir die Kooperation von Streitkr\u00e4f- ten innerhalb der EU und NATO zur Regel  machen, beispielsweise durch st\u00e4ndige  multinationale Einheiten. Wir wollen unsere Verteidigungsf\u00e4higkeit  sicherstellen und unsere Bundeswehr mit- hilfe einer leistungsf\u00e4higen europ\u00e4ischen  R\u00fcstungsindustrie gut und modern aus- statten. Ineffiziente Doppelstrukturen unter  EU-Mitgliedstaaten wollen wir zugunsten  gemeinsamer Entwicklung, Produktion und  Beschaffung von R\u00fcstungsg\u00fctern abbauen  und unsere technologische Souver\u00e4nit\u00e4t  durch den Ausbau europ\u00e4ischer Produk- tionskapazit\u00e4ten st\u00e4rken. Daf\u00fcr braucht es  finanzielle Anreize, gemeinsame Inves- titionen und den politischen Willen, um  nationale industriepolitische Interessen in  den Dienst von mehr gemeinsamer Sicher- heit zu stellen."
+    },
+    "7": {
+      "score": 0.38776543736457825,
+      "source": "AFD_Program.pdf",
+      "location": "87 / 177",
+      "content": "AFD: Die Welt befindet sich im Umbruch zu einer multipolaren Welt- ordnung. Deutschland darf dabei nicht l\u00e4nger Objekt fremder  Interessen sein. Wir  m\u00fcssen unsere Souver\u00e4nit\u00e4t ausbauen, unsere nationalen Interes- sen selbstbewusst formulieren und diese stringent verfolgen. Die AfD unterst\u00fctzt das sicherheitspolitische Konzept einer stra- tegischen Autonomie Europas und seiner Auspr\u00e4gung zu einem  eigenen Machtzentrum in der sich ver\u00e4ndernden Weltordnung. Wir verfolgen daher ein interessengeleitetes  Verh\u00e4ltnis zu den gro\u00dfen M\u00e4chten der Welt, zu China und den USA,  genauso wie zu der Russischen F\u00f6deration."
+    },
+    "8": {
+      "score": 0.3890800476074219,
+      "source": "AFD_Program.pdf",
+      "location": "86 / 177",
+      "content": "AFD: Wir stehen  f\u00fcr ein Europa der Vaterl\u00e4nder und lehnen die zentralistischen  Bestrebungen der Europ\u00e4ischen Union (EU) entschieden ab. Richtschnur deutscher  Au\u00dfenpolitik m\u00fcssen wieder realpolitische Erfordernisse statt wirk- lichkeitsfremder Ideologien sein. Die Vergemeinschaftung der Europ\u00e4ischen Au\u00dfen- und Sicherheits- politik (GASP) und des Europ\u00e4ischen Ausw\u00e4rtigen Dienstes (Hoher  Vertreter GASP / EU-Verteidigungskommissar) lehnt die AfD ab. Die AfD stimmt im  Geiste des Vertrages von Helsinki daf\u00fcr, dass sich kein Land in die  inneren Angelegenheiten eines anderen einmischen darf."
+    },
+    "9": {
+      "score": 0.39068901538848877,
+      "source": "CDU_Program.pdf",
+      "location": "11 / 82",
+      "content": "CDU: Die Arbeitslosigkeit steigt, die sozialen Sicherungssysteme sind in Schieflage. Hinzu kommen tiefgreifende Umbr\u00fcche im Zuge der Digitalisie- rung und nicht zuletzt die Menschheitsaufgabe Klimawandel. Wir wissen  um die Talente und F\u00e4higkeiten, die jeder Einzelne mitbringt. Wir wissen, dass mit Eigen- verantwortung, Leistung und Solidarit\u00e4t wieder etwas Gro\u00dfes entstehen kann. Wir glauben  an die Kraft und den Ideenreichtum der Menschen. Wir glauben an ein wehrhaftes Deutsch- land, das Verantwortung in Europa und der Welt \u00fcbernimmt und seine Interessen selbst- bewusst vertritt. Wir glauben an die gro\u00dfe Kraft in unserem Land. Daf\u00fcr braucht unser Land eine Regierung, die verl\u00e4sslich  arbeitet und die wirklich wichtigen Dinge anpackt: Wohlstand f\u00fcr alle, Sicherheit und Zu- sammenhalt. Unser Land braucht Stabilit\u00e4t und Aufbruch. Unser Land braucht einen Poli- tikwechsel. Daf\u00fcr treten wir als CDU und CSU bei der Bundestagswahl gemeinsam an. Und  daf\u00fcr werben wir um Vertrauen. Jetzt  hei\u00dft es: Machen statt reden! Regieren statt streiten! Wir haben einen Plan f\u00fcr Deutschland. Wir setzen einen starken Impuls f\u00fcr Aufbruch und Zuversicht."
+    }
+  }
+}
