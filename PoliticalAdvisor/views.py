@@ -8,13 +8,12 @@ import os
 import time
 
 dotenv.load_dotenv()
-
 def index(request):
     return render(request, "PoliticalAdvisor/index.html")
-
 def statement_matcher(request):
+    language = request.COOKIES.get('language', 'en')
+    print(language)
     return render(request, "PoliticalAdvisor/statementmatcher.html")
-
 def analyze_user_input(request):
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)

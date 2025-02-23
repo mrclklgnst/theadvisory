@@ -9,6 +9,29 @@ document.getElementById('userInput').addEventListener('keypress', function(event
     }
 });
 
+// Set the language selector to the language stored in the cookie
+document.getElementById('languageSelector').value = getLanguageFromCookie();
+
+function changeLanguage(language) {
+    // Save the selected language to a cookie or session storage
+    document.cookie = "language=" + language + "; path=/";
+    location.reload();  // Reload the page to apply the new language
+}
+
+  // Function to get the language from the cookie
+  function getLanguageFromCookie() {
+    const name = "language=";
+    const decodedCookie = decodeURIComponent(document.cookie);
+    const ca = decodedCookie.split(';');
+    for (let i = 0; i < ca.length; i++) {
+      let c = ca[i].trim();
+      if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+      }
+    }
+    return "en";  // Default to English if no language cookie exists
+  }
+
 function scrollToBottom() {
     const messageWindow = document.getElementById('messageWindow');
     const lastChild = messageWindow.lastElementChild;
@@ -113,10 +136,15 @@ function createProgCitationCarousal(data) {
 let currentCarouselIndex = 0;
 
 function showCarouselItem(direction) {
+    // Get all carousel items
     let items = document.querySelectorAll(".carousel-item");
+    // Remove active class from current item
     items[currentCarouselIndex].classList.remove("active");
+    // Calculate new index
     currentCarouselIndex = (currentCarouselIndex + direction + items.length) % items.length;
+    // Add active class to new item
     items[currentCarouselIndex].classList.add("active");
+
     scrollToBottom();
 }
 
@@ -202,7 +230,6 @@ function createTable(data) {
     let rows =[];
 
     for (let party in data) {
-        console.log("party", party);
         let row = tbody.insertRow();
 
         // Partei Name
