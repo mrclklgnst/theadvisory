@@ -43,10 +43,9 @@ def initialize_faiss():
         index_to_docstore_id={},
     )
     return vector_store
-def create_pdf_splits(file_path):
+def create_pdf_splits(file_path, programfolder):
 
     # Load the pdf PyMUPDFLoader works much better than PyPDFLoader
-    programfolder = os.path.join(os.path.dirname(__file__), 'programs')
     loader = PyMuPDFLoader(os.path.join(programfolder, file_path))
     pdf_doc = loader.load()
     print(f"Loaded {len(pdf_doc)} pages from {file_path}")
@@ -74,19 +73,36 @@ def load_faiss(faiss_path):
     return vector_store
 def build_faiss_programs(faiss_path):
     vector_store = initialize_faiss()
+    programfolder = os.path.join(os.path.dirname(__file__), 'programs')
     pdf_list = ['AFD_Program.pdf',
                 'CDU_Program.pdf',
-                'FDP_Program.pdf',
-                'Gruene_Program.pdf',
-                'Linke_Program.pdf',
-                'Volt_Program.pdf',
-                'SPD_Program.pdf']
+                # 'FDP_Program.pdf',
+                # 'Gruene_Program.pdf',
+                # 'Linke_Program.pdf',
+                # 'Volt_Program.pdf',
+                # 'SPD_Program.pdf'
+                ]
     for pdf in pdf_list:
-        pdf_splits = create_pdf_splits(pdf)
+        pdf_splits = create_pdf_splits(pdf, programfolder)
         vector_store.add_documents(pdf_splits)
     print(f"Created new FAISS index and added {len(pdf_splits)} documents.")
     vector_store.save_local(faiss_path)
-
+def build_faiss_programs_en(faiss_path):
+    vector_store = initialize_faiss()
+    programfolder = os.path.join(os.path.dirname(__file__), 'programs_en')
+    pdf_list = ['AFD_Program_en.pdf',
+                'CDU_Program_en.pdf',
+                # 'FDP_Program.pdf',
+                # 'Gruene_Program.pdf',
+                # 'Linke_Program.pdf',
+                # 'Volt_Program.pdf',
+                # 'SPD_Program.pdf'
+                ]
+    for pdf in pdf_list:
+        pdf_splits = create_pdf_splits(pdf, programfolder)
+        vector_store.add_documents(pdf_splits)
+    print(f"Created new FAISS index and added {len(pdf_splits)} documents.")
+    vector_store.save_local(faiss_path)
 def query_faiss(query, vector_store):
     # results = vector_store.similarity_search(query=query, k=3)
     results = vector_store.similarity_search_with_score(query=query, k=3)
@@ -103,6 +119,102 @@ def query_faiss(query, vector_store):
         print(f"{doc.metadata['source']}")
         print("-"*50)
 def build_graph(vector_store):
+    # Define prompt template
+    template = """
+    Du bist ein Experte für politische Analyse. 
+    Analysiere die folgende politische Aussage und gib die Position jeder deutschen Partei zurück.
+    Verwende ausschließlich die Informationen im gegebenen Kontext, um deine Antwort zu formulieren.
+    Nimm keine weiteren Informationen in deine Antwort auf.
+    Kontext: {context}
+    Aussage: {question}
+    Antworte NUR mit einem JSON-Objekt in diesem Format:
+    {{
+      "afd": {{"agreement": 75, "explanation": "Erklärung", "citations": []}},
+      "bsw": {{"agreement": 50, "explanation": "Erklärung", "citations": []}},
+      "cdu_csu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
+      "linke": {{"agreement": 20, "explanation": "Erklärung", "citations": []}},
+      "fdp": {{"agreement": 60, "explanation": "Erklärung", "citations": []}},
+      "gruene": {{"agreement": 40, "explanation": "Erklärung", "citations": []}},
+      "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}},
+      "volt": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
+    }}
+
+    WICHTIG: Formatiere die Antwort NUR als valides JSON ohne zusätzlichen Text oder Zeichen."""
+
+    # Create a prompt object from the templates
+    prompt = PromptTemplate(template=template, input_variables=["context", "question"])
+
+    class State(TypedDict):
+        question: str
+        context: List[Document]
+        answer: str
+
+    # Define application steps
+    def retrieve(state: State):
+        # retrieved_docs = vector_store.similarity_search(state["question"], k=8)
+        # return {"context": retrieved_docs}
+
+        retrieved_docs = []
+        results = vector_store.similarity_search_with_score(state['question'], k=10)
+        for doc, score in results:
+            citation = doc.metadata['source'].split("_")[0] + ": "
+            cont = doc.page_content
+            cont = cont.replace('\n', ' ')
+            pattern = r'(?<=\. )([A-Z][^.]*\.)'
+            matches = re.findall(pattern, cont)
+            content = " ".join(matches)
+            citation = citation + content
+            doc.page_content = citation
+            doc.metadata['score'] = float(score)
+            retrieved_docs.append(doc)
+        return {"context": retrieved_docs}
+
+    def generate(state: State):
+        docs_content = "\n\n".join(doc.page_content for doc in state["context"])
+        messages = prompt.invoke({"question": state["question"], "context": docs_content})
+        response = llm.invoke(messages)
+        try:
+            json_response = json.loads(response.content)  # Convert string to JSON
+        except json.JSONDecodeError:
+            print("Warning: LLM did not return valid JSON!")
+            print(response)
+            json_response = {"error": "Invalid JSON response from LLM"}
+
+        return {"answer": json_response}  # Now it's a valid JSON object
+
+    # Compile application and test
+    graph_builder = StateGraph(State).add_sequence([retrieve, generate])
+    graph_builder.add_edge(START, "retrieve")
+    graph = graph_builder.compile()
+
+    return graph
+
+def build_graph_en(vector_store):
+    # Define prompt template
+    template = """
+    You are a political analyst
+    Analyse the following political statement and return the position of each German party.
+    Exclusively use the information in the given context to formulate your answer.
+    Do not include any additional information in your answer.
+    Context: {context}
+    Statement: {question}
+    Answer ONLY with a JSON object in this format:
+    {{
+      "afd": {{"agreement": 75, "explanation": "Erklärung", "citations": []}},
+      "bsw": {{"agreement": 50, "explanation": "Erklärung", "citations": []}},
+      "cdu_csu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
+      "linke": {{"agreement": 20, "explanation": "Erklärung", "citations": []}},
+      "fdp": {{"agreement": 60, "explanation": "Erklärung", "citations": []}},
+      "gruene": {{"agreement": 40, "explanation": "Erklärung", "citations": []}},
+      "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}},
+      "volt": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
+    }}
+
+    IMPORTANT: Format your answer only as a JSON without additional characters ."""
+
+    # Create a prompt object from the templates
+    prompt = PromptTemplate(template=template, input_variables=["context", "question"])
+
     class State(TypedDict):
         question: str
         context: List[Document]
@@ -151,49 +263,6 @@ def build_graph(vector_store):
 
 
 
-
-# Define prompt template
-template = """
-Du bist ein Experte für politische Analyse. 
-Analysiere die folgende politische Aussage und gib die Position jeder deutschen Partei zurück.
-Verwende ausschließlich die Informationen im gegebenen Kontext, um deine Antwort zu formulieren.
-Nimm keine weiteren Informationen in deine Antwort auf.
-Kontext: {context}
-Aussage: {question}
-Antworte NUR mit einem JSON-Objekt in diesem Format:
-{{
-  "afd": {{"agreement": 75, "explanation": "Erklärung", "citations": []}},
-  "bsw": {{"agreement": 50, "explanation": "Erklärung", "citations": []}},
-  "cdu_csu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
-  "linke": {{"agreement": 20, "explanation": "Erklärung", "citations": []}},
-  "fdp": {{"agreement": 60, "explanation": "Erklärung", "citations": []}},
-  "gruene": {{"agreement": 40, "explanation": "Erklärung", "citations": []}},
-  "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}},
-  "volt": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
-}}
-
-WICHTIG: Formatiere die Antwort NUR als valides JSON ohne zusätzlichen Text oder Zeichen."""
-
-# Create a prompt object from the templates
-prompt = PromptTemplate(template=template, input_variables=["context", "question"])
-
-# representation of user query
-q = "Ich habe Angst vor einem Krieg in Europa"
-
-# Define the path for local storage
-faiss_path = os.getcwd() + "/faiss_index"
-
-# Build the FAISS index from the PDFs and store locally
-# build_faiss_programs(faiss_path)
-
-
-
-# Load the FAISS index
-# vector_store = load_faiss(faiss_path)
-
-# Get user query, build a graph invoke it
-# user_query = q
-# graph = build_graph()
 
 
 def respond_to_query(user_query, graph):

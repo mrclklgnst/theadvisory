@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from .myFAISS import respond_to_query
-from PoliticalAdvisor.apps import graph, vector_store
+from PoliticalAdvisor.apps import global_graph, global_vector_store, global_graph_en, global_vector_store_en
 import json
 import dotenv
 import os
@@ -12,13 +12,19 @@ def index(request):
     return render(request, "PoliticalAdvisor/index.html")
 def statement_matcher(request):
     language = request.COOKIES.get('language', 'en')
-    print(language)
     return render(request, "PoliticalAdvisor/statementmatcher.html")
 def analyze_user_input(request):
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
         data = json.loads(request.body)
         user_input = data["message"]
+        language = request.COOKIES.get('language', 'de')
+        if language == 'de':
+            graph = global_graph
+            vector_store = global_vector_store
+        elif language == 'en':
+            graph = global_graph_en
+            vector_store = global_vector_store_en
 
         if mockup_response == "True":
             try:
