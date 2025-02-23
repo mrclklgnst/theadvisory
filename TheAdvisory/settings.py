@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "PoliticalAdvisor.apps.PoliticaladvisorConfig"
+    "PoliticalAdvisor.apps.PoliticaladvisorConfig",
+    "home.apps.HomeConfig",
 ]
 
 MIDDLEWARE = [
