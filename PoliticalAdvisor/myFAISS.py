@@ -79,6 +79,7 @@ def build_faiss_programs(faiss_path):
                 'FDP_Program.pdf',
                 'Gruene_Program.pdf',
                 'Linke_Program.pdf',
+                'Volt_Program.pdf',
                 'SPD_Program.pdf']
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf)
@@ -167,7 +168,8 @@ Antworte NUR mit einem JSON-Objekt in diesem Format:
   "linke": {{"agreement": 20, "explanation": "Erklärung", "citations": []}},
   "fdp": {{"agreement": 60, "explanation": "Erklärung", "citations": []}},
   "gruene": {{"agreement": 40, "explanation": "Erklärung", "citations": []}},
-  "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
+  "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}},
+  "volt": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
 }}
 
 WICHTIG: Formatiere die Antwort NUR als valides JSON ohne zusätzlichen Text oder Zeichen."""
