@@ -170,7 +170,7 @@ Antworte NUR mit einem JSON-Objekt in diesem Format:
   "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
 }}
 
-WICHTIG: Formatiere die Antwort als valides JSON ohne zusätzlichen Text oder Zeichen."""
+WICHTIG: Formatiere die Antwort NUR als valides JSON ohne zusätzlichen Text oder Zeichen."""
 
 # Create a prompt object from the templates
 prompt = PromptTemplate(template=template, input_variables=["context", "question"])

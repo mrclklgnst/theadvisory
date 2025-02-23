@@ -13,7 +13,7 @@ function scrollToBottom() {
     const messageWindow = document.getElementById('messageWindow');
     const lastChild = messageWindow.lastElementChild;
     if (lastChild) {
-        lastChild.scrollIntoView({behavior: "smooth", block: "end"});
+        lastChild.scrollIntoView({behavior: "smooth", block: "start"});
     }
 }
 
