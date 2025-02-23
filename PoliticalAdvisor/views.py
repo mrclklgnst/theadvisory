@@ -18,9 +18,9 @@ def statement_matcher(request):
 def analyze_user_input(request):
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
-        print(mockup_response)
         data = json.loads(request.body)
         user_input = data["message"]
+
         if mockup_response == "True":
             try:
                 # try to load the local JSON response, otherwise query OpenAI
@@ -36,6 +36,19 @@ def analyze_user_input(request):
             except json.JSONDecodeError:
                 return JsonResponse({"error": "Invalid JSON"}, status=400)
         else:
-            model_output = respond_to_query(user_input, graph)
-            return JsonResponse({"message": model_output})
+            try:
+                # query openAI, returns dict with keys 'answer' and 'citations'
+                model_output = respond_to_query(user_input, graph)
+                if isinstance(model_output["answer"], dict):
+                    return JsonResponse({"message": model_output})
+                else:
+                    try:
+                        dict_cleaned = dict(model_output["answer"].replace("```json\n", "").replace("```", "").strip())
+                        model_output["answer"] = dict_cleaned
+                        return JsonResponse({"message": model_output})
+                    except:
+                        return JsonResponse({"message": model_output})
+
+            except:
+                return JsonResponse({"message": 'No response from OpenAI'}, status=400)
 

@@ -197,15 +197,15 @@ faiss_path = os.getcwd() + "/faiss_index"
 
 
 def respond_to_query(user_query, graph):
+
+    # Invoke the graph with the user query
     result = graph.invoke({"question": user_query})
 
-    # Transform response to locally stored JSON
     # Dictionary with 2 keys: 'answer' and 'citations'
     response = {}
 
     # Store the chatbot answer
     response['answer'] = result["answer"]
-    print(type(result["answer"]))
 
     # Create a list of citations from the similarity search
     citations = {}
