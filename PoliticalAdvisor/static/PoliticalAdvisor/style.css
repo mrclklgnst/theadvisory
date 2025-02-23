@@ -66,7 +66,7 @@ h1 {
 
 .user-message {
     align-self: flex-end;
-    background: #83af7d;
+    background: #3c3c45;
     color: #fff;
 }
 
@@ -76,7 +76,7 @@ h1 {
     color: #000;
 }
 
-/* 🟢 Fixed chat input section */
+
 .chat-window {
     display: flex;
     padding: 10px;
@@ -98,15 +98,11 @@ button {
     margin-left: 10px;
     padding: 10px 15px;
     border: none;
-    background: #ffe081;
-    color: #1b1b1b;
     border-radius: 5px;
     cursor: pointer;
 }
 
-button:hover {
-    background: #fff8ed;
-}
+
 
 .carousel-container {
     position: relative;
