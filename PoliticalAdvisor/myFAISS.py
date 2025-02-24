@@ -3,6 +3,7 @@ import os
 import re
 import faiss
 import logging
+import requests
 
 from django.conf import settings
 
@@ -42,11 +43,31 @@ def initialize_faiss():
     )
     return vector_store
 def create_pdf_splits(file_path, programfolder):
+    if settings.USE_SPACES:
 
+        pdf_url = f"{settings.PDF_STORAGE_URL}{file_path}"
+
+        response = requests.get(pdf_url)
+        if response.status_code != 200:
+            raise ValueError(f"ERROR: Unable to download PDF from {pdf_url}")
+
+        # Save PDF temporarily before processing
+        temp_pdf_path = f"/tmp/{file_path}"
+        with open(temp_pdf_path, "wb") as f:
+            f.write(response.content)
+
+        loader = PyMuPDFLoader(f"/tmp/{file_path}")  # ✅ Load from local temporary file
+    else:
+        # Load PDF from local storage
+        pdf_path = os.path.join(programfolder, file_path)
+        if not os.path.exists(pdf_path):
+            raise ValueError(f"ERROR: PDF file not found - {pdf_path}")
+
+        loader = PyMuPDFLoader(pdf_path)
     # split the given pdf given in file path and programfolder into chunks and return
 
     # Load the pdf PyMUPDFLoader works much better than PyPDFLoader
-    loader = PyMuPDFLoader(os.path.join(programfolder, file_path))
+
     pdf_doc = loader.load()
     logger.info(f"Loaded {len(pdf_doc)} pages from {file_path}")
 
@@ -63,6 +84,13 @@ def create_pdf_splits(file_path, programfolder):
     for doc in pdf_splits:
         doc.metadata["source"] = os.path.basename(file_path)
         doc.metadata['hash'] = hash(doc.page_content)
+
+    if settings.USE_SPACES:
+        try:
+            os.remove(temp_pdf_path)
+            logger.info(f"🗑️ Deleted temporary file {temp_pdf_path}")
+        except Exception as e:
+            logger.error(f"⚠️ Failed to delete temporary file {temp_pdf_path}: {e}")
 
     return pdf_splits
 def load_faiss(faiss_path):
