@@ -31,8 +31,8 @@ def statement_matcher(request):
         'de': {
             'message_prompt': 'Geben Sie eine politische Aussage ein die Ihnen wichtig ist ....',
             'button_text': 'Versenden',
-            'table_title': 'AI generated summary of paty positions',
-            'citations_title': 'Citations from party programs',
+            'table_title': 'KI generierte Zusammenfassung der Parteistandpunkte',
+            'citations_title': 'Zitate aus Parteiprogrammen',
         }
     }
     selected_lang_context = lang_context.get(language, lang_context['en'])
