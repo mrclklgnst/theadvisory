@@ -1,5 +1,6 @@
 
 from django.apps import AppConfig
+from django.conf import settings
 import logging
 import os
 import dotenv
@@ -24,9 +25,9 @@ class PoliticaladvisorConfig(AppConfig):
         from .myFAISS import build_faiss_programs_en, build_graph_en
 
         # Get the current working directory for debugging
-        current_directory = os.path.dirname(__file__)
-        faiss_path = os.path.join(current_directory, "faiss_index")
-        faiss_path_en = os.path.join(current_directory, "faiss_index_en")
+        # current_directory = os.path.dirname(__file__)
+        faiss_path = os.path.join(settings.VECTOR_STORAGES_URL, "faiss_index")
+        faiss_path_en = os.path.join(settings.VECTOR_STORAGES_URL, "faiss_index_en")
 
         rebuild_faiss_index = os.environ.get("REBUILD_FAISS_INDEX", default=True)
 
