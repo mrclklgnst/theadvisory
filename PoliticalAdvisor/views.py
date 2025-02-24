@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from .myFAISS import respond_to_query
-from PoliticalAdvisor.apps import global_graph, global_vector_store, global_graph_en, global_vector_store_en
+from django.apps import apps
 import json
 import dotenv
 import os
@@ -11,6 +11,12 @@ import logging
 logger = logging.getLogger(__name__)
 
 dotenv.load_dotenv()
+
+# Get the PoliticalAdvisor app config dynamically
+def get_faiss_objects():
+    app_config = apps.get_app_config("PoliticalAdvisor")  # Fetch app instance
+    return app_config.global_graph, app_config.global_vector_store, app_config.global_graph_en, app_config.global_vector_store_en
+
 def index(request):
     return render(request, "PoliticalAdvisor/index.html")
 def statement_matcher(request):
@@ -32,17 +38,18 @@ def statement_matcher(request):
     selected_lang_context = lang_context.get(language, lang_context['en'])
     return render(request, "PoliticalAdvisor/statementmatcher.html", {"lang_context": selected_lang_context})
 def analyze_user_input(request):
+    graph, vector_store, graph_en, vector_store_en = get_faiss_objects()
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
         data = json.loads(request.body)
         user_input = data["message"]
         language = request.COOKIES.get('language', 'de')
         if language == 'de':
-            graph = global_graph
-            vector_store = global_vector_store
+            graph = graph
+            vector_store = vector_store
         elif language == 'en':
-            graph = global_graph_en
-            vector_store = global_vector_store_en
+            graph = graph_en
+            vector_store = vector_store_en
 
         if mockup_response == "True":
 
