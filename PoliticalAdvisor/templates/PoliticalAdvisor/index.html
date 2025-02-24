@@ -32,7 +32,7 @@
     To begin, click the “Start” button below.
     <br><br>
         <div class="d-flex justify-content-center">
-        <a href="{% url 'statement_matcher' %}" class="btn btn-outline-dark" style="">Start</a>
+        <a onclick="setLanguageAndRedirect('en', '{% url 'statement_matcher' %}')" class="btn btn-outline-dark" style="" href="#">Start</a>
         </div>
     </div>
     <div class="col-sm-6 index-text">
@@ -47,11 +47,21 @@
     Um zu beginnen, klicken Sie auf die Schaltfläche „Start“ unten.
     <br><br>
         <div class="d-flex justify-content-center">
-        <a href="{% url 'statement_matcher' %}" class="btn btn-outline-dark" style="">Start</a>
+        <a onclick="setLanguageAndRedirect('de', '{% url 'statement_matcher' %}')" class="btn btn-outline-dark" style="" href="#">Start</a>
         </div>
     </div>
     </div>
     </div>
+
+    <script>
+    function setLanguageAndRedirect(language, redirectUrl) {
+        // Set a cookie for language (valid for 1 year)
+        document.cookie = "language=" + language + "; path=/; max-age=" + (365 * 24 * 60 * 60);
+
+        // Redirect to the selected page
+        window.location.href = "{% url 'statement_matcher' %}";
+    }
+</script>
 
 
 

@@ -58,19 +58,22 @@ function displayBotMessage(data) {
     } else if (typeof data === "object") {
 
         let introText = document.createElement("p");
-        introText.innerText = "KI generierte Zusammenfassung der Position der Parteien:";
+        introText.innerText = languageContext["tableTitle"];
         botMessage.appendChild(introText);
 
         botMessage.appendChild(createTable(data));
-
-        let outroText = document.createElement("p");
-        outroText.innerText = "Unten finden sie relevante Aussagen aus den Parteiprogrammen:";
-        botMessage.appendChild(outroText);
     }
 
     // show bot message
     document.getElementById('messageWindow').appendChild(botMessage);
     scrollToBottom();
+
+    let outroText = document.createElement("div");
+    outroText.className = "message bot-message";
+    outroText.innerText = languageContext["citationsTitle"];
+
+    document.getElementById('messageWindow').appendChild(outroText);
+
 
 }
 

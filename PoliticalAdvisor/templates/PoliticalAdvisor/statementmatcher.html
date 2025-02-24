@@ -28,8 +28,8 @@
 
         <!-- Chat Input Box -->
         <div class="chat-window">
-            <input type="text" id="userInput" placeholder="Geben Sie eine politische Aussage ein die Ihnen wichtig ist ....">
-            <button class="btn btn-outline-dark" onclick="sendUserInput()">Versenden</button>
+            <input type="text" id="userInput" placeholder="{{ lang_context.message_prompt }}">
+            <button class="btn btn-outline-dark" onclick="sendUserInput()">{{ lang_context.button_text }}</button>
         </div>
     </div>
 
@@ -40,6 +40,13 @@
 
     <!-- define the URL for the AJAX request -->
     <script> var analyzeUserInputUrl = "{% url 'analyze_user_input' %}";</script>
+    <script>
+            var languageContext = {
+                tableTitle: "{{ lang_context.table_title|escapejs }}",
+                citationsTitle: "{{ lang_context.citations_title|escapejs }}"
+        };
+
+    </script>
 
     <!-- load the scripts.js file -->
     <script src="{% static 'PoliticalAdvisor/scripts.js' %}"></script>

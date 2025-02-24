@@ -12,7 +12,22 @@ def index(request):
     return render(request, "PoliticalAdvisor/index.html")
 def statement_matcher(request):
     language = request.COOKIES.get('language', 'en')
-    return render(request, "PoliticalAdvisor/statementmatcher.html")
+    lang_context = {
+        'en': {
+            'message_prompt': 'Enter a political statement that is important to you ...',
+            'button_text': 'Send',
+            'table_title': 'AI generated summary of party positions',
+            'citations_title': 'Citations from party programs',
+        },
+        'de': {
+            'message_prompt': 'Geben Sie eine politische Aussage ein die Ihnen wichtig ist ....',
+            'button_text': 'Versenden',
+            'table_title': 'AI generated summary of paty positions',
+            'citations_title': 'Citations from party programs',
+        }
+    }
+    selected_lang_context = lang_context.get(language, lang_context['en'])
+    return render(request, "PoliticalAdvisor/statementmatcher.html", {"lang_context": selected_lang_context})
 def analyze_user_input(request):
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
