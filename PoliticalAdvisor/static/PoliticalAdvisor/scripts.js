@@ -292,6 +292,13 @@ async function sendUserInput() {
 
     scrollToBottom();
 
+    let spinner = document.createElement("div");
+    spinner.className = "spinner-border text-dark";
+    spinner.role="status";
+    chatBox.appendChild(spinner);
+
+
+
 
     try {
         const response = await fetch(analyzeUserInputUrl, {
@@ -316,5 +323,8 @@ async function sendUserInput() {
 
     } catch (error) {
         console.error("Error sending message:", error);
+    } finally {
+        spinner.remove();
     }
+
 }
