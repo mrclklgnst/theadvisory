@@ -46,6 +46,7 @@ def create_pdf_splits(file_path, programfolder):
     if settings.USE_SPACES:
 
         pdf_url = f"{settings.PDF_STORAGE_URL}{file_path}"
+        print(pdf_url)
 
         response = requests.get(pdf_url)
         if response.status_code != 200:
