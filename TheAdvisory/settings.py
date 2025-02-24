@@ -182,10 +182,8 @@ USE_SPACES = os.getenv("USE_SPACES", "False").lower() == "true"
 VECTOR_STORAGES_URL = os.path.join(BASE_DIR, "media/vector_storages/")
 
 if USE_SPACES:
-    DO_SPACES_NAME = os.getenv("DO_SPACES_NAME")
-    DO_SPACES_REGION = os.getenv("DO_SPACES_REGION")
     DO_SPACES_ENDPOINT = os.getenv("DO_SPACES_ENDPOINT")
-    PDF_STORAGE_URL = f"{DO_SPACES_ENDPOINT}/{DO_SPACES_NAME}/pdfs/"
+    PDF_STORAGE_URL = f"{DO_SPACES_ENDPOINT}/pdfs/"
     # VECTOR_STORAGES_URL = f"{DO_SPACES_ENDPOINT}/{DO_SPACES_NAME}/vector_storages/"
 else:
     PDF_STORAGE_URL = os.path.join(BASE_DIR, "media/pdfs/")
