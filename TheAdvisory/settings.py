@@ -62,6 +62,49 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = "TheAdvisory.urls"
 
+import os
+
+# Define log file path
+LOG_DIR = os.path.join(BASE_DIR, "logs")
+LOG_FILE = os.path.join(LOG_DIR, "django_errors.log")
+
+# Ensure the logs directory exists
+if not os.path.exists(LOG_DIR):
+    os.makedirs(LOG_DIR)
+
+LOGGING = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    "handlers": {
+        "console": {
+            "class": "logging.StreamHandler",
+        },
+        "file": {
+            "level": "ERROR",  # Only log ERROR and higher messages to the file
+            "class": "logging.FileHandler",
+            "filename": os.path.join(BASE_DIR, "logs/django_errors.log"),
+            "formatter": "verbose",
+        },
+    },
+    "formatters": {
+        "verbose": {
+            "format": "{asctime} {levelname} {module} {message}",
+            "style": "{",
+        },
+    },
+    "root": {
+        "handlers": ["console", "file"],  # Log to both console and file
+        "level": "INFO",  # Set minimum log level for root logger
+    },
+    "loggers": {
+        "django": {
+            "handlers": ["console", "file"],
+            "level": os.getenv("DJANGO_LOG_LEVEL", "INFO"),
+            "propagate": False,
+        },
+    },
+}
+
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",

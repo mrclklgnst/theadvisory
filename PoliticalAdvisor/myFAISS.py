@@ -2,6 +2,7 @@ import json
 import os
 import re
 import faiss
+import logging
 
 from dotenv import load_dotenv
 from typing_extensions import List, TypedDict
@@ -19,10 +20,8 @@ from langchain_community.document_loaders import PyMuPDFLoader
 from langchain_community.vectorstores import FAISS
 from langchain_community.docstore.in_memory import InMemoryDocstore
 
-
-
-
-
+# Get the logger
+logger = logging.getLogger(__name__)
 
 # Initialize the LLM
 llm = init_chat_model("gpt-4o-mini", model_provider="openai")
@@ -31,9 +30,6 @@ llm = init_chat_model("gpt-4o-mini", model_provider="openai")
 load_dotenv()
 
 def initialize_faiss():
-    # Initialize embeddings
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-
     # Instantiate the vector store
     index = faiss.IndexFlatL2(len(OpenAIEmbeddings().embed_query("test"))) # build the index with the dimension of the embeddings
     vector_store = FAISS( # use the index for the vector store
@@ -45,10 +41,12 @@ def initialize_faiss():
     return vector_store
 def create_pdf_splits(file_path, programfolder):
 
+    # split the given pdf given in file path and programfolder into chunks and return
+
     # Load the pdf PyMUPDFLoader works much better than PyPDFLoader
     loader = PyMuPDFLoader(os.path.join(programfolder, file_path))
     pdf_doc = loader.load()
-    print(f"Loaded {len(pdf_doc)} pages from {file_path}")
+    logger.info(f"Loaded {len(pdf_doc)} pages from {file_path}")
 
     # Split the document into chunks
     text_splitter = RecursiveCharacterTextSplitter(
@@ -57,7 +55,7 @@ def create_pdf_splits(file_path, programfolder):
         add_start_index=True #retains in metadata the where each text split starts
     )
     pdf_splits = text_splitter.split_documents(pdf_doc)
-    print(f"Split PDF into {len(pdf_splits)} sub-documents.")
+    logger.info(f"Split PDF into {len(pdf_splits)} sub-documents.")
 
     # Add metadata with source PDF name and a hash of the content to avoid duplicates
     for doc in pdf_splits:
@@ -72,10 +70,12 @@ def load_faiss(faiss_path):
                                     allow_dangerous_deserialization=True)
     return vector_store
 def build_faiss_programs(faiss_path):
+    # Build the FAISS index from the party programs and store locally
     vector_store = initialize_faiss()
     programfolder = os.path.join(os.path.dirname(__file__), 'programs')
-    pdf_list = ['AFD_Program.pdf',
-                'CDU_Program.pdf',
+    pdf_list = [
+                'AFD_Program.pdf',
+                # 'CDU_Program.pdf',
                 # 'FDP_Program.pdf',
                 # 'Gruene_Program.pdf',
                 # 'Linke_Program.pdf',
@@ -85,23 +85,25 @@ def build_faiss_programs(faiss_path):
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf, programfolder)
         vector_store.add_documents(pdf_splits)
-    print(f"Created new FAISS index and added {len(pdf_splits)} documents.")
+    logger.info(f"Created new FAISS index and added {len(pdf_splits)} documents.")
     vector_store.save_local(faiss_path)
 def build_faiss_programs_en(faiss_path):
+    # Build the FAISS index from the english party programs and store locally
     vector_store = initialize_faiss()
     programfolder = os.path.join(os.path.dirname(__file__), 'programs_en')
-    pdf_list = ['AFD_Program_en.pdf',
-                'CDU_Program_en.pdf',
-                # 'FDP_Program.pdf',
-                # 'Gruene_Program.pdf',
-                # 'Linke_Program.pdf',
-                # 'Volt_Program.pdf',
-                # 'SPD_Program.pdf'
+    pdf_list = [
+                'AFD_Program_en.pdf',
+                # 'CDU_Program_en.pdf',
+                # 'FDP_Program_en.pdf',
+                # 'Gruene_Program_en.pdf',
+                # 'Linke_Program_en.pdf',
+                # 'Volt_Program_en.pdf',
+                # 'SPD_Program_en.pdf'
                 ]
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf, programfolder)
         vector_store.add_documents(pdf_splits)
-    print(f"Created new FAISS index and added {len(pdf_splits)} documents.")
+    logger.info(f"Created new FAISS index in english and added {len(pdf_splits)} documents.")
     vector_store.save_local(faiss_path)
 def query_faiss(query, vector_store):
     # results = vector_store.similarity_search(query=query, k=3)
@@ -119,6 +121,8 @@ def query_faiss(query, vector_store):
         print(f"{doc.metadata['source']}")
         print("-"*50)
 def build_graph(vector_store):
+    # Build a graph to be used to process user queries
+
     # Define prompt template
     template = """
     Du bist ein Experte für politische Analyse. 
@@ -151,9 +155,7 @@ def build_graph(vector_store):
 
     # Define application steps
     def retrieve(state: State):
-        # retrieved_docs = vector_store.similarity_search(state["question"], k=8)
-        # return {"context": retrieved_docs}
-
+        # Pull relevant docs from the vector stored
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=10)
         for doc, score in results:
@@ -173,14 +175,14 @@ def build_graph(vector_store):
         docs_content = "\n\n".join(doc.page_content for doc in state["context"])
         messages = prompt.invoke({"question": state["question"], "context": docs_content})
         response = llm.invoke(messages)
+        # turn response into a json
         try:
-            json_response = json.loads(response.content)  # Convert string to JSON
+            json_response = json.loads(response.content)
         except json.JSONDecodeError:
-            print("Warning: LLM did not return valid JSON!")
-            print(response)
+            logger.info("Warning: LLM did not return valid JSON!")
             json_response = {"error": "Invalid JSON response from LLM"}
 
-        return {"answer": json_response}  # Now it's a valid JSON object
+        return {"answer": json_response}
 
     # Compile application and test
     graph_builder = StateGraph(State).add_sequence([retrieve, generate])
@@ -188,8 +190,10 @@ def build_graph(vector_store):
     graph = graph_builder.compile()
 
     return graph
-
 def build_graph_en(vector_store):
+    # Build a graph to be used to process user queries
+    # Uses an english prompt
+
     # Define prompt template
     template = """
     You are a political analyst
@@ -222,9 +226,6 @@ def build_graph_en(vector_store):
 
     # Define application steps
     def retrieve(state: State):
-        # retrieved_docs = vector_store.similarity_search(state["question"], k=8)
-        # return {"context": retrieved_docs}
-
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=10)
         for doc, score in results:
@@ -247,8 +248,7 @@ def build_graph_en(vector_store):
         try:
             json_response = json.loads(response.content)  # Convert string to JSON
         except json.JSONDecodeError:
-            print("Warning: LLM did not return valid JSON!")
-            print(response)
+            logger.info("Warning: LLM did not return valid JSON!")
             json_response = {"error": "Invalid JSON response from LLM"}
 
         return {"answer": json_response}  # Now it's a valid JSON object
@@ -259,12 +259,6 @@ def build_graph_en(vector_store):
     graph = graph_builder.compile()
 
     return graph
-
-
-
-
-
-
 def respond_to_query(user_query, graph):
 
     # Invoke the graph with the user query
@@ -291,9 +285,6 @@ def respond_to_query(user_query, graph):
 
     return response
 
-# Save the full file locally
-# with open('response.json', 'w') as f:
-#     json.dump(response, f, indent=2)
 
 
 

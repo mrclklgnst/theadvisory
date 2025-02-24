@@ -5,7 +5,10 @@ from PoliticalAdvisor.apps import global_graph, global_vector_store, global_grap
 import json
 import dotenv
 import os
-import time
+import logging
+
+# Get the logger
+logger = logging.getLogger(__name__)
 
 dotenv.load_dotenv()
 def index(request):
@@ -42,33 +45,56 @@ def analyze_user_input(request):
             vector_store = global_vector_store_en
 
         if mockup_response == "True":
+
             try:
-                # try to load the local JSON response, otherwise query OpenAI
-                try:
-                    with open("response.json", "r") as f:
-                        model_output = json.load(f)
-                        return JsonResponse({"message": model_output})
-                except:
-                    model_output = respond_to_query(user_input, graph)
-                    with open("response.json", "w") as f:
-                        json.dump(model_output, f, indent=2)
+                # try to load local JSON
+                with open("response.json", "r") as f:
+                    model_output = json.load(f)
+                    logger.info("Local response found and loaded")
                     return JsonResponse({"message": model_output})
-            except json.JSONDecodeError:
-                return JsonResponse({"error": "Invalid JSON"}, status=400)
+
+            except:
+                logger.info("No local response found, querying OpenAI")
+                model_output = respond_to_query(user_input, graph)
+
+                # check if answer is a dictionary
+                if isinstance(model_output["answer"], dict):
+                    return JsonResponse({"message": model_output})
+
+                else:
+                    # else try to reformat the answer
+                    try:
+                        dict_cleaned = dict(
+                            model_output["answer"].replace("```json\n", "").replace("```", "").strip())
+                        model_output["answer"] = dict_cleaned
+                        with open("response.json", "w") as f:
+                            json.dump(model_output, f, indent=2)
+                        return JsonResponse({"message": model_output})
+                    # if not possible return the original answer
+                    except:
+                        logger.info('Response from OpenAI not in expected format')
+                        return JsonResponse({"message": model_output})
         else:
             try:
                 # query openAI, returns dict with keys 'answer' and 'citations'
                 model_output = respond_to_query(user_input, graph)
+                # check if answer in needed format
                 if isinstance(model_output["answer"], dict):
                     return JsonResponse({"message": model_output})
+                # else try to reformat the answer
                 else:
                     try:
                         dict_cleaned = dict(model_output["answer"].replace("```json\n", "").replace("```", "").strip())
                         model_output["answer"] = dict_cleaned
                         return JsonResponse({"message": model_output})
                     except:
+                        logger.info('Response from OpenAI not in expected format')
                         return JsonResponse({"message": model_output})
-
             except:
+                logger.info("No response from OpenAI")
                 return JsonResponse({"message": 'No response from OpenAI'}, status=400)
 
+    else:
+        # if not a POST request return error
+        logger.info("No POST request")
+        return JsonResponse({"message": "No POST request"}, status=400)
