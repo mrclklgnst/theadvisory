@@ -46,7 +46,6 @@ def create_pdf_splits(file_path, programfolder):
     if settings.USE_SPACES:
 
         pdf_url = f"{settings.PDF_STORAGE_URL}{file_path}"
-        print(pdf_url)
 
         response = requests.get(pdf_url)
         if response.status_code != 200:
@@ -107,12 +106,12 @@ def build_faiss_programs(faiss_path):
     # programfolder = os.path.join(os.path.dirname(__file__), 'programs')
     pdf_list = [
                 'AFD_Program.pdf',
-                # 'CDU_Program.pdf',
-                # 'FDP_Program.pdf',
-                # 'Gruene_Program.pdf',
-                # 'Linke_Program.pdf',
-                # 'Volt_Program.pdf',
-                # 'SPD_Program.pdf'
+                'CDU_Program.pdf',
+                'FDP_Program.pdf',
+                'Gruene_Program.pdf',
+                'Linke_Program.pdf',
+                'Volt_Program.pdf',
+                'SPD_Program.pdf'
                 ]
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf, programfolder)
@@ -126,12 +125,12 @@ def build_faiss_programs_en(faiss_path):
     programfolder = settings.PDF_STORAGE_URL
     pdf_list = [
                 'AFD_Program_en.pdf',
-                # 'CDU_Program_en.pdf',
-                # 'FDP_Program_en.pdf',
-                # 'Gruene_Program_en.pdf',
-                # 'Linke_Program_en.pdf',
-                # 'Volt_Program_en.pdf',
-                # 'SPD_Program_en.pdf'
+                'CDU_Program_en.pdf',
+                'FDP_Program_en.pdf',
+                'Gruene_Program_en.pdf',
+                'Linke_Program_en.pdf',
+                'Volt_Program_en.pdf',
+                'SPD_Program_en.pdf'
                 ]
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf, programfolder)
