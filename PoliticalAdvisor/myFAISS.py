@@ -135,28 +135,6 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
     save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
 
-def build_faiss_programs_en(faiss_path):
-    # Build the FAISS index from the english party programs and store locally
-    vector_store = initialize_faiss()
-    # programfolder = os.path.join(os.path.dirname(__file__), 'programs_en')
-    programfolder = settings.PDF_STORAGE_URL
-    pdf_list = [
-                'AFD_Program_en.pdf',
-                'CDU_Program_en.pdf',
-                'FDP_Program_en.pdf',
-                'Gruene_Program_en.pdf',
-                'Linke_Program_en.pdf',
-                'Volt_Program_en.pdf',
-                'SPD_Program_en.pdf'
-                ]
-
-    for pdf in pdf_list:
-        pdf_splits = create_pdf_splits(pdf, programfolder)
-        vector_store.add_documents(pdf_splits)
-
-    logger.info(f"Created new FAISS index in english and added {len(pdf_splits)} documents.")
-    vector_store.save_local(faiss_path)
-
 def save_to_spaces(local_path, remote_directory, bucket_name):
     """Uploads FAISS index to DigitalOcean Spaces.
     Args:
