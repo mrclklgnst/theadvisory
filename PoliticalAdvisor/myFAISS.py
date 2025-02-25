@@ -158,8 +158,8 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     logger.info(f"Saved FAISS index to {faiss_path}")
 
     # Save the FAISS index and pickle to DigitalOcean Spaces
-    save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
-    save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
+    # save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
+    # save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
 def save_to_spaces(local_path, remote_directory, bucket_name):
     """Uploads FAISS index to DigitalOcean Spaces.
     Args:
