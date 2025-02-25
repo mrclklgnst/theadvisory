@@ -117,7 +117,10 @@ def load_faiss(faiss_path, bucket_name):
                 aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
                 aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
             )
-
+        except:
+            logger.error("Failed to connect to DigitalOcean Spaces")
+            return None
+        try:
             # Download the FAISS index from DigitalOcean Spaces
             client.downlaod_file(bucket_name, 'index.faiss', faiss_path)
             client.downlaod_file(bucket_name, 'index.pkl', faiss_path)
