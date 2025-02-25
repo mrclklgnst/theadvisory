@@ -158,17 +158,18 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     logger.info(f"Saved FAISS index to {faiss_path}")
 
     # Save the FAISS index and pickle to DigitalOcean Spaces
-    save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
+    save_to_spaces(os.path.join(faiss_path, 'index.faiss'), bucket_name, 'indexes/index.faiss')
     # save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
-def save_to_spaces(local_path, remote_directory, bucket_name):
+
+def save_to_spaces(local_path, bucket_name, remote_path):
     """Uploads FAISS index to DigitalOcean Spaces.
     Args:
         local_path (str): Path to the local FAISS index file.
-        remote_path (str): Path to the remote quasi folder
+        remote_path (str): Path to the remote quasi folder and file name in DO Spaces
         bucket_name (str): Name of the bucket in DO Spaces
     """
     session = boto3.session.Session()
-    endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+    endpoint_url = f"https://{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
     logger.info(endpoint_url)
     client = session.client(
         's3',
@@ -179,14 +180,13 @@ def save_to_spaces(local_path, remote_directory, bucket_name):
     )
     logger.info("Connected to DigitalOcean Spaces")
     logger.info(f"local_path: {local_path}")
-    logger.info(f"remote_directory: {remote_directory}")
     logger.info(f"bucket_name: {bucket_name}")
-    logger.info(f"key: {os.path.basename(local_path)}")
+    logger.info(f"remote_path: {remote_path}")
 
     try:
         # THIS IS WHERE IT FAILS
-        client.upload_file(local_path, bucket_name, "faiss_indexes")
-        logger.info(f"Uploaded FAISS index to {remote_directory} on DigitalOcean Spaces")
+        client.upload_file(local_path, bucket_name, remote_path)
+        logger.info(f"Uploaded FAISS index to {remote_path} on DigitalOcean Spaces")
     finally:
         client.close()
         logger.info("Closed DigitalOcean Spaces client")
