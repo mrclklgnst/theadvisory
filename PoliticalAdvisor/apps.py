@@ -4,6 +4,7 @@ from django.conf import settings
 import logging
 import os
 import dotenv
+import time
 
 # get env variables
 dotenv.load_dotenv()
@@ -25,16 +26,37 @@ class PoliticaladvisorConfig(AppConfig):
         from .myFAISS import build_faiss_programs_en, build_graph_en
 
         # Get the current working directory for debugging
-        # current_directory = os.path.dirname(__file__)
         faiss_path = os.path.join(settings.VECTOR_STORAGES_URL, "faiss_index")
         faiss_path_en = os.path.join(settings.VECTOR_STORAGES_URL, "faiss_index_en")
+        logger.info(f"FAISS path: {faiss_path}")
 
         rebuild_faiss_index = os.environ.get("REBUILD_FAISS_INDEX", default=True)
 
+        pdf_list = [
+            'AFD_Program.pdf',
+            # 'CDU_Program.pdf',
+            # 'FDP_Program.pdf',
+            # 'Gruene_Program.pdf',
+            # 'Linke_Program.pdf',
+            # 'Volt_Program.pdf',
+            # 'SPD_Program.pdf'
+        ]
+
+        pdf_list_en = [
+            'AFD_Program_en.pdf',
+            # 'CDU_Program_en.pdf',
+            # 'FDP_Program_en.pdf',
+            # 'Gruene_Program_en.pdf',
+            # 'Linke_Program_en.pdf',
+            # 'Volt_Program_en.pdf',
+            # 'SPD_Program_en.pdf'
+        ]
+
+
         if rebuild_faiss_index == 'True':
             logger.info("Rebuilding FAISS indexes")
-            build_faiss_programs(faiss_path)
-            build_faiss_programs_en(faiss_path_en)
+            build_faiss_programs(faiss_path, 'politicaladvisor', pdf_list)
+            build_faiss_programs(faiss_path_en, 'politicaladvisor', pdf_list_en)
         else:
             logger.info('Skipped building of FAISS index')
 

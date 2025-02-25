@@ -4,6 +4,7 @@ import re
 import faiss
 import logging
 import requests
+import boto3
 
 from django.conf import settings
 
@@ -99,25 +100,41 @@ def load_faiss(faiss_path):
                                     OpenAIEmbeddings(),
                                     allow_dangerous_deserialization=True)
     return vector_store
-def build_faiss_programs(faiss_path):
-    # Build the FAISS index from the party programs and store locally
+def build_faiss_programs(faiss_path, bucket_name, pdf_list):
+    '''Build the FAISS index from the party programs, store locally and in cloud
+    Args:
+        faiss_path (str): Path to the local FAISS index file
+        bucket_name (str): Name of the bucket in DigitalOcean Spaces
+        pdf_list (list): List of party programs to be used for building the index
+    '''
     vector_store = initialize_faiss()
     programfolder = settings.PDF_STORAGE_URL
-    # programfolder = os.path.join(os.path.dirname(__file__), 'programs')
-    pdf_list = [
-                'AFD_Program.pdf',
-                'CDU_Program.pdf',
-                'FDP_Program.pdf',
-                'Gruene_Program.pdf',
-                'Linke_Program.pdf',
-                'Volt_Program.pdf',
-                'SPD_Program.pdf'
-                ]
+    session = boto3.session.Session()
+
+    endpoint_url = f"https://{bucket_name}{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+    client = session.client(
+        's3',
+        region_name=os.environ.get('DO_SPACES_REGION'),
+        endpoint_url=endpoint_url,
+        aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
+        aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
+    )
+
+
+    # Split party progarms into chunks and add to the vector store
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf, programfolder)
         vector_store.add_documents(pdf_splits)
     logger.info(f"Created new FAISS index and added {len(pdf_splits)} documents.")
+
+    # Save the FAISS index locally
     vector_store.save_local(faiss_path)
+    logger.info(f"Saved FAISS index to {faiss_path}")
+
+    # Save the FAISS index and pickle to DigitalOcean Spaces
+    save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
+    save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
+
 def build_faiss_programs_en(faiss_path):
     # Build the FAISS index from the english party programs and store locally
     vector_store = initialize_faiss()
@@ -132,11 +149,38 @@ def build_faiss_programs_en(faiss_path):
                 'Volt_Program_en.pdf',
                 'SPD_Program_en.pdf'
                 ]
+
     for pdf in pdf_list:
         pdf_splits = create_pdf_splits(pdf, programfolder)
         vector_store.add_documents(pdf_splits)
+
     logger.info(f"Created new FAISS index in english and added {len(pdf_splits)} documents.")
     vector_store.save_local(faiss_path)
+
+def save_to_spaces(local_path, remote_directory, bucket_name):
+    """Uploads FAISS index to DigitalOcean Spaces.
+    Args:
+        local_path (str): Path to the local FAISS index file.
+        remote_path (str): Path to the remote quasi folder
+        bucket_name (str): Name of the bucket in DO Spaces
+    """
+    session = boto3.session.Session()
+    endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+    client = session.client(
+        's3',
+        region_name=os.environ.get('DO_SPACES_REGION'),
+        endpoint_url=endpoint_url,
+        aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
+        aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
+    )
+    try:
+        client.upload_file(local_path, remote_directory, os.path.basename(local_path))
+        logger.info(f"Uploaded FAISS index to {remote_directory} on DigitalOcean Spaces")
+    finally:
+        client.close()
+        logger.info("Closed DigitalOcean Spaces client")
+
+
 def query_faiss(query, vector_store):
     # results = vector_store.similarity_search(query=query, k=3)
     results = vector_store.similarity_search_with_score(query=query, k=3)
