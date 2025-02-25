@@ -169,7 +169,7 @@ def save_to_spaces(local_path, bucket_name, remote_path):
         bucket_name (str): Name of the bucket in DO Spaces
     """
     session = boto3.session.Session()
-    endpoint_url = f"https://{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+    endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
     logger.info(endpoint_url)
     client = session.client(
         's3',
