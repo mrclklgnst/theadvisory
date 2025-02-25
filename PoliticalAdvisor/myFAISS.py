@@ -180,9 +180,12 @@ def save_to_spaces(local_path, remote_directory, bucket_name):
     logger.info("Connected to DigitalOcean Spaces")
     logger.info(f"local_path: {local_path}")
     logger.info(f"remote_directory: {remote_directory}")
+    logger.info(f"bucket_name: {bucket_name}")
+    logger.info(f"key: {os.path.basename(local_path)}")
 
     try:
-        client.upload_file(local_path, bucket_name, os.path.basename(local_path))
+        # THIS IS WHERE IT FAILS
+        client.upload_file(local_path, bucket_name, "faiss_indexes")
         logger.info(f"Uploaded FAISS index to {remote_directory} on DigitalOcean Spaces")
     finally:
         client.close()
