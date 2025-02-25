@@ -94,12 +94,42 @@ def create_pdf_splits(file_path, programfolder):
             logger.error(f"⚠️ Failed to delete temporary file {temp_pdf_path}: {e}")
 
     return pdf_splits
-def load_faiss(faiss_path):
-    # Load the index
-    vector_store = FAISS.load_local(faiss_path,
-                                    OpenAIEmbeddings(),
-                                    allow_dangerous_deserialization=True)
-    return vector_store
+def load_faiss(faiss_path, bucket_name):
+    '''Load FAISS index from local file,
+    or from DigitalOcean Spaces if not found locally
+    :arg faiss_path: Path to the local FAISS index file
+    '''
+    try:
+        vector_store = FAISS.load_local(faiss_path,
+                                        OpenAIEmbeddings(),
+                                        allow_dangerous_deserialization=True)
+        logger.info(f"Loaded FAISS index from {faiss_path}")
+        return vector_store
+    except FileNotFoundError:
+        # Load the FAISS index from DigitalOcean Spaces
+        session = boto3.session.Session()
+        endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+        client = session.client(
+            's3',
+            region_name=os.environ.get('DO_SPACES_REGION'),
+            endpoint_url=endpoint_url,
+            aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
+            aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
+        )
+
+        # Download the FAISS index from DigitalOcean Spaces
+        client.downlaod_file(bucket_name, 'index.faiss', faiss_path)
+        client.downlaod_file(bucket_name, 'index.pkl', faiss_path)
+        logger.info(f"Downloaded FAISS index from {bucket_name}")
+
+        # Load vectore into memory
+        vector_store = FAISS.load_local(faiss_path,
+                                        OpenAIEmbeddings(),
+                                        allow_dangerous_deserialization=True)
+        logger.info(f"Loaded FAISS index from {faiss_path}")
+
+        return vector_store
+
 def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     '''Build the FAISS index from the party programs, store locally and in cloud
     Args:
@@ -134,7 +164,6 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     # Save the FAISS index and pickle to DigitalOcean Spaces
     save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
     save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
-
 def save_to_spaces(local_path, remote_directory, bucket_name):
     """Uploads FAISS index to DigitalOcean Spaces.
     Args:
@@ -157,8 +186,6 @@ def save_to_spaces(local_path, remote_directory, bucket_name):
     finally:
         client.close()
         logger.info("Closed DigitalOcean Spaces client")
-
-
 def query_faiss(query, vector_store):
     # results = vector_store.similarity_search(query=query, k=3)
     results = vector_store.similarity_search_with_score(query=query, k=3)

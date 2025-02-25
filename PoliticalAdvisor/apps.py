@@ -23,7 +23,7 @@ class PoliticaladvisorConfig(AppConfig):
         self.initialized = True
 
         from .myFAISS import build_faiss_programs, load_faiss, build_graph
-        from .myFAISS import build_faiss_programs_en, build_graph_en
+        from .myFAISS import build_graph_en
 
         # Get the current working directory for debugging
         faiss_path = os.path.join(settings.VECTOR_STORAGES_URL, "faiss_index")
@@ -32,6 +32,7 @@ class PoliticaladvisorConfig(AppConfig):
 
         rebuild_faiss_index = os.environ.get("REBUILD_FAISS_INDEX", default=True)
 
+        # Define party programs
         pdf_list = [
             'AFD_Program.pdf',
             # 'CDU_Program.pdf',
@@ -41,7 +42,6 @@ class PoliticaladvisorConfig(AppConfig):
             # 'Volt_Program.pdf',
             # 'SPD_Program.pdf'
         ]
-
         pdf_list_en = [
             'AFD_Program_en.pdf',
             # 'CDU_Program_en.pdf',
@@ -51,8 +51,6 @@ class PoliticaladvisorConfig(AppConfig):
             # 'Volt_Program_en.pdf',
             # 'SPD_Program_en.pdf'
         ]
-
-
         if rebuild_faiss_index == 'True':
             logger.info("Rebuilding FAISS indexes")
             build_faiss_programs(faiss_path, 'politicaladvisor', pdf_list)
@@ -61,13 +59,13 @@ class PoliticaladvisorConfig(AppConfig):
             logger.info('Skipped building of FAISS index')
 
         # Store FAISS as class attributes
-        self.global_vector_store = load_faiss(faiss_path)
+        self.global_vector_store = load_faiss(faiss_path, 'politicaladvisor')
         logger.info('Loaded DE vector store in memory')
 
         self.global_graph = build_graph(self.global_vector_store)
         logger.info('Loaded DE graph in memory')
 
-        self.global_vector_store_en = load_faiss(faiss_path_en)
+        self.global_vector_store_en = load_faiss(faiss_path_en, 'politicaladvisor')
         self.global_graph_en = build_graph_en(self.global_vector_store_en)
 
         logger.info("FAISS index loaded")
