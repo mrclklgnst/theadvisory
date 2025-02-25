@@ -146,17 +146,6 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     '''
     vector_store = initialize_faiss()
     programfolder = settings.PDF_STORAGE_URL
-    session = boto3.session.Session()
-
-    endpoint_url = f"https://{bucket_name}{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
-    client = session.client(
-        's3',
-        region_name=os.environ.get('DO_SPACES_REGION'),
-        endpoint_url=endpoint_url,
-        aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
-        aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
-    )
-
 
     # Split party progarms into chunks and add to the vector store
     for pdf in pdf_list:

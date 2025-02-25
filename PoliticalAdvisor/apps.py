@@ -57,18 +57,18 @@ class PoliticaladvisorConfig(AppConfig):
             build_faiss_programs(faiss_path_en, 'politicaladvisor', pdf_list_en)
         else:
             logger.info('Skipped building of FAISS index')
-
-        # Store FAISS as class attributes
-        self.global_vector_store = load_faiss(faiss_path, 'politicaladvisor')
-        logger.info('Loaded DE vector store in memory')
-
-        self.global_graph = build_graph(self.global_vector_store)
-        logger.info('Loaded DE graph in memory')
-
-        self.global_vector_store_en = load_faiss(faiss_path_en, 'politicaladvisor')
-        self.global_graph_en = build_graph_en(self.global_vector_store_en)
-
-        logger.info("FAISS index loaded")
-
-        logger.info(f"FAISS Ready function called (PID: {os.getpid()})")
-
+        #
+        # # Store FAISS as class attributes
+        # self.global_vector_store = load_faiss(faiss_path, 'politicaladvisor')
+        # logger.info('Loaded DE vector store in memory')
+        #
+        # self.global_graph = build_graph(self.global_vector_store)
+        # logger.info('Loaded DE graph in memory')
+        #
+        # self.global_vector_store_en = load_faiss(faiss_path_en, 'politicaladvisor')
+        # self.global_graph_en = build_graph_en(self.global_vector_store_en)
+        #
+        # logger.info("FAISS index loaded")
+        #
+        # logger.info(f"FAISS Ready function called (PID: {os.getpid()})")
+        #
