@@ -158,7 +158,7 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     logger.info(f"Saved FAISS index to {faiss_path}")
 
     # Save the FAISS index and pickle to DigitalOcean Spaces
-    # save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
+    save_to_spaces(os.path.join(faiss_path, 'index.faiss'), 'faiss_indexes', bucket_name)
     # save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
 def save_to_spaces(local_path, remote_directory, bucket_name):
     """Uploads FAISS index to DigitalOcean Spaces.
@@ -169,6 +169,7 @@ def save_to_spaces(local_path, remote_directory, bucket_name):
     """
     session = boto3.session.Session()
     endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+    logger.info(endpoint_url)
     client = session.client(
         's3',
         region_name=os.environ.get('DO_SPACES_REGION'),
@@ -176,8 +177,12 @@ def save_to_spaces(local_path, remote_directory, bucket_name):
         aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
         aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
     )
+    logger.info("Connected to DigitalOcean Spaces")
+    logger.info(f"local_path: {local_path}")
+    logger.info(f"remote_directory: {remote_directory}")
+
     try:
-        client.upload_file(local_path, remote_directory, os.path.basename(local_path))
+        client.upload_file(local_path, bucket_name, os.path.basename(local_path))
         logger.info(f"Uploaded FAISS index to {remote_directory} on DigitalOcean Spaces")
     finally:
         client.close()
