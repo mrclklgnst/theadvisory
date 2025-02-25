@@ -107,20 +107,24 @@ def load_faiss(faiss_path, bucket_name):
         return vector_store
     except FileNotFoundError:
         # Load the FAISS index from DigitalOcean Spaces
-        session = boto3.session.Session()
-        endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
-        client = session.client(
-            's3',
-            region_name=os.environ.get('DO_SPACES_REGION'),
-            endpoint_url=endpoint_url,
-            aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
-            aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
-        )
+        try:
+            session = boto3.session.Session()
+            endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+            client = session.client(
+                's3',
+                region_name=os.environ.get('DO_SPACES_REGION'),
+                endpoint_url=endpoint_url,
+                aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
+                aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
+            )
 
-        # Download the FAISS index from DigitalOcean Spaces
-        client.downlaod_file(bucket_name, 'index.faiss', faiss_path)
-        client.downlaod_file(bucket_name, 'index.pkl', faiss_path)
-        logger.info(f"Downloaded FAISS index from {bucket_name}")
+            # Download the FAISS index from DigitalOcean Spaces
+            client.downlaod_file(bucket_name, 'index.faiss', faiss_path)
+            client.downlaod_file(bucket_name, 'index.pkl', faiss_path)
+            logger.info(f"Downloaded FAISS index from {bucket_name}")
+        finally:
+            client.close()
+            logger.info("Closed DigitalOcean Spaces client")
 
         # Load vectore into memory
         vector_store = FAISS.load_local(faiss_path,
