@@ -175,13 +175,10 @@ def save_to_spaces(local_path, bucket_name, remote_path):
         's3',
         region_name=os.environ.get('DO_SPACES_REGION'),
         endpoint_url=endpoint_url,
-        aws_access_key_id=os.environ.get('DO_SPACES_KEY'),
-        aws_secret_access_key=os.environ.get('DO_SPACES_SECRET')
+        aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
+        aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
     )
     logger.info("Connected to DigitalOcean Spaces")
-    logger.info(f"local_path: {local_path}")
-    logger.info(f"bucket_name: {bucket_name}")
-    logger.info(f"remote_path: {remote_path}")
 
     try:
         # THIS IS WHERE IT FAILS
