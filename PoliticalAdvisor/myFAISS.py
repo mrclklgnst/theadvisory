@@ -99,13 +99,14 @@ def load_faiss(faiss_path, bucket_name):
     or from DigitalOcean Spaces if not found locally
     :arg faiss_path: Path to the local FAISS index file
     '''
+    logger.info('IN load faiss')
     try:
         vector_store = FAISS.load_local(faiss_path,
                                         OpenAIEmbeddings(),
                                         allow_dangerous_deserialization=True)
         logger.info(f"Loaded FAISS index from {faiss_path}")
         return vector_store
-    except FileNotFoundError:
+    except:
         # Load the FAISS index from DigitalOcean Spaces
         try:
             session = boto3.session.Session()
@@ -117,13 +118,18 @@ def load_faiss(faiss_path, bucket_name):
                 aws_access_key_id=os.environ.get('DO_SPACES_ACCESS_KEY'),
                 aws_secret_access_key=os.environ.get('DO_SPACES_SECRET_KEY')
             )
+            logger.info("Connected to DigitalOcean Spaces")
         except:
             logger.error("Failed to connect to DigitalOcean Spaces")
             return None
         try:
             # Download the FAISS index from DigitalOcean Spaces
-            client.downlaod_file(bucket_name, 'index.faiss', faiss_path)
-            client.downlaod_file(bucket_name, 'index.pkl', faiss_path)
+            logger.info(f"Downloading FAISS index from {bucket_name}")
+            logger.info(f"Faiss path: {faiss_path}")
+            # download documentation: bucket, object, local file name
+            client.download_file(bucket_name, 'indexes/index.faiss', os.path.join(faiss_path, 'index.faiss'))
+            logger.info(f"Downloaded FAISS index from {bucket_name}")
+            client.download_file(bucket_name, 'indexes/index.pkl', faiss_path)
             logger.info(f"Downloaded FAISS index from {bucket_name}")
         finally:
             client.close()
@@ -137,7 +143,7 @@ def load_faiss(faiss_path, bucket_name):
 
         return vector_store
 
-def build_faiss_programs(faiss_path, bucket_name, pdf_list):
+def build_faiss_programs(faiss_dir_path, bucket_name, faiss_dir, pdf_list):
     '''Build the FAISS index from the party programs, store locally and in cloud
     Args:
         faiss_path (str): Path to the local FAISS index file
@@ -154,12 +160,12 @@ def build_faiss_programs(faiss_path, bucket_name, pdf_list):
     logger.info(f"Created new FAISS index and added {len(pdf_splits)} documents.")
 
     # Save the FAISS index locally
-    vector_store.save_local(faiss_path)
-    logger.info(f"Saved FAISS index to {faiss_path}")
+    vector_store.save_local(faiss_dir_path)
+    logger.info(f"Saved FAISS index to {faiss_dir_path}")
 
     # Save the FAISS index and pickle to DigitalOcean Spaces
-    save_to_spaces(os.path.join(faiss_path, 'index.faiss'), bucket_name, 'indexes/index.faiss')
-    # save_to_spaces(os.path.join(faiss_path, 'index.pkl'), 'faiss_indexes', bucket_name)
+    save_to_spaces(os.path.join(faiss_dir_path, 'index.faiss'), bucket_name, 'vector_storages/'+faiss_dir+'/index.faiss')
+    save_to_spaces(os.path.join(faiss_dir_path, 'index.pkl'), bucket_name, 'vector_storages/'+faiss_dir+'/index.pkl')
 
 def save_to_spaces(local_path, bucket_name, remote_path):
     """Uploads FAISS index to DigitalOcean Spaces.
@@ -169,7 +175,7 @@ def save_to_spaces(local_path, bucket_name, remote_path):
         bucket_name (str): Name of the bucket in DO Spaces
     """
     session = boto3.session.Session()
-    endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+    endpoint_url = f"https://{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
     logger.info(endpoint_url)
     client = session.client(
         's3',
