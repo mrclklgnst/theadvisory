@@ -94,23 +94,29 @@ def create_pdf_splits(file_path, programfolder):
             logger.error(f"⚠️ Failed to delete temporary file {temp_pdf_path}: {e}")
 
     return pdf_splits
-def load_faiss(faiss_path, bucket_name):
+def load_faiss(faiss_dir_path, bucket_name, faiss_dir):
     '''Load FAISS index from local file,
     or from DigitalOcean Spaces if not found locally
     :arg faiss_path: Path to the local FAISS index file
     '''
     logger.info('IN load faiss')
+
+    # Ensure `faiss_dir_path` is a directory
+    if not os.path.exists(faiss_dir_path):
+        logger.info(f"Creating missing FAISS directory: {faiss_dir_path}")
+        os.makedirs(faiss_dir_path, exist_ok=True)
+
     try:
-        vector_store = FAISS.load_local(faiss_path,
+        vector_store = FAISS.load_local(faiss_dir_path,
                                         OpenAIEmbeddings(),
                                         allow_dangerous_deserialization=True)
-        logger.info(f"Loaded FAISS index from {faiss_path}")
+        logger.info(f"Loaded FAISS index from {faiss_dir_path}")
         return vector_store
     except:
         # Load the FAISS index from DigitalOcean Spaces
         try:
             session = boto3.session.Session()
-            endpoint_url = f"https://{bucket_name}.{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
+            endpoint_url = f"https://{os.environ.get('DO_SPACES_ENDPOINT_BARE')}"
             client = session.client(
                 's3',
                 region_name=os.environ.get('DO_SPACES_REGION'),
@@ -125,21 +131,18 @@ def load_faiss(faiss_path, bucket_name):
         try:
             # Download the FAISS index from DigitalOcean Spaces
             logger.info(f"Downloading FAISS index from {bucket_name}")
-            logger.info(f"Faiss path: {faiss_path}")
-            # download documentation: bucket, object, local file name
-            client.download_file(bucket_name, 'indexes/index.faiss', os.path.join(faiss_path, 'index.faiss'))
-            logger.info(f"Downloaded FAISS index from {bucket_name}")
-            client.download_file(bucket_name, 'indexes/index.pkl', faiss_path)
+            client.download_file(bucket_name, 'vector_storages/'+faiss_dir+'/index.faiss', os.path.join(faiss_dir_path, 'index.faiss'))
+            client.download_file(bucket_name, 'vector_storages/'+faiss_dir+'/index.pkl', os.path.join(faiss_dir_path, 'index.pkl'))
             logger.info(f"Downloaded FAISS index from {bucket_name}")
         finally:
             client.close()
             logger.info("Closed DigitalOcean Spaces client")
 
         # Load vectore into memory
-        vector_store = FAISS.load_local(faiss_path,
+        vector_store = FAISS.load_local(faiss_dir_path,
                                         OpenAIEmbeddings(),
                                         allow_dangerous_deserialization=True)
-        logger.info(f"Loaded FAISS index from {faiss_path}")
+        logger.info(f"Loaded FAISS index from {faiss_dir_path}")
 
         return vector_store
 
