@@ -2,7 +2,7 @@
 {% extends "PoliticalAdvisor/base.html" %}
 {% load static %}
 
-{% block content %}
+{% block app_content %}
     <h1>
         Political Advisor
     </h1>
@@ -27,12 +27,12 @@
     To address this, we developed Political Advisor,
     which helps you find the party that aligns best with your views
     while also allowing you to explore relevant sections of official party programs.
-    This gives you AI genereated and direct visibility into the party's stance on key issues.
+    This gives you AI generated and direct visibility into the party's stance on key issues.
     <br><br>
     To begin, click the “Start” button below.
     <br><br>
         <div class="d-flex justify-content-center">
-        <a onclick="setLanguageAndRedirect('en', '{% url 'statement_matcher' %}')" class="btn btn-outline-dark" style="" href="#">Start</a>
+        <a onclick="setLanguageAndRedirect('en', '{% url 'electionadvisor' %}')" class="btn btn-outline-dark" style="" href="#">Election Advisor</a>
         </div>
     </div>
     <div class="col-sm-6 index-text">
@@ -47,7 +47,7 @@
     Um zu beginnen, klicken Sie auf die Schaltfläche „Start“ unten.
     <br><br>
         <div class="d-flex justify-content-center">
-        <a onclick="setLanguageAndRedirect('de', '{% url 'statement_matcher' %}')" class="btn btn-outline-dark" style="" href="#">Start</a>
+        <a onclick="setLanguageAndRedirect('de', '{% url 'electionadvisor' %}')" class="btn btn-outline-dark" style="" href="#">Wahl Berater</a>
         </div>
     </div>
     </div>
@@ -59,7 +59,7 @@
         document.cookie = "language=" + language + "; path=/; max-age=" + (365 * 24 * 60 * 60);
 
         // Redirect to the selected page
-        window.location.href = "{% url 'statement_matcher' %}";
+        window.location.href = "{% url 'electionadvisor' %}";
     }
 </script>
 
