@@ -27,13 +27,13 @@ def electionadvisor(request):
         'en': {
             'message_prompt': 'Enter a political statement that is important to you ...',
             'button_text': 'Send',
-            'table_title': 'AI generated summary of party positions',
+            'table_title': 'Find below an AI generated summary of party positions and relevant citations from party programs',
             'citations_title': 'Citations from party programs',
         },
         'de': {
             'message_prompt': 'Geben Sie eine politische Aussage ein die Ihnen wichtig ist ....',
             'button_text': 'Versenden',
-            'table_title': 'KI generierte Zusammenfassung der Parteistandpunkte',
+            'table_title': 'Finden Sie unten eine KI generierte Zusammenfassung der Parteistandpunkte und relevante Zitate aus den Partei Programmen',
             'citations_title': 'Zitate aus Parteiprogrammen',
         }
     }

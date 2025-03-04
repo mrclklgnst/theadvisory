@@ -62,7 +62,7 @@ function displayBotMessage(data) {
         botMessage.appendChild(introText);
 
         botMessage.appendChild(createPartyList(data));
-        // botMessage.appendChild(createTable(data));
+
     }
 
     // show bot message
@@ -92,7 +92,7 @@ function createPartyList(data) {
 
         header.innerHTML = `
             <strong>${party.toUpperCase()}</strong> 
-            <span class="ml-2">Relevance: ${data[party].agreement}%</span>
+            <span class="ml-2">Relev.: ${data[party].agreement}%</span>
         `;
         header.appendChild(button);
 
@@ -127,78 +127,7 @@ function showCarouselItem(direction) {
 
 
 
-function createTable(data) {
-    let table = document.createElement("table");
-    table.style.width = "100%";
-    table.style.borderCollapse = "collapse";
-    table.style.marginTop = "10px";
 
-    // Create table header
-    let thead = table.createTHead();
-    let headerRow = thead.insertRow();
-    let headers = ["Partei", "Relevanz", "Position", "Citations"];
-    headers.forEach(headerText => {
-        let th = document.createElement("th");
-        th.innerText = headerText;
-        th.style.border = "1px solid #ddd";
-        th.style.padding = "8px";
-        headerRow.appendChild(th);
-    });
-
-    // Create table body
-    let tbody = table.createTBody();
-    let rows =[];
-
-    for (let party in data) {
-        let row = tbody.insertRow();
-
-        // Partei Name
-        let cell1 = row.insertCell(0);
-        cell1.innerHTML = `<strong>${party.toUpperCase()}</strong>`;
-        cell1.style.border = "1px solid #ddd";
-        cell1.style.padding = "8px";
-
-        // Relevanz
-        let cell2 = row.insertCell(1);
-        cell2.innerText = `${data[party].agreement}%`;
-        cell2.style.textAlign = "center";
-        cell2.style.border = "1px solid #ddd";
-        cell2.style.padding = "8px";
-
-        // Position
-        let cell3 = row.insertCell(2);
-        cell3.innerText = data[party].explanation;
-        cell3.style.border = "1px solid #ddd";
-        cell3.style.padding = "8px";
-
-        // Citations Button
-        let cell4 = row.insertCell(3);
-        let button = document.createElement("button");
-        button.innerText = "Citations";
-        button.className = "btn btn-dark";
-        button.onclick = function() {
-            openCitationModal(party, data[party].citations);
-        };
-        cell4.appendChild(button);
-        cell4.style.textAlign = "center";
-        cell4.style.border = "1px solid #ddd";
-        cell4.style.padding = "8px";
-
-        rows.push(row);
-    }
-
-    // Sort rows by Zustimmung column
-    rows.sort((a, b) => {
-        let aValue = parseFloat(a.cells[1].innerText);
-        let bValue = parseFloat(b.cells[1].innerText);
-        return bValue - aValue;
-    });
-
-    // Append sorted rows to tbody
-    rows.forEach(row => tbody.appendChild(row));
-
-    return table;
-}
 
 function openCitationModal(party, citations) {
     document.getElementById("modal-title").innerText = `Citations for ${party.toUpperCase()}`;
