@@ -51,6 +51,7 @@
 .modal {
     display: none;
     position: absolute;
+    padding: 10px;
     z-index: 1000;
     left: 5%;
     top: 5%;
@@ -63,11 +64,12 @@
 }
 
 .modal-content {
-    background-color: black;
-    padding: 5px;
+    background-color: #3c3c45;
+    padding: 10px;
     border-radius: 5px;
-    width: 90%;
-    height: 90%;
+    width: 95%;
+    height: 95%;
+    display: flex;
     flex-direction: column;
     text-align: center;
     /*overflow: auto;*/
@@ -101,7 +103,7 @@
 }
 
 .carousel-item.active {
-    display: block;
+    display: flex;
 }
 
 .carousel-controls {

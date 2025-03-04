@@ -226,7 +226,7 @@ def build_graph(vector_store):
     {{
       "afd": {{"agreement": 75, "explanation": "Erklärung", "citations": []}},
       "bsw": {{"agreement": 50, "explanation": "Erklärung", "citations": []}},
-      "cdu_csu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
+      "cdu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
       "linke": {{"agreement": 20, "explanation": "Erklärung", "citations": []}},
       "fdp": {{"agreement": 60, "explanation": "Erklärung", "citations": []}},
       "gruene": {{"agreement": 40, "explanation": "Erklärung", "citations": []}},
@@ -299,7 +299,7 @@ def build_graph_en(vector_store):
     {{
       "afd": {{"agreement": 75, "explanation": "Erklärung", "citations": []}},
       "bsw": {{"agreement": 50, "explanation": "Erklärung", "citations": []}},
-      "cdu_csu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
+      "cdu": {{"agreement": 30, "explanation": "Erklärung", "citations": []}},
       "linke": {{"agreement": 20, "explanation": "Erklärung", "citations": []}},
       "fdp": {{"agreement": 60, "explanation": "Erklärung", "citations": []}},
       "gruene": {{"agreement": 40, "explanation": "Erklärung", "citations": []}},
