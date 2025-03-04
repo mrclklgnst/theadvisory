@@ -1,249 +1,189 @@
 {
   "answer": {
-    "afd": {
-      "agreement": 40,
-      "explanation": "The AFD emphasizes performance and talent development but does not prioritize future investment strongly within their stated goals.",
-      "citations": [
-        {
-          "score": 0.2600237727165222,
-          "source": "AFD_Program_en.pdf",
-          "location": "11 / 177",
-          "content": "AFD: To this end, we strive for school and vocational training designed for performance and talent development. Our universities should be able to attract first-class talent from Germany and all over the world and make our country an international innovation leader in the top industries. In addition to traditional industries such as automotive engineering, mechanical engineering and chemistry, we also include modern high technologies such as dual-fluid nuclear technology, space technology, nanotechnology and artificial intelligence. Germany has become unattractive as a business location In earlier decades, Germany stood out internationally through economic and scientific excellence. The current situation, on the other hand, is marked by economic and scientific decline. Technology specifications, requirements and bans partially suspend market-based competition; Suboptimal technical solutions and products are the result. Many of them are not marketable without government subsidies, for example alternative energies and electric cars. Many requirements are also incompatible with the resources of our country. This applies to limited access to raw materials such as rare earths for alternative energies and drives, to cheap fossil or nuclear energy as well as to well-trained domestic and foreign skilled workers."
-        }
-      ]
-    },
-    "bsw": {
-      "agreement": 0,
-      "explanation": "The context does not include any references or positions from the BSW party.",
-      "citations": []
-    },
-    "cdu_csu": {
-      "agreement": 50,
-      "explanation": "The CDU/CSU speaks about innovation and security, but their emphasis is more on policy change rather than direct investment.",
-      "citations": []
-    },
-    "linke": {
-      "agreement": 0,
-      "explanation": "The context does not include any references or positions from the Linke party.",
-      "citations": []
-    },
     "fdp": {
-      "agreement": 60,
-      "explanation": "The FDP acknowledges the need for structural reforms and investments but frames it within a context of bureaucracy reduction and economic growth.",
+      "agreement": 80,
+      "explanation": "The FDP strongly emphasizes the need to fully meet NATO requirements and is committed to substantial investments in defense.",
       "citations": [
         {
-          "score": 0.253692626953125,
+          "score": 0.23862606287002563,
           "source": "FDP_Program_en.pdf",
-          "location": "11 / 52",
-          "content": "FDP: But this strength lies in shackles: too much bureaucracy and regulation, a tax system that is hostile to performance, labor shortages and excessively high energy prices reduce our competitiveness. All this costs us prosperity, prevents social advancement and strengthens the political fringes. We want to and can change that. In order to initiate a real economic turnaround, far-reaching and structural reforms are necessary. We need growth and better supply conditions so that the country does not slip into pessimism and distribution struggles. Germany can become a leading economic nation again if we show the courage to change. Our goal: to secure prosperity and opportunities for advancement for all. So that optimism returns and Germany will still be a prosperous and strong country in ten years' time. We Free Democrats see the special economic challenges in the eastern German states, among other things due to a smaller-scale economic structure. Since 1990, it has not yet been possible to generate an economic power comparable to that of the western German states across the board. The financial situation also differs considerably."
+          "location": "47 / 52",
+          "content": "FDP: Nevertheless, Germany and its European partners must take more responsibility for their own defence and that of our allies and be able to credibly deterrent in terms of security policy. We must counter the threat posed by Putin's Russia with diplomacy and military strength. We Free Democrats stand unreservedly by NATO as the most successful defence alliance in the world and as a guarantor of our security. We are committed to ensuring that Germany fully meets NATO requirements and goals. This includes Germany meeting at least NATO's 2% target. If NATO agrees on higher goals, we will also meet them and invest even more in our security. We want to strengthen NATO's European pillar and thereby increase the ability of the EU partners in the Alliance to act. Accordingly, the European NATO partners must take on more responsibility. The prerequisite for this is to dovetail the cooperation of the EU partners in NATO more closely. Expanding defence capabilities \u2013 for a strong Bundeswehr We want to make the Bundeswehr the strongest conventional armed force in Europe. In close coordination with France, Germany is to become a strong cooperation partner for smaller European partners. Our long-term goal is to build a European army, also as an integral part of strengthening the European pillar within NATO."
         },
         {
-          "score": 0.2691296935081482,
+          "score": 0.2569243907928467,
           "source": "FDP_Program_en.pdf",
-          "location": "9 / 52",
-          "content": "FDP: The German Agency for Transfer and Innovation must be established quickly. Because we are also in a new system competition in science. The future strategy of research and innovation must be consistently driven forward and further developed. We want a technology-open Freedom of Research Act and thus create the conditions for the construction of fusion power plants in Germany through excellent fusion research, reform the obstructive legal framework for genetic engineering and strengthen stem cell research. In the health sector, we want to place an increased focus on neurodegenerative diseases such as Alzheimer's and Parkinson's as well as on women-specific health areas."
+          "location": "47 / 52",
+          "content": "FDP: Our long-term goal is to build a European army, also as an integral part of strengthening the European pillar within NATO. Our opponents must realize that we are able and willing to defend ourselves militarily successfully. To do this, the Bundeswehr needs better financing and equipment. We Free Democrats are committed to a professional volunteer army of active members and a strong reserve and to a national database for the registration of men and women fit for military service. In doing so, we are guided by NATO's capability goals. We reject the reintroduction of universal conscription. The attractiveness of service in the Bundeswehr is to be massively increased through excellent conditions such as salary and social benefits. In order to meet the demand for defence capability, Germany must also make its actions more uniform strategically and institutionally. That is why there must be no \"business as usual\" in German security policy. We therefore want to establish a National Security Council that identifies risks at an early stage, enables meaningful decision-making and develops joint strategies. For a smart foreign policy in the age of systemic rivalry We are in the age of systemic rivalry between aggressive autocracies on the one hand and liberal democracies on the other."
         },
         {
-          "score": 0.2707308530807495,
+          "score": 0.29414844512939453,
           "source": "FDP_Program_en.pdf",
-          "location": "6 / 52",
-          "content": "FDP: World's best education for self-confident citizens Germany's future lies in its people \u2013 their ideas, their potential and their freedom. Education and research are the most valuable resources of our country. In recent years, there has been a negative trend in the education system. We want to reverse it. Because: Everything can be changed. Education must once again be the key to personal advancement and a self-determined life \u2013 regardless of social background, age, gender, religion, educational background of parents and place of residence. New global challenges and rapid social change require a real paradigm shift in our education system. We have to think about education holistically \u2013 from cr\u00e8che to kindergarten, schools, vocational schools and universities to offers for lifelong learning. Excellence is a clear goal for us Free Democrats. Talent, passion and dedication lead to innovation and scientific progress. Germany as a research location needs more quality, networking, equal opportunities and excellence. With more academic freedom and optimal framework conditions, anything is possible. Great opportunities for the youngest: Strengthening early childhood education We Free Democrats see early childhood education as the cornerstone of a society that can develop its full potential. This is where we want to start in a more targeted and effective way. Lifelong learning begins in the sandbox, not at school."
+          "location": "46 / 52",
+          "content": "FDP: At the same time, we support their accession to the EU and NATO in the future. More responsibility towards our partners Germany needs strong alliances to meet foreign policy challenges."
+        },
+        {
+          "score": 0.3049086332321167,
+          "source": "FDP_Program_en.pdf",
+          "location": "49 / 52",
+          "content": "FDP: We must provide Israel with everything it needs for its right to self-defense, which is guaranteed under international law. We are convinced that arms exports are a legitimate means of foreign and security policy. This is because they serve to strengthen strategic partnerships and ensure stability in geopolitically important regions."
+        },
+        {
+          "score": 0.32987213134765625,
+          "source": "FDP_Program_en.pdf",
+          "location": "46 / 52",
+          "content": "FDP: Freedom, Security and Human Rights Worldwide The world is in great turmoil: Russia's war of aggression against Ukraine has profoundly shaken the European order. Putin's aggressive actions clearly show that Germany and its European partners have taken too little responsibility for their own security for too long and too little. At the same time, China's actions pose additional challenges to Germany and the EU economically, technologically, socially and geopolitically. It is the effects of the increasing systemic rivalry between liberal democracies and authoritarian regimes that are now also affecting Germany, the EU and other allies as a whole. Hamas' insidious attack on Israel has escalated the unresolved Middle East conflict. Even after the re-election of Donald Trump as US president, the USA remains our closest ally and partner. Nevertheless, it is now more important than ever that Germany itself and within the EU and NATO demonstrates its ability to act. To do this, we need an EU that can actively defend its foundation of freedom, the rule of law, human rights, democracy and the social market economy. The overall geopolitical situation illustrates the considerable pressure for reform on German foreign, security and development policy. When so much changes, we have to change too. We Free Democrats are convinced that realpolitik and the commitment to freedom and human rights do not have to be mutually exclusive worldwide."
         }
-      ]
-    },
-    "gruene": {
-      "agreement": 70,
-      "explanation": "The Gr\u00fcnen advocate for strong public investment and reform of the debt brake to support future investments.",
-      "citations": [
-        {
-          "score": 0.22865158319473267,
-          "source": "Gruene_Program_en.pdf",
-          "location": "17 / 160",
-          "content": "Gruene: Behind every public investment, there is real economic value creation. We want to provide a strong, resilient and reliable infrastructure by strengthening and expanding public investment for it from national and European Union (EU) funds. To this end, we will also reform the debt system. However, the majority of the investments come from companies and other private actors. Anyone who invests in Germany should have an easier time with taxes: To this end, we are introducing a five-year, non-bureaucratic investment premium of 10 per cent for all companies and all investments with the exception of building investments. This premium is offset against the company's tax liability; if the premium exceeds the tax liability, it is paid out. We evaluate the effectiveness of this premium through annual monitoring. It is absolutely crucial that we not only develop good ideas, but that they also give rise to strong new German and European companies. Compared to the USA or China, we have so far had a major weakness in terms of access to financing."
-        },
-        {
-          "score": 0.2548981010913849,
-          "source": "Gruene_Program_en.pdf",
-          "location": "35 / 160",
-          "content": "Gruene: The black zero in the budget is a mortgage for the future viability of our country. We will therefore set up a Germany Fund for the federal, state and local governments. From this, we will build the rails on which trains will take people to their destinations on time, renovate daycare centres, schools and universities where equal opportunities are created for all, finance research that will form the basis of the ideas and technologies for tomorrow's prosperity, and give companies the space to invest in their future. Funds from the Germany Fund will supplement regular budget funds. The investment backlog in Germany is in the three-digit billion range, even though we are an economically strong country. The debt brake in its current form prevents investments and other measures that stimulate our stagnating economy again. In order to finance the necessary investments in infrastructure, in the decarbonisation of our country and in a strong, sustainable economy, we want to reform the debt brake in line with European rules. The taking out of state loans is to be made possible to the extent that investments are made by the state. In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times."
-        },
-        {
-          "score": 0.2673727869987488,
-          "source": "Gruene_Program_en.pdf",
-          "location": "35 / 160",
-          "content": "Gruene: In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times. In this way, we are creating new financial leeway, which we will distribute appropriately between the federal and state governments. At the same time, we will ensure that the overall debt remains sustainable in the long term. This is also advised by leading economic institutes such as the International Monetary Fund (IMF), the Bundesbank and the German Federal Government's Council of Economic Experts. At the European level, we continue to advocate common fiscal rules that leave enough room for sustainable investment. After the grand coalition has ruined the country for almost two decades, we in the federal government have initiated the turnaround. Investments in climate and environmental protection, in transport, energy, education and research infrastructure, and in national security are priorities for us. We propose a reform of the debt brake and a Germany fund for investment expenditure. In order to finance current expenses, we want to close gaps in fairness in our tax system."
-        },
-        {
-          "score": 0.27130383253097534,
-          "source": "Gruene_Program_en.pdf",
-          "location": "14 / 160",
-          "content": "Gruene: German must build on this strength in order to tackle the major structural challenges we are facing: Russia's war of aggression on Ukraine and the systemic conflict between liberal democracies and authoritarian states around China require a realignment of economic security and trade, supply chains and sales markets. We will only win this competition in economic terms if we make maximum use of the great advantage of liberal democracy: that people have new ideas and can discover and develop things freely. In the next government, we want to continue working to remedy the structural weaknesses of our site, to support our companies on their way to climate neutrality and to bring our economy into line with planetary boundaries. We ensure that German and Europe are at the forefront of the innovations of the future. We cannot remain in the status quo for this. Rather, we need more space and enthusiasm for the willingness and courage to take risks with new ideas and technologies."
-        }
-      ]
+      ],
+      "citations_count": 5
     },
     "spd": {
       "agreement": 80,
-      "explanation": "The SPD presents a strong commitment to investments for job security and future growth, emphasizing modernization and public infrastructure.",
+      "explanation": "The SPD is committed to increased investment in security and meeting NATO spending targets, reflecting strong support for NATO.",
       "citations": [
         {
-          "score": 0.2582867443561554,
+          "score": 0.279812753200531,
           "source": "SPD_Program_en.pdf",
-          "location": "9 / 68",
-          "content": "SPD: We will improve working conditions in science by promoting predictable career paths, especially to achieve equality. We will use the Development of the German Agency for Transfer and Innovation. The shortage of skilled workers is currently becoming clear in many areas of our economy. There are wrong answers to this, such as \"We have to work longer\" or \"Fewer protective rights for employees\". The CDU strikes this tone, we don't. What is needed is really good training and more investment in qualification. We must leverage the potential of the many people in our country who have so far been pushed to the margins: especially young people without vocational qualifications and women in involuntary part-time work and mini-jobs. In addition, we still need the immigration of skilled workers. Studies show that we will need several hundred thousand skilled workers per year for Germany. We fight for Made in Germany 2. Made in Germany \u2013 what a beautiful seal of quality was and is that! And it should stay that way for a long, long time. Germany has become a frontrunner in world trade with the engines and machines of the 20th century. We want Made in Germany to remain a world leader in the technologies of the 21st century. In the fierce competition of a changing global economy, our industrial and business location is under pressure."
+          "location": "56 / 68",
+          "content": "SPD: Our response to a world in upheaval is a defence and security policy that takes more responsibility for protecting Europe. We must organize security on our continent from Russia. We want more investment in security. We will spend more money on our security. The special fund for the Bundeswehr was an important first step. After years of reduction, we have increased our defense spending to more than two percent of gross domestic product (GDP). We will therefore continue to advocate sustainable defence financing of at least two per cent of GDP in the future. We will use the funds for the sustainable modernisation of the Bundeswehr so that soldiers can fulfil their duties in foreign missions and in alliance and national defence on a permanent and full basis. This is required by respect for the soldiers. It is our goal to make the Bundeswehr attractive as an employer. This includes the compatibility of family and service as well as further career prospects in the public sector. We introduced National Veterans' Day on June 15 and are committed to empathetic interaction and the improvement of care for service-disabled soldiers and their families. As the SPD, we stand for the concept of the \"citizen in uniform\". NATO is a key pillar of the transatlantic partnership and indispensable for European security."
         },
         {
-          "score": 0.25833672285079956,
+          "score": 0.31067758798599243,
           "source": "SPD_Program_en.pdf",
-          "location": "5 / 68",
-          "content": "SPD: We fight for new growth and secure jobs. This is the first, but certainly not the last, time that we will use the words \"We fight for\". We could also write \"We are committed to\" or \"We are committed to it\". But we all feel how great the urgency is with which we have to tackle issues. So: Let's fight together for what is close to our hearts and what will lead our country in the future. For example, with clear framework conditions and a real investment turbo, we are creating a growth environment for our companies. Germany needs a decade of sustainable innovations and investments. With our policy, we are getting both off the ground: clever inventions that make life better, that secure jobs and prosperity. And a public infrastructure that makes everyday life easier because it simply works. In a modern country with the right framework conditions, industry, SMEs, services, crafts, start-ups and agriculture can flourish. The employees can make their contribution through diligent work and good ideas and spend a good life together with their families. The German economy is in a challenging situation. Important investments in the future are currently failing to materialize. This endangers jobs and prosperity. With targeted measures, we will ignite the turbo for future investments in our state. We want to reduce energy prices and strategically promote key successful industries."
+          "location": "58 / 68",
+          "content": "SPD: European armaments must not fall into the wrong hands. We are living up to our responsibility for Europe. As the largest and economically strongest member state within the EU, Germany has a special responsibility. To this end, it is important that the partners in the German government speak with one voice at EU level. We expect all democratic parties to maintain the firewall against right-wing populism and extremism, including in the European Parliament. More for you. Better for Germany."
         },
         {
-          "score": 0.27077579498291016,
+          "score": 0.313876748085022,
           "source": "SPD_Program_en.pdf",
-          "location": "15 / 68",
-          "content": "SPD: This requires a joint effort by the federal, state and local governments. We want everyone to work together to modernise our infrastructure. We have to invest in tomorrow, the day after tomorrow and also in the day after tomorrow. The necessary public investment must be made quickly in order to resolve the existing investment backlog and to create better conditions for private investment. Privatisation of infrastructure remains out of the question. We stand for a financial policy that is fair to all generations and no longer passes on necessary investments to future generations. Our financial policy is strategically designed and ensures growth as well as change. More for you. Better for Germany."
+          "location": "56 / 68",
+          "content": "SPD: NATO is a key pillar of the transatlantic partnership and indispensable for European security. At the same time, we must expect that Washington will no longer bear the main burden of protecting Europe. The decisions to establish the new Baltic Sea Command in Rostock by the German Navy, to develop new European Long-Range Strike Approach (ELSA) together with our European allies, and The launch of the European Sky Shield Initiative (ESSI) shows that we are ready to take on more responsibility in alliance defence. The stationing of US medium-range weapons in western More for you. Better for Germany."
         },
         {
-          "score": 0.27512553334236145,
+          "score": 0.32041028141975403,
           "source": "SPD_Program_en.pdf",
-          "location": "5 / 68",
-          "content": "SPD: We want to reduce energy prices and strategically promote key successful industries. We need affordable energy, otherwise our companies in Germany will run out of energy. We invest in a secure and affordable energy supply through renewable energies. We want internationally competitive energy prices. We provide planning and investment security for energy costs through stable prices, from grid fees to electricity tax to the CO price. Especially in the north and east, where a large proportion of the 2 wind energy in Germany, high grid charges are an urgent problem. The switch to cheap More for you. Better for Germany."
+          "location": "57 / 68",
+          "content": "SPD: At the same time, we remain committed to arms control and will continue to discuss constructive approaches to this within the NATO framework. Due to its geographical location in Europe, Germany is to be further expanded as a central hub for logistics in order to enable NATO to respond quickly and in a coordinated manner to security challenges in Europe. With the Lithuanian Brigade, we will for the first time permanently station German troops abroad. In this way, we are showing our allies on NATO's eastern flank that they can rely on us. We will give priority to their development and installation in terms of equipment, financing and personnel requirements. In view of the changed security situation, the SPD is planning to introduce a new, flexible military service. The new military service is to be based on voluntariness and based on the needs of the Bundeswehr. The basis for a fire brigade registration must be created quickly. The new military service serves centrally to build up a sustainable reserve. We support Ukraine. The SPD is clearly committed to diplomatic, military, financial and humanitarian support for Ukrainians in their fight against Russian aggression, which is contrary to international law \u2013 for as long as necessary. We expressly support Germany's bilateral security agreement with Ukraine. Ukraine must be able to conduct possible negotiations on an equal footing with Russia."
+        },
+        {
+          "score": 0.32347536087036133,
+          "source": "SPD_Program_en.pdf",
+          "location": "57 / 68",
+          "content": "SPD: We expressly support Germany's bilateral security agreement with Ukraine. Ukraine must be able to conduct possible negotiations on an equal footing with Russia. We will not accept a Russian dictated peace at the expense of Ukraine. There must be no negotiations over the heads of the Ukrainians. Ukraine's sovereignty and territorial integrity must be preserved. To defend Ukraine and secure peace in Europe, the SPD supports the training of the Ukrainian armed forces and the supply of weapons and equipment with prudence and a sense of proportion. For us, it is true that Germany and NATO will not become a party to the war themselves. That is why we stand by Chancellor Olaf Scholz's decision not to supply the Taurus cruise missile from the Bundeswehr's stocks. Civilian support for Ukraine is indispensable. After all, the question of whether Ukraine can hold its own in the Russian war of aggression also depends on how resilient its civilian population is. A strong society needs a functioning power supply and functioning hospitals. Putin also knows this when he deliberately has civilian infrastructure shelled. So we want to continue to be supportive here and help the people in Ukraine get through this hard time. We expressly welcome peace initiatives such as those initiated by Ukrainian President Zelensky."
         }
-      ]
+      ],
+      "citations_count": 5
     },
     "volt": {
       "agreement": 80,
-      "explanation": "Volt strongly advocates for sustainable investments in education, infrastructure, and climate protection, aiming for a future-oriented approach.",
+      "explanation": "Volt supports increased military engagement and a stronger European pillar within NATO, clearly indicating investment in NATO as essential.",
       "citations": [
         {
-          "score": 0.2201402187347412,
+          "score": 0.308418869972229,
           "source": "Volt_Program_en.pdf",
-          "location": "21 / 164",
-          "content": "Volt: However, Germany's rigid debt brake massively restricts important future investments in infrastructure, education, climate protection and digitalisation. A reform of the debt brake enables a sustainable and economically smart fiscal policy that strengthens current and future generations."
+          "location": "41 / 164",
+          "content": "Volt: It is therefore in our interest to take a more active role in resolving international conflicts. This includes in particular increased diplomatic engagement, but also increased deployment of the Bundeswehr. That's why Volt is committed to this future: \u2022  Closing ranks in Europe: Germany is stepping up its efforts to act in accordance with the interests of our European partners in foreign and defence policy. The European pillar within NATO will be strengthened."
         },
         {
-          "score": 0.24577662348747253,
+          "score": 0.3091789484024048,
+          "source": "Volt_Program_en.pdf",
+          "location": "40 / 164",
+          "content": "Volt: A European army not only strengthens Germany's defence, but also saves costs, increases efficiency and makes us less dependent on foreign actors. We all benefit from greater security, stable partnerships and effective defence capacities. That's why Volt is committed to this future: \u2022  Creation of a European army: A European army with uniform equipment, tactics and procurement will be established in order to reduce costs and strengthen defence capability. EFFICIENT PROCUREMENT AND ARMAMENTS POLICY A modern and effective Bundeswehr protects the security of Germany and its population. Defence funds must be used efficiently to create a powerful and modern army that can act quickly and effectively in an emergency."
+        },
+        {
+          "score": 0.3216591775417328,
+          "source": "Volt_Program_en.pdf",
+          "location": "40 / 164",
+          "content": "Volt: A comprehensive reform of procurement and armaments policy is a prerequisite for the success of the turning point. That's why Volt is committed to this future: \u2022  Accelerated procurement: The \u20ac25 million parliamentary bills for armaments projects will be abolished, but transparency will be created by publishing all contracts and the Federal Procurement Office (BAAINBw) will be strengthened."
+        },
+        {
+          "score": 0.32831770181655884,
           "source": "Volt_Program_en.pdf",
           "location": "6 / 164",
-          "content": "Volt: We have the chance to create a functioning Germany \u2013 for everyone. Our goal must be a Europe that grows together, solves problems together and plays a pioneering role \u2013 be it in defending democracy and freedom, designing a modern security architecture or developing economic and technological innovations. A federal European Union enables closer cooperation and allows Europe to develop its full strength. There is also great potential in Germany. Modern state reform strengthens federalism, creates clear responsibilities and makes the heart of our democracy \u2013 our municipalities \u2013 capable of acting. With the reform of the debt brake, we are paving the way for sustainable investments \u2013 in education, infrastructure and climate protection. In this way, we are setting the course for a secure and sustainable society. Digitization offers us the opportunity to rethink administration. Instead of time-consuming visits to the authorities, we are creating a digital administration that works efficiently, close to people and simply \u2013 as is already the case with our European neighbours. Of course, we must ensure that everyone's fundamental rights are also upheld in the digital space."
+          "content": "Volt: In a rapidly changing world, we can set the course for a country that not only keeps pace with the future, but actively shapes it. We have the chance to create a functioning Germany \u2013 for everyone. Our goal must be a Europe that grows together, solves problems together and plays a pioneering role \u2013 be it in defending democracy and freedom, designing a modern security architecture or developing economic and technological innovations. A federal European Union enables closer cooperation and allows Europe to develop its full strength. There is also great potential in Germany. Modern state reform strengthens federalism, creates clear responsibilities and makes the heart of our democracy \u2013 our municipalities \u2013 capable of acting. With the reform of the debt brake, we are paving the way for sustainable investments \u2013 in education, infrastructure and climate protection. In this way, we are setting the course for a secure and sustainable society. Digitization offers us the opportunity to rethink administration. Instead of time-consuming visits to the authorities, we are creating a digital administration that works efficiently, close to people and simply \u2013 as is already the case with our European neighbours. Of course, we must ensure that everyone's fundamental rights are also upheld in the digital space."
+        }
+      ],
+      "citations_count": 4
+    },
+    "cdu_csu": {
+      "agreement": 70,
+      "explanation": "The CDU consistently supports NATO and has indicated that defense spending should at least meet NATO's targets.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "gruene": {
+      "agreement": 70,
+      "explanation": "The Greens advocate for strengthening NATO's European pillar and increasing defense capabilities, indicating strong support.",
+      "citations": [
+        {
+          "score": 0.26574447751045227,
+          "source": "Gruene_Program_en.pdf",
+          "location": "151 / 160",
+          "content": "Gruene: We are strengthening NATO's European pillar. Germany and Europe must take more responsibility for their security and beyond, regardless of US policy. We can do this more effectively and cost-effectively the closer we work together in the EU. We stand by our alliance obligations and the associated necessary expansion of our capabilities. The security situation and the backlog of German capabilities for overall defence make this particularly urgent. This requires reliable financing with a defence budget that permanently meets the goals and needs agreed in NATO and also nationally defined, and that permanently invests well over 2 per cent of gross domestic product in our security and defence capability. This will not be financed solely from current revenues, but will also have to be financed in the medium term through higher borrowing in order to prevent investments in the defence sector from being at the expense of other necessary investments in the future. As in the times of the euro crisis and the pandemic, a joint financial effort is also needed at the European level to secure peace in Europe, as the European Commission has proposed. In this way, we also want to use European synergy effects. It is in our interest to work for peace and stability on a global scale and to focus on human security."
         },
         {
-          "score": 0.27176204323768616,
-          "source": "Volt_Program_en.pdf",
-          "location": "60 / 164",
-          "content": "Volt: That's why Volt is committed to this future: \u2022  Limitation of fossil fuels: The use of fossil fuels in industrial plants will be limited until 2035, and new plants must use climate-neutral energy sources such as electricity and hydrogen."
+          "score": 0.2863476872444153,
+          "source": "Gruene_Program_en.pdf",
+          "location": "17 / 160",
+          "content": "Gruene: For too long, there has been too little reliable public investment. Behind every public investment, there is real economic value creation. We want to provide a strong, resilient and reliable infrastructure by strengthening and expanding public investment for it from national and European Union (EU) funds. To this end, we will also reform the debt system. However, the majority of the investments come from companies and other private actors. Anyone who invests in Germany should have an easier time with taxes: To this end, we are introducing a five-year, non-bureaucratic investment premium of 10 per cent for all companies and all investments with the exception of building investments. This premium is offset against the company's tax liability; if the premium exceeds the tax liability, it is paid out. We evaluate the effectiveness of this premium through annual monitoring. It is absolutely crucial that we not only develop good ideas, but that they also give rise to strong new German and European companies. Compared to the USA or China, we have so far had a major weakness in terms of access to financing."
+        },
+        {
+          "score": 0.3126961588859558,
+          "source": "Gruene_Program_en.pdf",
+          "location": "153 / 160",
+          "content": "Gruene: In addition, we want to make cooperation between armed forces within the EU and NATO the rule, for example through permanent multinational units. We want to ensure our defence capability and equip our Bundeswehr well and modernly with the help of an efficient European armaments industry. We want to dismantle inefficient duplicate structures among EU member states in favour of joint development, production and procurement of armaments and strengthen our technological sovereignty by expanding European production capacities. This requires financial incentives, joint investments and the political will to put national industrial policy interests at the service of greater common security. In view of the threat situation, it is unfortunately necessary for us and many of our allies around the world to invest even more in security to protect ourselves from aggression and war."
+        },
+        {
+          "score": 0.3210187554359436,
+          "source": "Gruene_Program_en.pdf",
+          "location": "14 / 160",
+          "content": "Gruene: Your achievements deserve our recognition. German must build on this strength in order to tackle the major structural challenges we are facing: Russia's war of aggression on Ukraine and the systemic conflict between liberal democracies and authoritarian states around China require a realignment of economic security and trade, supply chains and sales markets. We will only win this competition in economic terms if we make maximum use of the great advantage of liberal democracy: that people have new ideas and can discover and develop things freely. In the next government, we want to continue working to remedy the structural weaknesses of our site, to support our companies on their way to climate neutrality and to bring our economy into line with planetary boundaries. We ensure that German and Europe are at the forefront of the innovations of the future. We cannot remain in the status quo for this. Rather, we need more space and enthusiasm for the willingness and courage to take risks with new ideas and technologies."
+        },
+        {
+          "score": 0.32283487915992737,
+          "source": "Gruene_Program_en.pdf",
+          "location": "11 / 160",
+          "content": "Gruene: Russia's war of aggression against Ukraine is a threat to the European peace order and our democracy as a whole \u2013 which is why supporting Ukraine is also our best self-protection. Just as our European neighbours were there for us, so that we in Germany can live in freedom in the heart of Europe reunited, we are also there for our neighbours. Together, it is important to re-secure peace in freedom. Together with the many states around the world, which also know that standing up for a rules-based order is the best protection. Dear citizens, only if we transform our strengths into future strength will we be able to maintain and strengthen what is dear and dear to us. We emphasise this because we have also seen in recent years how tempting it is in politics to simply cover up the losses of the omitted change, according to the motto \"Nobody has to change here\", or to only dwell on the past. With Robert Habeck, a person is running for leadership of the next government who makes this difference. One that combines a policy of listening with orientation, learning government experience with the willingness to work itself, honesty with the willingness to tackle, strengthening the future with the strength of broad social connection."
+        },
+        {
+          "score": 0.3253900408744812,
+          "source": "Gruene_Program_en.pdf",
+          "location": "35 / 160",
+          "content": "Gruene: In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times. In this way, we are creating new financial leeway, which we will distribute appropriately between the federal and state governments. At the same time, we will ensure that the overall debt remains sustainable in the long term. This is also advised by leading economic institutes such as the International Monetary Fund (IMF), the Bundesbank and the German Federal Government's Council of Economic Experts. At the European level, we continue to advocate common fiscal rules that leave enough room for sustainable investment. After the grand coalition has ruined the country for almost two decades, we in the federal government have initiated the turnaround. Investments in climate and environmental protection, in transport, energy, education and research infrastructure, and in national security are priorities for us. We propose a reform of the debt brake and a Germany fund for investment expenditure. In order to finance current expenses, we want to close gaps in fairness in our tax system."
         }
-      ]
-    }
-  },
-  "citations": {
-    "0": {
-      "score": 0.2201402187347412,
-      "source": "Volt_Program_en.pdf",
-      "location": "21 / 164",
-      "content": "Volt: However, Germany's rigid debt brake massively restricts important future investments in infrastructure, education, climate protection and digitalisation. A reform of the debt brake enables a sustainable and economically smart fiscal policy that strengthens current and future generations."
+      ],
+      "citations_count": 6
     },
-    "1": {
-      "score": 0.22865158319473267,
-      "source": "Gruene_Program_en.pdf",
-      "location": "17 / 160",
-      "content": "Gruene: Behind every public investment, there is real economic value creation. We want to provide a strong, resilient and reliable infrastructure by strengthening and expanding public investment for it from national and European Union (EU) funds. To this end, we will also reform the debt system. However, the majority of the investments come from companies and other private actors. Anyone who invests in Germany should have an easier time with taxes: To this end, we are introducing a five-year, non-bureaucratic investment premium of 10 per cent for all companies and all investments with the exception of building investments. This premium is offset against the company's tax liability; if the premium exceeds the tax liability, it is paid out. We evaluate the effectiveness of this premium through annual monitoring. It is absolutely crucial that we not only develop good ideas, but that they also give rise to strong new German and European companies. Compared to the USA or China, we have so far had a major weakness in terms of access to financing."
+    "afd": {
+      "agreement": 60,
+      "explanation": "The AfD emphasizes the importance of security and the need for a stable peace order, which indirectly supports the idea of investing in NATO for strategic cooperation.",
+      "citations": [
+        {
+          "score": 0.3080727458000183,
+          "source": "AFD_Program_en.pdf",
+          "location": "87 / 177",
+          "content": "AFD: A stable European peace order requires balanced cooperation on the basis of the legitimate security interests of all European states. We reject an eastward expansion of the EU and NATO. The world is in a state of upheaval towards a multipolar world order. Germany must no longer be the object of foreign interests. Together with our European partners, we want to shape and guarantee a future stable peace order. We must expand our sovereignty, confidently formulate our national interests and pursue them stringently. The AfD supports the security policy concept of Europe's strategic autonomy and its manifestation of its own centre of power in the changing world order. A stable peace order in Europe and the world also secures vital foreign trade relations and primary energy needs for Germany. We therefore pursue an interest-driven relationship with the great powers of the world, with China and the USA, as well as with the Russian Federation. Until an independent and effective European military alliance is established, membership in NATO and an active role for Germany in the Organization for Security and Co-operation in Europe (OSCE) remain central elements of our security strategy."
+        },
+        {
+          "score": 0.32962891459465027,
+          "source": "AFD_Program_en.pdf",
+          "location": "89 / 177",
+          "content": "AFD: We also call for the development of offensive cyber capabilities to deter potential adversaries from attacking critical infrastructure. In addition to strengthening the personnel and material readiness to deploy, the Bundeswehr must also be revitalized ideally. In the event of defence, the motivation and loyalty of our soldiers to Germany are decisive for victory and defeat. The Bundeswehr should therefore once again cultivate a strong esprit de corps, its traditions and German values. The virtues of the soldier are honor, loyalty, comradeship, and bravery. The Bundeswehr must live the best traditions of German military history. These help to manifest soldierly attitude and virtues \u2013 also in public. Military songs and customs are part of it. Expanding civil defence in Germany With the end of the Cold War, civil protection measures in Germany were successively dismantled, so that the protection of the population in the event of defence is no longer guaranteed. There are not enough shelters available that are ready for use and operation. We therefore call for the establishment and expansion of an operational infrastructure for the civilian population."
+        }
+      ],
+      "citations_count": 2
     },
-    "2": {
-      "score": 0.24577662348747253,
-      "source": "Volt_Program_en.pdf",
-      "location": "6 / 164",
-      "content": "Volt: We have the chance to create a functioning Germany \u2013 for everyone. Our goal must be a Europe that grows together, solves problems together and plays a pioneering role \u2013 be it in defending democracy and freedom, designing a modern security architecture or developing economic and technological innovations. A federal European Union enables closer cooperation and allows Europe to develop its full strength. There is also great potential in Germany. Modern state reform strengthens federalism, creates clear responsibilities and makes the heart of our democracy \u2013 our municipalities \u2013 capable of acting. With the reform of the debt brake, we are paving the way for sustainable investments \u2013 in education, infrastructure and climate protection. In this way, we are setting the course for a secure and sustainable society. Digitization offers us the opportunity to rethink administration. Instead of time-consuming visits to the authorities, we are creating a digital administration that works efficiently, close to people and simply \u2013 as is already the case with our European neighbours. Of course, we must ensure that everyone's fundamental rights are also upheld in the digital space."
+    "bsw": {
+      "agreement": 50,
+      "explanation": "The BSW does not provide sufficient context to determine a specific position on NATO investment; hence an average agreement is assumed.",
+      "citations": [],
+      "citations_count": 0
     },
-    "3": {
-      "score": 0.253692626953125,
-      "source": "FDP_Program_en.pdf",
-      "location": "11 / 52",
-      "content": "FDP: But this strength lies in shackles: too much bureaucracy and regulation, a tax system that is hostile to performance, labor shortages and excessively high energy prices reduce our competitiveness. All this costs us prosperity, prevents social advancement and strengthens the political fringes. We want to and can change that. In order to initiate a real economic turnaround, far-reaching and structural reforms are necessary. We need growth and better supply conditions so that the country does not slip into pessimism and distribution struggles. Germany can become a leading economic nation again if we show the courage to change. Our goal: to secure prosperity and opportunities for advancement for all. So that optimism returns and Germany will still be a prosperous and strong country in ten years' time. We Free Democrats see the special economic challenges in the eastern German states, among other things due to a smaller-scale economic structure. Since 1990, it has not yet been possible to generate an economic power comparable to that of the western German states across the board. The financial situation also differs considerably."
-    },
-    "4": {
-      "score": 0.2548981010913849,
-      "source": "Gruene_Program_en.pdf",
-      "location": "35 / 160",
-      "content": "Gruene: The black zero in the budget is a mortgage for the future viability of our country. We will therefore set up a Germany Fund for the federal, state and local governments. From this, we will build the rails on which trains will take people to their destinations on time, renovate daycare centres, schools and universities where equal opportunities are created for all, finance research that will form the basis of the ideas and technologies for tomorrow's prosperity, and give companies the space to invest in their future. Funds from the Germany Fund will supplement regular budget funds. The investment backlog in Germany is in the three-digit billion range, even though we are an economically strong country. The debt brake in its current form prevents investments and other measures that stimulate our stagnating economy again. In order to finance the necessary investments in infrastructure, in the decarbonisation of our country and in a strong, sustainable economy, we want to reform the debt brake in line with European rules. The taking out of state loans is to be made possible to the extent that investments are made by the state. In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times."
-    },
-    "5": {
-      "score": 0.2582867443561554,
-      "source": "SPD_Program_en.pdf",
-      "location": "9 / 68",
-      "content": "SPD: We will improve working conditions in science by promoting predictable career paths, especially to achieve equality. We will use the Development of the German Agency for Transfer and Innovation. The shortage of skilled workers is currently becoming clear in many areas of our economy. There are wrong answers to this, such as \"We have to work longer\" or \"Fewer protective rights for employees\". The CDU strikes this tone, we don't. What is needed is really good training and more investment in qualification. We must leverage the potential of the many people in our country who have so far been pushed to the margins: especially young people without vocational qualifications and women in involuntary part-time work and mini-jobs. In addition, we still need the immigration of skilled workers. Studies show that we will need several hundred thousand skilled workers per year for Germany. We fight for Made in Germany 2. Made in Germany \u2013 what a beautiful seal of quality was and is that! And it should stay that way for a long, long time. Germany has become a frontrunner in world trade with the engines and machines of the 20th century. We want Made in Germany to remain a world leader in the technologies of the 21st century. In the fierce competition of a changing global economy, our industrial and business location is under pressure."
-    },
-    "6": {
-      "score": 0.25833672285079956,
-      "source": "SPD_Program_en.pdf",
-      "location": "5 / 68",
-      "content": "SPD: We fight for new growth and secure jobs. This is the first, but certainly not the last, time that we will use the words \"We fight for\". We could also write \"We are committed to\" or \"We are committed to it\". But we all feel how great the urgency is with which we have to tackle issues. So: Let's fight together for what is close to our hearts and what will lead our country in the future. For example, with clear framework conditions and a real investment turbo, we are creating a growth environment for our companies. Germany needs a decade of sustainable innovations and investments. With our policy, we are getting both off the ground: clever inventions that make life better, that secure jobs and prosperity. And a public infrastructure that makes everyday life easier because it simply works. In a modern country with the right framework conditions, industry, SMEs, services, crafts, start-ups and agriculture can flourish. The employees can make their contribution through diligent work and good ideas and spend a good life together with their families. The German economy is in a challenging situation. Important investments in the future are currently failing to materialize. This endangers jobs and prosperity. With targeted measures, we will ignite the turbo for future investments in our state. We want to reduce energy prices and strategically promote key successful industries."
-    },
-    "7": {
-      "score": 0.2600237727165222,
-      "source": "AFD_Program_en.pdf",
-      "location": "11 / 177",
-      "content": "AFD: To this end, we strive for school and vocational training designed for performance and talent development. Our universities should be able to attract first-class talent from Germany and all over the world and make our country an international innovation leader in the top industries. In addition to traditional industries such as automotive engineering, mechanical engineering and chemistry, we also include modern high technologies such as dual-fluid nuclear technology, space technology, nanotechnology and artificial intelligence. Germany has become unattractive as a business location In earlier decades, Germany stood out internationally through economic and scientific excellence. The current situation, on the other hand, is marked by economic and scientific decline. Technology specifications, requirements and bans partially suspend market-based competition; Suboptimal technical solutions and products are the result. Many of them are not marketable without government subsidies, for example alternative energies and electric cars. Many requirements are also incompatible with the resources of our country. This applies to limited access to raw materials such as rare earths for alternative energies and drives, to cheap fossil or nuclear energy as well as to well-trained domestic and foreign skilled workers."
-    },
-    "8": {
-      "score": 0.2633145749568939,
-      "source": "CDU_Program_en.pdf",
-      "location": "11 / 82",
-      "content": "CDU: We know that with personal responsibility, performance and solidarity, something great can happen again. We believe in the power and inventiveness of people. We believe in a defensive German state that assumes responsibility in Europe and the world and represents its interests with self-confidence. We believe in the great power in our country. We will release this power. To do this, our country needs a government that works reliably and tackles the things that really matter: prosperity for all, security and cohesion. Our country needs stability and a new beginning. Our country needs a change of policy. To this end, we as the CDU and CSU are running together in the Bundestag elections. And for this we are campaigning for trust. We believe that Germany will move forward again with a new policy. We are making sure that Germany is moving forward again with a new policy. Now it's time to do instead of talk! Governing instead of arguing! We have a plan for Germany. Time is pressing. We are providing a strong impetus for new beginnings and confidence. We want a country that creates prosperity for all again. We want a country that is free and safe again. We want a country that sticks together again. We want to bring Germany forward again. A Germany of which we can be proud again."
-    },
-    "9": {
-      "score": 0.2673727869987488,
-      "source": "Gruene_Program_en.pdf",
-      "location": "35 / 160",
-      "content": "Gruene: In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times. In this way, we are creating new financial leeway, which we will distribute appropriately between the federal and state governments. At the same time, we will ensure that the overall debt remains sustainable in the long term. This is also advised by leading economic institutes such as the International Monetary Fund (IMF), the Bundesbank and the German Federal Government's Council of Economic Experts. At the European level, we continue to advocate common fiscal rules that leave enough room for sustainable investment. After the grand coalition has ruined the country for almost two decades, we in the federal government have initiated the turnaround. Investments in climate and environmental protection, in transport, energy, education and research infrastructure, and in national security are priorities for us. We propose a reform of the debt brake and a Germany fund for investment expenditure. In order to finance current expenses, we want to close gaps in fairness in our tax system."
-    },
-    "10": {
-      "score": 0.2691296935081482,
-      "source": "FDP_Program_en.pdf",
-      "location": "9 / 52",
-      "content": "FDP: The German Agency for Transfer and Innovation must be established quickly. Because we are also in a new system competition in science. The future strategy of research and innovation must be consistently driven forward and further developed. We want a technology-open Freedom of Research Act and thus create the conditions for the construction of fusion power plants in Germany through excellent fusion research, reform the obstructive legal framework for genetic engineering and strengthen stem cell research. In the health sector, we want to place an increased focus on neurodegenerative diseases such as Alzheimer's and Parkinson's as well as on women-specific health areas."
-    },
-    "11": {
-      "score": 0.2707308530807495,
-      "source": "FDP_Program_en.pdf",
-      "location": "6 / 52",
-      "content": "FDP: World's best education for self-confident citizens Germany's future lies in its people \u2013 their ideas, their potential and their freedom. Education and research are the most valuable resources of our country. In recent years, there has been a negative trend in the education system. We want to reverse it. Because: Everything can be changed. Education must once again be the key to personal advancement and a self-determined life \u2013 regardless of social background, age, gender, religion, educational background of parents and place of residence. New global challenges and rapid social change require a real paradigm shift in our education system. We have to think about education holistically \u2013 from cr\u00e8che to kindergarten, schools, vocational schools and universities to offers for lifelong learning. Excellence is a clear goal for us Free Democrats. Talent, passion and dedication lead to innovation and scientific progress. Germany as a research location needs more quality, networking, equal opportunities and excellence. With more academic freedom and optimal framework conditions, anything is possible. Great opportunities for the youngest: Strengthening early childhood education We Free Democrats see early childhood education as the cornerstone of a society that can develop its full potential. This is where we want to start in a more targeted and effective way. Lifelong learning begins in the sandbox, not at school."
-    },
-    "12": {
-      "score": 0.27077579498291016,
-      "source": "SPD_Program_en.pdf",
-      "location": "15 / 68",
-      "content": "SPD: This requires a joint effort by the federal, state and local governments. We want everyone to work together to modernise our infrastructure. We have to invest in tomorrow, the day after tomorrow and also in the day after tomorrow. The necessary public investment must be made quickly in order to resolve the existing investment backlog and to create better conditions for private investment. Privatisation of infrastructure remains out of the question. We stand for a financial policy that is fair to all generations and no longer passes on necessary investments to future generations. Our financial policy is strategically designed and ensures growth as well as change. More for you. Better for Germany."
-    },
-    "13": {
-      "score": 0.27130383253097534,
-      "source": "Gruene_Program_en.pdf",
-      "location": "14 / 160",
-      "content": "Gruene: German must build on this strength in order to tackle the major structural challenges we are facing: Russia's war of aggression on Ukraine and the systemic conflict between liberal democracies and authoritarian states around China require a realignment of economic security and trade, supply chains and sales markets. We will only win this competition in economic terms if we make maximum use of the great advantage of liberal democracy: that people have new ideas and can discover and develop things freely. In the next government, we want to continue working to remedy the structural weaknesses of our site, to support our companies on their way to climate neutrality and to bring our economy into line with planetary boundaries. We ensure that German and Europe are at the forefront of the innovations of the future. We cannot remain in the status quo for this. Rather, we need more space and enthusiasm for the willingness and courage to take risks with new ideas and technologies."
-    },
-    "14": {
-      "score": 0.27176204323768616,
-      "source": "Volt_Program_en.pdf",
-      "location": "60 / 164",
-      "content": "Volt: That's why Volt is committed to this future: \u2022  Limitation of fossil fuels: The use of fossil fuels in industrial plants will be limited until 2035, and new plants must use climate-neutral energy sources such as electricity and hydrogen."
-    },
-    "15": {
-      "score": 0.27181002497673035,
-      "source": "CDU_Program_en.pdf",
-      "location": "4 / 82",
-      "content": "CDU: Germany must become a centre of excellence and innovation location for future technologies \u2013 from aerospace to quantum computing. We will pursue a new, ambitious space strategy. With a \"start-up protection zone\", we are largely freeing ourselves from bureaucratic regulations in the start-up phase. We must take advantage of the opportunities offered by open data for innovation and growth. For a strong and just welfare state This is what employees expect from politicians. And rightly so, because they create our prosperity with their will to perform. We act. What matters most now: \u2022  We abolish the so-called \"citizen's allowance\" and replace it with a new basic security. Promoting and demanding must always apply. Wage determination must be a matter for the social partners \u2013 in the sense of fairness and economic reason. We reject a wealth tax."
-    },
-    "16": {
-      "score": 0.27219539880752563,
-      "source": "CDU_Program_en.pdf",
-      "location": "2 / 82",
-      "content": "CDU: Every federal government is rightly expected to do better for the country and its people at the end of their term of office. The traffic light has disappointed these expectations. Germany has three lost years behind us \u2013 and historically great challenges ahead of us. A lot is at stake in the coming years. It is about our freedom, it is about peace, prosperity, security and the cohesion of our society. At the same time, we know about the power that lies in our country and in each and every one of us. We have everything we need to bring Germany forward again. The aim is to unleash this potential again. To do this, our country needs a federal government that tackles the really important things again: securing peace in freedom, prosperity for all, security and cohesion. Our country needs stability and a new beginning. Our country needs a change of policy! We are convinced that with a new policy, we can ensure that German land moves forward again. And our promise is: We will make sure of it. We have a plan for this: For a new promise of prosperity Germany needs a policy for the hard-working population again \u2013 an agenda for the hard-working. It is now a matter of broad-based relief. We act. What matters most now: \u2022  We are relieving the burden on people with low and middle incomes in particular."
-    },
-    "17": {
-      "score": 0.27512553334236145,
-      "source": "SPD_Program_en.pdf",
-      "location": "5 / 68",
-      "content": "SPD: We want to reduce energy prices and strategically promote key successful industries. We need affordable energy, otherwise our companies in Germany will run out of energy. We invest in a secure and affordable energy supply through renewable energies. We want internationally competitive energy prices. We provide planning and investment security for energy costs through stable prices, from grid fees to electricity tax to the CO price. Especially in the north and east, where a large proportion of the 2 wind energy in Germany, high grid charges are an urgent problem. The switch to cheap More for you. Better for Germany."
+    "linke": {
+      "agreement": 20,
+      "explanation": "The Linke are generally more skeptical about military spending and NATO; thus, agreement is low.",
+      "citations": [],
+      "citations_count": 0
     }
   }
 }

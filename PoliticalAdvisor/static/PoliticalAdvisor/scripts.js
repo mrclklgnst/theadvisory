@@ -61,7 +61,8 @@ function displayBotMessage(data) {
         introText.innerText = languageContext["tableTitle"];
         botMessage.appendChild(introText);
 
-        botMessage.appendChild(createTable(data));
+        botMessage.appendChild(createPartyList(data));
+        // botMessage.appendChild(createTable(data));
     }
 
     // show bot message
@@ -69,11 +70,47 @@ function displayBotMessage(data) {
     scrollToBottom();
 
 }
-
-
-
-
 let currentCarouselIndex = 0;
+
+function createPartyList(data) {
+    let container = document.createElement("div");
+    container.className = "party-list"; // Apply custom styles
+
+    for (let party in data) {
+        let partyContainer = document.createElement("div");
+        partyContainer.className = "party-entry p-3 border-bottom"; // Bootstrap classes for spacing and divider
+
+        // Party Name & Relevance
+        let header = document.createElement("div");
+        header.className = "d-flex justify-content-between align-items-center"; // Flexbox for spacing
+        let button = document.createElement("button");
+        button.innerText = "Citations";
+        button.className = "btn btn-dark btn-sm";
+        button.onclick = function() {
+            openCitationModal(party, data[party].citations);
+        };
+
+        header.innerHTML = `
+            <strong>${party.toUpperCase()}</strong> 
+            <span class="ml-2">Relevance: ${data[party].agreement}%</span>
+        `;
+        header.appendChild(button);
+
+        // Explanation
+        let explanation = document.createElement("p");
+        explanation.className = "mt-2"; // Bootstrap styling
+        explanation.innerText = data[party].explanation;
+
+        // Append elements
+        partyContainer.appendChild(header);
+        partyContainer.appendChild(explanation);
+        container.appendChild(partyContainer);
+    }
+
+    return container;
+}
+
+
 
 function showCarouselItem(direction) {
     // Get all carousel items

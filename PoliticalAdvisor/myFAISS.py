@@ -248,7 +248,7 @@ def build_graph(vector_store):
     def retrieve(state: State):
         # Pull relevant docs from the vector stored
         retrieved_docs = []
-        results = vector_store.similarity_search_with_score(state['question'], k=20)
+        results = vector_store.similarity_search_with_score(state['question'], k=30)
         for doc, score in results:
             party = doc.metadata['source'].split("_")[0].lower()
             doc.metadata['party'] = party
@@ -320,7 +320,7 @@ def build_graph_en(vector_store):
     # Define application steps
     def retrieve(state: State):
         retrieved_docs = []
-        results = vector_store.similarity_search_with_score(state['question'], k=20)
+        results = vector_store.similarity_search_with_score(state['question'], k=30)
         for doc, score in results:
             logger.info(f"Source: {doc.metadata['source']}")
             party = doc.metadata['source'].split("_")[0].lower()
@@ -385,21 +385,18 @@ def respond_to_query(user_query, graph):
         logger.info('Response from OpenAI not in expected format')
         response["answer"] = answer_raw
 
+    # Create list of parties
     party_list = response['answer'].keys()
 
-    # Create a list of citations from the similarity search
-    citations = {}
-    for i, c in enumerate(result["context"]):
-        citation_dict = {}
-        citation_dict["score"] = c.metadata["score"]
-        citation_dict["source"] = c.metadata["source"]
-        citation_dict["location"] = str(c.metadata["page"])+" / "+str(c.metadata["total_pages"])
-        citation_dict["content"] = c.page_content
-        citations[i] = citation_dict
+    # Sort parties by agreement score
+    response['answer'] = {k: v for k, v in sorted(response['answer'].items(),
+                                                  key=lambda item: item[1]['agreement'], reverse=True)}
+
 
     citations_structured = {}
     for party in party_list:
         citations_structured[party] = []
+        party_citation_count = 0
         for i, c in enumerate(result["context"]):
             if c.metadata["party"] == party:
                 citation_dict = {}
@@ -408,15 +405,16 @@ def respond_to_query(user_query, graph):
                 citation_dict["location"] = str(c.metadata["page"])+" / "+str(c.metadata["total_pages"])
                 citation_dict["content"] = c.page_content
                 citations_structured[party].append(citation_dict)
+                party_citation_count += 1
+        response["answer"][party]["citations_count"] = party_citation_count
 
     # Add list of citations to party answer
     for party in party_list:
         response["answer"][party]["citations"] = citations_structured[party]
 
-    # Store the citations in the response
-    response['citations'] = citations
 
-    logger.info(f"Returning response: {response}")
+
+
 
     return response
 
