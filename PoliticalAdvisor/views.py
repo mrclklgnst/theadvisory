@@ -54,7 +54,6 @@ def analyze_user_input(request):
 
 
         if mockup_response == "True":
-
             try:
                 # try to load local JSON
                 with open("response.json", "r") as f:

@@ -250,6 +250,8 @@ def build_graph(vector_store):
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=10)
         for doc, score in results:
+            party = doc.metadata['source'].split("_")[0].lower()
+            doc.metadata['party'] = party
             citation = doc.metadata['source'].split("_")[0] + ": "
             cont = doc.page_content
             cont = cont.replace('\n', ' ')
@@ -320,6 +322,8 @@ def build_graph_en(vector_store):
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=10)
         for doc, score in results:
+            party = doc.metadata['source'].split("_")[0].lower()
+            doc.metadata['party'] = party
             citation = doc.metadata['source'].split("_")[0] + ": "
             cont = doc.page_content
             cont = cont.replace('\n', ' ')
@@ -359,7 +363,27 @@ def respond_to_query(user_query, graph):
     response = {}
 
     # Store the chatbot answer
-    response['answer'] = result["answer"]
+    answer_raw = result["answer"]
+
+    # Clean answer from the chatbot enforcing JSON response
+    try:
+        # check if answer is a dictionary
+        if isinstance(answer_raw, dict):
+            response['answer'] = answer_raw
+        # else try to reformat the answer
+        else:
+            try:
+                # try cleaning excess characters from the answer
+                dict_cleaned = dict(answer_raw.replace("```json\n", "").replace("```", "").strip())
+                response["answer"] = dict_cleaned
+            except:
+                logger.info('Response from OpenAI not in expected format')
+                response["answer"] = answer_raw
+    except:
+        logger.info('Response from OpenAI not in expected format')
+        response["answer"] = answer_raw
+
+    party_list = response['answer'].keys()
 
     # Create a list of citations from the similarity search
     citations = {}
@@ -371,8 +395,26 @@ def respond_to_query(user_query, graph):
         citation_dict["content"] = c.page_content
         citations[i] = citation_dict
 
+    citations_structured = {}
+    for party in party_list:
+        citations_structured[party] = []
+        for i, c in enumerate(result["context"]):
+            if c.metadata["party"] == party:
+                citation_dict = {}
+                citation_dict["score"] = c.metadata["score"]
+                citation_dict["source"] = c.metadata["source"]
+                citation_dict["location"] = str(c.metadata["page"])+" / "+str(c.metadata["total_pages"])
+                citation_dict["content"] = c.page_content
+                citations_structured[party].append(citation_dict)
+
+    # Add list of citations to party answer
+    for party in party_list:
+        response["answer"][party]["citations"] = citations_structured[party]
+
     # Store the citations in the response
     response['citations'] = citations
+
+    logger.info(f"Returning response: {response}")
 
     return response
 
