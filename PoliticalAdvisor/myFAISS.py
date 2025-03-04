@@ -248,7 +248,7 @@ def build_graph(vector_store):
     def retrieve(state: State):
         # Pull relevant docs from the vector stored
         retrieved_docs = []
-        results = vector_store.similarity_search_with_score(state['question'], k=10)
+        results = vector_store.similarity_search_with_score(state['question'], k=20)
         for doc, score in results:
             party = doc.metadata['source'].split("_")[0].lower()
             doc.metadata['party'] = party
@@ -320,7 +320,7 @@ def build_graph_en(vector_store):
     # Define application steps
     def retrieve(state: State):
         retrieved_docs = []
-        results = vector_store.similarity_search_with_score(state['question'], k=10)
+        results = vector_store.similarity_search_with_score(state['question'], k=20)
         for doc, score in results:
             logger.info(f"Source: {doc.metadata['source']}")
             party = doc.metadata['source'].split("_")[0].lower()
@@ -334,7 +334,8 @@ def build_graph_en(vector_store):
             citation = citation + content
             doc.page_content = citation
             doc.metadata['score'] = float(score)
-            retrieved_docs.append(doc)
+            if len(citation)>100:
+                retrieved_docs.append(doc)
         return {"context": retrieved_docs}
 
     def generate(state: State):
