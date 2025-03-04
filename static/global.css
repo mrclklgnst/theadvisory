@@ -47,6 +47,7 @@ h1 {
 
 /* 🟢 Main chat container */
 .chat-container {
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

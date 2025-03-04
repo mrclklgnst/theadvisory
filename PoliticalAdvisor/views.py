@@ -88,12 +88,16 @@ def analyze_user_input(request):
                 model_output = respond_to_query(user_input, graph)
                 # check if answer in needed format
                 if isinstance(model_output["answer"], dict):
+                    with open("response.json", "w") as f:
+                        json.dump(model_output, f, indent=2)
                     return JsonResponse({"message": model_output})
                 # else try to reformat the answer
                 else:
                     try:
                         dict_cleaned = dict(model_output["answer"].replace("```json\n", "").replace("```", "").strip())
                         model_output["answer"] = dict_cleaned
+                        with open("response.json", "w") as f:
+                            json.dump(model_output, f, indent=2)
                         return JsonResponse({"message": model_output})
                     except:
                         logger.info('Response from OpenAI not in expected format')

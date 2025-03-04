@@ -219,7 +219,7 @@ function createTable(data) {
     // Create table header
     let thead = table.createTHead();
     let headerRow = thead.insertRow();
-    let headers = ["Partei", "Relevanz", "Position"];
+    let headers = ["Partei", "Relevanz", "Position", "Citations"];
     headers.forEach(headerText => {
         let th = document.createElement("th");
         th.innerText = headerText;
@@ -254,6 +254,19 @@ function createTable(data) {
         cell3.style.border = "1px solid #ddd";
         cell3.style.padding = "8px";
 
+        // Citations Button
+        let cell4 = row.insertCell(3);
+        let button = document.createElement("button");
+        button.innerText = "View Citations";
+        button.className = "btn btn-dark";
+        button.onclick = function() {
+            openCitationModal(party, data[party].citations);
+        };
+        cell4.appendChild(button);
+        cell4.style.textAlign = "center";
+        cell4.style.border = "1px solid #ddd";
+        cell4.style.padding = "8px";
+
         rows.push(row);
     }
 
@@ -268,6 +281,63 @@ function createTable(data) {
     rows.forEach(row => tbody.appendChild(row));
 
     return table;
+}
+
+function openCitationModal(party, citations) {
+    document.getElementById("modal-title").innerText = `Citations for ${party}`;
+    let carouselContainer = document.getElementById("citationCarousel");
+    carouselContainer.innerHTML = "";  // Clear existing citations
+
+    citationItems = [];  // Reset citations
+    currentCitationIndex = 0;
+
+    // Create citation elements
+    for (let i in citations) {
+        let citationDiv = document.createElement("div");
+        citationDiv.className = "carousel-item";
+        citationDiv.innerHTML = `
+            <div class="citation">
+                <strong>${citations[i].source.toUpperCase()}</strong>
+                <p>Page: ${citations[i].location}</p>
+                <p id="citation-text">${citations[i].content}</p>
+            </div>
+        `;
+        if (i == 0) {
+            citationDiv.classList.add("active");
+        }
+        citationItems.push(citationDiv);
+        carouselContainer.appendChild(citationDiv);
+    }
+
+    // Add Navigation Buttons
+    let controls = document.createElement("div");
+    controls.className = "carousel-controls";
+
+    let prevButton = document.createElement("button");
+    prevButton.className = "carousel-control-prev";
+    prevButton.innerHTML = "&#10094;";
+    prevButton.onclick = () => showCitationItem(-1);
+
+    let nextButton = document.createElement("button");
+    nextButton.className = "carousel-control-next";
+    nextButton.innerHTML = "&#10095;";
+    nextButton.onclick = () => showCitationItem(1);
+
+    controls.appendChild(prevButton);
+    controls.appendChild(nextButton);
+    carouselContainer.appendChild(controls);
+
+    document.getElementById("citationModal").style.display = "flex";
+}
+
+function closeCitationModal() {
+    document.getElementById("citationModal").style.display = "none";
+}
+
+function showCitationItem(direction) {
+    citationItems[currentCitationIndex].classList.remove("active");
+    currentCitationIndex = (currentCitationIndex + direction + citationItems.length) % citationItems.length;
+    citationItems[currentCitationIndex].classList.add("active");
 }
 
 

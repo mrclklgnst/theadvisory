@@ -322,6 +322,7 @@ def build_graph_en(vector_store):
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=10)
         for doc, score in results:
+            logger.info(f"Source: {doc.metadata['source']}")
             party = doc.metadata['source'].split("_")[0].lower()
             doc.metadata['party'] = party
             citation = doc.metadata['source'].split("_")[0] + ": "
