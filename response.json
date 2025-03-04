@@ -1,155 +1,199 @@
 {
   "answer": {
-    "gruene": {
-      "agreement": 90,
-      "explanation": "Strongly support expanding public transport and making areas more accessible, aligning directly with radius enhancement.",
+    "spd": {
+      "agreement": 80,
+      "explanation": "The SPD's focus on socio-ecological change and infrastructure modernization aligns closely with the statement.",
       "citations": [
         {
-          "score": 0.43259963393211365,
-          "source": "Gruene_Program_en.pdf",
-          "location": "47 / 160",
-          "content": "Gruene: We want to bring the catalogue of fines for serious traffic offences up to European level. In order to develop traffic areas into urban spaces with a quality of stay, we will make public spaces more attractive, expand accessibility and increase traffic safety \u2013 especially on the way to school. We want to promote urban redevelopment more strongly and renew outdated regulations, for example to end exceptions to accessibility in local transport. Our guiding principle is Vision Zero, i."
+          "score": 0.43293651938438416,
+          "source": "SPD_Program_en.pdf",
+          "location": "12 / 68",
+          "content": "SPD: We will ensure that there is security in the change and guarantee support when professional training or reorientation is necessary or desired. To ensure that today's employees can also acquire the knowledge and skills for the work of tomorrow, we have renewed the Federal Employment Agency's further training funding with the Transformation Grant and the Qualification Allowance, among other things, and thus reach small craft businesses or service providers as well as the DAX Group. More for you. Better for Germany."
         },
         {
-          "score": 0.4809669852256775,
-          "source": "Gruene_Program_en.pdf",
-          "location": "45 / 160",
-          "content": "Gruene: We are ensuring this with more soil unsealing, fresh air corridors, building greening, urban greenery and public drinking fountains. As sponge cities, they will absorb and store more water in the future and have a cooling effect in summer. This will enable these cities to make better use of large quantities of water, for example for irrigating green spaces. We want to specifically promote the exchange and networking of cities and districts in order to expand climate adaptation strategies more quickly. D. A mobile society \u2013 urban and rural together For sustainable, safe and speedy progress Rails, roads and bridges are the lifelines of our country, but they have been driven to wear and tear for decades. We all feel the consequences in our everyday lives: delayed trains, detours and traffic jams. This is a damage to people, the economy and the environment. After all, mobility is also a key to social participation. At the same time, our transport system is still very far from making its contribution to achieving the climate targets. The transport sector must finally return to its path in line with the climate targets. We will ensure that because we have the ideas and concepts for this \u2013 for example, through a reliable range of buses and trains and with a clear signal towards climate-friendly e-mobility. We want to improve mobility for everyone."
-        },
-        {
-          "score": 0.48384058475494385,
-          "source": "Gruene_Program_en.pdf",
-          "location": "46 / 160",
-          "content": "Gruene: For health protection, we are creating a limit value for ultrafine dust. In many places, being mobile in the countryside still requires your own car. We want real freedom of choice and therefore develop public transport in such a way that it becomes an alternative to the car that is suitable for everyday use in rural areas as well. On-demand buses and other concepts such as digitally networked minibuses and carring services can complement regular transport in the area. Some municipalities and districts already offer such flexible concepts. We would like to strengthen such concepts and implement them as model projects in as many different regions of Germany as possible."
-        },
-        {
-          "score": 0.4957737624645233,
-          "source": "Gruene_Program_en.pdf",
-          "location": "49 / 160",
-          "content": "Gruene: For equivalent living conditions There is a lot of strength in rural regions. From world-leading companies to fertile soils and unique natural treasures, there is much here that characterises our country. The diverse landscapes and settlements, regional cultures and local traditions must be protected and the equality of living conditions improved. In order for personal initiative, entrepreneurial spirit and drive to develop fully, a modern infrastructure is needed in every village, throughout the country. With renewable energies and climate protection, it is possible to be in the black locally. The municipalities earn money from local energy generation from wind and sun and thus gain their own financial leeway. They decide for themselves whether the swimming pool is renovated or the community centre is expanded. Through conversion and renovation, empty village centres can be brought back to life. A state-of-the-art digital infrastructure is indispensable for economic innovation and working from home \u2013 as well as for social participation. And that means: fiber optics in urban and rural areas as well as mobile communications without dead spots."
-        }
-      ],
-      "citations_count": 4
-    },
-    "volt": {
-      "agreement": 85,
-      "explanation": "Advocacy for reliable, barrier-free public transport aligns with expanding radius for better mobility for all.",
-      "citations": [
-        {
-          "score": 0.48161375522613525,
-          "source": "Volt_Program_en.pdf",
-          "location": "68 / 164",
-          "content": "Volt: Fewer cars mean cleaner air, less congestion and more space for people. We all benefit from this through shorter distances, better public transport and more space for active forms of mobility such as cycling and walking. That's why Volt is committed to this future: \u2022  Public transport as an alternative: Public transport will be developed reliably, barrier-free and at close intervals. BEST PRACTICE Bicycle parking garage in Utrecht \u2013 A model for parking bicycles A bicycle parking garage with over 12,500 parking spaces has been opened in Utrecht, the largest in the world. It is located near the main train station and is characterized by modern security measures and a user-friendly design. The multi-storey car park promotes cycling and helps to relieve urban traffic by offering commuters a safe and efficient way to park their bicycles."
-        },
-        {
-          "score": 0.5010938048362732,
-          "source": "Volt_Program_en.pdf",
-          "location": "68 / 164",
-          "content": "Volt: MOBILITY IN RURAL AREAS Mobility in rural areas is a particular challenge that requires innovative and sustainable solutions. The aim is to maintain individual mobility and at the same time create environmentally friendly alternatives. We all benefit from flexible offers that make our everyday lives easier and promote climate-friendly transport."
+          "score": 0.4411432147026062,
+          "source": "SPD_Program_en.pdf",
+          "location": "16 / 68",
+          "content": "SPD: Not only the federal government, but also the states and municipalities need the necessary financial leeway for this. We therefore propose a pact for the future of the federal, state and local governments. This includes the reform of the debt rule already described in order to give the states more financial leeway. In addition, we want to make the highest assets in our country more responsible for financing the community. Inheritance and gift tax as well as wealth tax then strengthen the revenue side of the More for you. Better for Germany."
         }
       ],
       "citations_count": 2
     },
-    "spd": {
+    "volt": {
       "agreement": 80,
-      "explanation": "Support for sustainable transport solutions encourages radius expansion while addressing climate concerns.",
-      "citations": [
-        {
-          "score": 0.5011252760887146,
-          "source": "SPD_Program_en.pdf",
-          "location": "35 / 68",
-          "content": "SPD: We want to introduce a speed limit of 130 km/h on federal motorways. A speed limit has so many advantages that it is almost impossible to justify not introducing it. We are massively lagging behind here in a European and international comparison. If a speed limit protects human lives, why don't we do it? If a speed limit massively reduces stress, traffic jams and accidents, why don't we do it? If a speed limit is good for nature, the climate and the surrounding residential area, why don't we introduce it? It's time. We will promote the procurement of climate-friendly trucks and local buses, where CO emissions can be saved particularly quickly. We are tackling the shortage of drivers 2 drivers in road freight transport and enforce humane, fair and attractive working conditions for professional drivers inside and outside their vehicles, for example the inclusion of the truck cab in the protection of the Workplace Ordinance. We want to shape the path to climate-neutral air transport in the sense of a fair competition (level playing field) for our airports and airlines. We are striving for uniform regulations throughout the EU that avoid the leakage of CO emissions More for you. Better for Germany."
-        },
-        {
-          "score": 0.5014272928237915,
-          "source": "SPD_Program_en.pdf",
-          "location": "10 / 68",
-          "content": "SPD: We are reducing bureaucracy in the Carbon Border Adjustment (CBAM) mechanism 2 mechanism) and supplement it with export promotion. We are also continuing our successful climate club, a growing circle of countries that are setting common standards so that there are no longer 28 different standards for green steel. The EU must position itself more independently and shift strategic value creation back to Europe. This requires a European resilience strategy that reduces risks (de-risking ), effectively protects critical infrastructures and relocates strategically important key industries back to Europe. Together with our European partners, we will review local content rules and localization obligations. More for you. Better for Germany."
-        },
-        {
-          "score": 0.5026955008506775,
-          "source": "SPD_Program_en.pdf",
-          "location": "52 / 68",
-          "content": "SPD: The goals of our climate protection policy are to avoid greenhouse gas emissions by accelerating the expansion of renewable energies, efficient energy management, decarbonization of industry and a more comprehensive circular economy. We therefore follow the principle of \"CO 2- Avoidance of CO 2 Nuclear power in Germany is shut down and that's a good thing. What is needed now is the safe final disposal of radioactive materials. We will constructively accompany and accelerate the repository search procedure without jeopardising safety. We want to strengthen modern agriculture and forestry as well as ecological diversity. Agricultural businesses are part of the core area of the medium-sized economy in Germany. About one in ten jobs depends directly or indirectly on agriculture. However, the production of food is more than just an economic sector. Agriculture has shaped the identity of rural areas for centuries and the work of farmers deserves our respect. For us, the future of agriculture is digital and low in bureaucracy. This is one of the reasons why we want to strengthen farmers in mastering the challenges of the future. Agricultural activities need regional and sustainable perspectives in order to have a long-term and responsible effect."
-        },
-        {
-          "score": 0.5035586357116699,
-          "source": "SPD_Program_en.pdf",
-          "location": "35 / 68",
-          "content": "SPD: More and more people are switching to buses, trains or bicycles. In terms of a sustainable future, this is a great development. But: For many, the car is an indispensable companion. For those who drive combustion engines today, we want to make it attractive to switch to an electric car the next time they buy or lease a car. We will continue to drive forward the nationwide expansion of the charging infrastructure for cars and trucks in a targeted manner. In addition to the new subsidy for e-cars, we want to strengthen the driving experience with electric cars all around: Our goal is fast-charging stations in every supermarket parking lot and at every gas station. We want to enable a contactless and uniform payment system at all charging stations and one's own car as an electricity storage system at home. Refuelling at the public charging station must not be punished with high price surcharges. The driver's license has simply become too expensive for many young people. This leads to problems, especially in rural areas. Against the backdrop of increased rates of failed exams and rising prices, we will reform driver training, including theory lessons, in the interests of road safety and efficiency, also with the aim of noticeably reducing the costs of driver training."
-        }
-      ],
-      "citations_count": 4
-    },
-    "fdp": {
-      "agreement": 70,
-      "explanation": "Encouragement for job opportunities and reducing bureaucracy can help expand radius but may prioritize self-responsibility.",
-      "citations": [
-        {
-          "score": 0.47994083166122437,
-          "source": "FDP_Program_en.pdf",
-          "location": "19 / 52",
-          "content": "FDP: We want to adapt the reasonableness rules so that longer commutes and removals are also reasonable for people without children and without relatives in need of care. In addition, we want to introduce job opportunities for total objectors. Recently, the citizen's allowance has risen disproportionately to inflation. The standard rate will continue to be above demand in 2025. That is why we want to create the prerequisites for lowering the standard rate by abolishing the so-called vested rights regulation. This strengthens the incentives to work. We want to improve the additional income rules in basic income support and housing benefit in such a way that work and performance pay off noticeably more and more. We want to reform the rules on additional income in such a way that it is not the combination of citizen's allowance and mini-job that is particularly worthwhile, but rather to work your way out of a social benefit bit by bit. It cannot be that working people first pay taxes and then have to apply for social benefits from a tax-financed authority. We want to change this by coordinating the tax and social systems in line with performance in the sense of a negative income tax."
-        }
-      ],
-      "citations_count": 1
-    },
-    "linke": {
-      "agreement": 60,
-      "explanation": "Support for public transport as a means to expand accessibility and improve radius, in line with Vision Zero.",
-      "citations": [
-        {
-          "score": 0.48352551460266113,
-          "source": "Linke_Program_en.pdf",
-          "location": "36 / 60",
-          "content": "Linke: Every traffic fatality and injury is one too many Die Linke is committed to Vision Zero We support, among other things, the Schulstra\u00dfe model Railway: Repair, expand and operate for the benefit of the public! The railways are a vital part of our society's public services It is the backbone of public transport The form of a stock corporation with its profit interests is in contradiction to this: the public welfare orientation for the infrastructure division of the railway (InfraGo) was only half the way."
-        }
-      ],
-      "citations_count": 1
-    },
-    "bsw": {
-      "agreement": 50,
-      "explanation": "Moderate support as enhancing infrastructure benefits urban and rural areas, though specific position is unclear.",
+      "explanation": "Volt's progressive vision for technology and society aligns well with the themes present in the statement.",
       "citations": [],
       "citations_count": 0
     },
     "afd": {
-      "agreement": 45,
-      "explanation": "Support for rural infrastructure and self-organization, but opposition to urban expansion and regulations may limit radius.",
+      "agreement": 75,
+      "explanation": "The AfD emphasizes sovereignty, control over digital infrastructure, and the preservation of cash, aligning with concerns in the statement.",
       "citations": [
         {
-          "score": 0.4749722480773926,
+          "score": 0.4102483093738556,
           "source": "AFD_Program_en.pdf",
-          "location": "39 / 177",
-          "content": "AFD: In order for them to be able to participate in social and economic life on an equal footing, the infrastructure and, above all, public transport must be expanded in line with demand and fit for the future. Rural areas are characterised by a high level of self-responsibility and self-organisation on the part of its citizens. If the feeling of home is stronger than the attractions of urban areas, people will want to continue living in rural areas. It is indispensable for people to remain in their homeland that it does not degenerate into an industrial park due to the expansion of large-scale wind turbines. The size and frequency of such turbines and their excessive attachment to wind farms destroy the landscape of entire regions, while even small residential buildings in the outer area still have no chance of obtaining a building permit. This was made possible by numerous ideology-driven changes in building law at federal and state level. We will immediately end the large-scale destruction of nature by wind turbines and photovoltaic systems in forests, fields and arable land. The Building Code and the Regional Planning Act can be traced back to the ideology-free regulations before 2021. In addition, replacement for old existing buildings must be made possible in the outdoor area under approval law."
+          "location": "88 / 177",
+          "content": "AFD: The AfD is calling for the expansion of an autonomous and efficient defence technology industry in Germany."
         },
         {
-          "score": 0.5025315880775452,
+          "score": 0.4304887354373932,
           "source": "AFD_Program_en.pdf",
-          "location": "33 / 177",
-          "content": "AFD: The creation of a central database with the connection of clinics, practices, psychotherapists and pharmacies for the storage of confidential patient data (telematics infrastructure \u2013 TI) is to be rejected. We advocate the storage of an emergency data record, including a medication plan and a living will, on the health insurance card. Personnel from abroad \u2013 only according to German standards In the case of medical professionals who have language deficits, a basis of trust can neither be created, nor can misunderstandings in the course of treatment be ruled out. Both the technical and language qualifications (level C1) must fully meet the German standard. Priority must be given to university applicants with German citizenship for the subject of medicine/dentistry. We demand an expansion of the number of study places in dentistry and human medicine. There is currently a shortage of these study places. Reduction of bureaucracy in the health care system Bureaucracy in the health care system has reached proportions that often discourage the treatment of patients and cause considerable costs. This is the consequence of an exaggerated need for safety, in which the costs and benefits are not in an acceptable ratio. It is an expression of a mistrust of the service providers on the part of politicians. In addition, the intensity of regulation to date is the side effect of an encroaching and exuberant state."
+          "location": "54 / 177",
+          "content": "AFD: The debt brake laid down in the Basic Law must be observed. The AfD resolutely rejects any softening of the debt brake."
+        },
+        {
+          "score": 0.43200618028640747,
+          "source": "AFD_Program_en.pdf",
+          "location": "50 / 177",
+          "content": "AFD: We reject the participation of Chinese companies, which are de facto under the control of the Chinese Communist Party, in the expansion of the digital infrastructure in Germany. Artificial intelligence AI systems represent a major growth market; we cannot and do not want to decouple ourselves from them in Germany. Effective legal framework conditions are therefore necessary that enable use in medical technology and transport, for example. The prerequisite for the use of AI is cost-effective energy that is available at all times. At the same time, however, AI can also pose a risk specifically for critical infrastructure, transport technology and civil liberties. The AfD rejects the centralised regulation of these issues by the EU, such as the Cybersecurity Act, Ethics Guidelines for AI and the Artificial Intelligence Act, and calls for practical, national solutions."
+        },
+        {
+          "score": 0.4323045015335083,
+          "source": "AFD_Program_en.pdf",
+          "location": "166 / 177",
+          "content": "AFD: The AfD supports competition and innovation, but also state programmes for the development and exploration of space. The German space industry must remain competitive."
+        },
+        {
+          "score": 0.43413469195365906,
+          "source": "AFD_Program_en.pdf",
+          "location": "68 / 177",
+          "content": "AFD: The AfD is against a digital currency issued by the ECB, which would be a gateway for the creeping abolition of cash. The AfD opposes the total monitoring and control of all financial actions through de facto obligatory electronic payment transactions via a monopolistic digital euro and via a central asset register. We demand a right to analogue, unsupervised and free life. Bitcoin: Preservation of freedom and distance from the state As state-free money, Bitcoin is a welcome candidate in the competition of currencies. With a market capitalization in the trillions and a significant circulation, Bitcoin now fulfills most of the monetary functions. However, it is endangered by increasing national and international regulatory trends (EU MiCAR). The AfD has been opposing this political-regulatory pressure for years. The AfD calls for the extensive deregulation of Bitcoin as well as Bitcoin wallets and trading venues. We are committed to maintaining the VAT exemption of Bitcoin transactions, the one-year period for taxation of capital gains and the right to self-custody of the coins in self-managed wallets."
+        },
+        {
+          "score": 0.43766313791275024,
+          "source": "AFD_Program_en.pdf",
+          "location": "173 / 177",
+          "content": "AFD: A balanced culture of remembrance and remembrance is central to the formation of identity in Germany. The memorials are adequately financed by the federal and state governments and retain their political independence. No VAT liability for musicians, artists and freelance educators Artists, musicians and freelance educators are often exposed to the most difficult financial conditions as freelancers. A VAT liability is not realistic to implement and pushes these people into illegal employment. We will exempt artistic and educational activities in the arts and culture sector from VAT up to a reasonable income limit. As educators, they are often employed on an hourly basis in precarious employment relationships at elementary schools or music schools. The possibility of social insurance, e. POLICY BASIC RADIO instead of GEZ compulsory fee With around 9 billion euros in licence fee revenue plus advertising revenue, German public broadcasting is not only the most expensive in the world, but it also has many times the financial and personnel resources of all private media as a whole."
+        },
+        {
+          "score": 0.4394633173942566,
+          "source": "AFD_Program_en.pdf",
+          "location": "46 / 177",
+          "content": "AFD: "
+        },
+        {
+          "score": 0.44280576705932617,
+          "source": "AFD_Program_en.pdf",
+          "location": "149 / 177",
+          "content": "AFD: Demands of the AfD: We are committed to ensuring that mothers receive extensive support during pregnancy and after childbirth, especially in difficult life situations."
+        },
+        {
+          "score": 0.4432222247123718,
+          "source": "AFD_Program_en.pdf",
+          "location": "163 / 177",
+          "content": "AFD: The spectrum of research areas must not be limited by dependence on funding and donors. The AfD is committed to technology openness in research and development. Universities should have the right to select applicants by means of standard aptitude tests and entrance examinations. Universities must ensure that courses and lectures are free of politically motivated disturbances. The right to award doctorates must be reserved for universities. Freedom of teaching and research must be guaranteed at all costs. The increasing influence of \"woke\" ideology on the universities and the repression against unpleasant lecturers must be ended. The funding of unscientific gender research must be stopped. The compulsion to level out created by political targets for student numbers, academic success and other quotas must be ended. Equal Opportunity Officers are to be abolished. When filling vacancies, the applicant's professional qualifications alone must be decisive. International students from countries that are not part of the Agreement on the European Economic Area are to be charged reasonable tuition fees."
+        },
+        {
+          "score": 0.44386792182922363,
+          "source": "AFD_Program_en.pdf",
+          "location": "47 / 177",
+          "content": "AFD: That is why the AfD is campaigning for the recognition of the right of citizens to an analogue life outside of digitised administrative and everyday processes as a general civil right and for the unrestricted preservation of cash as legal tender. Data collection octopus state and social scoring In China, a social profiling (social pattern analysis) and \"social credit system\" (social credit system) have been installed for citizens, with which citizens are rewarded for cheap behavior and their freedoms are severely restricted in the event of inopportune behavior. Similar considerations can be observed in several Western countries, including in connection with so-called 15-minute cities. The AfD rejects any such efforts. Digital assistance systems Due to technical developments, more and more electronic systems can be precisely located and monitored, even without the consent and knowledge of the users."
+        },
+        {
+          "score": 0.44450169801712036,
+          "source": "AFD_Program_en.pdf",
+          "location": "82 / 177",
+          "content": "AFD: Professional management is indispensable for the preservation of the forest. In this context, the AfD stands for sustainable forest conversion."
+        },
+        {
+          "score": 0.44461533427238464,
+          "source": "AFD_Program_en.pdf",
+          "location": "46 / 177",
+          "content": "AFD: However, the German seaports are increasingly coming under pressure and are being left behind by international competition, such as in Rotterdam and Antwerp. We therefore advocate a consistent reduction in fees and bureaucratic regulations, especially burdensome climate protection regulations, as well as the promotion of digitalisation, private investment and shareholdings in our ports. However, we reject the acquisition of shares in important port companies, in particular port terminals and their parent companies, by non-EU state or state-related actors. In general, seaports are part of the critical infrastructure and must therefore remain under German control. DIGITISATION Digitization has become an indispensable part of modern society. It determines almost all areas of life, takes on regular tasks and democratises the exchange of information. The AfD welcomes this development. As a liberal party, however, the AfD opposes any application of digitization that promotes totalitarian structures. For this reason, data protection is a high priority for us."
         }
       ],
-      "citations_count": 2
+      "citations_count": 12
+    },
+    "fdp": {
+      "agreement": 60,
+      "explanation": "The FDP advocates for digitization and efficiency in governance which partially aligns with the statement's themes.",
+      "citations": [
+        {
+          "score": 0.4266493320465088,
+          "source": "FDP_Program_en.pdf",
+          "location": "42 / 52",
+          "content": "FDP: In many regions of Germany, housing is scarce and expensive. We want to change that! Apartments for everyone We Free Democrats will improve tax depreciation in housing construction\u2013 this will make investments more attractive and create new housing more quickly."
+        },
+        {
+          "score": 0.4344046115875244,
+          "source": "FDP_Program_en.pdf",
+          "location": "41 / 52",
+          "content": "FDP: We reject discriminatory compulsory tests for seniors. We Free Democrats are committed to the digitization of driving licenses and vehicle documents in order to reduce bureaucracy. The digital vehicle registration we have launched is a good start, and we are building on it. We Free Democrats want to strengthen the automotive cultural heritage and secure it for the future."
+        },
+        {
+          "score": 0.4347612261772156,
+          "source": "FDP_Program_en.pdf",
+          "location": "36 / 52",
+          "content": "FDP: We want to significantly reduce the number of jobs in the federal administration outside the security authorities. That Development Ministry was to be merged with the Foreign Office. The Federal Ministry of Building and Housing will be integrated into an existing ministry. The cross-cutting topic of digitization, which affects all ministries and ties up resources everywhere, should be summarized in a digitization ministry. Leaner structures within the ministries \u2013 for example through the elimination of sub-department heads\u2013 are intended to shorten decision-making processes within the ministries. In terms of Dynamic Shared Ownership (DSO), the vast majority of decisions should be made where the actual work is done. This strengthens the competence to take responsibility. We also have to look at the so-called subordinate area of the ministries. We want to noticeably reduce the number of authorities and institutions. The entire administrative landscape needs to be streamlined."
+        },
+        {
+          "score": 0.43496814370155334,
+          "source": "FDP_Program_en.pdf",
+          "location": "44 / 52",
+          "content": "FDP: For families, this allowance increases by 100,000 euros for each child. Following the Swiss model, funds from the company pension scheme should be able to be used for the purchase of property - an additional, flexible source of financing. Freedom in the boiler room: CO2-free, but affordable We Free Democrats are convinced: A warm home with modern, climate-friendly heating is possible - economically and open to technology. We rely on innovative solutions that promote climate protection and at the same time remain affordable. Instead of countless individual regulations, we rely on a market-based solution \u2013 CO2 certificate trading. The Heating Act with its excessive requirements must be phased out completely. In order to cushion the social costs of climate protection, we Free Democrats want to introduce a climate dividend and drastically reduce energy taxation. We reject a compulsion to connect to district heating networks. Heating with wood remains possible with us, and we want to reduce requirements for fireplaces and stoves. Entrepreneurial agriculture Agriculture is of outstanding importance for Germany, which goes far beyond the production of food."
+        },
+        {
+          "score": 0.4360075294971466,
+          "source": "FDP_Program_en.pdf",
+          "location": "15 / 52",
+          "content": "FDP: Stocks for life \u2013 venture capital for the economy We Free Democrats want to turn Germany from a country of savers into a country of shareholders. This requires a culture of long-term investing. We want a national financial education strategy to improve financial education across the breadth of society, for example through a nationwide compulsory subject at general education schools. We are committed to attractive investment conditions for retail investors. We therefore also want to preserve the coexistence of fee-based and commission-based advice. We Free Democrats want to remove tax obstacles to private wealth accumulation and thus support private pension provision in particular. That is why we are calling for the introduction of tax-free upward mobility in which savers can carry over unused saver allowances to subsequent years, the allowance is significantly increased once and is also made more dynamic."
+        },
+        {
+          "score": 0.4381241202354431,
+          "source": "FDP_Program_en.pdf",
+          "location": "48 / 52",
+          "content": "FDP: "
+        },
+        {
+          "score": 0.4384126663208008,
+          "source": "FDP_Program_en.pdf",
+          "location": "9 / 52",
+          "content": "FDP: Because we are also in a new system competition in science. The future strategy of research and innovation must be consistently driven forward and further developed. We want a technology-open Freedom of Research Act and thus create the conditions for the construction of fusion power plants in Germany through excellent fusion research, reform the obstructive legal framework for genetic engineering and strengthen stem cell research. In the health sector, we want to place an increased focus on neurodegenerative diseases such as Alzheimer's and Parkinson's as well as on women-specific health areas."
+        },
+        {
+          "score": 0.4420844614505768,
+          "source": "FDP_Program_en.pdf",
+          "location": "8 / 52",
+          "content": "FDP: We Free Democrats want to enable more self-determined educational mobility in the rapidly changing world of work. We are expanding the Upgrading BAf\u00f6G in a targeted manner and enabling the funding of a second further training at the same level. In the public sector, the recognition of vocational training and practical experience is to be improved. We want to accelerate the recognition of qualifications obtained abroad and digitize them end-to-end."
+        },
+        {
+          "score": 0.4423377811908722,
+          "source": "FDP_Program_en.pdf",
+          "location": "5 / 52",
+          "content": "FDP: Now, on February 23, 2025, voters have the chance to make a real decision on the direction of the country in order to end the phase of baby steps and the lowest common denominator. We Free Democrats are running for a mandate of change for the better. To describe in more detail how we envisage this change, we present this program. Because we are convinced that everything can be changed."
+        },
+        {
+          "score": 0.4431646466255188,
+          "source": "FDP_Program_en.pdf",
+          "location": "15 / 52",
+          "content": "FDP: We want to check whether the existing regulation is proportionate. Here, too, we want to avoid that the regulations in Germany go beyond the European minimum requirements."
+        }
+      ],
+      "citations_count": 10
+    },
+    "bsw": {
+      "agreement": 50,
+      "explanation": "The BSW's position is not explicitly mentioned in the context, leading to a neutral agreement rating.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "gruene": {
+      "agreement": 40,
+      "explanation": "The Greens are not represented in the context, indicating a lower alignment with the statement.",
+      "citations": [],
+      "citations_count": 0
     },
     "cdu": {
       "agreement": 30,
-      "explanation": "Focus on innovation and technology may not strongly align with radius expansion, prioritizing economic growth instead.",
-      "citations": [
-        {
-          "score": 0.49553394317626953,
-          "source": "CDU_Program_en.pdf",
-          "location": "3 / 82",
-          "content": "CDU: Only more supply lowers prices. In doing so, we rely on research into fourth- and fifth-generation nuclear energy, small modular reactors and fusion power plants. We are examining the resumption of operation of the nuclear power plants that were recently shut down. There must be an end to the bureaucratic re-government in the boiler room. We promote low-emission heating solutions that are open to technology. It is the right instrument for efficiently limiting the amount of emissions and thus protecting the climate in the best possible way. Making Germany fit for innovation, digitization and startups Research, Innovation, Technologies and Transfer (FITT) are the basis for a competitive economy with well-paid jobs. Spin-offs and the transfer to marketable solutions must be more successful. Back to the top with \"Made in Germany\"! We act. What matters most now: \u2022  We are driving the re-industrialization of our country forward with digitization as well as sovereign AI and cloud applications. Future technologies need freedom, and the state needs clear responsibilities. To this end, we are setting up a Federal Digital Ministry."
-        },
-        {
-          "score": 0.5018187761306763,
-          "source": "CDU_Program_en.pdf",
-          "location": "38 / 82",
-          "content": "CDU: We are tightening criminal law in order to better protect women, the elderly, children, people with disabilities and other particularly vulnerable groups. We are increasing the maximum penalty for stalking. We will punish bodily injuries, especially if they are committed with a knife, and group rape much more severely. We do not leave the victims of domestic violence, especially women and children, alone. Your protection is a priority for us. We are therefore developing a security concept and strengthening the women's shelters. We are increasingly using electronic ankle bracelets so that perpetrators of violence against women keep their distance from their former partners. We ensure that where children are cared for, there are binding and standardised protection concepts across the board. In terms of access rights, the following should apply: If a parent inflicts violence on the child, the child must be excluded from care. There is still exploitation, violence and abuse. Human trafficking, forced prostitution and clan crime are a great evil and must be fought."
-        }
-      ],
-      "citations_count": 2
+      "explanation": "The CDU's stance is not represented in the context, resulting in low alignment with the statement.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "linke": {
+      "agreement": 20,
+      "explanation": "The Linke perspective on socio-economic issues is not reflected in the context provided.",
+      "citations": [],
+      "citations_count": 0
     }
   }
 }

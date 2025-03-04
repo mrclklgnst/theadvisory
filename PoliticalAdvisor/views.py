@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
+from asgiref.sync import sync_to_async
 from .myFAISS import respond_to_query
 from django.apps import apps
 import json
@@ -39,7 +40,7 @@ def electionadvisor(request):
     }
     selected_lang_context = lang_context.get(language, lang_context['en'])
     return render(request, "PoliticalAdvisor/electionadvisor.html", {"lang_context": selected_lang_context})
-def analyze_user_input(request):
+async def analyze_user_input(request):
     graph_de, vector_store, graph_en, vector_store_en = get_faiss_objects()
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
@@ -63,7 +64,8 @@ def analyze_user_input(request):
 
             except:
                 logger.info("No local response found, querying OpenAI")
-                model_output = respond_to_query(user_input, graph)
+                async_respond_to_query = sync_to_async(respond_to_query)
+                model_output = await async_respond_to_query(user_input, graph)
 
                 # check if answer is a dictionary
                 if isinstance(model_output["answer"], dict):
@@ -85,7 +87,8 @@ def analyze_user_input(request):
         else:
             try:
                 # query openAI, returns dict with keys 'answer' and 'citations'
-                model_output = respond_to_query(user_input, graph)
+                async_respond_to_query = sync_to_async(respond_to_query)
+                model_output = await async_respond_to_query(user_input, graph)
                 # check if answer in needed format
                 if isinstance(model_output["answer"], dict):
                     with open("response.json", "w") as f:
