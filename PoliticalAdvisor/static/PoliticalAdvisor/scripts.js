@@ -77,21 +77,6 @@ function displayBotMessage(data) {
 
 }
 
-function displayProgCitations(data) {
-    let botMessage = document.createElement("div");
-    botMessage.className = "message bot-message";
-
-    // Set the inner text depending on format of the data
-    if (typeof data === "string") {
-        botMessage.innerText = data;
-    } else if (typeof data === "object") {
-        botMessage.appendChild(createProgCitationCarousal(data));
-    }
-
-    // show bot message
-    document.getElementById('messageWindow').appendChild(botMessage);
-
-}
 
 function createProgCitationCarousal(data) {
     let carouselContainer = document.createElement("div");
@@ -151,64 +136,7 @@ function showCarouselItem(direction) {
     scrollToBottom();
 }
 
-function createProgCitations(data) {
-    let table = document.createElement("table");
-    table.style.width = "100%";
-    table.style.borderCollapse = "collapse";
-    table.style.marginTop = "10px";
-    table.style.verticalAlign = "top";
 
-    // Create table header
-    let thead = table.createTHead();
-    let headerRow = thead.insertRow();
-    let headers = ["Program", "Seite", "Zitat"];
-    headers.forEach(headerText => {
-        let th = document.createElement("th");
-        th.innerText = headerText;
-        th.style.border = "1px solid #ddd";
-        th.style.padding = "8px";
-        headerRow.appendChild(th);
-    });
-
-    let tbody = table.createTBody();
-    let rows =[];
-
-    for (let citat in data) {
-        let row = tbody.insertRow();
-
-        // Partei Name
-        let cell1 = row.insertCell(0);
-        cell1.innerHTML = `<strong>${data[citat].source.toUpperCase()}</strong>`;
-        cell1.style.border = "1px solid #ddd";
-        cell1.style.padding = "8px";
-        cell1.style.verticalAlign = "top";
-
-        // Seite
-        let cell2 = row.insertCell(1);
-        cell2.innerText = `${data[citat].location}`;
-        cell2.style.textAlign = "center";
-        cell2.style.border = "1px solid #ddd";
-        cell2.style.padding = "8px";
-        cell2.style.verticalAlign = "top";
-
-        // Zitat
-        let cell3 = row.insertCell(2);
-        cell3.innerText = data[citat].content;
-        cell3.style.border = "1px solid #ddd";
-        cell3.style.padding = "8px";
-        cell2.style.verticalAlign = "top";
-
-        rows.push(row);
-    }
-
-    // Append sorted rows to tbody
-    rows.forEach(row => tbody.appendChild(row));
-
-    return table;
-
-
-
-}
 
 function createTable(data) {
     let table = document.createElement("table");
@@ -368,8 +296,6 @@ async function sendUserInput() {
     chatBox.appendChild(spinner);
 
 
-
-
     try {
         const response = await fetch(analyzeUserInputUrl, {
             method: 'POST',
@@ -388,8 +314,6 @@ async function sendUserInput() {
 
         // No checks for errors yet
         displayBotMessage(answer);
-        displayProgCitations(prog_citations);
-
 
     } catch (error) {
         console.error("Error sending message:", error);
