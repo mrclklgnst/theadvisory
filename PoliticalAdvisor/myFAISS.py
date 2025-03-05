@@ -392,7 +392,6 @@ def respond_to_query(user_query, graph):
     response['answer'] = {k: v for k, v in sorted(response['answer'].items(),
                                                   key=lambda item: item[1]['agreement'], reverse=True)}
 
-
     citations_structured = {}
     for party in party_list:
         citations_structured[party] = []
@@ -411,10 +410,6 @@ def respond_to_query(user_query, graph):
     # Add list of citations to party answer
     for party in party_list:
         response["answer"][party]["citations"] = citations_structured[party]
-
-
-
-
 
     return response
 

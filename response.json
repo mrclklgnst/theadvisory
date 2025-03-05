@@ -1,200 +1,196 @@
 {
   "answer": {
-    "spd": {
-      "agreement": 85,
-      "explanation": "SPD's statements resonate strongly with social investment, education, asylum processes, and housing policy, indicating a progressive agenda.",
-      "citations": [
-        {
-          "score": 0.4168127179145813,
-          "source": "SPD_Program_en.pdf",
-          "location": "12 / 68",
-          "content": "SPD: We support the means of levies or funds, for example industry-related, where training is provided below demand. We will ensure that there is security in the change and guarantee support when professional training or reorientation is necessary or desired. To ensure that today's employees can also acquire the knowledge and skills for the work of tomorrow, we have renewed the Federal Employment Agency's further training funding with the Transformation Grant and the Qualification Allowance, among other things, and thus reach small craft businesses or service providers as well as the DAX Group. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4227652847766876,
-          "source": "SPD_Program_en.pdf",
-          "location": "56 / 68",
-          "content": "SPD: NATO is a key pillar of the transatlantic partnership and indispensable for European security. At the same time, we must expect that Washington will no longer bear the main burden of protecting Europe. The decisions to establish the new Baltic Sea Command in Rostock by the German Navy, to develop new European Long-Range Strike Approach (ELSA) together with our European allies, and The launch of the European Sky Shield Initiative (ESSI) shows that we are ready to take on more responsibility in alliance defence. The stationing of US medium-range weapons in western More for you. Better for Germany."
-        },
-        {
-          "score": 0.4292638897895813,
-          "source": "SPD_Program_en.pdf",
-          "location": "44 / 68",
-          "content": "SPD: The security of Jewish life must be guaranteed in both the public and digital spheres. In addition, we are committed to ensuring that universities are safe places for Jewish students and teachers and that anti-Semitic behavior is consistently punished. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4296763837337494,
-          "source": "SPD_Program_en.pdf",
-          "location": "16 / 68",
-          "content": "SPD: We are therefore committed to changing this unjust mechanism. For example, we must invest heavily in education, manage socio-ecological and digital structural change and modernise infrastructure up and down the country. Not only the federal government, but also the states and municipalities need the necessary financial leeway for this. We therefore propose a pact for the future of the federal, state and local governments. This includes the reform of the debt rule already described in order to give the states more financial leeway. In addition, we want to make the highest assets in our country more responsible for financing the community. Inheritance and gift tax as well as wealth tax then strengthen the revenue side of the More for you. Better for Germany."
-        },
-        {
-          "score": 0.4365161955356598,
-          "source": "SPD_Program_en.pdf",
-          "location": "54 / 68",
-          "content": "SPD: We are counting on a significant acceleration of asylum procedures \u2013 both at the Federal Office for Migration and Refugees and in administrative court proceedings. With comprehensive digitization and administrative modernization, we want to ensure that asylum decisions can be made within six months. We will continue to make family reunification possible for those in need of subsidiary protection, as it is a crucial prerequisite for successful integration. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4368381202220917,
-          "source": "SPD_Program_en.pdf",
-          "location": "20 / 68",
-          "content": "SPD: We want to strengthen and consolidate investments in social housing construction at a high level. In the future, we will differentiate government demand forecasts by region. This is the basis for the federal government's new construction targets and for the necessary funding. Through the Deutschlandfonds, we will provide housing associations and cooperatives with the necessary equity capital and thus boost housing construction. With the new non-profit housing status, the SPD laid an important foundation stone for another pillar for permanently affordable housing in addition to social housing in the last legislative period. We are striving to further develop the financial incentives for the construction of new apartments according to the conditions of non-profit housing with an investment cost subsidy. The federal More for you. Better for Germany."
-        },
-        {
-          "score": 0.4403635859489441,
-          "source": "SPD_Program_en.pdf",
-          "location": "49 / 68",
-          "content": "SPD: We want to promote the cultural and historical heritage of national minorities. The further reappraisal of the crimes of the SED era and colonialism must also continue. We will not forget the victims of dictatorships in Germany. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4454890787601471,
-          "source": "SPD_Program_en.pdf",
-          "location": "63 / 68",
-          "content": "SPD: We want concrete agreements on international standards that ensure good work with living wages. With the EU Supply Chain Directive, we have created clear regulations and equal conditions for all companies in Europe. German companies in particular, which already rely on strong standards, benefit from clear regulations and equal conditions for everyone in Europe. We are also insisting on globally binding rules in the negotiations on the UN Treaty on Business and Human Rights. We stand for international solidarity and for the universal validity of human rights. This requires strong institutions such as the European Court of Human Rights and the International Criminal Court. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4462880492210388,
-          "source": "SPD_Program_en.pdf",
-          "location": "37 / 68",
-          "content": "SPD: We want an attractive public service. We want to make the state more attractive as an employer\u2013 with nationwide home office, job sharing and part-time models in the public sector. We want a state that sets a good example as an employer. An attractive employer that trains, finds and retains skilled workers, that improves the work-life balance. Lifelong learning is to become the basis for an efficient public service. In doing so, we rely on targeted further training and qualification so that skilled workers can expand their skills. We want to significantly reduce fixed-term employment contracts in the public sector. Permanent positions are to be the rule in order to create security and prospects for employees. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4475139379501343,
-          "source": "SPD_Program_en.pdf",
-          "location": "15 / 68",
-          "content": "SPD: This requires a joint effort by the federal, state and local governments. We want everyone to work together to modernise our infrastructure. We have to invest in tomorrow, the day after tomorrow and also in the day after tomorrow. The necessary public investment must be made quickly in order to resolve the existing investment backlog and to create better conditions for private investment. Privatisation of infrastructure remains out of the question. We stand for a financial policy that is fair to all generations and no longer passes on necessary investments to future generations. Our financial policy is strategically designed and ensures growth as well as change. More for you. Better for Germany."
-        },
-        {
-          "score": 0.44772762060165405,
-          "source": "SPD_Program_en.pdf",
-          "location": "43 / 68",
-          "content": "SPD: Unfortunately, violence is also spreading in the digital world. Rapidly and on an unprecedented scale. We also want to take consistent action against digital violence. To this end, we are creating a digital Protection against Violence Act. To this end, we close gaps in criminal liability for image-based violence and restrict the use of so-called spy apps. In addition, it should be easier to block the perpetrator accounts. Provided with a right of action by associations, it should be possible to effectively enforce the rights of those affected. More for you. Better for Germany."
-        },
-        {
-          "score": 0.4491116404533386,
-          "source": "SPD_Program_en.pdf",
-          "location": "55 / 68",
-          "content": "SPD: In doing so, we always want to ensure that firm agreements are reached on how nationals who are obliged to leave Germany can be returned to their countries of origin in an enforceable manner. In close coordination with our neighbours, we are taking action against smuggling crime. We want to ensure that smugglers are severely punished and consistently expelled. With increased development cooperation, we want to effectively combat the causes of flight. We want Germany to support the promotion of political and economic stability in crisis regions, the reconstruction of destroyed structures after conflicts and the creation of better education and employment opportunities on the ground. After the withdrawal of NATO troops from Afghanistan in August 2021, we want to continue to take responsibility for particularly vulnerable groups of people from Afghanistan. To this end, we will continue the federal admission programme for Afghanistan. More for you. Better for Germany."
-        }
-      ],
-      "citations_count": 12
-    },
-    "fdp": {
-      "agreement": 70,
-      "explanation": "FDP emphasizes self-determined educational mobility and supports international training, showing a liberal approach to education and economic responsibility.",
-      "citations": [
-        {
-          "score": 0.43033909797668457,
-          "source": "FDP_Program_en.pdf",
-          "location": "8 / 52",
-          "content": "FDP: To strengthen international vocational education and training mobility , we are establishing a German Vocational Exchange Service (DBAD). We Free Democrats want to enable more self-determined educational mobility in the rapidly changing world of work. We are expanding the Upgrading BAf\u00f6G in a targeted manner and enabling the funding of a second further training at the same level. In the public sector, the recognition of vocational training and practical experience is to be improved. We want to accelerate the recognition of qualifications obtained abroad and digitize them end-to-end."
-        },
-        {
-          "score": 0.43970537185668945,
-          "source": "FDP_Program_en.pdf",
-          "location": "50 / 52",
-          "content": "FDP: We advocate a negotiated two-state model as the most appropriate solution to guarantee Israel's security in the long term, end the suffering of people on all sides and enable the creation of a sovereign, democratic and viable state of Palestine. Consistently against anti-Semitism In Germany, Jewish life is increasingly endangered by anti-Semitic violence. We Free Democrats want Jews to feel safe everywhere in Germany. Jewish life belongs in the public sphere and must be able to be lived there without fear. Anti-Semitism must therefore be fought more consistently\u2013 regardless of which direction it comes from. To this end, authorities must detect all forms of anti-Semitism at an early stage. In addition, no state funds may be spent on organizations and projects that question Israel's right to exist. We also want more bans on activities and organisations for anti-Semitic organisations. Germany in the European Union The European Union is a unique success story. It has brought peace, freedom, security, progress and prosperity to the people of the Member States. We must now secure and continue this success story through courageous reforms. For a strong and sovereign Europe We Free Democrats want the EU' s strategic sovereignty to be further developed. For us, this means first and foremost the ability to act independently."
-        },
-        {
-          "score": 0.4400193691253662,
-          "source": "FDP_Program_en.pdf",
-          "location": "36 / 52",
-          "content": "FDP: We Free Democrats want to reduce the number of federal ministries and authorities, streamline their structures and define responsibilities more clearly. We want to significantly reduce the number of jobs in the federal administration outside the security authorities. That Development Ministry was to be merged with the Foreign Office. The Federal Ministry of Building and Housing will be integrated into an existing ministry. The cross-cutting topic of digitization, which affects all ministries and ties up resources everywhere, should be summarized in a digitization ministry. Leaner structures within the ministries \u2013 for example through the elimination of sub-department heads\u2013 are intended to shorten decision-making processes within the ministries. In terms of Dynamic Shared Ownership (DSO), the vast majority of decisions should be made where the actual work is done. This strengthens the competence to take responsibility. We also have to look at the so-called subordinate area of the ministries. We want to noticeably reduce the number of authorities and institutions. The entire administrative landscape needs to be streamlined."
-        },
-        {
-          "score": 0.4461030960083008,
-          "source": "FDP_Program_en.pdf",
-          "location": "44 / 52",
-          "content": "FDP: With a real estate transfer tax allowance of EUR 500,000 for the first owner-occupied property of natural persons, we facilitate access to property. For families, this allowance increases by 100,000 euros for each child. Following the Swiss model, funds from the company pension scheme should be able to be used for the purchase of property - an additional, flexible source of financing. Freedom in the boiler room: CO2-free, but affordable We Free Democrats are convinced: A warm home with modern, climate-friendly heating is possible - economically and open to technology. We rely on innovative solutions that promote climate protection and at the same time remain affordable. Instead of countless individual regulations, we rely on a market-based solution \u2013 CO2 certificate trading. The Heating Act with its excessive requirements must be phased out completely. In order to cushion the social costs of climate protection, we Free Democrats want to introduce a climate dividend and drastically reduce energy taxation. We reject a compulsion to connect to district heating networks. Heating with wood remains possible with us, and we want to reduce requirements for fireplaces and stoves. Entrepreneurial agriculture Agriculture is of outstanding importance for Germany, which goes far beyond the production of food."
-        },
-        {
-          "score": 0.446236252784729,
-          "source": "FDP_Program_en.pdf",
-          "location": "9 / 52",
-          "content": "FDP: The German Agency for Transfer and Innovation must be established quickly. Because we are also in a new system competition in science. The future strategy of research and innovation must be consistently driven forward and further developed. We want a technology-open Freedom of Research Act and thus create the conditions for the construction of fusion power plants in Germany through excellent fusion research, reform the obstructive legal framework for genetic engineering and strengthen stem cell research. In the health sector, we want to place an increased focus on neurodegenerative diseases such as Alzheimer's and Parkinson's as well as on women-specific health areas."
-        },
-        {
-          "score": 0.4477798640727997,
-          "source": "FDP_Program_en.pdf",
-          "location": "41 / 52",
-          "content": "FDP: By opening up the exam market to other providers and continuing education to become a driving examiner even without an engineering degree, we want to increase the number of test appointments and significantly reduce waiting times. We want to make accompanied driving possible from the age of 16 \u2013 because early driving practice has been proven to increase road safety. We reject discriminatory compulsory tests for seniors. We Free Democrats are committed to the digitization of driving licenses and vehicle documents in order to reduce bureaucracy. The digital vehicle registration we have launched is a good start, and we are building on it. We Free Democrats want to strengthen the automotive cultural heritage and secure it for the future."
-        }
-      ],
-      "citations_count": 6
-    },
-    "volt": {
-      "agreement": 70,
-      "explanation": "Volt focuses on digital security and transparency, aligning with progressive digital and societal issues emphasized by SPD.",
-      "citations": [
-        {
-          "score": 0.4454517662525177,
-          "source": "Volt_Program_en.pdf",
-          "location": "32 / 164",
-          "content": "Volt: SECURITY IN THE DIGITAL SPACE People's lives are increasingly taking place in the digital space. Accordingly, crimes on the Internet are increasing sharply. These include, in particular, property crimes such as fraud and digital sexualised violence. The police must therefore be able to prosecute this cybercrime effectively and to be able to use state-of-the-art investigative methods and technologies to do so. The future use of AI-supported programs must also be examined, taking into account the associated risks."
-        }
-      ],
-      "citations_count": 1
-    },
     "afd": {
-      "agreement": 50,
-      "explanation": "AFD supports local cultural sovereignty and wants to limit federal cultural policies, which suggests a more nationalistic viewpoint.",
+      "agreement": 80,
+      "explanation": "The AfD advocates for a Europe of sovereign nations and firmly rejects the centralist aspirations of NATO, expressing a desire for Germany to pursue independent foreign policy interests.",
       "citations": [
         {
-          "score": 0.4337471127510071,
+          "score": 0.3291054964065552,
+          "source": "AFD_Program_en.pdf",
+          "location": "87 / 177",
+          "content": "AFD: We reject an eastward expansion of the EU and NATO. The world is in a state of upheaval towards a multipolar world order. Germany must no longer be the object of foreign interests. Together with our European partners, we want to shape and guarantee a future stable peace order. We must expand our sovereignty, confidently formulate our national interests and pursue them stringently. The AfD supports the security policy concept of Europe's strategic autonomy and its manifestation of its own centre of power in the changing world order. A stable peace order in Europe and the world also secures vital foreign trade relations and primary energy needs for Germany. We therefore pursue an interest-driven relationship with the great powers of the world, with China and the USA, as well as with the Russian Federation. Until an independent and effective European military alliance is established, membership in NATO and an active role for Germany in the Organization for Security and Co-operation in Europe (OSCE) remain central elements of our security strategy."
+        },
+        {
+          "score": 0.3640941083431244,
+          "source": "AFD_Program_en.pdf",
+          "location": "86 / 177",
+          "content": "AFD: The Alternative for Germany sees itself as a party in which diplomacy and peaceful conflict resolution are paramount. We stand for a Europe of fatherlands and firmly reject the centralist aspirations of the European Union (EU). This federation of European nations, which we strive for as a community of economic and interest interests, preserves the extensive sovereignty of its member states internally and enables coordination in external appearances. The guiding principle of German foreign policy must once again be realpolitik requirements instead of ideologies that are alien to reality. The AfD rejects the communitarisation of the European Foreign and Security Policy (CFSP) and the European External Action Service (High Representative CFSP / EU Defence Commissioner). The AfD is committed to the principles of international law, in particular the Charter of the United Nations (UN). In the spirit of the Helsinki Treaty, the AfD votes that no country should be allowed to interfere in the internal affairs of another."
+        },
+        {
+          "score": 0.36607760190963745,
+          "source": "AFD_Program_en.pdf",
+          "location": "91 / 177",
+          "content": "AFD: The AfD is committed to improving German relations with the United States, whose new administration heralds the end of climate ideology and wokeness. We also see the new US administration as a strong partner in our commitment to freedom of expression and against Internet censorship. The geopolitical and economic interests of the USA are increasingly different from those of Germany and other European countries. One example of this is energy supply, such as the massive attempt by the USA to prevent the commissioning of the Nord Stream gas pipeline. Germany must not allow itself to be drawn into conflicts by decisions by the USA that set the course vis-\u00e0-vis other powers. We reject the planned stationing of long-range US weapons systems (cruise missiles, drones and missiles) in Germany. Russia For decades, Russia has been a reliable supplier and guarantor of an affordable energy supply, which is the Achilles' heel of the German economy due to our energy-intensive industry."
+        },
+        {
+          "score": 0.3683539032936096,
           "source": "AFD_Program_en.pdf",
           "location": "88 / 177",
-          "content": "AFD: Responsibility must be put back in the hands of the inspectors and commanders who are responsible for the fulfillment of the mission. The AfD is calling for the expansion of an autonomous and efficient defence technology industry in Germany."
+          "content": "AFD: Nevertheless, the necessary measures for the reconstruction of the Bundeswehr have failed to materialize. Due to the chronic underfunding over decades, as well as the continuous transfer of operational material and weapon systems from Bundeswehr stocks to Ukraine and the constant burden on the troops due to the training of Ukrainian soldiers, the German armed forces are in a desolate state. There is a lack of personnel and operational equipment. In order for the main mission of national and collective defence to be taken into account again, our Bundeswehr must not only be well equipped financially, but it must also be given back operational readiness, especially in terms of material and personnel. That is why we want to reinstate conscription. According to the current legal situation, this also includes alternative service. In order to avoid conflicts of loyalty, service in the armed forces is to be reserved exclusively for German citizens. Privatizations and centralizations may only be used where they are demonstrably necessary to increase the operational capability of the troops. Responsibility must be put back in the hands of the inspectors and commanders who are responsible for the fulfillment of the mission."
         },
         {
-          "score": 0.4369763135910034,
+          "score": 0.36990708112716675,
           "source": "AFD_Program_en.pdf",
-          "location": "173 / 177",
-          "content": "AFD: The AfD is committed to the cultural sovereignty of the federal states and wants to limit the cultural policy activities of the federal government. A balanced culture of remembrance and remembrance is central to the formation of identity in Germany. The memorials are adequately financed by the federal and state governments and retain their political independence. No VAT liability for musicians, artists and freelance educators Artists, musicians and freelance educators are often exposed to the most difficult financial conditions as freelancers. A VAT liability is not realistic to implement and pushes these people into illegal employment. We will exempt artistic and educational activities in the arts and culture sector from VAT up to a reasonable income limit. As educators, they are often employed on an hourly basis in precarious employment relationships at elementary schools or music schools. The possibility of social insurance, e. POLICY BASIC RADIO instead of GEZ compulsory fee With around 9 billion euros in licence fee revenue plus advertising revenue, German public broadcasting is not only the most expensive in the world, but it also has many times the financial and personnel resources of all private media as a whole."
-        },
-        {
-          "score": 0.441514253616333,
-          "source": "AFD_Program_en.pdf",
-          "location": "82 / 177",
-          "content": "AFD: Due to its dense population, Germany needs a rational weighing of interests in the use of forests. Professional management is indispensable for the preservation of the forest. In this context, the AfD stands for sustainable forest conversion."
-        },
-        {
-          "score": 0.4417978525161743,
-          "source": "AFD_Program_en.pdf",
-          "location": "166 / 177",
-          "content": "AFD: This creates opportunities, but also challenges such as space debris. The AfD supports competition and innovation, but also state programmes for the development and exploration of space. The German space industry must remain competitive."
-        },
-        {
-          "score": 0.4462924003601074,
-          "source": "AFD_Program_en.pdf",
-          "location": "149 / 177",
-          "content": "AFD: Fear for the future, fear of responsibility and the worry that a child or another child could overwhelm the partnership cause many women to take this serious step. Demands of the AfD: We are committed to ensuring that mothers receive extensive support during pregnancy and after childbirth, especially in difficult life situations."
+          "location": "90 / 177",
+          "content": "AFD: We are striving for Germany to have a permanent seat on the UN Security Council and the deletion of the enemy state clause against Germany from the Charter of the United Nations, and we want to terminate the UN Global Compact for Migration and the UN Compact on Refugees. A new peace order on the European continent A stable peace order in Europe requires balanced cooperation between all European states, whose legitimate security interests must be taken into account. The role of the OSCE in stabilising crisis regions in Europe and its periphery must be further developed. All opportunities for dialogue must be used. There must be no new \"Iron Curtain\" in Europe. We are committed to strengthening and expanding the control mechanisms in nuclear and conventional armaments, as well as to the renegotiation of suspended treaties (INF, START, ABM, MBFR, etc. We reject reparations demands, such as those put forward by Poland and Greece, because these issues have already been conclusively clarified under international law."
         }
       ],
       "citations_count": 5
     },
     "bsw": {
       "agreement": 50,
-      "explanation": "No specific information on the BSW's position in the context provided.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "cdu": {
-      "agreement": 40,
-      "explanation": "No specific information on the CDU's position in the context provided.",
+      "explanation": "The BSW's position on NATO is not explicit, but there may be mixed views on NATO membership in the context of broader geopolitical interests.",
       "citations": [],
       "citations_count": 0
     },
     "linke": {
       "agreement": 30,
-      "explanation": "No specific information on the Linke's position in the context provided.",
+      "explanation": "The Linke party expresses skepticism towards NATO, but does not explicitly call for leaving it, focusing instead on reforming foreign policy efforts.",
       "citations": [],
       "citations_count": 0
     },
-    "gruene": {
+    "volt": {
       "agreement": 30,
-      "explanation": "No specific information on the Gr\u00fcne's position in the context provided.",
-      "citations": [],
-      "citations_count": 0
+      "explanation": "Volt supports strengthening NATO's European pillar and emphasizes collaboration within the alliance, indicating no favor for leaving.",
+      "citations": [
+        {
+          "score": 0.3530482351779938,
+          "source": "Volt_Program_en.pdf",
+          "location": "41 / 164",
+          "content": "Volt: This includes in particular increased diplomatic engagement, but also increased deployment of the Bundeswehr. That's why Volt is committed to this future: \u2022  Closing ranks in Europe: Germany is stepping up its efforts to act in accordance with the interests of our European partners in foreign and defence policy. The European pillar within NATO will be strengthened."
+        }
+      ],
+      "citations_count": 1
+    },
+    "fdp": {
+      "agreement": 20,
+      "explanation": "The FDP emphasizes strengthening NATO and Germany's role within it, making a departure from the alliance unlikely.",
+      "citations": [
+        {
+          "score": 0.29437360167503357,
+          "source": "FDP_Program_en.pdf",
+          "location": "47 / 52",
+          "content": "FDP: We must counter the threat posed by Putin's Russia with diplomacy and military strength. We Free Democrats stand unreservedly by NATO as the most successful defence alliance in the world and as a guarantor of our security. We are committed to ensuring that Germany fully meets NATO requirements and goals. This includes Germany meeting at least NATO's 2% target. If NATO agrees on higher goals, we will also meet them and invest even more in our security. We want to strengthen NATO's European pillar and thereby increase the ability of the EU partners in the Alliance to act. Accordingly, the European NATO partners must take on more responsibility. The prerequisite for this is to dovetail the cooperation of the EU partners in NATO more closely. Expanding defence capabilities \u2013 for a strong Bundeswehr We want to make the Bundeswehr the strongest conventional armed force in Europe. In close coordination with France, Germany is to become a strong cooperation partner for smaller European partners. Our long-term goal is to build a European army, also as an integral part of strengthening the European pillar within NATO."
+        },
+        {
+          "score": 0.3124651312828064,
+          "source": "FDP_Program_en.pdf",
+          "location": "47 / 52",
+          "content": "FDP: Our opponents must realize that we are able and willing to defend ourselves militarily successfully. To do this, the Bundeswehr needs better financing and equipment. We Free Democrats are committed to a professional volunteer army of active members and a strong reserve and to a national database for the registration of men and women fit for military service. In doing so, we are guided by NATO's capability goals. We reject the reintroduction of universal conscription. The attractiveness of service in the Bundeswehr is to be massively increased through excellent conditions such as salary and social benefits. In order to meet the demand for defence capability, Germany must also make its actions more uniform strategically and institutionally. That is why there must be no \"business as usual\" in German security policy. We therefore want to establish a National Security Council that identifies risks at an early stage, enables meaningful decision-making and develops joint strategies. For a smart foreign policy in the age of systemic rivalry We are in the age of systemic rivalry between aggressive autocracies on the one hand and liberal democracies on the other."
+        },
+        {
+          "score": 0.3567271828651428,
+          "source": "FDP_Program_en.pdf",
+          "location": "46 / 52",
+          "content": "FDP: Putin's aggressive actions clearly show that Germany and its European partners have taken too little responsibility for their own security for too long and too little. At the same time, China's actions pose additional challenges to Germany and the EU economically, technologically, socially and geopolitically. It is the effects of the increasing systemic rivalry between liberal democracies and authoritarian regimes that are now also affecting Germany, the EU and other allies as a whole. Hamas' insidious attack on Israel has escalated the unresolved Middle East conflict. Even after the re-election of Donald Trump as US president, the USA remains our closest ally and partner. Nevertheless, it is now more important than ever that Germany itself and within the EU and NATO demonstrates its ability to act. To do this, we need an EU that can actively defend its foundation of freedom, the rule of law, human rights, democracy and the social market economy. The overall geopolitical situation illustrates the considerable pressure for reform on German foreign, security and development policy. When so much changes, we have to change too. We Free Democrats are convinced that realpolitik and the commitment to freedom and human rights do not have to be mutually exclusive worldwide."
+        },
+        {
+          "score": 0.35822629928588867,
+          "source": "FDP_Program_en.pdf",
+          "location": "46 / 52",
+          "content": "FDP: More responsibility towards our partners Germany needs strong alliances to meet foreign policy challenges."
+        },
+        {
+          "score": 0.36608630418777466,
+          "source": "FDP_Program_en.pdf",
+          "location": "49 / 52",
+          "content": "FDP: We are convinced that arms exports are a legitimate means of foreign and security policy. This is because they serve to strengthen strategic partnerships and ensure stability in geopolitically important regions."
+        },
+        {
+          "score": 0.36986273527145386,
+          "source": "FDP_Program_en.pdf",
+          "location": "48 / 52",
+          "content": "FDP: In order to forestall these transparent attempts, Germany needs a foreign and development policy that makes more attractive offers of cooperation to emerging middle powers in Africa, Latin America and Asia than has been the case so far. More self-confidence in dealing with Putin's Russia Vladimir Putin has brought the war back to Europe. We Free Democrats condemn the war of aggression on Ukraine in the strongest possible terms, which is contrary to international law . We demand that Russian war crimes, crimes against humanity and the crime of aggression be prosecuted. We are also consistently advocating economic sanctions, including the widest possible trade embargo, diplomatic measures, visa revocations against the Russian leadership and other responsible parties. We also support secondary measures against third countries that circumvent sanctions against Russia. Putin's Russia is our opponent. There is no going back to the status quo before the war of aggression against Ukraine. This applies in particular to dependence on Russian energy. We Free Democrats call for an EU-wide phase-out plan from Russian energy purchases."
+        }
+      ],
+      "citations_count": 6
+    },
+    "gruene": {
+      "agreement": 20,
+      "explanation": "The Greens support a cooperative defense strategy within NATO, prioritizing EU security while maintaining alliance commitments.",
+      "citations": [
+        {
+          "score": 0.3583492934703827,
+          "source": "Gruene_Program_en.pdf",
+          "location": "11 / 160",
+          "content": "Gruene: Just as our European neighbours were there for us, so that we in Germany can live in freedom in the heart of Europe reunited, we are also there for our neighbours. Together, it is important to re-secure peace in freedom. Together with the many states around the world, which also know that standing up for a rules-based order is the best protection. Dear citizens, only if we transform our strengths into future strength will we be able to maintain and strengthen what is dear and dear to us. We emphasise this because we have also seen in recent years how tempting it is in politics to simply cover up the losses of the omitted change, according to the motto \"Nobody has to change here\", or to only dwell on the past. With Robert Habeck, a person is running for leadership of the next government who makes this difference. One that combines a policy of listening with orientation, learning government experience with the willingness to work itself, honesty with the willingness to tackle, strengthening the future with the strength of broad social connection."
+        },
+        {
+          "score": 0.3592611849308014,
+          "source": "Gruene_Program_en.pdf",
+          "location": "151 / 160",
+          "content": "Gruene: Germany and Europe must take more responsibility for their security and beyond, regardless of US policy. We can do this more effectively and cost-effectively the closer we work together in the EU. We stand by our alliance obligations and the associated necessary expansion of our capabilities. The security situation and the backlog of German capabilities for overall defence make this particularly urgent. This requires reliable financing with a defence budget that permanently meets the goals and needs agreed in NATO and also nationally defined, and that permanently invests well over 2 per cent of gross domestic product in our security and defence capability. This will not be financed solely from current revenues, but will also have to be financed in the medium term through higher borrowing in order to prevent investments in the defence sector from being at the expense of other necessary investments in the future. As in the times of the euro crisis and the pandemic, a joint financial effort is also needed at the European level to secure peace in Europe, as the European Commission has proposed. In this way, we also want to use European synergy effects. It is in our interest to work for peace and stability on a global scale and to focus on human security."
+        }
+      ],
+      "citations_count": 2
+    },
+    "cdu": {
+      "agreement": 10,
+      "explanation": "The CDU strongly supports NATO and sees it as essential for European security, advocating for increased responsibility within the alliance.",
+      "citations": [
+        {
+          "score": 0.31600221991539,
+          "source": "CDU_Program_en.pdf",
+          "location": "51 / 82",
+          "content": "CDU: Now is the time to take on more responsibility. Our goal: Europe should increase its independent defence readiness in a transatlantic partnership and guarantee peace, freedom and security with NATO as a value-based defence alliance. We are reliably and permanently complying with NATO's commitments to finance our defence. We see NATO's current two per cent target as the lower limit of our defence spending in order to enable a fully operational Bundeswehr with full personnel and material resources. We also stand by nuclear sharing. It is an indispensable element of deterrence and reassurance in the common alliance. Together with other European armed forces, we want to integrate the Bundeswehr into a defence union that is embedded in NATO's structures. We want to involve the United Kingdom closely. We welcome the announcement by the USA that long-range weapons systems will be stationed in Germany. This deployment is the logical response to Russia's rearmament and makes a significant contribution to credible deterrence."
+        },
+        {
+          "score": 0.3582212030887604,
+          "source": "CDU_Program_en.pdf",
+          "location": "49 / 82",
+          "content": "CDU: We are committed to the free exercise of the right of self-determination of the Belarusian people. Iran is not only the greatest threat to the Jewish and democratic state of Israel, but one of the greatest threats to world peace. The nuclear agreement with Tehran has failed. We will increase the pressure by comprehensively closing the gaps in sanctions, providing targeted support to human rights defenders and, above all, women, and ending the dangerous influence of the Iraqi regime in Germany. German and European Sahel policy has failed. Democratic governments have been replaced by Russian-backed military regimes. We therefore want to launch a new Sahel strategy with our European partners. In this way, we support the local people so that they do not have to make the dangerous journey to us in Europe. Yes to a fully defensible Bundeswehr Our plan: Modern Bundeswehr at the cutting edge."
+        },
+        {
+          "score": 0.3592883348464966,
+          "source": "CDU_Program_en.pdf",
+          "location": "50 / 82",
+          "content": "CDU: For an efficient defence industry in Germany and Europe. We act. Modern Bundeswehr at the cutting edge We have to be able to defend ourselves in order not to have to defend ourselves. That is why we are working for a Bundeswehr that is ready to defend itself and capable of fighting. It should be able to stand up to the threats of the 21st century and reliably protect our country. For this reason, we are strengthening the Bundeswehr and value our soldiers in particular. We are also implementing necessary reforms. Our goal is for the Federal Armed Forces to make a central contribution to NATO's deterrence and defence capability and to become a role model among our allies. We are restructuring the military and civilian structures of the Bundeswehr and focusing on the military purpose and benefits for fulfilling the core mission. The Bundeswehr needs an adequate infrastructure with modern barracks and training areas, airfields, naval bases, depot structures and administrative units. Our security is comprehensively challenged, also in German. We want to fully fulfil our tasks within the framework of NATO obligations, especially with the expansion of homeland security."
+        },
+        {
+          "score": 0.36782073974609375,
+          "source": "CDU_Program_en.pdf",
+          "location": "11 / 82",
+          "content": "CDU: We know that with personal responsibility, performance and solidarity, something great can happen again. We believe in the power and inventiveness of people. We believe in a defensive German state that assumes responsibility in Europe and the world and represents its interests with self-confidence. We believe in the great power in our country. We will release this power. To do this, our country needs a government that works reliably and tackles the things that really matter: prosperity for all, security and cohesion. Our country needs stability and a new beginning. Our country needs a change of policy. To this end, we as the CDU and CSU are running together in the Bundestag elections. And for this we are campaigning for trust. We believe that Germany will move forward again with a new policy. We are making sure that Germany is moving forward again with a new policy. Now it's time to do instead of talk! Governing instead of arguing! We have a plan for Germany. Time is pressing. We are providing a strong impetus for new beginnings and confidence. We want a country that creates prosperity for all again. We want a country that is free and safe again. We want a country that sticks together again. We want to bring Germany forward again. A Germany of which we can be proud again."
+        }
+      ],
+      "citations_count": 4
+    },
+    "spd": {
+      "agreement": 10,
+      "explanation": "The SPD is committed to NATO as a key pillar of security and does not support leaving the alliance.",
+      "citations": [
+        {
+          "score": 0.3582562506198883,
+          "source": "SPD_Program_en.pdf",
+          "location": "57 / 68",
+          "content": "SPD: Due to its geographical location in Europe, Germany is to be further expanded as a central hub for logistics in order to enable NATO to respond quickly and in a coordinated manner to security challenges in Europe. With the Lithuanian Brigade, we will for the first time permanently station German troops abroad. In this way, we are showing our allies on NATO's eastern flank that they can rely on us. We will give priority to their development and installation in terms of equipment, financing and personnel requirements. In view of the changed security situation, the SPD is planning to introduce a new, flexible military service. The new military service is to be based on voluntariness and based on the needs of the Bundeswehr. The basis for a fire brigade registration must be created quickly. The new military service serves centrally to build up a sustainable reserve. We support Ukraine. The SPD is clearly committed to diplomatic, military, financial and humanitarian support for Ukrainians in their fight against Russian aggression, which is contrary to international law \u2013 for as long as necessary. We expressly support Germany's bilateral security agreement with Ukraine. Ukraine must be able to conduct possible negotiations on an equal footing with Russia."
+        },
+        {
+          "score": 0.3586755394935608,
+          "source": "SPD_Program_en.pdf",
+          "location": "56 / 68",
+          "content": "SPD: We must organize security on our continent from Russia. We want more investment in security. We will spend more money on our security. The special fund for the Bundeswehr was an important first step. After years of reduction, we have increased our defense spending to more than two percent of gross domestic product (GDP). We will therefore continue to advocate sustainable defence financing of at least two per cent of GDP in the future. We will use the funds for the sustainable modernisation of the Bundeswehr so that soldiers can fulfil their duties in foreign missions and in alliance and national defence on a permanent and full basis. This is required by respect for the soldiers. It is our goal to make the Bundeswehr attractive as an employer. This includes the compatibility of family and service as well as further career prospects in the public sector. We introduced National Veterans' Day on June 15 and are committed to empathetic interaction and the improvement of care for service-disabled soldiers and their families. As the SPD, we stand for the concept of the \"citizen in uniform\". NATO is a key pillar of the transatlantic partnership and indispensable for European security."
+        },
+        {
+          "score": 0.36020880937576294,
+          "source": "SPD_Program_en.pdf",
+          "location": "56 / 68",
+          "content": "SPD: At the same time, we must expect that Washington will no longer bear the main burden of protecting Europe. The decisions to establish the new Baltic Sea Command in Rostock by the German Navy, to develop new European Long-Range Strike Approach (ELSA) together with our European allies, and The launch of the European Sky Shield Initiative (ESSI) shows that we are ready to take on more responsibility in alliance defence. The stationing of US medium-range weapons in western More for you. Better for Germany."
+        },
+        {
+          "score": 0.36673980951309204,
+          "source": "SPD_Program_en.pdf",
+          "location": "57 / 68",
+          "content": "SPD: Ukraine must be able to conduct possible negotiations on an equal footing with Russia. We will not accept a Russian dictated peace at the expense of Ukraine. There must be no negotiations over the heads of the Ukrainians. Ukraine's sovereignty and territorial integrity must be preserved. To defend Ukraine and secure peace in Europe, the SPD supports the training of the Ukrainian armed forces and the supply of weapons and equipment with prudence and a sense of proportion. For us, it is true that Germany and NATO will not become a party to the war themselves. That is why we stand by Chancellor Olaf Scholz's decision not to supply the Taurus cruise missile from the Bundeswehr's stocks. Civilian support for Ukraine is indispensable. After all, the question of whether Ukraine can hold its own in the Russian war of aggression also depends on how resilient its civilian population is. A strong society needs a functioning power supply and functioning hospitals. Putin also knows this when he deliberately has civilian infrastructure shelled. So we want to continue to be supportive here and help the people in Ukraine get through this hard time. We expressly welcome peace initiatives such as those initiated by Ukrainian President Zelensky."
+        },
+        {
+          "score": 0.370100736618042,
+          "source": "SPD_Program_en.pdf",
+          "location": "58 / 68",
+          "content": "SPD: We are living up to our responsibility for Europe. As the largest and economically strongest member state within the EU, Germany has a special responsibility. To this end, it is important that the partners in the German government speak with one voice at EU level. We expect all democratic parties to maintain the firewall against right-wing populism and extremism, including in the European Parliament. More for you. Better for Germany."
+        }
+      ],
+      "citations_count": 5
     }
   }
 }
