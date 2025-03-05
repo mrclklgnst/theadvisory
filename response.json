@@ -2,192 +2,131 @@
   "answer": {
     "spd": {
       "agreement": 80,
-      "explanation": "SPD advocates for comprehensive funding in education, emphasizing that good education is crucial for individual and economic success, supporting substantial investment.",
+      "explanation": "Die SPD legt gro\u00dfen Wert auf Gerechtigkeit und den Schutz von individuellen Rechten, was gro\u00dfe \u00dcbereinstimmung darstellt.",
       "citations": [
         {
-          "score": 0.2465338557958603,
+          "score": 0.5186280012130737,
           "source": "SPD_Program_en.pdf",
-          "location": "9 / 68",
-          "content": "SPD: There are wrong answers to this, such as \"We have to work longer\" or \"Fewer protective rights for employees\". The CDU strikes this tone, we don't. What is needed is really good training and more investment in qualification. We must leverage the potential of the many people in our country who have so far been pushed to the margins: especially young people without vocational qualifications and women in involuntary part-time work and mini-jobs. In addition, we still need the immigration of skilled workers. Studies show that we will need several hundred thousand skilled workers per year for Germany. We fight for Made in Germany 2. Made in Germany \u2013 what a beautiful seal of quality was and is that! And it should stay that way for a long, long time. Germany has become a frontrunner in world trade with the engines and machines of the 20th century. We want Made in Germany to remain a world leader in the technologies of the 21st century. In the fierce competition of a changing global economy, our industrial and business location is under pressure."
-        },
-        {
-          "score": 0.2646024227142334,
-          "source": "SPD_Program_en.pdf",
-          "location": "14 / 68",
-          "content": "SPD: In Germany, every young person should be able to make the best of themselves and their abilities. All young people must have access to all educational paths. This is our promise of Advancement through education. For young people at the beginning of their training or studies, the rising cost of living is currently the central problem \u2013 even more so than in the population as a whole. We therefore want to raise the minimum training allowance. With a reform of BAf\u00f6G we want to ensure that the amount of educational support is regularly adjusted to the rising More for you. Better for Germany."
-        },
-        {
-          "score": 0.26952213048934937,
-          "source": "SPD_Program_en.pdf",
-          "location": "14 / 68",
-          "content": "SPD: Good education for all children and young people in Germany is the basis for a good future for our country. For the individual, it creates the conditions for a self-determined life, for society the basis for cohesion and democracy, and for our economy the conditions for economic growth with well-trained specialists. At the same time, working parents as well as their employers are dependent on daycare centres and schools guaranteeing reliable care and a successful education for all children. No matter what the conditions are, we want good education to succeed regardless of the life situation. Below we list how we want to put this into practice. We want education in daycare centers and schools to be reliable for all children. The shortage of skilled workers must not become the Achilles' heel of our education system. Well-qualified specialists in sufficient numbers are the decisive prerequisite for more daycare places, all-day care for primary school age, better quality of education, an expansion of care times and a reduction in closing times."
-        },
-        {
-          "score": 0.2939945459365845,
-          "source": "SPD_Program_en.pdf",
-          "location": "15 / 68",
-          "content": "SPD: The best education needs powerful and sustainable whole-of-government funding. We therefore want to reform inheritance and gift tax in order to be able to invest specifically in better education for all children and young people. As with the Start Opportunities Programme, we want to use our funds specifically where disadvantages found in the educational backgrounds of parents or neighbourhoods become disadvantages for children's educational opportunities. We fight for a financial policy that serves the future of our country. Many people can talk about all the things that are not good. We want to get down to business. For a good future for the country and our children, comprehensive modernization is necessary today. This applies to both the private sector and public services: from daycare centres, schools and universities to the health system and care. Climate protection (renewable energies and grids), digitalisation and artificial intelligence, increased defence readiness and improved transport infrastructure also require a major modernisation effort. Therefore, we want to establish an era of investment in the future and at the same time ensure financial soundness. This requires a joint effort by the federal, state and local governments. We want everyone to work together to modernise our infrastructure."
-        },
-        {
-          "score": 0.29437774419784546,
-          "source": "SPD_Program_en.pdf",
-          "location": "15 / 68",
-          "content": "SPD: Therefore, more students should gradually have an entitlement for us. In the long term, we want to make BAf\u00f6G more independent of parents. We are striving for a gradual return to the full subsidy. In addition, the processing times for BAf\u00f6G applications must be shortened \u2013 through further digitization and simplification. We want to continue and increase the successful federal Young Housing programme in order to create affordable housing for trainees and students. In addition, we will provide greater support for dual studies and extend the protective rights of the Vocational Education and Training Act to this training path as well. We want good working conditions at schools and daycare centers. Daycare centers and schools must be attractive places of learning and working with good working conditions. In order to meet the best possible standards for contemporary daycare and school buildings in the many upcoming new buildings and renovations, we therefore want to create more incentives for providers. We want to make the education system fit for the immigration society. Our immigration society needs an education system that opens up all opportunities for children from different backgrounds to attend daycare centers and schools successfully. We also want to reflect diversity in curricula, textbooks and in the pedagogical professions. Students from different backgrounds should be able to identify with them."
+          "location": "3 / 68",
+          "content": "SPD: Seldom has it been so important that there is respect for everyone. Respect for each and every individual \u2013 no matter how much they earn, what they believe in or where they come from. Investments in our prosperity and our jobs, in our cohesion and in our security \u2013 there must be no either/or now! All this is urgently needed, it all belongs together! That's what we stand for. Today, the Conservatives want to reverse the progress made and save where many citizens are personally affected. Others rely on a policy that patronises citizens. The populists from the right and left, on the other hand, give completely wrong answers. Their business model is to divide our society. We say: All this harms Germany. That is not our way. As difficult as the last few years may have been, Chancellor Olaf Scholz and the SPD could always be relied on when it mattered. We have brought the exploding energy prices as a result of the war against Ukraine under control \u2013 and quickly made Germany independent of Russian gas. Pensions have risen sharply \u2013 and more than 30 years after the fall of the Berlin Wall, they have finally been equalised in East and West. We have More for you. Better for Germany."
         }
       ],
-      "citations_count": 5
+      "citations_count": 1
     },
     "volt": {
-      "agreement": 80,
-      "explanation": "Volt supports investment in education as part of necessary reforms for a connected Europe, aligning with the statement's intent.",
+      "agreement": 75,
+      "explanation": "Volt f\u00f6rdert progressive Werte und k\u00f6nnte in vielen Aspekten \u00fcbereinstimmen, hat aber spezifische Ansichten zu treffen, was zu einer hohen \u00dcbereinstimmung f\u00fchrt.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "afd": {
+      "agreement": 70,
+      "explanation": "Die AfD ist gegen Ma\u00dfnahmen, die als Einschr\u00e4nkung der Grundrechte angesehen werden und betont die Notwendigkeit der nationalen Souver\u00e4nit\u00e4t.",
       "citations": [
         {
-          "score": 0.29433655738830566,
-          "source": "Volt_Program_en.pdf",
-          "location": "6 / 164",
-          "content": "Volt: Our goal must be a Europe that grows together, solves problems together and plays a pioneering role \u2013 be it in defending democracy and freedom, designing a modern security architecture or developing economic and technological innovations. A federal European Union enables closer cooperation and allows Europe to develop its full strength. There is also great potential in Germany. Modern state reform strengthens federalism, creates clear responsibilities and makes the heart of our democracy \u2013 our municipalities \u2013 capable of acting. With the reform of the debt brake, we are paving the way for sustainable investments \u2013 in education, infrastructure and climate protection. In this way, we are setting the course for a secure and sustainable society. Digitization offers us the opportunity to rethink administration. Instead of time-consuming visits to the authorities, we are creating a digital administration that works efficiently, close to people and simply \u2013 as is already the case with our European neighbours. Of course, we must ensure that everyone's fundamental rights are also upheld in the digital space."
+          "score": 0.5165149569511414,
+          "source": "AFD_Program_en.pdf",
+          "location": "24 / 177",
+          "content": "AFD: This mass immigration into the receipt of citizen's allowance threatens its financial viability at the expense of the members of our society who are actually in need, the taxpayers and the German welfare state as a whole."
         },
         {
-          "score": 0.29876622557640076,
-          "source": "Volt_Program_en.pdf",
-          "location": "103 / 164",
-          "content": "Volt: At school, age-appropriate and needs-based educational offers promote the social, emotional, physical and mental development of the child. There, children learn social action, helping others, a European awareness, responsibility for their environment and finally see themselves as part of society. We must now lay the foundation for socially integrating people through education. After all, education ensures Germany's economic development of tomorrow. Qualified staff forms the foundation of good care and support for our children. Many other adjusting screws enable financial and personnel planning security and opportunities for participation regardless of the income of the parents. On this foundation, we build the houses of vocational training, higher education and lifelong further education. Whether it is a change of career, the recognition of foreign training or the integration and participation of people with disabilities, we see lifelong learning as a social task. Only with open, European concepts for free access to education will we achieve a competent citizenry for the democracy of tomorrow."
+          "score": 0.5209500789642334,
+          "source": "AFD_Program_en.pdf",
+          "location": "107 / 177",
+          "content": "AFD: According to the ruling, civilians in Syria no longer face a serious, individual threat to their lives or physical integrity as a result of a civil war."
+        },
+        {
+          "score": 0.522705078125,
+          "source": "AFD_Program_en.pdf",
+          "location": "32 / 177",
+          "content": "AFD: The right to self-determination and the right to physical integrity enshrined in the Basic Law must not be infringed. Therefore, we are committed to opposing any form of compulsory vaccination or compulsory vaccination. There must be no more exclusion and discrimination against people who refuse to be vaccinated. We therefore want to abolish the de facto measles vaccination requirement for children and teaching staff. With the approval of experimental mRNA injections during the Corona crisis, various occupational groups were forced to be vaccinated. Those affected must now be supported in the best possible way and exempted from punishment. In future, responsibility for adequate care for vaccine victims is to be transferred to the employers' liability insurance associations in order to ensure significantly improved treatment and rehabilitation for professional reintegration. The burden of proof must be eased for the proof of vaccine damage. Healer The existing profession of non-medical practitioner in Germany is facing efforts to abolish this profession. Certainly, the German Alternative Practitioners Act must be improved, especially with regard to the uniformity of quality and testing standards. However, this is not associated with an obligation to reimburse costs on the part of the statutory health insurance (statutory health insurance)."
+        },
+        {
+          "score": 0.5261242389678955,
+          "source": "AFD_Program_en.pdf",
+          "location": "129 / 177",
+          "content": "AFD: Supranational Organizations and German Sovereignty Supranational organizations such as the UN and the WHO are increasingly striving to disempower sovereign states and limit nation-state competences on the way to a \"world government\". The Global Compact for Safe, Orderly and Regular Migration, which was adopted by the UN General Assembly in 2018, is a well-known example, the devastating effects of which for Germany through further promotion of migration are obvious. In 2024, further such contracts were prepared under the names \"Compact of the Future\" and \"Global Digital Compact\" of 23 September 2024, in the drafting of which the German government also played a major role. Ostensibly, these supranational agreements are not legally binding, but in fact they are treated as applicable law and grant the UN General Secretariat the right to issue instructions without democratic control by parliaments. The WHO's planned \"pandemic treaty\" continues the series of agreements on the assignment of instruction rights to supranational institutions. The AfD resolutely rejects this path of encroachment on national sovereignty and demands that these treaties be rejected or terminated."
+        },
+        {
+          "score": 0.527435302734375,
+          "source": "AFD_Program_en.pdf",
+          "location": "29 / 177",
+          "content": "AFD: After the publication of the RKI protocols, the measures must be reviewed at all levels. All decision-makers of interest-driven measures brought about against the advice of scientists must be held accountable. Accordingly, those wrongly convicted must be fully rehabilitated and compensated. The laws and guidelines amended in connection with the coronavirus crisis must be reviewed and, if necessary, deleted. As a first important step in coming to terms with the coronavirus measures, we want to set up a committee of inquiry in the German Bundestag. WHO \u2013 Reform or Exit The financing of the WHO must be fundamentally reformed in order to eliminate the blatant dependence on private donors and to exclude their direct influence. In the future, the WHO's budget will be financed mainly by member contributions from the countries, which will require a significant adjustment of the structural and staffing of this organization. With the pandemic treaty planned for 2025, the WHO is already granted extensive rights vis-\u00e0-vis national states in the event of an allegedly \"imminent pandemic\" in disregard of national parliaments, which encroach widely on the privacy of citizens, up to and including tolerating medical interventions and curtailing the right to privacy. We reject this as a matter of principle."
+        },
+        {
+          "score": 0.527738094329834,
+          "source": "AFD_Program_en.pdf",
+          "location": "30 / 177",
+          "content": "AFD: There is therefore a risk of abuse of power, arbitrariness and restrictions on fundamental rights. We therefore demand that Germany reject the International Health Regulations in their current form before the deadline of 31 March 2025. Organ donation The willingness to donate organs has decreased significantly. For this reason, an \"objection regulation\" is increasingly being brought into play, in which organs can be removed in the event of \"brain death\" in principle and without consultation with the relatives, unless an explicit objection by the person concerned has been notarized during his or her lifetime. However, the decision to donate organs can only lie with the person concerned, who must make it in full knowledge of the processes involved. This also includes an explanation of the criterion of \"brain death\", which is not without controversy. In this respect, we firmly reject the opt-out regulation and any form of direct or indirect coercion. Gender identity Pharmacological and surgical interventions on minors to delay sexual development and to change sex are often externally controlled and ideologically motivated and can cause lifelong psychological and physical damage. That is why we will ban puberty blockers and non-medically indicated procedures to change sex."
+        }
+      ],
+      "citations_count": 6
+    },
+    "fdp": {
+      "agreement": 70,
+      "explanation": "Die FDP strebt nach mehr Freiheit der Individuen und k\u00f6nnte in einigen Punkten \u00fcbereinstimmen, hat aber eigene Agenda.",
+      "citations": [
+        {
+          "score": 0.5218546986579895,
+          "source": "FDP_Program_en.pdf",
+          "location": "30 / 52",
+          "content": "FDP: At the same time, we want to speed up divorces by mutual consent and Allow divorce hearings via court video conference. We Free Democrats want to make the so-called alternating model the legal model for the care of minor children after a separation of the parents, whereby the best interests of the child always remain the highest standard of the decision. Both parents should be entitled and obliged to provide both maintenance and care with a substantial share. We want to strengthen the rights of grandparents in dealing with these children. Senior citizens The values of freedom-based politics apply across generations. For us, politics for senior citizens is a cross-sectional task, but one that does not understand the special needs as stigmatising age-related issues. We are committed to a modern image of old age that promotes the potential of older people in the workplace beyond retirement, in participation in social life and in voluntary work. We individualize the retirement age. With an improvement in access rights, we recognize the role of many grandparents in supporting their grandchildren."
+        },
+        {
+          "score": 0.523211658000946,
+          "source": "FDP_Program_en.pdf",
+          "location": "4 / 52",
+          "content": "FDP: Because: Everything can be changed. Such a change for the better is urgently needed today. We no longer have time for a policy of the lowest common denominator. Otherwise, we will only continue to watch as prosperity and life chances in the world are redistributed at our expense. Since the grand coalition of 2013, governments and majorities have only approached the major challenges of the time in baby steps - without the courage to structurally strengthen our competitiveness and our innovative strength."
         }
       ],
       "citations_count": 2
     },
     "gruene": {
-      "agreement": 70,
-      "explanation": "Gruene strongly supports holistic education reforms and access for all, emphasizing needed investments in various educational sectors.",
-      "citations": [
-        {
-          "score": 0.24208876490592957,
-          "source": "Gruene_Program_en.pdf",
-          "location": "77 / 160",
-          "content": "Gruene: We want to ensure that all children can read, write and do arithmetic safely at the end of primary school. Because only those who understand and master the German language can participate in lessons and the community, develop and learn successfully. Language support must be designed as a continuous process that begins in the daycare center and continues in school and vocational training . The multilingualism of many students deserves respect and the strengthening of our educational institutions. Every child in Germany, regardless of language skills, should have access to the regular education system. For good vocational education and training that is open to all Our country needs further energetic steps for more skilled workers \u2013 in industry and trade as well as in daycare centres, schools and the health sector. This is the only way we can cope with the necessary restructuring of the economy and demographic change. However, apprenticeships often remain unfilled, and vacancies cannot be filled. Yet 2. A good education is an attractive promise for the professional future of young people. Along the way, we are creating good financial, social and legal conditions for trainees."
-        },
-        {
-          "score": 0.25228142738342285,
-          "source": "Gruene_Program_en.pdf",
-          "location": "75 / 160",
-          "content": "Gruene: For strong schools for all children For children and young people, schools are the centre of their lives alongside their families. This is where personality develops, where people live, learn and laugh. That's why it's so important that everyone feels they belong and is accepted. Schools also empower children and young people to shape their self-determined and sustainable future. Therefore, every young person deserves the best education \u2013 regardless of where they live, where they come from or what special educational needs they need. Germany is in fact a country of immigration, so we need more than provisional and temporary solutions for dealing with refugees and others who come to us at short notice. We want integration in and through education to become a regular task of our education system, not only on paper, but above all in reality, from kindergarten to school, university and vocational training. They should be places where diversity and discrimination-sensitive learning is promoted and where people can discover and develop their talents and creativity."
-        },
-        {
-          "score": 0.2555156350135803,
-          "source": "Gruene_Program_en.pdf",
-          "location": "17 / 160",
-          "content": "Gruene: To this end, we will also reform the debt system. However, the majority of the investments come from companies and other private actors. Anyone who invests in Germany should have an easier time with taxes: To this end, we are introducing a five-year, non-bureaucratic investment premium of 10 per cent for all companies and all investments with the exception of building investments. This premium is offset against the company's tax liability; if the premium exceeds the tax liability, it is paid out. We evaluate the effectiveness of this premium through annual monitoring. It is absolutely crucial that we not only develop good ideas, but that they also give rise to strong new German and European companies. Compared to the USA or China, we have so far had a major weakness in terms of access to financing."
-        },
-        {
-          "score": 0.28678181767463684,
-          "source": "Gruene_Program_en.pdf",
-          "location": "76 / 160",
-          "content": "Gruene: In this way, we ensure modern and barrier-free school buildings with digitally equipped classrooms, attractive exercise rooms, leak-proof roofs and functioning toilets. We are creating more positions for school social work, school psychology and inclusion in multi-professional teams. We strengthen the children's skills and achievements, with a focus on acquiring basic skills that are indispensable for a successful educational path. We promote political education, democracy education, environmental education and education for sustainable development. We also focus on the development of digital skills, media literacy and the responsible use of artificial intelligence (AI). We are striving for greater social recognition of the teaching profession, in particular to combat the shortage of teachers and lesson cancellations. We see the digitalisation of our schools as an ongoing task for the federal, state and local governments, in which we will continue to invest. Just like in the expansion of good all-day education and care services."
-        },
-        {
-          "score": 0.294569730758667,
-          "source": "Gruene_Program_en.pdf",
-          "location": "35 / 160",
-          "content": "Gruene: Funds from the Germany Fund will supplement regular budget funds. The investment backlog in Germany is in the three-digit billion range, even though we are an economically strong country. The debt brake in its current form prevents investments and other measures that stimulate our stagnating economy again. In order to finance the necessary investments in infrastructure, in the decarbonisation of our country and in a strong, sustainable economy, we want to reform the debt brake in line with European rules. The taking out of state loans is to be made possible to the extent that investments are made by the state. In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times."
-        },
-        {
-          "score": 0.2952955365180969,
-          "source": "Gruene_Program_en.pdf",
-          "location": "35 / 160",
-          "content": "Gruene: This is also advised by leading economic institutes such as the International Monetary Fund (IMF), the Bundesbank and the German Federal Government's Council of Economic Experts. At the European level, we continue to advocate common fiscal rules that leave enough room for sustainable investment. After the grand coalition has ruined the country for almost two decades, we in the federal government have initiated the turnaround. Investments in climate and environmental protection, in transport, energy, education and research infrastructure, and in national security are priorities for us. We propose a reform of the debt brake and a Germany fund for investment expenditure. In order to finance current expenses, we want to close gaps in fairness in our tax system."
-        },
-        {
-          "score": 0.2955559194087982,
-          "source": "Gruene_Program_en.pdf",
-          "location": "14 / 160",
-          "content": "Gruene: In the next government, we want to continue working to remedy the structural weaknesses of our site, to support our companies on their way to climate neutrality and to bring our economy into line with planetary boundaries. We ensure that German and Europe are at the forefront of the innovations of the future. We cannot remain in the status quo for this. Rather, we need more space and enthusiasm for the willingness and courage to take risks with new ideas and technologies."
-        }
-      ],
-      "citations_count": 7
-    },
-    "fdp": {
       "agreement": 60,
-      "explanation": "FDP emphasizes the importance of education and lifelong learning, advocating for significant reforms and investment in educational structures.",
+      "explanation": "Die Gr\u00fcnen betonen Rechte und sozialen Zusammenhalt, zeigen jedoch eine differenzierte Sichtweise auf die Probleme.",
       "citations": [
         {
-          "score": 0.21572740375995636,
-          "source": "FDP_Program_en.pdf",
-          "location": "6 / 52",
-          "content": "FDP: Education and research are the most valuable resources of our country. In recent years, there has been a negative trend in the education system. We want to reverse it. Because: Everything can be changed. Education must once again be the key to personal advancement and a self-determined life \u2013 regardless of social background, age, gender, religion, educational background of parents and place of residence. New global challenges and rapid social change require a real paradigm shift in our education system. We have to think about education holistically \u2013 from cr\u00e8che to kindergarten, schools, vocational schools and universities to offers for lifelong learning. Excellence is a clear goal for us Free Democrats. Talent, passion and dedication lead to innovation and scientific progress. Germany as a research location needs more quality, networking, equal opportunities and excellence. With more academic freedom and optimal framework conditions, anything is possible. Great opportunities for the youngest: Strengthening early childhood education We Free Democrats see early childhood education as the cornerstone of a society that can develop its full potential. This is where we want to start in a more targeted and effective way. Lifelong learning begins in the sandbox, not at school."
+          "score": 0.4820255637168884,
+          "source": "Gruene_Program_en.pdf",
+          "location": "130 / 160",
+          "content": "Gruene: We resolutely oppose the deprivation of rights of people who are instrumentalised by authoritarian states."
         },
         {
-          "score": 0.27738720178604126,
-          "source": "FDP_Program_en.pdf",
-          "location": "9 / 52",
-          "content": "FDP: Intercultural exchange is the best prerequisite for cosmopolitanism and dialogue. We are therefore very much in favour of the Erasmus programme. In the future, pupils will also benefit from \"Erasmus+\" and will be able to complete six months of schooling in other European countries, regardless of their parents' income . We also want to expand the \"Erasmus+\" and \"Training Worldwide\" programmes for trainees. New ideas, new opportunities: Science as the key to the future Excellent public and private research is a clear goal for us Free Democrats. Only by developing the best ideas and innovations can we increase prosperity. In order to keep up with international competition, we need academic freedom and optimal framework conditions. That is why we want to strengthen the entire research process\u2013 from basic research to applied research and transfer to the private sector. We want to join forces through public-private partnerships and further strengthen tax incentives for research. Germany must once again become an attractive location for top researchers. The German Agency for Transfer and Innovation must be established quickly. Because we are also in a new system competition in science."
+          "score": 0.513150691986084,
+          "source": "Gruene_Program_en.pdf",
+          "location": "11 / 160",
+          "content": "Gruene: Just as our European neighbours were there for us, so that we in Germany can live in freedom in the heart of Europe reunited, we are also there for our neighbours. Together, it is important to re-secure peace in freedom. Together with the many states around the world, which also know that standing up for a rules-based order is the best protection. Dear citizens, only if we transform our strengths into future strength will we be able to maintain and strengthen what is dear and dear to us. We emphasise this because we have also seen in recent years how tempting it is in politics to simply cover up the losses of the omitted change, according to the motto \"Nobody has to change here\", or to only dwell on the past. With Robert Habeck, a person is running for leadership of the next government who makes this difference. One that combines a policy of listening with orientation, learning government experience with the willingness to work itself, honesty with the willingness to tackle, strengthening the future with the strength of broad social connection."
         },
         {
-          "score": 0.2882608473300934,
-          "source": "FDP_Program_en.pdf",
-          "location": "7 / 52",
-          "content": "FDP: We are committed to modern extracurricular learning venues \u2013 for example, so-called student labs, maker spaces and TUMO centres. We want to integrate AI-supported and adaptive learning methods into everyday school life by creating a campus for educational innovations analogous to the GovTech campus. This connects federal states and municipalities with innovative players in the tech scene and applied research. Renovation offensive and more autonomy for schools Not only does our education system need an update, but many of our schools are also in need of renovation. We Free Democrats therefore demand the renovation of school buildings in Germany. Through a Digital Pact 2."
+          "score": 0.5139554142951965,
+          "source": "Gruene_Program_en.pdf",
+          "location": "8 / 160",
+          "content": "Gruene: When she doesn't talk about the people, but with them \u2013 as happens every day all over the country at our kitchen and dinner tables. We have fulfilled our government responsibility over the past three years. In challenging years with new crises. In a difficult government constellation. We have also learned a lot from this. We have used the years to pick up momentum and solve problems. Problems that have been accumulated by grand coalitions for many years. We have freed ourselves from dependence on Putin."
         },
         {
-          "score": 0.28846225142478943,
-          "source": "FDP_Program_en.pdf",
-          "location": "11 / 52",
-          "content": "FDP: We want to and can change that. In order to initiate a real economic turnaround, far-reaching and structural reforms are necessary. We need growth and better supply conditions so that the country does not slip into pessimism and distribution struggles. Germany can become a leading economic nation again if we show the courage to change. Our goal: to secure prosperity and opportunities for advancement for all. So that optimism returns and Germany will still be a prosperous and strong country in ten years' time. We Free Democrats see the special economic challenges in the eastern German states, among other things due to a smaller-scale economic structure. Since 1990, it has not yet been possible to generate an economic power comparable to that of the western German states across the board. The financial situation also differs considerably."
-        },
-        {
-          "score": 0.2902956008911133,
-          "source": "FDP_Program_en.pdf",
-          "location": "9 / 52",
-          "content": "FDP: To this end, we would like to facilitate access to smaller, flexible educational certificates. To finance course fees, education-related time-outs and childcare, we want a new \"Life Opportunity BAf\u00f6G\" introduce. A personal free space account is intended to enable tax- and duty-free savings for further education and educational leave. Excellent framework conditions for study, research and innovation Germany must be one of the top locations for research, study and innovation. In order to improve our international competition, we need more academic freedom and higher education independent of the parental home. Dual-use research and close cooperation with industry are indispensable for a strong science and business location. Enabling studies and intercultural exchange independent of parents The choice of study must not depend on the requirements of the parental home. Therefore, we want to further develop BAf\u00f6G into a parent-independent modular system. We want to strengthen and expand the education loan programme in the short term. In addition, we want to make education savings attractive. If parents and grandparents want to provide for the education of their children and grandchildren, this should be possible tax-free \u2013 similar to the retirement savings account."
-        },
-        {
-          "score": 0.29867643117904663,
-          "source": "FDP_Program_en.pdf",
-          "location": "7 / 52",
-          "content": "FDP: By making educator training and further education generally free of school fees and remunerating them appropriately, as well as by increasing the training capacities of the federal states, we are enabling more people to have access to training. We are modularising training in order to raise the quality of training to a high uniform level nationwide. Modern and independent schools \u2013 better educational opportunities for all It is not only the poor PISA results that show that in times of rapid social change, a real paradigm shift in the education system is needed. We have taken the first big steps with the Startchancen programme. We have to build on that. A state-of-the-art educational federalism We can no longer afford the battle of competences between the federal and state governments. As a result, we miss out on creating the education system that our children deserve."
+          "score": 0.5268539786338806,
+          "source": "Gruene_Program_en.pdf",
+          "location": "8 / 160",
+          "content": "Gruene: As a force that faces the challenges and solves the problems. With a confidence that comes from joint action and with a view to a successful future. Because the challenges during this time are great. Many people are under pressure and have worries. Prices have risen and the wages of their own work have been used up for many by rent, heating and the most necessary expenses. Our peace is threatened by Putin's war of aggression. Authoritarianism and populism are an increasing threat to democracy and society in Germany as well. More and more people are confronted with hatred and hostility. Hatred and violence against marginalized groups, racism, anti-Semitism and queerphobia are on the rise. The climate crisis continues to worsen \u2013 despite the efforts of many \u2013 and the nature in which we live continues to be destroyed. Delayed trains, a shortage of skilled workers in daycare centers and paperwork with the authorities are wearing on the nerves. Years of standstill followed by the ongoing conflict within the traffic light government have cost confidence in politics as a whole. A policy that solves problems and changes things for the better can only succeed if it listens to the citizens. When she doesn't talk about the people, but with them \u2013 as happens every day all over the country at our kitchen and dinner tables."
         }
       ],
-      "citations_count": 6
+      "citations_count": 4
     },
     "bsw": {
       "agreement": 50,
-      "explanation": "No specific stance on education investment mentioned in the context, but an implied necessity for improvements could lead to moderate support.",
+      "explanation": "Die BSW hat keine klare Position zu den vorliegenden Themen formuliert, was zu einem mittleren Grad an Zustimmung f\u00fchrt.",
       "citations": [],
       "citations_count": 0
     },
     "cdu": {
-      "agreement": 30,
-      "explanation": "CDU emphasizes investment in training, but does not directly call for extensive investment in education, leading to lower agreement.",
+      "agreement": 40,
+      "explanation": "Die CDU hat eine etwas zur\u00fcckhaltende Haltung zu den Themen, mit einer Tendenz zur Beibehaltung des Status quo.",
       "citations": [],
       "citations_count": 0
     },
-    "afd": {
-      "agreement": 25,
-      "explanation": "AfD expresses concern regarding the current attractiveness of Germany as a business location and emphasizes economic decline, indicating limited support for increased investment in education without resolving broader economic issues.",
-      "citations": [
-        {
-          "score": 0.2628306746482849,
-          "source": "AFD_Program_en.pdf",
-          "location": "11 / 177",
-          "content": "AFD: Germany has become unattractive as a business location In earlier decades, Germany stood out internationally through economic and scientific excellence. The current situation, on the other hand, is marked by economic and scientific decline. Technology specifications, requirements and bans partially suspend market-based competition; Suboptimal technical solutions and products are the result. Many of them are not marketable without government subsidies, for example alternative energies and electric cars. Many requirements are also incompatible with the resources of our country. This applies to limited access to raw materials such as rare earths for alternative energies and drives, to cheap fossil or nuclear energy as well as to well-trained domestic and foreign skilled workers."
-        },
-        {
-          "score": 0.2824159562587738,
-          "source": "AFD_Program_en.pdf",
-          "location": "12 / 177",
-          "content": "AFD: Germany is no longer attractive for well-trained skilled workers from Germany and abroad: high taxes and levies, a lack of security in public spaces, inadequate schooling in public schools, scarce, expensive housing as well as low chances of building property and adequate old-age provision are too deterrent. German corporate taxes are too high by international standards and prevent our companies from making urgently needed investments in the future. The almost unmanageable extent of regulation and bans reduces the attractiveness of our business location for domestic and foreign investors. This makes progressive economic development even more difficult. For some years now, much more investment capital has been flowing out of Germany than is flowing in. Especially for small and medium-sized enterprises and agriculture, the strangulating requirements of politics can no longer be managed. Many companies give up or look for new opportunities abroad."
-        },
-        {
-          "score": 0.297526091337204,
-          "source": "AFD_Program_en.pdf",
-          "location": "16 / 177",
-          "content": "AFD: Not only business enterprises, but also many of our top performers have lost confidence in current politics and Germany as a business location. Our actions for strong citizens We want self-confident and critical citizens who competently exercise their democratic rights, and therefore do not want to restrict citizens unnecessarily through government requirements. We want to achieve these goals by: restoring a functioning, politically neutral education system as a place of preparation for later competition, imparting practice-oriented knowledge in the areas of social insurance, economics and investment already at school, fundamental, simplifying reforms to improve understanding of the tax and social security system, reducing the tax burden in order to expand the Promoting self-employment and business start-ups, among other things by reducing regulations to the necessary minimum, extended tax deductibility for private, funded pension schemes, promoting private asset accumulation and private home ownership."
-        }
-      ],
-      "citations_count": 3
-    },
     "linke": {
-      "agreement": 20,
-      "explanation": "No specific commentary provided on education investment, which results in insufficient evidence for strong support.",
+      "agreement": 30,
+      "explanation": "Die Linke ist oft f\u00fcr mehr soziale Gerechtigkeit, aber hat kein klares Statement zu den genannten Punkten abgegeben.",
       "citations": [],
       "citations_count": 0
     }

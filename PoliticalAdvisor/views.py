@@ -42,6 +42,7 @@ def electionadvisor(request):
     return render(request, "PoliticalAdvisor/electionadvisor.html", {"lang_context": selected_lang_context})
 async def analyze_user_input(request):
     graph_de, vector_store, graph_en, vector_store_en = get_faiss_objects()
+
     if request.method == "POST":
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
         data = json.loads(request.body)
@@ -49,9 +50,11 @@ async def analyze_user_input(request):
         language = request.COOKIES.get('language', 'de')
         if language == 'de':
             graph = graph_de
+            error_response = {"message": {"answer": "Diese Anfrage hat nicht ganz geklappt. Bitte versuchen Sie es erneut."}}
 
         elif language == 'en':
             graph = graph_en
+            error_response = {"message": {"answer": "This query did not quite work out. Please try again."}}
 
 
         if mockup_response == "True":
@@ -104,12 +107,12 @@ async def analyze_user_input(request):
                         return JsonResponse({"message": model_output})
                     except:
                         logger.info('Response from OpenAI not in expected format')
-                        return JsonResponse({"message": model_output})
+                        return JsonResponse(error_response, status=400)
             except:
                 logger.info("No response from OpenAI")
-                return JsonResponse({"message": 'No response from OpenAI'}, status=400)
+                return JsonResponse(error_response, status=400)
 
     else:
         # if not a POST request return error
         logger.info("No POST request")
-        return JsonResponse({"message": "No POST request"}, status=400)
+        return JsonResponse(error_response, status=400)
