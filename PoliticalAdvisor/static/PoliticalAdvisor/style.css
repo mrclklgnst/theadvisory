@@ -58,13 +58,13 @@
     width: 90%;
     height: 90%;
     /*overflow: auto;*/
-    background-color: rgba(214, 214, 214, 0.76);
+    background-color: rgba(214, 214, 214, 0.9);
     justify-content: center;
     align-items: center;
 }
 
 .modal-content {
-    background-color: #3c3c45;
+    background-color: #D6D6D6FF;
     padding: 10px;
     border-radius: 5px;
     width: 95%;
