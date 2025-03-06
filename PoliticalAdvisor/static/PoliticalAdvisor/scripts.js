@@ -18,7 +18,7 @@ function changeLanguage(language) {
     location.reload();  // Reload the page to apply the new language
 }
   // Function to get the language from the cookie
-  function getLanguageFromCookie() {
+function getLanguageFromCookie() {
     const name = "language=";
     const decodedCookie = decodeURIComponent(document.cookie);
     const ca = decodedCookie.split(';');
@@ -112,11 +112,7 @@ function botInitialMessage() {
     let botMessage = document.createElement("div");
     botMessage.className = "message bot-message";
 
-    let introText = "Hello! I am a political advisor bot. " +
-        "Below you can put in a political statement that is important to you " +
-        "and I will tell you which political parties have strong positions relevant to your statement. " +
-        "If you want to see the sources of the information, click on the 'Citations' button. " +
-        "If you want to change the language, click on the language selector top.";
+    let introText = lang_context["bot_init_message"];
     botMessage.innerText = introText;
 
     // show bot message
@@ -181,7 +177,14 @@ function showCitationItem(direction) {
     citationItems[currentCitationIndex].classList.add("active");
 }
 
-function addQuickMessages(messages) {
+function addQuickMessages(topic, messages) {
+    // Add intro message to the message window
+    let introMessage = document.createElement("div");
+    introMessage.className = "message bot-message";
+    introMessage.innerText = "Below are some questions you can ask about " + topic + ":";
+
+    document.getElementById("messageWindow").appendChild(introMessage);
+
     // Function to add quick replies to the message window
     let quickRepliesContainer = document.createElement("div");
     quickRepliesContainer.className = "quick-replies";
@@ -211,7 +214,7 @@ function addQuickTopics(topics) {
     // Add intro message to the message window
     let introMessage = document.createElement("div");
     introMessage.className = "message bot-message";
-    introMessage.innerText = "Good topic! If you're not sure what to ask, click on one of the suggestions for topics:";
+    introMessage.innerText = lang_context["quick_topics_intro"];
 
     document.getElementById("messageWindow").appendChild(introMessage);
 
@@ -230,7 +233,7 @@ function addQuickTopics(topics) {
 
         // On click, create a set of message with attached to the topic
         button.onclick = function() {
-            addQuickMessages(topics[topic]);
+            addQuickMessages(topic, topics[topic]);
         };
         quickRepliesContainer.appendChild(button);
     });

@@ -31,12 +31,18 @@ def electionadvisor(request):
             'button_text': 'Send',
             'table_title': 'Find below an AI generated summary of party positions and relevant citations from party programs',
             'citations_title': 'Citations from party programs',
+            'quick_topics_intro': "If you're not sure what to ask, click on one of the suggestions for topics:",
+            'quick_message_intro': "Below are some questions you can ask about the topic you selected:",
+            'bot_init_message': "Hello! I am a political advisor bot. Below you can enter a political statement that is important to you and I will tell you which political parties have strong positions relevant to your statement. If you want to see the sources of the information, click on the 'Citations' button. If you want to change the language, click on the language selector top.",
         },
         'de': {
             'message_prompt': 'Geben Sie eine politische Aussage ein die Ihnen wichtig ist ....',
             'button_text': 'Versenden',
             'table_title': 'Finden Sie unten eine KI generierte Zusammenfassung der Parteistandpunkte und relevante Zitate aus den Partei Programmen',
             'citations_title': 'Zitate aus Parteiprogrammen',
+            'quick_topics_intro': "Wenn Sie nicht sicher sind, was Sie fragen sollen, klicken Sie auf eine der Themen-Vorschläge:",
+            'quick_message_intro': "Hier sind einige Fragen, die Sie zu dem von Ihnen ausgewählten Thema stellen können:",
+            'bot_init_message': "Hallo! Ich bin ein politischer Berater-Bot. Hier können Sie eine politische Aussage eingeben, die Ihnen wichtig ist, und ich werde Ihnen sagen, welche politischen Parteien starke Positionen haben, die für Ihre Aussage relevant sind. Wenn Sie die Quellen der Informationen sehen möchten, klicken Sie auf die Schaltfläche 'Zitate'. Wenn Sie die Sprache ändern möchten, klicken Sie auf den Sprachauswahl oben.",
         }
     }
     selected_lang_context = lang_context.get(language, lang_context['en'])
@@ -59,8 +65,6 @@ async def analyze_user_input(request):
 
         # Get suggested prompts
         suggested_prompts = createRandomPrompts(language)
-        print(suggested_prompts)
-        print(type(suggested_prompts))
 
         if mockup_response == "True":
             try:
