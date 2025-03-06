@@ -219,6 +219,8 @@ function addQuickTopics(topics) {
     let quickRepliesContainer = document.createElement("div");
     quickRepliesContainer.className = "quick-replies";
 
+    console.log("topics", topics);
+
     // Create a button for each topic
     Object.keys(topics).forEach(topic => {
         console.log("topic", topic);
@@ -275,6 +277,8 @@ async function sendUserInput() {
         let data = await response.json();
         answer = data.message.answer;
         prog_citations = data.message.citations;
+        suggested_prompts = data.suggested_prompts;
+        console.log("suggest_prompts", suggested_prompts);
 
 
         console.log("prog_citations", prog_citations);
@@ -283,9 +287,10 @@ async function sendUserInput() {
         displayBotMessage(answer);
 
         // Add prompts
-        addQuickTopics({"tax": ["What is your opinion on taxes?", "What's up with taxes?"],
-            "climate": ["Tell me about climate policy", "What's up with taxes?"],
-            "Immigration": ["How do parties view immigration?", "What's up with taxes?"]});
+        addQuickTopics(data.suggested_prompts);
+        // addQuickTopics({"tax": ["What is your opinion on taxes?", "What's up with taxes?"],
+        //     "climate": ["Tell me about climate policy", "What's up with taxes?"],
+        //     "Immigration": ["How do parties view immigration?", "What's up with taxes?"]});
 
     } catch (error) {
         console.error("Error sending message:", error);

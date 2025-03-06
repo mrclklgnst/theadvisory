@@ -109,7 +109,7 @@
       "Companies should decide for themselves whether they allow their employees to work from home.",
       "Companies should continue to have to monitor compliance with human rights and environmental protection among all suppliers."
     ],
-    "Company": [
+    "Social Relations": [
       "Young people aged 16 and over should also be allowed to vote in federal elections.",
       "Female civil servants should generally be allowed to wear a headscarf while on duty.",
       "The federal government should increasingly support projects against right-wing extremism.",
@@ -154,7 +154,7 @@
       "Germany should continue to support Ukraine militarily.",
       "Germany should increase its defense spending."
     ],
-    "Health": [
+    "Healthcare": [
       "Inpatient treatment in hospital should continue to be billed using a flat rate per case.",
       "Statutory health insurance should cover all dental treatments.",
       "Private health insurance should be abolished."
@@ -180,7 +180,7 @@
       "The solidarity surcharge should be completely abolished.",
       "The ability of landlords to increase apartment rents should be more limited by law."
     ],
-    "Steer": [
+    "Taxes": [
       "A tax should be levied again on high assets.",
       "When taxing income, the top tax rate should be increased.",
       "Air traffic should be taxed higher.",
@@ -190,14 +190,14 @@
       "A general speed limit should apply on all motorways.",
       "When expanding transport infrastructure, rail should have priority over road."
     ],
-    "migration": [
+    "Migration": [
       "Asylum should only continue to be granted to those who are politically persecuted.",
       "Asylum seekers in Germany should receive a work permit immediately after submitting their application.",
       "Asylum seekers who have entered via another EU country should be turned away at the German borders.",
       "The right of recognized refugees to join their families should be abolished.",
       "In Germany it should generally be possible to have a second citizenship in addition to German."
     ],
-    "pension": [
+    "Pensions": [
       "Voluntary activities should be counted towards your future pension."
     ]
   }

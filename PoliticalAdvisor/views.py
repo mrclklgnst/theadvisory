@@ -7,6 +7,7 @@ import json
 import dotenv
 import os
 import logging
+import random
 
 # Get the logger
 logger = logging.getLogger(__name__)
@@ -56,6 +57,10 @@ async def analyze_user_input(request):
             graph = graph_en
             error_response = {"message": {"answer": "This query did not quite work out. Please try again."}}
 
+        # Get suggested prompts
+        suggested_prompts = createRandomPrompts(language)
+        print(suggested_prompts)
+        print(type(suggested_prompts))
 
         if mockup_response == "True":
             try:
@@ -63,7 +68,7 @@ async def analyze_user_input(request):
                 with open("response.json", "r") as f:
                     model_output = json.load(f)
                     logger.info("Local response found and loaded")
-                    return JsonResponse({"message": model_output})
+                    return JsonResponse({"message": model_output, "suggested_prompts": suggested_prompts})
 
             except:
                 logger.info("No local response found, querying OpenAI")
@@ -86,7 +91,7 @@ async def analyze_user_input(request):
                     # if not possible return the original answer
                     except:
                         logger.info('Response from OpenAI not in expected format')
-                        return JsonResponse({"message": model_output})
+                        return JsonResponse({"message": model_output, "suggested_prompts": suggested_prompts})
         else:
             try:
                 # query openAI, returns dict with keys 'answer' and 'citations'
@@ -96,7 +101,7 @@ async def analyze_user_input(request):
                 if isinstance(model_output["answer"], dict):
                     with open("response.json", "w") as f:
                         json.dump(model_output, f, indent=2)
-                    return JsonResponse({"message": model_output})
+                    return JsonResponse({"message": model_output, "suggested_prompts": suggested_prompts})
                 # else try to reformat the answer
                 else:
                     try:
@@ -104,7 +109,7 @@ async def analyze_user_input(request):
                         model_output["answer"] = dict_cleaned
                         with open("response.json", "w") as f:
                             json.dump(model_output, f, indent=2)
-                        return JsonResponse({"message": model_output})
+                        return JsonResponse({"message": model_output, "suggested_prompts": suggested_prompts})
                     except:
                         logger.info('Response from OpenAI not in expected format')
                         return JsonResponse(error_response, status=400)
@@ -116,3 +121,24 @@ async def analyze_user_input(request):
         # if not a POST request return error
         logger.info("No POST request")
         return JsonResponse(error_response, status=400)
+
+def createRandomPrompts(language):
+    '''
+    This function creates a dictionary with 3 random categories and 3 random statements from each category
+    :param language:
+    :return:
+    '''
+    with open('PoliticalAdvisor/statements_enriched.json', 'r') as f:
+        statement_dict = json.load(f)
+    statement_dict = statement_dict[language]
+
+    resp_dict = {}
+
+    # Selecting 3 random categories from the dictionary
+    random_keys = random.sample(list(statement_dict), 3)
+
+    # Selecting 3 random statements from the selected categories
+    for k in random_keys:
+        resp_dict[k] = random.sample(statement_dict[k], 2)
+
+    return resp_dict
