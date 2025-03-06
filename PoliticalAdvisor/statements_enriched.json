@@ -87,7 +87,8 @@
     ],
     "Verkehr": [
       "Auf allen Autobahnen soll ein generelles Tempolimit gelten.",
-      "Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Stra\u00dfe haben."
+      "Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Stra\u00dfe haben.",
+      "Flugzeug Kerosin soll in Deutschland besteuert werden."
     ],
     "Wirtschaft": [
       "Auf den Umsatz, der in Deutschland mit digitalen Dienstleistungen erzielt wird, soll eine nationale Steuer erhoben werden.",
@@ -104,7 +105,7 @@
       "A national tax is to be levied on the sales generated in Germany with digital services.",
       "The euro is to be replaced by a national currency in Germany.",
       "Germany should work to abolish the increased EU tariffs on Chinese electric cars.",
-      "The debt brake in the Basic Law should be retained.",
+      "The debt brake in the consitution should be retained.",
       "Energy-intensive companies should receive financial compensation from the state for their electricity costs.",
       "Companies should decide for themselves whether they allow their employees to work from home.",
       "Companies should continue to have to monitor compliance with human rights and environmental protection among all suppliers."
@@ -122,7 +123,7 @@
       "The state lists of parties for the elections to the German Bundestag should be filled alternately with women and men.",
       "The traditional family consisting of father, mother and children should be promoted more than other living communities.",
       "A compulsory social year should be introduced for young adults.",
-      "The introductory sentence of the Basic Law should continue to contain the phrase \u201cresponsibility before God\u201d.",
+      "The introductory sentence of the constitution should continue to contain the phrase \u201cresponsibility before God\u201d.",
       "In Germany, the 35-hour week is to be set as the statutory standard working time for all employees.",
       "In Germany there should be referendums at the federal level.",
       "Islamic associations should be able to be recognized by the state as religious communities.",
@@ -167,7 +168,8 @@
     ],
     "Pensions": [
       "All employees should be able to retire without deductions after just 40 years of contributions.",
-      "All employed people should be insured in the statutory pension insurance."
+      "All employed people should be insured in the statutory pension insurance.",
+      "Voluntary activities should be counted towards your future pension."
     ],
     "Social": [
       "All citizens should be insured in statutory health insurance companies.",
@@ -188,7 +190,8 @@
     ],
     "Traffic": [
       "A general speed limit should apply on all motorways.",
-      "When expanding transport infrastructure, rail should have priority over road."
+      "When expanding transport infrastructure, rail should have priority over road.",
+      "Airplane kerosene should be taxed in Germany."
     ],
     "Migration": [
       "Asylum should only continue to be granted to those who are politically persecuted.",
@@ -196,9 +199,6 @@
       "Asylum seekers who have entered via another EU country should be turned away at the German borders.",
       "The right of recognized refugees to join their families should be abolished.",
       "In Germany it should generally be possible to have a second citizenship in addition to German."
-    ],
-    "Pensions": [
-      "Voluntary activities should be counted towards your future pension."
     ]
   }
 }

@@ -54,7 +54,8 @@ async def analyze_user_input(request):
         mockup_response = os.environ.get("MOCKUP_RESPONSE_MODE", default=False)
         data = json.loads(request.body)
         user_input = data["message"]
-        language = request.COOKIES.get('language', 'de')
+        language = request.COOKIES.get('language')
+        logger.info(f"Receiveed user input: {user_input} in language: {language}")
         if language == 'de':
             graph = graph_de
             error_response = {"message": {"answer": "Diese Anfrage hat nicht ganz geklappt. Bitte versuchen Sie es erneut."}}
@@ -65,6 +66,7 @@ async def analyze_user_input(request):
 
         # Get suggested prompts
         suggested_prompts = createRandomPrompts(language)
+        error_response["suggested_prompts"] = suggested_prompts
 
         if mockup_response == "True":
             try:

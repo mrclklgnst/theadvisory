@@ -306,8 +306,9 @@ def build_graph_en(vector_store):
       "spd": {{"agreement": 80, "explanation": "Erklärung", "citations": []}},
       "volt": {{"agreement": 80, "explanation": "Erklärung", "citations": []}}
     }}
+    IMPORTANT: Answer in english.
+    IMPORTANT: Format your answer only as a JSON without additional characters."""
 
-    IMPORTANT: Format your answer only as a JSON without additional characters ."""
 
     # Create a prompt object from the templates
     prompt = PromptTemplate(template=template, input_variables=["context", "question"])

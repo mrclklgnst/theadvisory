@@ -291,14 +291,12 @@ async function sendUserInput() {
 
         // Add prompts
         addQuickTopics(data.suggested_prompts);
-        // addQuickTopics({"tax": ["What is your opinion on taxes?", "What's up with taxes?"],
-        //     "climate": ["Tell me about climate policy", "What's up with taxes?"],
-        //     "Immigration": ["How do parties view immigration?", "What's up with taxes?"]});
 
     } catch (error) {
         console.error("Error sending message:", error);
     } finally {
         spinner.remove();
+        document.getElementById('userInput').value = '';
     }
 
 }
