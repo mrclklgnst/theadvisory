@@ -119,3 +119,24 @@
     font-size: 24px;
     cursor: pointer;
 }
+
+.quick-replies {
+    display: flex;
+    justify-content: start;  /* Align to the left */
+    gap: 8px; /* Space between buttons */
+    margin: 10px 0;
+}
+
+.quick-reply {
+    background-color: #e3e3e3;
+    color: #3c3c45;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.quick-reply:hover {
+    background-color: #d1d1d1;
+}

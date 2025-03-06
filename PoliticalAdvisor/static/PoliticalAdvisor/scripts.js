@@ -8,16 +8,15 @@ document.getElementById('userInput').addEventListener('keypress', function(event
         document.querySelector('button[onclick="sendUserInput()"]').click(); // Trigger the button click
     }
 });
-
 // Set the language selector to the language stored in the cookie
 document.getElementById('languageSelector').value = getLanguageFromCookie();
+
 
 function changeLanguage(language) {
     // Save the selected language to a cookie or session storage
     document.cookie = "language=" + language + "; path=/";
     location.reload();  // Reload the page to apply the new language
 }
-
   // Function to get the language from the cookie
   function getLanguageFromCookie() {
     const name = "language=";
@@ -64,7 +63,6 @@ function displayBotMessage(data) {
         botMessage.appendChild(createPartyList(data));
 
     }
-
     // show bot message
     document.getElementById('messageWindow').appendChild(botMessage);
     scrollToBottom();
@@ -110,24 +108,21 @@ function createPartyList(data) {
     return container;
 }
 
+function botInitialMessage() {
+    let botMessage = document.createElement("div");
+    botMessage.className = "message bot-message";
 
+    let introText = "Hello! I am a political advisor bot. " +
+        "Below you can put in a political statement that is important to you " +
+        "and I will tell you which political parties have strong positions relevant to your statement. " +
+        "If you want to see the sources of the information, click on the 'Citations' button. " +
+        "If you want to change the language, click on the language selector top.";
+    botMessage.innerText = introText;
 
-function showCarouselItem(direction) {
-    // Get all carousel items
-    let items = document.querySelectorAll(".carousel-item");
-    // Remove active class from current item
-    items[currentCarouselIndex].classList.remove("active");
-    // Calculate new index
-    currentCarouselIndex = (currentCarouselIndex + direction + items.length) % items.length;
-    // Add active class to new item
-    items[currentCarouselIndex].classList.add("active");
-
+    // show bot message
+    document.getElementById('messageWindow').appendChild(botMessage);
     scrollToBottom();
 }
-
-
-
-
 
 function openCitationModal(party, citations) {
     document.getElementById("modal-title").innerText = `Citations for ${party.toUpperCase()}`;
@@ -186,7 +181,61 @@ function showCitationItem(direction) {
     citationItems[currentCitationIndex].classList.add("active");
 }
 
+function addQuickMessages(messages) {
+    // Function to add quick replies to the message window
+    let quickRepliesContainer = document.createElement("div");
+    quickRepliesContainer.className = "quick-replies";
 
+    console.log("messages", messages);
+
+    messages.forEach(msg => {
+        let button = document.createElement("button");
+        button.className = "quick-reply";
+        button.innerText = msg;
+
+        // On click, set input field and simulate sending message
+        button.onclick = function() {
+            document.getElementById("userInput").value = msg;
+            sendUserInput();  // Call your function that sends the message
+        };
+
+        quickRepliesContainer.appendChild(button);
+    });
+
+    // Append the quick replies to the message window
+    document.getElementById("messageWindow").appendChild(quickRepliesContainer);
+
+    scrollToBottom();
+}
+function addQuickTopics(topics) {
+    // Add intro message to the message window
+    let introMessage = document.createElement("div");
+    introMessage.className = "message bot-message";
+    introMessage.innerText = "Good topic! If you're not sure what to ask, click on one of the suggestions for topics:";
+
+    document.getElementById("messageWindow").appendChild(introMessage);
+
+    // Function to add quick replies to the message window
+    let quickRepliesContainer = document.createElement("div");
+    quickRepliesContainer.className = "quick-replies";
+
+    // Create a button for each topic
+    Object.keys(topics).forEach(topic => {
+        console.log("topic", topic);
+        let button = document.createElement("button");
+        button.className = "quick-reply";
+        button.innerText = topic;
+
+        // On click, create a set of message with attached to the topic
+        button.onclick = function() {
+            addQuickMessages(topics[topic]);
+        };
+        quickRepliesContainer.appendChild(button);
+    });
+
+    // Append the quick replies to the message window
+    document.getElementById("messageWindow").appendChild(quickRepliesContainer);
+}
 async function sendUserInput() {
     // Function that sends user input to the server and awaits a response
     let userInput = document.getElementById('userInput').value.trim(); // Trimmed user input
@@ -233,6 +282,11 @@ async function sendUserInput() {
         // No checks for errors yet
         displayBotMessage(answer);
 
+        // Add prompts
+        addQuickTopics({"tax": ["What is your opinion on taxes?", "What's up with taxes?"],
+            "climate": ["Tell me about climate policy", "What's up with taxes?"],
+            "Immigration": ["How do parties view immigration?", "What's up with taxes?"]});
+
     } catch (error) {
         console.error("Error sending message:", error);
     } finally {
@@ -240,3 +294,7 @@ async function sendUserInput() {
     }
 
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+    botInitialMessage();
+});
