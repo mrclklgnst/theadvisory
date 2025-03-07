@@ -261,7 +261,8 @@ def build_graph(vector_store):
             citation = citation + content
             doc.page_content = citation
             doc.metadata['score'] = float(score)
-            retrieved_docs.append(doc)
+            if len(citation)>100:
+                retrieved_docs.append(doc)
         return {"context": retrieved_docs}
 
     def generate(state: State):

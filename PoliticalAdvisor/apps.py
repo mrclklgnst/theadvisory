@@ -40,6 +40,7 @@ class PoliticaladvisorConfig(AppConfig):
         # Define party programs
         pdf_list = [
             'AFD_Program.pdf',
+            'BSW_Program.pdf',
             'CDU_Program.pdf',
             'FDP_Program.pdf',
             'Gruene_Program.pdf',
@@ -49,6 +50,7 @@ class PoliticaladvisorConfig(AppConfig):
         ]
         pdf_list_en = [
             'AFD_Program_en.pdf',
+            'BSW_Program_en.pdf',
             'CDU_Program_en.pdf',
             'FDP_Program_en.pdf',
             'Gruene_Program_en.pdf',
