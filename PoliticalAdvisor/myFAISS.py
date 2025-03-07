@@ -273,7 +273,14 @@ def build_graph(vector_store):
             json_response = json.loads(response.content)
         except json.JSONDecodeError:
             logger.info("Warning: LLM did not return valid JSON!")
-            json_response = {"error": "Invalid JSON response from LLM"}
+            logger.info(f"LLM response: {response.content}")
+            try:
+                logger.info("Trying to clean up the response")
+                json_response = json.loads(response.content.replace("```json\n", "").replace("```", "").strip())
+                logger.info("Cleaned up the response")
+            except:
+                logger.info("Failed to clean up the response")
+                json_response = {"error": "Invalid JSON response from LLM"}
 
         return {"answer": json_response}
 
@@ -323,7 +330,6 @@ def build_graph_en(vector_store):
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=30)
         for doc, score in results:
-            logger.info(f"Source: {doc.metadata['source']}")
             party = doc.metadata['source'].split("_")[0].lower()
             doc.metadata['party'] = party
             citation = doc.metadata['source'].split("_")[0] + ": "
@@ -344,12 +350,19 @@ def build_graph_en(vector_store):
         messages = prompt.invoke({"question": state["question"], "context": docs_content})
         response = llm.invoke(messages)
         try:
-            json_response = json.loads(response.content)  # Convert string to JSON
+            json_response = json.loads(response.content)
         except json.JSONDecodeError:
             logger.info("Warning: LLM did not return valid JSON!")
-            json_response = {"error": "Invalid JSON response from LLM"}
+            logger.info(f"LLM response: {response.content}")
+            try:
+                logger.info("Trying to clean up the response")
+                json_response = json.loads(response.content.replace("```json\n", "").replace("```", "").strip())
+                logger.info("Cleaned up the response")
+            except:
+                logger.info("Failed to clean up the response")
+                json_response = {"error": "Invalid JSON response from LLM"}
 
-        return {"answer": json_response}  # Now it's a valid JSON object
+        return {"answer": json_response}
 
     # Compile application and test
     graph_builder = StateGraph(State).add_sequence([retrieve, generate])

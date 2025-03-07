@@ -1,215 +1,208 @@
 {
   "answer": {
-    "spd": {
-      "agreement": 90,
-      "explanation": "Strongly promotes a 130 km/h speed limit on federal motorways for safety and environmental reasons.",
+    "afd": {
+      "agreement": 80,
+      "explanation": "The AfD advocates for a strict limitation of migration including benefits for asylum seekers. The party emphasizes reducing incentives that make it easier for recognized refugees to bring family members over, aligning with the statement.",
       "citations": [
         {
-          "score": 0.31642627716064453,
-          "source": "SPD_Program_en.pdf",
-          "location": "35 / 68",
-          "content": "SPD: We want to introduce a speed limit of 130 km/h on federal motorways. A speed limit has so many advantages that it is almost impossible to justify not introducing it. We are massively lagging behind here in a European and international comparison. If a speed limit protects human lives, why don't we do it? If a speed limit massively reduces stress, traffic jams and accidents, why don't we do it? If a speed limit is good for nature, the climate and the surrounding residential area, why don't we introduce it? It's time. We will promote the procurement of climate-friendly trucks and local buses, where CO emissions can be saved particularly quickly. We are tackling the shortage of drivers 2 drivers in road freight transport and enforce humane, fair and attractive working conditions for professional drivers inside and outside their vehicles, for example the inclusion of the truck cab in the protection of the Workplace Ordinance. We want to shape the path to climate-neutral air transport in the sense of a fair competition (level playing field) for our airports and airlines. We are striving for uniform regulations throughout the EU that avoid the leakage of CO emissions More for you. Better for Germany."
+          "score": 0.37866824865341187,
+          "source": "AFD_Program_en.pdf",
+          "location": "105 / 177",
+          "content": "AFD: Rejected asylum seekers who are obliged to leave the country also incur costs in the double-digit billions through their stay, which must be borne by the taxpayer and contributor. Recognition of asylum currently leads to immediate equality in all social security systems, without any previous personal contribution. This is unfair in terms of social and tax policy. The AfD therefore calls for the reduction of incentives and the preservation of social justice: Social benefits for asylum seekers should be provided as benefits in kind if possible, otherwise by means of a payment card, if the provision of benefits in kind is not possible with reasonable effort. Benefits for those obliged to leave the country are to be reduced to a subsistence level that is in line with human dignity. In addition, recognition must no longer mean an automatic, immediate, unlimited entitlement to all welfare state benefits in terms of time and content. Benefit cuts for asylum seekers in the event of rejection of job opportunities."
         },
         {
-          "score": 0.3508698344230652,
-          "source": "SPD_Program_en.pdf",
-          "location": "35 / 68",
-          "content": "SPD: All young people aged 17 should therefore receive a mobility pass with 500 euros credit, for example for driving licence costs, train tickets or bicycles. In addition, we want to enable employers to pay out a driver's license subsidy of up to 2,000 euros tax-free to trainees and young employees. To ensure real equality for road users, we will continue to reform road traffic law and firmly anchor Vision Zero. In the spirit of intermodality, we promote the bicycle infrastructure with nationwide networked cycle superhighways and bicycle parking garages and further develop the federal government's pedestrian traffic strategy. We want a fair provision of data to strengthen mobility services in rural areas, standardise tickets and better network mobility services. We strengthen an innovative taxi industry as part of public services and ensure that transport service providers comply with social standards. However, the German motorway network urgently needs to be renovated, especially the bridges. We are launching a new federal mobility plan. Bottlenecks on the road are to be eliminated in the future as well. In doing so, we think of infrastructure in an integrated way: where possible, the burden should be relieved by rail or waterway. We want to introduce a speed limit of 130 km/h on federal motorways."
+          "score": 0.38053464889526367,
+          "source": "AFD_Program_en.pdf",
+          "location": "107 / 177",
+          "content": "AFD: According to the ruling, civilians in Syria no longer face a serious, individual threat to their lives or physical integrity as a result of a civil war."
         },
         {
-          "score": 0.43170279264450073,
-          "source": "SPD_Program_en.pdf",
-          "location": "35 / 68",
-          "content": "SPD: More and more people are switching to buses, trains or bicycles. In terms of a sustainable future, this is a great development. But: For many, the car is an indispensable companion. For those who drive combustion engines today, we want to make it attractive to switch to an electric car the next time they buy or lease a car. We will continue to drive forward the nationwide expansion of the charging infrastructure for cars and trucks in a targeted manner. In addition to the new subsidy for e-cars, we want to strengthen the driving experience with electric cars all around: Our goal is fast-charging stations in every supermarket parking lot and at every gas station. We want to enable a contactless and uniform payment system at all charging stations and one's own car as an electricity storage system at home. Refuelling at the public charging station must not be punished with high price surcharges. The driver's license has simply become too expensive for many young people. This leads to problems, especially in rural areas. Against the backdrop of increased rates of failed exams and rising prices, we will reform driver training, including theory lessons, in the interests of road safety and efficiency, also with the aim of noticeably reducing the costs of driver training."
+          "score": 0.381944477558136,
+          "source": "AFD_Program_en.pdf",
+          "location": "106 / 177",
+          "content": "AFD: The current state of affairs is the opposite of the rule of law and is an expression of the continuing failure of the state in migration policy. Repatriation measures are circumvented with the help of old and new regulations on the right to stay, so illegal residence is thus made permanent. This is also served by the frequently used instrument of toleration of persons obliged to leave the country, a practice with which these people receive a residence permit that is constantly extended, sometimes in the form of a chain of toleration. In principle, a temporary suspension of deportation is only a certificate of temporary suspension of deportation. Under no circumstances, however, should the granting of a temporary suspension of deportation justify permanent residence. With the newly introduced so-called opportunity right of residence, tolerated persons who had lived in Germany for 5 years as of January 1, 2022 were even given the chance to obtain a residence permit within 18 months if the lowest requirements were met. In conclusion, it can be stated that the basic intention of the right of residence, the control and limitation of the influx of foreigners, has been reversed and downright perverted for years."
         },
         {
-          "score": 0.4716922640800476,
-          "source": "SPD_Program_en.pdf",
-          "location": "8 / 68",
-          "content": "SPD: This excludes the possibility of tax evasion. We will modernise European state aid law to support companies in structural change. We want to reduce bureaucracy and speed up procedures. In order for our economy to get back on track quickly, many other gears must also move faster. This is the only way to speed up the entire system. Bringing in more speed in different or all aspects creates a real win. In Germany, many planning and approval procedures take too long. Last year, the German government agreed with the states on a Germany pact to accelerate planning, approval and implementation: higher speed and less bureaucracy for more economic growth are the goal. We will continue on this path consistently. We will also push ahead with the reduction of bureaucracy at national and EU level, for example by merging, simplifying and digitising documentation and reporting obligations. New laws must be subjected to a practical review. In reducing bureaucracy, we are taking advantage of the opportunities offered by digitalisation. The basis for this is a nationwide coverage of the entire country with fiber optics and mobile communications. In reducing bureaucracy, we ensure that workers' rights, consumer rights and the goals of the ecological transition are not jeopardised."
+          "score": 0.3981083631515503,
+          "source": "AFD_Program_en.pdf",
+          "location": "101 / 177",
+          "content": "AFD: The AfD in government will immediately end this enforcement deficit. Our catalogue of measures to reverse this migration policy failure of the state is called remigration and includes the following measures, which already correspond to the current legal situation or can at least be implemented by means of constitutional legislative amendments: We will consistently deport persons who are legally obliged to leave the country and eliminate existing false incentives (citizen's allowance, right to stay for those obliged to leave, turbo naturalisation). In this context, we will also expand incentives for voluntary return. If the reason for fleeing ceases to exist \u2013 as is currently the case in Syria \u2013 the entitlement to protection, which is limited in time and in no way establishes an expectation of permanent immigration, ends. To this end, revocation procedures must be initiated immediately and negotiations with the countries of origin must be initiated. We see a great potential for remigration here, which is also demanded by the countries of origin themselves. We will give priority to returning foreign threats, extremists and serious criminals. We will make it much easier to expel foreign criminals, especially in the case of violent, drug and sexual offences, as well as organised and clan crime."
+        },
+        {
+          "score": 0.4007204473018646,
+          "source": "AFD_Program_en.pdf",
+          "location": "104 / 177",
+          "content": "AFD: Rather, according to international maritime law, the disembarkation of those affected must always take place at the nearest seaport. We will immediately stop funding for so-called civilian sea rescue in the Mediterranean and conclude agreements with the Maghreb states that ensure the transfer of rescued migrants to the states concernedLoss of the right to asylum in the event of false information on identity in the asylum procedure Significant expansion of the number of safe countries of origin Combating the misuse of legally issued visas for the purpose of applying for asylum by tightening the VISA procedures with the countries concerned Loss of protection status and re-entry ban after asylum and subsidiary protection beneficiaries travel to their country of origin Elimination of the fundamental right to subsequent immigration for family members on a subsidiary basis Beneficiary of protection Annual review of the continued existence of grounds for asylum Ending the proliferation of asylum procedure advice and support. Procedural advice may only be provided in accordance with applicable law."
+        },
+        {
+          "score": 0.4066872000694275,
+          "source": "AFD_Program_en.pdf",
+          "location": "102 / 177",
+          "content": "AFD: Dublin returns to the responsible EU country of first entry usually fail due to the unwillingness of these EU member states. In reality, therefore, almost every asylum seeker who enters the country illegally remains here permanently. This state of affairs is unacceptable. The reference to an allegedly necessary verification of responsibility for the asylum procedure expressly does not apply here, as this would also be possible in the already safe neighbouring EU state that has previously been crossed. Measures to maintain public security and protect internal security also take precedence over European rules on asylum and aliens law. In addition, the waiver of internal border controls was only agreed to at the time on the condition that external border security is guaranteed and that all EU member states comply with the standards for the implementation of asylum procedures and the Dublin regulations. In addition, mass migration to the EU was not foreseeable since 2015 when the EU Treaty was ratified in 1993. Thus, the basis of the European asylum regulation has ceased to exist, which is why there is no longer any obligation for Germany in this respect."
+        },
+        {
+          "score": 0.4111641049385071,
+          "source": "AFD_Program_en.pdf",
+          "location": "103 / 177",
+          "content": "AFD: We will continue to ensure commuter, holiday and goods traffic. Furthermore, we will implement the following measures in compliance with the rule of law: Establishment of detention centres at the border to ensure measures terminating residence Termination of the UN Compact on Migration and UN Refugees Initiation of a reform of both the Geneva Convention on Refugees (GRC) and the European Convention on Human Rights (ECHR) with the aim of adapting them to current circumstances since 2015 Conversion of the individual right of asylum to a institutional guarantee or a non-constitutional provision The legal right to admission for the purpose of the asylum procedure is limited to persons who are directly and specifically threatened ASYLUM PARADISE GERMANY CLOSE Due to its government policy and its legal implications, Germany has borne the brunt of illegal immigration to Europe since 2015. The AfD will counter this grievance with a comprehensive catalogue of measures to restore orderly conditions."
+        },
+        {
+          "score": 0.4145730137825012,
+          "source": "AFD_Program_en.pdf",
+          "location": "124 / 177",
+          "content": "AFD: Prenuptial agreements on matrimonial property and maintenance matters should only be allowed to be concluded under German law. The construction of minarets and the call of the muezzin are to be prohibited. Protecting fundamental rights We are critical of the increasing restriction of fundamental rights in the name of security. In many cases, civil rights are restricted, although the alleged goal can be achieved with the effective implementation of existing laws and an appropriate deployment of personnel. The AfD resolutely rejects the tendency towards a surveillance state. We oppose nationwide video surveillance as a restriction of freedom and, at best, as a symptom control. We reject state trojans and data retention. Polygamy, forced marriage and child marriages Marriages of Muslims living in Germany that are based on polygamy, forced marriages and child marriages run counter to the German legal system and public order. They must be annulled. For this purpose, the legal norms must be created that regulate the consequences of such an annulment among the parties involved. The AfD opposes the oppression of Muslim women and demands equal rights for men and women in all areas."
         }
       ],
-      "citations_count": 4
+      "citations_count": 8
     },
     "volt": {
       "agreement": 80,
-      "explanation": "Volt supports measures for cleaner transport and implied safety regulations favoring speed limits.",
+      "explanation": "Volt generally supports inclusive policies but has not been elaborated upon in the provided context, leading to a presumption of alignment with family reunification restrictions unlike the more inclusive parties.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "cdu": {
+      "agreement": 70,
+      "explanation": "The CDU supports the suspension of family reunification with beneficiaries of subsidiary protection, which aligns with the statement to abolish family reunification for recognized refugees.",
       "citations": [
         {
-          "score": 0.3931294083595276,
-          "source": "Volt_Program_en.pdf",
-          "location": "70 / 164",
-          "content": "Volt: Travellers pay depending on the distance travelled. The tolls are used to maintain and expand the motorways. At the same time, the automated free-flow system enables rapid passage without waiting times at toll booths. This system represents a reliable source of financing for the motorway infrastructure and relieves the burden on the state budget."
+          "score": 0.38403284549713135,
+          "source": "CDU_Program_en.pdf",
+          "location": "42 / 82",
+          "content": "CDU: At the same time, we are investing in state-of-the-art border security technology, such as drones, night vision cameras and thermal imaging cameras. We are suspending family reunification with beneficiaries of subsidiary protection and ending all voluntary admission programmes. In general, benefits in kind should take precedence over cash benefits wherever possible. The payment card is to be introduced nationwide and restrictively in all federal states. For those obliged to leave the country, we align social benefits with the principle of \"bed, bread and soap\" established by the courts and, wherever possible, provide for a complete exclusion of benefits. We are working at European level to return to the original spirit of the Geneva Refugee Convention. Newly arriving refugees from Ukraine are no longer to receive so-called \"citizen's money\", but benefits under the Asylum Seekers Benefits Act. At the same time, we are making every effort to ensure that they come into work immediately and become independent of state benefits. We are simplifying the procedures for professional recognition and strengthening the learning of the German language \"on the job\"."
         },
         {
-          "score": 0.44455450773239136,
-          "source": "Volt_Program_en.pdf",
-          "location": "68 / 164",
-          "content": "Volt: Fewer cars mean cleaner air, less congestion and more space for people. We all benefit from this through shorter distances, better public transport and more space for active forms of mobility such as cycling and walking. That's why Volt is committed to this future: \u2022  Public transport as an alternative: Public transport will be developed reliably, barrier-free and at close intervals. BEST PRACTICE Bicycle parking garage in Utrecht \u2013 A model for parking bicycles A bicycle parking garage with over 12,500 parking spaces has been opened in Utrecht, the largest in the world. It is located near the main train station and is characterized by modern security measures and a user-friendly design. The multi-storey car park promotes cycling and helps to relieve urban traffic by offering commuters a safe and efficient way to park their bicycles."
+          "score": 0.3913204073905945,
+          "source": "CDU_Program_en.pdf",
+          "location": "5 / 82",
+          "content": "CDU: The influx is too much and no longer manageable. A strict limitation of migration is urgently needed. We act. What matters most now: \u2022  We control the German state borders and enforce consistent rejections at the border. We have to decide for ourselves again who comes to us and who is allowed to stay. To this end, we are declaring other countries of safe origin and are also deporting them back to Syria and Afghanistan. We don't make any compromises when it comes to the payment card. Anyone who applies for asylum in Europe should be transferred to a safe third country, where they will go through their procedure and find protection there if necessary."
         }
       ],
       "citations_count": 2
     },
-    "gruene": {
-      "agreement": 70,
-      "explanation": "The Greens advocate for reducing speeds for safety and environmental reasons, supporting a speed limit on highways.",
-      "citations": [
-        {
-          "score": 0.34194087982177734,
-          "source": "Gruene_Program_en.pdf",
-          "location": "47 / 160",
-          "content": "Gruene: Instead of a means of transport, we focus on people with their diverse needs. By prioritising local public transport, rail, walking and cycling, Germany is becoming a pioneering country for modern mobility. We are bringing traffic law up to date in order to enable barrier-free mobility for all people in urban and rural areas, for example with small electric vehicles. Less congestion and air pollution, more accessibility and road safety are our goals. We want a functioning coexistence in traffic to succeed and for everyone to reach their destination safely. This can only be achieved if excessive speeds are reduced. In the government, with the reform of road traffic law for municipalities, we have taken a first step to create an easier 30 km/h speed limit, to strengthen walking and cycling and to create traffic-calmed and liveable neighbourhoods. In a next step, we want to give our municipalities even more leeway, for example to enable a 30 km/h speed limit throughout the city. Germany is the only country in the world to allow unlimited speeding on motorways \u2013 to the detriment of human lives and the environment. A safety speed of 130 km/h on motorways as a general speed limit is therefore overdue. For country roads, we want to significantly expand the scope for 80 km/h for location-specific reasons in order to increase road safety."
-        },
-        {
-          "score": 0.3849850296974182,
-          "source": "Gruene_Program_en.pdf",
-          "location": "47 / 160",
-          "content": "Gruene: We want to bring the catalogue of fines for serious traffic offences up to European level. In order to develop traffic areas into urban spaces with a quality of stay, we will make public spaces more attractive, expand accessibility and increase traffic safety \u2013 especially on the way to school. We want to promote urban redevelopment more strongly and renew outdated regulations, for example to end exceptions to accessibility in local transport. Our guiding principle is Vision Zero, i."
-        },
-        {
-          "score": 0.444671094417572,
-          "source": "Gruene_Program_en.pdf",
-          "location": "45 / 160",
-          "content": "Gruene: We want to improve mobility for everyone. We need a thorough renovation of our transport infrastructure. We have greatly accelerated planning and approval procedures."
-        },
-        {
-          "score": 0.45795494318008423,
-          "source": "Gruene_Program_en.pdf",
-          "location": "46 / 160",
-          "content": "Gruene: The drive turnaround is also needed for trucks. With the reform of the truck toll, we have set clear incentives for the switch to electric and other climate-neutral drives. In order to moderate air and shipping in a climate-neutral way, we support the production of sustainable fuels from renewable energies, such as e-kerosene, promote fuel-saving technologies and the rapid development of a climate-neutral energy supply in ports, in particular a climate-neutral shore power supply. We underpin the sustainable development of our ports with a long-term financing concept. As an anchor customer, the state can contribute to the ramp-up of climate-friendly fuels in shipping and aviation. However, an important principle is that climate-friendly mobility must be inexpensive and tickets for rail transport must be affordable. We want to make short-haul flights superfluous by improving the railway. We want to abolish the privileges for private jets and reduce this enormously climate-damaging mode of transport. We see no need for the creation of new take-off and landing capacities in air traffic, not only for ecological but also for economic reasons. We want to significantly strengthen noise protection for the population around airports, especially at night. For health protection, we are creating a limit value for ultrafine dust."
-        },
-        {
-          "score": 0.462797611951828,
-          "source": "Gruene_Program_en.pdf",
-          "location": "46 / 160",
-          "content": "Gruene: For health protection, we are creating a limit value for ultrafine dust. In many places, being mobile in the countryside still requires your own car. We want real freedom of choice and therefore develop public transport in such a way that it becomes an alternative to the car that is suitable for everyday use in rural areas as well. On-demand buses and other concepts such as digitally networked minibuses and carring services can complement regular transport in the area. Some municipalities and districts already offer such flexible concepts. We would like to strengthen such concepts and implement them as model projects in as many different regions of Germany as possible."
-        }
-      ],
-      "citations_count": 5
-    },
-    "linke": {
-      "agreement": 60,
-      "explanation": "Supports measures towards reducing traffic fatalities, but does not explicitly endorse a general speed limit.",
-      "citations": [
-        {
-          "score": 0.35283219814300537,
-          "source": "Linke_Program_en.pdf",
-          "location": "36 / 60",
-          "content": "Linke: Every traffic fatality and injury is one too many Die Linke is committed to Vision Zero We support, among other things, the Schulstra\u00dfe model Railway: Repair, expand and operate for the benefit of the public! The railways are a vital part of our society's public services It is the backbone of public transport The form of a stock corporation with its profit interests is in contradiction to this: the public welfare orientation for the infrastructure division of the railway (InfraGo) was only half the way."
-        },
-        {
-          "score": 0.44409000873565674,
-          "source": "Linke_Program_en.pdf",
-          "location": "35 / 60",
-          "content": "Linke: Mobility for all Congestion among car commuters and stress when travelling by train are increasing - and the transport sector is still not contributing to achieving the climate targets. The 9-euro ticket now costs 58 euros, the train is too late, e-cars are too expensive for normal earners and too big to really protect the environment. The 9-euro ticket has just shown that a good and inexpensive public transport service meets with great approval The traffic light government has made driving more expensive with a higher CO2 price However, the alternatives for stopping the car have not been created In many places, the train comes too rarely, but many are overcrowded More than a third of the routes are not electrified But the railways are sinking billions of euros into price projects such as Stuttgart 21 The car lobby calls for e-fuels and the end of the phase-out of internal combustion engines What is needed is exactly the opposite: a consistent mobility turnaround, the expansion of public transport and the rail network, as well as low ticket prices, good connections even at night and in rural areas, cities with short distances Then there is also planning security for industry, and good industrial jobs are being created in rail and vehicle construction (Chapter 8)."
-        },
-        {
-          "score": 0.4476104974746704,
-          "source": "Linke_Program_en.pdf",
-          "location": "48 / 60",
-          "content": "Linke: Armed special task forces (SEK) may not be used at demonstrations We want to massively restrict the use of pepper spray by the police In connection with assemblies, gatherings in public spaces and events, it should be banned \u2022 We demand an individual identification obligation for politicians It must become a matter of course that police officers confront citizens in an individually recognizable way In order to investigate and avoid assaults, operational logs and police videos should be kept at trust offices Independence of politics \u2013 limiting the power of lobbyists In the 2021 Bundestag election campaign, the parties received over 100 million euros in party donations. In twelve EU countries, donations from companies or legal entities to parties are prohibited."
-        },
-        {
-          "score": 0.4482375383377075,
-          "source": "Linke_Program_en.pdf",
-          "location": "35 / 60",
-          "content": "Linke: Every twentieth car trip could be avoided by the ticket - and it was only available for 3 months The increase in the subscription price to 58 euros is fatal and the different solutions in the states must be designed uniformly nationwide With a VAT exemption for local public transport, money will be freed up for local transport in the short term \u2022  We want to reintroduce the 9-euro ticket immediately. For pupils, trainees, students and senior citizens, we want an immediate 0-euro ticket. The carriage of children as well as bicycles and dogs must be included For all subscribers, we demand six free rides per year in long-distance transport."
-        }
-      ],
-      "citations_count": 4
-    },
-    "bsw": {
-      "agreement": 50,
-      "explanation": "No specific position on speed limit stated in the context provided.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "afd": {
-      "agreement": 25,
-      "explanation": "The AfD is focused on infrastructure improvements rather than implementing a speed limit.",
-      "citations": [
-        {
-          "score": 0.3670833110809326,
-          "source": "AFD_Program_en.pdf",
-          "location": "44 / 177",
-          "content": "AFD: Instead, we want to tackle the real problems. Many motorways and bridges in Germany have long been in urgent need of rehabilitation and repair. This can only be achieved with efficient measures in the planning and execution of construction sites and the elimination of the environmental impact assessment for replacement buildings. In addition, the AfD is calling for more truck parking spaces and the consistent application of existing truck overtaking bans for the safety of all road users. The massive CO\u2082-related increase in the truck toll must be withdrawn, as it makes goods in particular more expensive. In order to ensure the competitiveness of German freight forwarders, we want to consistently monitor the compliance of foreign freight forwarders with cabotage and social regulations. For this purpose, both the toll data and the data from the intelligent tachograph are to be used. The concept of the \"rolling road\" and container handling is to be established for transit connections through Germany with regular intervals. The network of loading points and multimodal freight transport centres (road, rail and waterways) must be densified."
-        },
-        {
-          "score": 0.43879109621047974,
-          "source": "AFD_Program_en.pdf",
-          "location": "48 / 177",
-          "content": "AFD: This allows detailed usage and movement profiles to be created. Even the knowledge of the recording and merging of such data influences the behavior of citizens. We demand the restriction of location and device monitoring to the minimum necessary level, as well as the mandatory possibility of switching off by the user. Furthermore, we demand complete transparency with regard to the monitoring possibilities for the user. We are expressly committed to the abolition of the mandatory speed warning system (Intelligent Speed Assistance), as it patronizes the driver. Fight against disinformation Critical and supposedly disturbing opinions, as long as they do not cross the line into criminal liability, are part of the constitutionally guaranteed right of every citizen of our country. The expression of free opinion in the media of any kind also represents a possibility for the citizen to control the state. Freedom of expression also includes the right to make mistakes. Recently, however, attempts have been made by public and \"non-state\" actors to restrict freedom of expression by directly banning or delegitimizing critical opinions. More and more public and non-state actors, so-called \"NGOs\", such as \"Faktenchecker\" or \"Correctiv\", are being used for disinformation campaigns through state commissioning and financing. As an example, the campaigns for the Corona vaccination should be remembered here."
-        },
-        {
-          "score": 0.4558315873146057,
-          "source": "AFD_Program_en.pdf",
-          "location": "125 / 177",
-          "content": "AFD: The ban on masking must be enforced in this respect. We demand a ban on headscarves in public institutions and especially in schools, following the example of other European countries. EQUIPPING THE FEDERAL POLICE FOR NATIONAL BORDER PROTECTION In times of almost unhindered migration as well as cross-border crime and terrorism, the protection of Europe's internal borders is of existential importance. The Federal Police must be put in a position to fulfil this task in terms of legal, personnel and technology. In terms of personnel, an incentive to take up this profession is to be provided by an improvement in remuneration and pensions. Emergency personnel should retire as early as the age of 60, and managers should be staggered according to years of service and life depending on their assignment. From a technical point of view, we demand the use of state-of-the-art search technology and electronic surveillance systems. From a legal point of view, we demand an expansion of the powers of the Federal Police, in particular also in the form of an extension of Section 71 of the Residence Act to include a general competence of the Federal Police as a border authority outside border crossing points."
-        },
-        {
-          "score": 0.47079217433929443,
-          "source": "AFD_Program_en.pdf",
-          "location": "44 / 177",
-          "content": "AFD: We are committed to a future-proof rehabilitation of the severely neglected federal waterway network, the safeguarding of Germany as a port location and incentives for shipowners to sail under the German flag again and employ German seafarers. Safe, clean and reliable rail transport For rail passenger transport, Germany must receive a better developed and coordinated local and long-distance public transport network that is based on the simple and reliable model of Switzerland. The federal rail network must really serve the common good and be operated efficiently."
-        }
-      ],
-      "citations_count": 4
-    },
     "fdp": {
-      "agreement": 20,
-      "explanation": "The FDP emphasizes efficient infrastructure and rejects general speed limits.",
+      "agreement": 60,
+      "explanation": "The FDP's policy aligns partially with the idea of limiting family reunification, as they propose to review various aspects of immigration including family reunification, which may signal support for the statement.",
       "citations": [
         {
-          "score": 0.4229980409145355,
+          "score": 0.3525664806365967,
           "source": "FDP_Program_en.pdf",
-          "location": "40 / 52",
-          "content": "FDP: Modern infrastructure \u2013 accelerating planning processes A modern and efficient infrastructure is the key to growth and prosperity. Bridges, roads, waterways, railways and airports create real added value in people's everyday lives. We have simplified road traffic law and initiated planning and approval acceleration. We are consistently pursuing this path. The aim is to at least halve the planning times for all infrastructure projects in order to expand roads, railways, waterways and digital networks more quickly. We are committed to ensuring that both mobile communications and fiber optic expansion become overriding public interest in the Federal Telecommunications Network Expansion Acceleration Act."
+          "location": "27 / 52",
+          "content": "FDP: Anyone who is here without the right to stay must return to their home country immediately. However, repatriations too often fail due to enforcement by the federal states. That is why we want to centralise the responsibility for deportations at the federal level . Asylum procedures should also take place in third countries if protection seekers are safe there and procedures based on the rule of law are guaranteed. We also call for an orderly procedure for determining more safe countries of origin. We want to suspend family reunification with beneficiaries of subsidiary protection and pause admission programmes. As Free Democrats, we support the pilot testing of pushbacks at Germany's external borders in order to exhaust all legal possibilities to limit irregular migration. Together with our European partners, we want to ensure more order and control in migration policy. The role of FRONTEX in the management of the external borders and in the fight against irregular migration and migrant smuggling must be strengthened."
         },
         {
-          "score": 0.44350385665893555,
+          "score": 0.4055224657058716,
           "source": "FDP_Program_en.pdf",
-          "location": "41 / 52",
-          "content": "FDP: We want to fundamentally revise the emission requirements for cars. The focus should not only be on the exhaust gases while driving. Instead, we want to look at the entire life cycle of a vehicle. In addition, we would like to abolish the EU fleet limits. This creates more flexibility for the industry. This allows it to rely on new technologies that both protect the climate and secure jobs. For a technology-neutral, sustainable mobility policy, we want electromobility, climate-neutral fuels (e. Only through genuine openness to different technologies can we shape the mobility of the future. This must advance climate protection and at the same time strengthen economic stability. We Free Democrats want to make autonomous driving part of everyday life. This includes the approval of automated driving systems at all stages of development. For many young people, the driver's license means freedom. That is why we want to make the driver's license and the professional driver qualification (truck driver's license, bus driver's license) cheaper again, e."
+          "location": "27 / 52",
+          "content": "FDP: At the same time, we want Germany to continue to successfully develop bilateral migration partnerships. Enabling and shaping integration The absorption and integration capacity of our society is limited. Persistently high numbers of refugees are overloading the infrastructure in the municipalities."
         },
         {
-          "score": 0.4482088088989258,
+          "score": 0.4071337580680847,
           "source": "FDP_Program_en.pdf",
-          "location": "41 / 52",
-          "content": "FDP: We Free Democrats want fewer traffic jams due to the construction site turbo. To this end, the tendering modalities must be adapted in such a way that incentives are used to reward fast and timely construction. In view of the increasing need for investment, we need a sustainable solution within the framework of the debt brake for the maintenance and expansion of infrastructure in Germany. We want to strengthen the road financing cycle, own income for Autobahn GmbH through the truck toll and an opening for private capital in order to enable adequate and year-long planning and financing. Freedom of technology instead of ideological transport policy All generations in our country are united by the need for individual mobility. Instead of banning the combustion engine, we are enabling alternative fuels such as e-fuels. Because it is not the drive technology, but the fossil fuels that are the problem. This will enable us to continue to operate the existing fleet in a climate-neutral manner in the future. In this way, we ensure affordable and sustainable mobility regardless of the type of drive. Aviation and shipping can also be made more environmentally friendly with alternative fuels. We want to fundamentally revise the emission requirements for cars."
-        },
-        {
-          "score": 0.46184420585632324,
-          "source": "FDP_Program_en.pdf",
-          "location": "41 / 52",
-          "content": "FDP: By opening up the exam market to other providers and continuing education to become a driving examiner even without an engineering degree, we want to increase the number of test appointments and significantly reduce waiting times. We want to make accompanied driving possible from the age of 16 \u2013 because early driving practice has been proven to increase road safety. We reject discriminatory compulsory tests for seniors. We Free Democrats are committed to the digitization of driving licenses and vehicle documents in order to reduce bureaucracy. The digital vehicle registration we have launched is a good start, and we are building on it. We Free Democrats want to strengthen the automotive cultural heritage and secure it for the future."
-        }
-      ],
-      "citations_count": 4
-    },
-    "cdu": {
-      "agreement": 10,
-      "explanation": "The CDU rejects a general speed limit on the highways, viewing individual mobility as a freedom.",
-      "citations": [
-        {
-          "score": 0.4426824450492859,
-          "source": "CDU_Program_en.pdf",
-          "location": "73 / 82",
-          "content": "CDU: This applies equally to all modes of transport. In addition, there are structural problems, especially at Deutsche Bahn. We must take decisive countermeasures so that the infrastructure is up to date again. People should be able to choose their mobility freely \u2013 it is an expression of freedom. It depends on the personal circumstances and the place of residence which means of transport makes sense. We see individual mobility as the epitome of freedom and therefore do not play off different means of transport against each other. We reject anti-car attitudes, driving bans for city centres, the rededication of parking spaces and a general speed limit on German motorways. The driver's license must be affordable for young people. To this end, it is important to reduce bureaucracy and make training efficient. The ban on internal combustion engines must be reversed. The fleet limits must be reviewed and penalty payments prevented. For e-mobility, the charging infrastructure must be appropriately expanded. The total cost of air transport will be reduced to a competitive European level."
-        },
-        {
-          "score": 0.44622358679771423,
-          "source": "CDU_Program_en.pdf",
-          "location": "74 / 82",
-          "content": "CDU: The planning approval procedure remains the most suitable instrument for the construction of new large-scale infrastructure. However, it must become more efficient through a mandatory procedural master plan, a cut-off date regulation, an obligation to cooperate and digitalisation. Private transport and public transport belong together and must be designed to be barrier-free. Bus, train, boat, plane and car, bicycle and pedestrian traffic complement each other in a meaningful way. In addition to electromobility, all climate-friendly options for alternative drive systems and energy-efficient fuels are to be used. These include, for example, e-fuels, hydrogen and sustainable biofuels. We stand for openness to technology. Our goal is to become the technology leader in autonomous driving and sustainable drives for all modes of transport. Innovative mobility \u2013 especially in aviation \u2013 is of great importance to us. To this end, we are relying on new cycle paths, the expansion of the network and mobile stations, especially at transport hubs. We are strengthening \"shared mobility\" as a future market. The future of freight transport belongs to emission-free freight transport, rail and waterways. We will also look at new technologies."
-        },
-        {
-          "score": 0.44921573996543884,
-          "source": "CDU_Program_en.pdf",
-          "location": "9 / 82",
-          "content": "CDU: This also applies to the involvement of insurers. We are also introducing the digital vehicle file. A functioning state \u2013 our promise for the future The traffic light has argued and destroyed trust. We want to act and regain trust \u2013 faster, more efficiently, digitally and with leaner structures. We act. What matters most now: \u2022  We are halving the number of commissioners and getting by with at least ten percent fewer staff in the ministerial administration and the Bundestag administration. Today's debts are tomorrow's tax increases. We clearly reject all forms of liability for the debts of other EU states."
+          "location": "27 / 52",
+          "content": "FDP: A job is also the best integration course. We Free Democrats want to create a new social status for all recognised refugees\u2013 including Ukrainian refugees \u2013 instead of receiving citizen's money. It combines greater support for taking up work and, where legally permissible, lower social benefits. The amount of social benefits must not be a false incentive. That is why we want to critically review the amount of social benefits, for example in the Asylum Seekers' Benefits Act, and standardise it at European level in the future. We are also relying on more benefits in kind instead of cash and demand that the payment card, which has long been decided, be used everywhere and without unnecessary exceptions. Anyone who is legally and enforceably obliged to leave the country and has a reasonable opportunity to leave Germany is usually no longer allowed to receive state support. Those who actively obstruct the identity verification procedures are also to be deprived of social benefits. For well-integrated asylum seekers, there must be the possibility of changing lanes to immigration into the labour market if they are so qualified that they and their families can live from their own work without transfer payments."
         }
       ],
       "citations_count": 3
+    },
+    "bsw": {
+      "agreement": 50,
+      "explanation": "The BSW's position is not clearly represented in the provided text, resulting in a neutral stance towards family reunification policy.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "gruene": {
+      "agreement": 20,
+      "explanation": "The Gr\u00fcnen party advocates for continued family reunification and opposes restrictions, demonstrating a clear stance against the statement's proposal.",
+      "citations": [
+        {
+          "score": 0.39197108149528503,
+          "source": "Gruene_Program_en.pdf",
+          "location": "130 / 160",
+          "content": "Gruene: The special needs of vulnerable groups such as women, children, queer people or people with disabilities must be taken into account in the asylum procedure. In addition, people must not be detained just because they apply for asylum. Children must always be accommodated in compliance with the UN Convention on the Rights of the Child. Imprisonment is fundamentally incompatible with the best interests of the child. Our position is clear: the right to review individual cases and the principle of non-rejection apply always and everywhere. The asylum application of people who arrive in the EU or are already here must be examined in the EU in terms of content. We oppose the outsourcing of asylum procedures to third countries, because it has been shown time and again that these initiatives end up costing a lot of taxpayers' money, fail in court and distract from factual solutions. Instead, we rely on human rights-based cooperation with third and transit countries, because more regulated migration enables less unregulated migration. We want to better organise and manage migration by concluding further human rights-based migration agreements and implementing existing ones quickly. This means that we are creating regulated migration routes for students, trainees and skilled workers through visa agreements and training partnerships."
+        },
+        {
+          "score": 0.3990214169025421,
+          "source": "Gruene_Program_en.pdf",
+          "location": "128 / 160",
+          "content": "Gruene: Therefore, we want to continue to enable family reunification and lift existing restrictions. We want to speed up the procedures for family reunification and refrain from providing proof of language proficiency as part of family reunification before entry."
+        },
+        {
+          "score": 0.4015010595321655,
+          "source": "Gruene_Program_en.pdf",
+          "location": "128 / 160",
+          "content": "Gruene: In this way, we also relieve employers. For this reason, we will introduce short deadlines after which work-related permits are considered to have been issued if the immigration authority does not actively lodge an objection. In this way, we also create planning security for employers and refugees. Instead of pushing people into precarious, non-regular working conditions, we want to get them into good employment. With early advice and a skills check, we want to ensure that people have good prospects and can contribute their qualifications. We want to simplify the recognition of foreign qualifications and qualifications. For a country that offers protection Worldwide, more people are fleeing crises and conflicts than ever before \u2013 most of them within their country or in neighbouring regions. In addition, there is the worsening climate crisis and economic and social circumstances that are forcing people to leave their homes. That's why we want to fight the causes of flight. We are making our contribution to this with forward-looking diplomacy, crisis prevention, reliable and adequately funded humanitarian aid in crisis situations, sustainable development cooperation, reconstruction and fair trade conditions, and are committed to ensuring that other countries assume the same responsibility. The climate crisis has long been a reality in many places and is already forcing people to leave their homes."
+        },
+        {
+          "score": 0.4018496870994568,
+          "source": "Gruene_Program_en.pdf",
+          "location": "130 / 160",
+          "content": "Gruene: This means that we are creating regulated migration routes for students, trainees and skilled workers through visa agreements and training partnerships. In return, the partner countries take back nationals who do not have a right of residence in our country. To this end, we are working more closely with countries of origin and transit countries. Migration agreements are also intended to create better living conditions locally. This is the only way we will be able to reduce disorderly and often life-threatening migration to Europe effectively and in the long term. Migration agreements should include an overall concept of these building blocks. International cooperation must not be unilaterally subordinated to migration policy interests. We also promote the valuable links between the diaspora in Germany and the societies of origin that are created by migration, and in particular circular migration. We defend our democracy and the rule of law against hybrid attacks \u2013 including the defence of the individual right to asylum. Putin's Russia and Lukashenko's Belarus are abusing the suffering of refugees for geopolitical interests. We will exhaust all possibilities under the rule of law, the rule of law and politics to prevent the instrumentalisation of asylum seekers, especially by states such as Russia and Belarus. We resolutely oppose the deprivation of rights of people who are instrumentalised by authoritarian states."
+        },
+        {
+          "score": 0.4023892283439636,
+          "source": "Gruene_Program_en.pdf",
+          "location": "128 / 160",
+          "content": "Gruene: The climate crisis has long been a reality in many places and is already forcing people to leave their homes. The Western industrialised countries have historically been the main causes of climate-damaging greenhouse gases and bear special responsibility. New large issuers also have to make their contribution. Together with the countries concerned, we want to take measures for climate adaptation and climate-related migration and displacement so that people can be protected. They must not get into a gap in protection. Perspectively, they need protection status under international law. Germany offers protection to many people fleeing war and persecution. We defend the fundamental right to asylum and stand by our obligations under international law, such as the Geneva Refugee Convention, subsidiary protection and the European Convention on Human Rights. We want speedy and fair procedures and thus create clarity for those affected and for the municipalities. We continue to stand by church asylum. We oppose purely symbolic politics and a course of tightening asylum laws, which are only at the expense of those seeking protection and hinder integration. Children need their parents, parents need their children \u2013 also to arrive 129  and integrate. Therefore, we want to continue to enable family reunification and lift existing restrictions."
+        },
+        {
+          "score": 0.40352845191955566,
+          "source": "Gruene_Program_en.pdf",
+          "location": "129 / 160",
+          "content": "Gruene: Instead of politically classifying countries as safe third countries or countries of origin, legally secure, speedy and fair procedures are needed. Not everyone who comes to Germany can stay. Anyone who does not have a right of residence after an individual examination of the requirements under asylum and residence law and after exhausting all legal remedies and for whom there are no obstacles to deportation must leave the country as soon as possible. Voluntary return is a priority for us. It is clear to us that people must not be deported to states where there are human rights or international law reasons to the contrary. Deportations to war and crisis areas are prohibited. We want to offer protection against unjust regimes such as the Taliban and not legitimise them politically through repatriation agreements. Persons obliged to leave the country who have committed serious crimes must be repatriated as a priority after serving their sentences. For a European and international refugee and migration policy We want to promote a common European migration policy \u2013 with a fair, binding and solidarity-based distribution of people seeking protection in Europe. Europe can only be done together, and orderly migration can only be done at European level."
+        },
+        {
+          "score": 0.40489131212234497,
+          "source": "Gruene_Program_en.pdf",
+          "location": "126 / 160",
+          "content": "Gruene: We want people to feel welcome in our country without prejudice and discrimination. With the introduction of a modern citizenship law, we have finally taken into account the reality of our diverse society. Citizenship ensures a lasting bond of legal equality, participation and belonging for people who have lived here for a long time \u2013 for example, the generation of guest workers. We want single parents, family caregivers and people with disabilities and serious illnesses, for example, to have equal and unbureaucratic access to it. There must be no first- and second-class citizens and no citizenship on call. As enshrined in the Basic Law, German citizenship must not be revoked and multiple citizenship must not lead to unjustified unequal treatment of German citizens. We are creating a legally secure recognition procedure for the identification of stateless people and their children. A fundamental distinction must be made between flight and labour migration, because they follow different logics. Labour migration follows the demand for labour, the reception of those seeking protection follows humanitarian obligations."
+        },
+        {
+          "score": 0.405620813369751,
+          "source": "Gruene_Program_en.pdf",
+          "location": "129 / 160",
+          "content": "Gruene: We are united by the will to continue to do everything in our power to improve the situation for those seeking protection and to improve the organisation of migration. Like any law, we are implementing the reform of the Common European Asylum System (CEAS) at the national level in accordance with fundamental rights and human rights. In doing so, we will do everything in our power to ensure that integration is promoted, that the rule of law is guaranteed as comprehensively as possible and that there are no additional, unnecessary restrictions on the right to asylum. Human rights must be respected everywhere in the EU, including at the external borders. To this end, we are committed to effective human rights monitoring and consistent action against illegal pushbacks. We want the monitoring of compliance with fundamental rights in Germany to be regulated by law in accordance with the guidelines of the EU Agency for Fundamental Rights and for Germany's independent National Human Rights Institution to be funded accordingly ."
+        },
+        {
+          "score": 0.4090447425842285,
+          "source": "Gruene_Program_en.pdf",
+          "location": "126 / 160",
+          "content": "Gruene: At the same time, we advocate the pragmatic approach of \"lane change\" and design it sensibly. In addition, both \u2013 labour migration and asylum law \u2013 require effective instruments and reliable financing of integration. With the right of opportunity residence, we have brought many well-integrated people out of the tolerated status, given them a real perspective of staying and at the same time greatly relieved the burden on the immigration authorities. It is exemplary, further reforms must follow. We want a functioning and pragmatic refugee and migration policy. To this end, we want to involve scientific expertise more strongly in political decisions and set up an advisory body with experts from science, research, municipal practice and those affected. An immigration society must create prospects and enable people to arrive. But it also places demands on those who come to us, such as the willingness to get involved. The immigration society only works if we come together and take a common path. For this to succeed, permanent structures are also needed. The   challenges have intensified in particular where there has already been a lack of affordable housing space, childcare staff and public authorities. The situation is challenging for many districts and municipalities, and overwhelming for some."
+        }
+      ],
+      "citations_count": 9
+    },
+    "linke": {
+      "agreement": 10,
+      "explanation": "The Linke party strongly supports family reunification for all refugees, making them fundamentally opposed to the idea of abolishing the right for recognized refugees to join their families.",
+      "citations": [
+        {
+          "score": 0.3625943064689636,
+          "source": "Linke_Program_en.pdf",
+          "location": "52 / 60",
+          "content": "Linke: We will only be able to meet the major challenges of more staff in health, care, education and upbringing, of sufficiently affordable housing, functioning local transport, and the social and ecological restructuring of the economy together."
+        },
+        {
+          "score": 0.3864328861236572,
+          "source": "Linke_Program_en.pdf",
+          "location": "51 / 60",
+          "content": "Linke: For a just immigration society, defend the right to asylum The Left Party stands for an immigrant society based on solidarity, in which all people have the same rights and opportunities, regardless of passport, origin, skin colour, cultural or religious affiliation. We fight against anti-Semitism, antigypsyism, anti-Muslim racism, anti-Black racism and every other form of racism and for an end to structural as well as institutional discrimination Exclusions permeate all areas of life, in particular our education system, the labour and housing market and public administration. Every person must have full access to social, political and cultural rights Our vision is a just and open society in which equal participation is a matter of course The migration debate from the right turns migrants and refugees into scapegoats for the failed policies in the interests of the rich Instead of a debate between an \"us\" and \"them\" that plays people off against each other, Die Linke is guided by the model of a democratic and social immigration society that focuses on human dignity In order to shape this and enable refugees to arrive well, appropriate legal, financial and structural framework conditions must be created so that municipalities in particular are not left alone with the tasks of supply, accommodation and integrative services More investment is needed in public infrastructure and social cohesion, i."
+        }
+      ],
+      "citations_count": 2
+    },
+    "spd": {
+      "agreement": 10,
+      "explanation": "The SPD has a commitment to humanitarian standards and the right to family reunification, fundamentally opposing the statement.",
+      "citations": [
+        {
+          "score": 0.4117782711982727,
+          "source": "SPD_Program_en.pdf",
+          "location": "54 / 68",
+          "content": "SPD: To this end, we are strengthening the immigration authorities, improving the exchange of data and establishing one-stop government procedures. When clarifying identity, we will ensure clear regulations, taking into account the security interests of the state. We want to control migration with humanitarian responsibility. We have provided new clarity in migration policy \u2013 for a paradigm shift towards orderly migration to the labour market and better control of forced migration. At the European level, the Common European Asylum System (CEAS) will apply from 2026. We want humanitarian standards for refugees to exist throughout Europe and migration to be managed in solidarity. The individual human right to asylum and international refugee law are the basis for the Common European Asylum System. Border procedures must ensure high legal standards. Our goal is a truly solidarity-based distribution in which all member states participate. This requires more than a loosely agreed solidarity mechanism in the European Union. Border closures and blanket rejections at internal borders contradict the spirit of a common area of freedom, security and justice. The temporary reintroduction of internal border controls must therefore remain the absolute exception."
+        }
+      ],
+      "citations_count": 1
     }
   }
 }
