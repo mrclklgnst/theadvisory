@@ -181,7 +181,7 @@ function addQuickMessages(topic, messages) {
     // Add intro message to the message window
     let introMessage = document.createElement("div");
     introMessage.className = "message bot-message";
-    introMessage.innerText = "Below are some questions you can ask about " + topic + ":";
+    introMessage.innerText = lang_context["quick_messages_intro"];
 
     document.getElementById("messageWindow").appendChild(introMessage);
 
