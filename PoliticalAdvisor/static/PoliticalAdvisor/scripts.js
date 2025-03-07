@@ -301,6 +301,20 @@ async function sendUserInput() {
 
 }
 
+function initPrompts() {
+    // Add quick topics to the chat window
+    console.log("initPrompts");
+    const response= fetch (createInitPrompts, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-CSRFToken': getCSRFToken()
+        },
+    }).then(data => data.json()).then(data => addQuickTopics(data));
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     botInitialMessage();
+    console.log("initPrompts");
+    initPrompts();
 });

@@ -148,3 +148,29 @@ def createRandomPrompts(language):
         resp_dict[k] = random.sample(statement_dict[k], 2)
 
     return resp_dict
+
+def create_init_prompts(request):
+    '''
+    This function creates a dictionary with 3 random categories and 3 random statements from each category
+    :param language:
+    :return:
+    '''
+
+    if request.method == "POST":
+        language = request.COOKIES.get('language')
+    with open('PoliticalAdvisor/statements_enriched.json', 'r') as f:
+        statement_dict = json.load(f)
+    statement_dict = statement_dict[language]
+
+    resp_dict = {}
+
+    # Selecting 3 random categories from the dictionary
+    random_keys = random.sample(list(statement_dict), 3)
+
+    # Selecting 3 random statements from the selected categories
+    for k in random_keys:
+        resp_dict[k] = random.sample(statement_dict[k], 2)
+
+    logger.info(f"Initial prompts: {resp_dict}")
+
+    return JsonResponse(resp_dict)

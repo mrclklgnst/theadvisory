@@ -1,205 +1,200 @@
 {
   "answer": {
-    "afd": {
+    "spd": {
       "agreement": 80,
-      "explanation": "The AfD advocates for a strict limitation of migration including benefits for asylum seekers. The party emphasizes reducing incentives that make it easier for recognized refugees to bring family members over, aligning with the statement.",
+      "explanation": "The SPD wishes to reform the debt rule in order to facilitate necessary investments, indicating a less rigid stance on the debt brake.",
       "citations": [
         {
-          "score": 0.37866824865341187,
-          "source": "AFD_Program_en.pdf",
-          "location": "105 / 177",
-          "content": "AFD: Rejected asylum seekers who are obliged to leave the country also incur costs in the double-digit billions through their stay, which must be borne by the taxpayer and contributor. Recognition of asylum currently leads to immediate equality in all social security systems, without any previous personal contribution. This is unfair in terms of social and tax policy. The AfD therefore calls for the reduction of incentives and the preservation of social justice: Social benefits for asylum seekers should be provided as benefits in kind if possible, otherwise by means of a payment card, if the provision of benefits in kind is not possible with reasonable effort. Benefits for those obliged to leave the country are to be reduced to a subsistence level that is in line with human dignity. In addition, recognition must no longer mean an automatic, immediate, unlimited entitlement to all welfare state benefits in terms of time and content. Benefit cuts for asylum seekers in the event of rejection of job opportunities."
+          "score": 0.36605626344680786,
+          "source": "SPD_Program_en.pdf",
+          "location": "16 / 68",
+          "content": "SPD: The current debt rule is not designed to meet the challenges of our time and the future. That is why we want to reform the debt rule in the Basic Law in such a way that investments in the future viability of our country and in prosperity are not hindered. This is the only way to make the good life possible for future generations. This is the only way to reliably secure the necessary leeway for the agreed expenditure on security and defence. In addition, the outdated credit ceilings must be reformed: In addition to the introduction of exemptions for important investments in the future, we are committed to a more flexible design of the deficit rule itself. The states are to be given the opportunity to borrow. This is done in accordance with European fiscal rules. In order to enable more security and long-term planning in the event of a crisis, we are striving to reform the emergency regulations so that our state is able to act at any time and across all years. The repayment obligations lead to savings pressures in future national budgets. This artificially prolongs the financial crisis and shifts the burden of a one-off emergency situation to future generations. We are therefore committed to changing this unjust mechanism."
         },
         {
-          "score": 0.38053464889526367,
-          "source": "AFD_Program_en.pdf",
-          "location": "107 / 177",
-          "content": "AFD: According to the ruling, civilians in Syria no longer face a serious, individual threat to their lives or physical integrity as a result of a civil war."
+          "score": 0.4100112020969391,
+          "source": "SPD_Program_en.pdf",
+          "location": "16 / 68",
+          "content": "SPD: We are therefore committed to changing this unjust mechanism. For example, we must invest heavily in education, manage socio-ecological and digital structural change and modernise infrastructure up and down the country. Not only the federal government, but also the states and municipalities need the necessary financial leeway for this. We therefore propose a pact for the future of the federal, state and local governments. This includes the reform of the debt rule already described in order to give the states more financial leeway. In addition, we want to make the highest assets in our country more responsible for financing the community. Inheritance and gift tax as well as wealth tax then strengthen the revenue side of the More for you. Better for Germany."
         },
         {
-          "score": 0.381944477558136,
-          "source": "AFD_Program_en.pdf",
-          "location": "106 / 177",
-          "content": "AFD: The current state of affairs is the opposite of the rule of law and is an expression of the continuing failure of the state in migration policy. Repatriation measures are circumvented with the help of old and new regulations on the right to stay, so illegal residence is thus made permanent. This is also served by the frequently used instrument of toleration of persons obliged to leave the country, a practice with which these people receive a residence permit that is constantly extended, sometimes in the form of a chain of toleration. In principle, a temporary suspension of deportation is only a certificate of temporary suspension of deportation. Under no circumstances, however, should the granting of a temporary suspension of deportation justify permanent residence. With the newly introduced so-called opportunity right of residence, tolerated persons who had lived in Germany for 5 years as of January 1, 2022 were even given the chance to obtain a residence permit within 18 months if the lowest requirements were met. In conclusion, it can be stated that the basic intention of the right of residence, the control and limitation of the influx of foreigners, has been reversed and downright perverted for years."
-        },
-        {
-          "score": 0.3981083631515503,
-          "source": "AFD_Program_en.pdf",
-          "location": "101 / 177",
-          "content": "AFD: The AfD in government will immediately end this enforcement deficit. Our catalogue of measures to reverse this migration policy failure of the state is called remigration and includes the following measures, which already correspond to the current legal situation or can at least be implemented by means of constitutional legislative amendments: We will consistently deport persons who are legally obliged to leave the country and eliminate existing false incentives (citizen's allowance, right to stay for those obliged to leave, turbo naturalisation). In this context, we will also expand incentives for voluntary return. If the reason for fleeing ceases to exist \u2013 as is currently the case in Syria \u2013 the entitlement to protection, which is limited in time and in no way establishes an expectation of permanent immigration, ends. To this end, revocation procedures must be initiated immediately and negotiations with the countries of origin must be initiated. We see a great potential for remigration here, which is also demanded by the countries of origin themselves. We will give priority to returning foreign threats, extremists and serious criminals. We will make it much easier to expel foreign criminals, especially in the case of violent, drug and sexual offences, as well as organised and clan crime."
-        },
-        {
-          "score": 0.4007204473018646,
-          "source": "AFD_Program_en.pdf",
-          "location": "104 / 177",
-          "content": "AFD: Rather, according to international maritime law, the disembarkation of those affected must always take place at the nearest seaport. We will immediately stop funding for so-called civilian sea rescue in the Mediterranean and conclude agreements with the Maghreb states that ensure the transfer of rescued migrants to the states concernedLoss of the right to asylum in the event of false information on identity in the asylum procedure Significant expansion of the number of safe countries of origin Combating the misuse of legally issued visas for the purpose of applying for asylum by tightening the VISA procedures with the countries concerned Loss of protection status and re-entry ban after asylum and subsidiary protection beneficiaries travel to their country of origin Elimination of the fundamental right to subsequent immigration for family members on a subsidiary basis Beneficiary of protection Annual review of the continued existence of grounds for asylum Ending the proliferation of asylum procedure advice and support. Procedural advice may only be provided in accordance with applicable law."
-        },
-        {
-          "score": 0.4066872000694275,
-          "source": "AFD_Program_en.pdf",
-          "location": "102 / 177",
-          "content": "AFD: Dublin returns to the responsible EU country of first entry usually fail due to the unwillingness of these EU member states. In reality, therefore, almost every asylum seeker who enters the country illegally remains here permanently. This state of affairs is unacceptable. The reference to an allegedly necessary verification of responsibility for the asylum procedure expressly does not apply here, as this would also be possible in the already safe neighbouring EU state that has previously been crossed. Measures to maintain public security and protect internal security also take precedence over European rules on asylum and aliens law. In addition, the waiver of internal border controls was only agreed to at the time on the condition that external border security is guaranteed and that all EU member states comply with the standards for the implementation of asylum procedures and the Dublin regulations. In addition, mass migration to the EU was not foreseeable since 2015 when the EU Treaty was ratified in 1993. Thus, the basis of the European asylum regulation has ceased to exist, which is why there is no longer any obligation for Germany in this respect."
-        },
-        {
-          "score": 0.4111641049385071,
-          "source": "AFD_Program_en.pdf",
-          "location": "103 / 177",
-          "content": "AFD: We will continue to ensure commuter, holiday and goods traffic. Furthermore, we will implement the following measures in compliance with the rule of law: Establishment of detention centres at the border to ensure measures terminating residence Termination of the UN Compact on Migration and UN Refugees Initiation of a reform of both the Geneva Convention on Refugees (GRC) and the European Convention on Human Rights (ECHR) with the aim of adapting them to current circumstances since 2015 Conversion of the individual right of asylum to a institutional guarantee or a non-constitutional provision The legal right to admission for the purpose of the asylum procedure is limited to persons who are directly and specifically threatened ASYLUM PARADISE GERMANY CLOSE Due to its government policy and its legal implications, Germany has borne the brunt of illegal immigration to Europe since 2015. The AfD will counter this grievance with a comprehensive catalogue of measures to restore orderly conditions."
-        },
-        {
-          "score": 0.4145730137825012,
-          "source": "AFD_Program_en.pdf",
-          "location": "124 / 177",
-          "content": "AFD: Prenuptial agreements on matrimonial property and maintenance matters should only be allowed to be concluded under German law. The construction of minarets and the call of the muezzin are to be prohibited. Protecting fundamental rights We are critical of the increasing restriction of fundamental rights in the name of security. In many cases, civil rights are restricted, although the alleged goal can be achieved with the effective implementation of existing laws and an appropriate deployment of personnel. The AfD resolutely rejects the tendency towards a surveillance state. We oppose nationwide video surveillance as a restriction of freedom and, at best, as a symptom control. We reject state trojans and data retention. Polygamy, forced marriage and child marriages Marriages of Muslims living in Germany that are based on polygamy, forced marriages and child marriages run counter to the German legal system and public order. They must be annulled. For this purpose, the legal norms must be created that regulate the consequences of such an annulment among the parties involved. The AfD opposes the oppression of Muslim women and demands equal rights for men and women in all areas."
-        }
-      ],
-      "citations_count": 8
-    },
-    "volt": {
-      "agreement": 80,
-      "explanation": "Volt generally supports inclusive policies but has not been elaborated upon in the provided context, leading to a presumption of alignment with family reunification restrictions unlike the more inclusive parties.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "cdu": {
-      "agreement": 70,
-      "explanation": "The CDU supports the suspension of family reunification with beneficiaries of subsidiary protection, which aligns with the statement to abolish family reunification for recognized refugees.",
-      "citations": [
-        {
-          "score": 0.38403284549713135,
-          "source": "CDU_Program_en.pdf",
-          "location": "42 / 82",
-          "content": "CDU: At the same time, we are investing in state-of-the-art border security technology, such as drones, night vision cameras and thermal imaging cameras. We are suspending family reunification with beneficiaries of subsidiary protection and ending all voluntary admission programmes. In general, benefits in kind should take precedence over cash benefits wherever possible. The payment card is to be introduced nationwide and restrictively in all federal states. For those obliged to leave the country, we align social benefits with the principle of \"bed, bread and soap\" established by the courts and, wherever possible, provide for a complete exclusion of benefits. We are working at European level to return to the original spirit of the Geneva Refugee Convention. Newly arriving refugees from Ukraine are no longer to receive so-called \"citizen's money\", but benefits under the Asylum Seekers Benefits Act. At the same time, we are making every effort to ensure that they come into work immediately and become independent of state benefits. We are simplifying the procedures for professional recognition and strengthening the learning of the German language \"on the job\"."
-        },
-        {
-          "score": 0.3913204073905945,
-          "source": "CDU_Program_en.pdf",
-          "location": "5 / 82",
-          "content": "CDU: The influx is too much and no longer manageable. A strict limitation of migration is urgently needed. We act. What matters most now: \u2022  We control the German state borders and enforce consistent rejections at the border. We have to decide for ourselves again who comes to us and who is allowed to stay. To this end, we are declaring other countries of safe origin and are also deporting them back to Syria and Afghanistan. We don't make any compromises when it comes to the payment card. Anyone who applies for asylum in Europe should be transferred to a safe third country, where they will go through their procedure and find protection there if necessary."
-        }
-      ],
-      "citations_count": 2
-    },
-    "fdp": {
-      "agreement": 60,
-      "explanation": "The FDP's policy aligns partially with the idea of limiting family reunification, as they propose to review various aspects of immigration including family reunification, which may signal support for the statement.",
-      "citations": [
-        {
-          "score": 0.3525664806365967,
-          "source": "FDP_Program_en.pdf",
-          "location": "27 / 52",
-          "content": "FDP: Anyone who is here without the right to stay must return to their home country immediately. However, repatriations too often fail due to enforcement by the federal states. That is why we want to centralise the responsibility for deportations at the federal level . Asylum procedures should also take place in third countries if protection seekers are safe there and procedures based on the rule of law are guaranteed. We also call for an orderly procedure for determining more safe countries of origin. We want to suspend family reunification with beneficiaries of subsidiary protection and pause admission programmes. As Free Democrats, we support the pilot testing of pushbacks at Germany's external borders in order to exhaust all legal possibilities to limit irregular migration. Together with our European partners, we want to ensure more order and control in migration policy. The role of FRONTEX in the management of the external borders and in the fight against irregular migration and migrant smuggling must be strengthened."
-        },
-        {
-          "score": 0.4055224657058716,
-          "source": "FDP_Program_en.pdf",
-          "location": "27 / 52",
-          "content": "FDP: At the same time, we want Germany to continue to successfully develop bilateral migration partnerships. Enabling and shaping integration The absorption and integration capacity of our society is limited. Persistently high numbers of refugees are overloading the infrastructure in the municipalities."
-        },
-        {
-          "score": 0.4071337580680847,
-          "source": "FDP_Program_en.pdf",
-          "location": "27 / 52",
-          "content": "FDP: A job is also the best integration course. We Free Democrats want to create a new social status for all recognised refugees\u2013 including Ukrainian refugees \u2013 instead of receiving citizen's money. It combines greater support for taking up work and, where legally permissible, lower social benefits. The amount of social benefits must not be a false incentive. That is why we want to critically review the amount of social benefits, for example in the Asylum Seekers' Benefits Act, and standardise it at European level in the future. We are also relying on more benefits in kind instead of cash and demand that the payment card, which has long been decided, be used everywhere and without unnecessary exceptions. Anyone who is legally and enforceably obliged to leave the country and has a reasonable opportunity to leave Germany is usually no longer allowed to receive state support. Those who actively obstruct the identity verification procedures are also to be deprived of social benefits. For well-integrated asylum seekers, there must be the possibility of changing lanes to immigration into the labour market if they are so qualified that they and their families can live from their own work without transfer payments."
+          "score": 0.4134743809700012,
+          "source": "SPD_Program_en.pdf",
+          "location": "19 / 68",
+          "content": "SPD: That is why housing is a public good for us, which must not be left to the private market alone. This is a public matter. We want to overcome the acute housing shortage with an investment, tax and bureaucracy reduction offensive and accelerate planning and approval procedures. We want to have overcome homelessness by 2030. The creation and maintenance of affordable housing is a permanent task for the state. At the same time, we are strengthening private housing construction by creating good conditions for private investment, among other things by further reducing bureaucracy. We want to protect tenants from usurious rents and excessive demands. We want to slow down the development of rents. The rent brakes will expire at the end of 2025. The rent brake is a very good instrument for curbing rising rents. And we want to ensure stable and affordable rents in tight housing markets in the long term. In metropolitan areas, short-term rentals are to be reduced to a minimum. The rent brake is to apply indefinitely and also to properties occupied until 2019 in order to ensure stable and affordable rents in tight housing markets in the long term. We will ensure that the rent brake cannot be circumvented by, for example, (partially) furnished and temporary housing offers."
         }
       ],
       "citations_count": 3
     },
-    "bsw": {
-      "agreement": 50,
-      "explanation": "The BSW's position is not clearly represented in the provided text, resulting in a neutral stance towards family reunification policy.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "gruene": {
-      "agreement": 20,
-      "explanation": "The Gr\u00fcnen party advocates for continued family reunification and opposes restrictions, demonstrating a clear stance against the statement's proposal.",
+    "volt": {
+      "agreement": 80,
+      "explanation": "Volt also supports reformation of the debt brake to allow for necessary public investments, indicating a flexible approach to fiscal policies.",
       "citations": [
         {
-          "score": 0.39197108149528503,
-          "source": "Gruene_Program_en.pdf",
-          "location": "130 / 160",
-          "content": "Gruene: The special needs of vulnerable groups such as women, children, queer people or people with disabilities must be taken into account in the asylum procedure. In addition, people must not be detained just because they apply for asylum. Children must always be accommodated in compliance with the UN Convention on the Rights of the Child. Imprisonment is fundamentally incompatible with the best interests of the child. Our position is clear: the right to review individual cases and the principle of non-rejection apply always and everywhere. The asylum application of people who arrive in the EU or are already here must be examined in the EU in terms of content. We oppose the outsourcing of asylum procedures to third countries, because it has been shown time and again that these initiatives end up costing a lot of taxpayers' money, fail in court and distract from factual solutions. Instead, we rely on human rights-based cooperation with third and transit countries, because more regulated migration enables less unregulated migration. We want to better organise and manage migration by concluding further human rights-based migration agreements and implementing existing ones quickly. This means that we are creating regulated migration routes for students, trainees and skilled workers through visa agreements and training partnerships."
+          "score": 0.3611762821674347,
+          "source": "Volt_Program_en.pdf",
+          "location": "22 / 164",
+          "content": "Volt: MORE COMMITMENT TO THE FIGHT AGAINST TAX AVOIDANCE AND CRIME The consistent fight against tax avoidance and evasion secures urgently needed revenue, which can be used for education, health and infrastructure, for example. We all benefit from a fairer distribution of the tax burden and higher government revenues. That's why Volt is committed to this future: \u2022  Closing loopholes: Legal alternative options for tax avoidance will be closed. Modern technologies are increasingly being used to detect tax avoidance and evasion more efficiently."
         },
         {
-          "score": 0.3990214169025421,
-          "source": "Gruene_Program_en.pdf",
-          "location": "128 / 160",
-          "content": "Gruene: Therefore, we want to continue to enable family reunification and lift existing restrictions. We want to speed up the procedures for family reunification and refrain from providing proof of language proficiency as part of family reunification before entry."
-        },
-        {
-          "score": 0.4015010595321655,
-          "source": "Gruene_Program_en.pdf",
-          "location": "128 / 160",
-          "content": "Gruene: In this way, we also relieve employers. For this reason, we will introduce short deadlines after which work-related permits are considered to have been issued if the immigration authority does not actively lodge an objection. In this way, we also create planning security for employers and refugees. Instead of pushing people into precarious, non-regular working conditions, we want to get them into good employment. With early advice and a skills check, we want to ensure that people have good prospects and can contribute their qualifications. We want to simplify the recognition of foreign qualifications and qualifications. For a country that offers protection Worldwide, more people are fleeing crises and conflicts than ever before \u2013 most of them within their country or in neighbouring regions. In addition, there is the worsening climate crisis and economic and social circumstances that are forcing people to leave their homes. That's why we want to fight the causes of flight. We are making our contribution to this with forward-looking diplomacy, crisis prevention, reliable and adequately funded humanitarian aid in crisis situations, sustainable development cooperation, reconstruction and fair trade conditions, and are committed to ensuring that other countries assume the same responsibility. The climate crisis has long been a reality in many places and is already forcing people to leave their homes."
-        },
-        {
-          "score": 0.4018496870994568,
-          "source": "Gruene_Program_en.pdf",
-          "location": "130 / 160",
-          "content": "Gruene: This means that we are creating regulated migration routes for students, trainees and skilled workers through visa agreements and training partnerships. In return, the partner countries take back nationals who do not have a right of residence in our country. To this end, we are working more closely with countries of origin and transit countries. Migration agreements are also intended to create better living conditions locally. This is the only way we will be able to reduce disorderly and often life-threatening migration to Europe effectively and in the long term. Migration agreements should include an overall concept of these building blocks. International cooperation must not be unilaterally subordinated to migration policy interests. We also promote the valuable links between the diaspora in Germany and the societies of origin that are created by migration, and in particular circular migration. We defend our democracy and the rule of law against hybrid attacks \u2013 including the defence of the individual right to asylum. Putin's Russia and Lukashenko's Belarus are abusing the suffering of refugees for geopolitical interests. We will exhaust all possibilities under the rule of law, the rule of law and politics to prevent the instrumentalisation of asylum seekers, especially by states such as Russia and Belarus. We resolutely oppose the deprivation of rights of people who are instrumentalised by authoritarian states."
-        },
-        {
-          "score": 0.4023892283439636,
-          "source": "Gruene_Program_en.pdf",
-          "location": "128 / 160",
-          "content": "Gruene: The climate crisis has long been a reality in many places and is already forcing people to leave their homes. The Western industrialised countries have historically been the main causes of climate-damaging greenhouse gases and bear special responsibility. New large issuers also have to make their contribution. Together with the countries concerned, we want to take measures for climate adaptation and climate-related migration and displacement so that people can be protected. They must not get into a gap in protection. Perspectively, they need protection status under international law. Germany offers protection to many people fleeing war and persecution. We defend the fundamental right to asylum and stand by our obligations under international law, such as the Geneva Refugee Convention, subsidiary protection and the European Convention on Human Rights. We want speedy and fair procedures and thus create clarity for those affected and for the municipalities. We continue to stand by church asylum. We oppose purely symbolic politics and a course of tightening asylum laws, which are only at the expense of those seeking protection and hinder integration. Children need their parents, parents need their children \u2013 also to arrive 129  and integrate. Therefore, we want to continue to enable family reunification and lift existing restrictions."
-        },
-        {
-          "score": 0.40352845191955566,
-          "source": "Gruene_Program_en.pdf",
-          "location": "129 / 160",
-          "content": "Gruene: Instead of politically classifying countries as safe third countries or countries of origin, legally secure, speedy and fair procedures are needed. Not everyone who comes to Germany can stay. Anyone who does not have a right of residence after an individual examination of the requirements under asylum and residence law and after exhausting all legal remedies and for whom there are no obstacles to deportation must leave the country as soon as possible. Voluntary return is a priority for us. It is clear to us that people must not be deported to states where there are human rights or international law reasons to the contrary. Deportations to war and crisis areas are prohibited. We want to offer protection against unjust regimes such as the Taliban and not legitimise them politically through repatriation agreements. Persons obliged to leave the country who have committed serious crimes must be repatriated as a priority after serving their sentences. For a European and international refugee and migration policy We want to promote a common European migration policy \u2013 with a fair, binding and solidarity-based distribution of people seeking protection in Europe. Europe can only be done together, and orderly migration can only be done at European level."
-        },
-        {
-          "score": 0.40489131212234497,
-          "source": "Gruene_Program_en.pdf",
-          "location": "126 / 160",
-          "content": "Gruene: We want people to feel welcome in our country without prejudice and discrimination. With the introduction of a modern citizenship law, we have finally taken into account the reality of our diverse society. Citizenship ensures a lasting bond of legal equality, participation and belonging for people who have lived here for a long time \u2013 for example, the generation of guest workers. We want single parents, family caregivers and people with disabilities and serious illnesses, for example, to have equal and unbureaucratic access to it. There must be no first- and second-class citizens and no citizenship on call. As enshrined in the Basic Law, German citizenship must not be revoked and multiple citizenship must not lead to unjustified unequal treatment of German citizens. We are creating a legally secure recognition procedure for the identification of stateless people and their children. A fundamental distinction must be made between flight and labour migration, because they follow different logics. Labour migration follows the demand for labour, the reception of those seeking protection follows humanitarian obligations."
-        },
-        {
-          "score": 0.405620813369751,
-          "source": "Gruene_Program_en.pdf",
-          "location": "129 / 160",
-          "content": "Gruene: We are united by the will to continue to do everything in our power to improve the situation for those seeking protection and to improve the organisation of migration. Like any law, we are implementing the reform of the Common European Asylum System (CEAS) at the national level in accordance with fundamental rights and human rights. In doing so, we will do everything in our power to ensure that integration is promoted, that the rule of law is guaranteed as comprehensively as possible and that there are no additional, unnecessary restrictions on the right to asylum. Human rights must be respected everywhere in the EU, including at the external borders. To this end, we are committed to effective human rights monitoring and consistent action against illegal pushbacks. We want the monitoring of compliance with fundamental rights in Germany to be regulated by law in accordance with the guidelines of the EU Agency for Fundamental Rights and for Germany's independent National Human Rights Institution to be funded accordingly ."
-        },
-        {
-          "score": 0.4090447425842285,
-          "source": "Gruene_Program_en.pdf",
-          "location": "126 / 160",
-          "content": "Gruene: At the same time, we advocate the pragmatic approach of \"lane change\" and design it sensibly. In addition, both \u2013 labour migration and asylum law \u2013 require effective instruments and reliable financing of integration. With the right of opportunity residence, we have brought many well-integrated people out of the tolerated status, given them a real perspective of staying and at the same time greatly relieved the burden on the immigration authorities. It is exemplary, further reforms must follow. We want a functioning and pragmatic refugee and migration policy. To this end, we want to involve scientific expertise more strongly in political decisions and set up an advisory body with experts from science, research, municipal practice and those affected. An immigration society must create prospects and enable people to arrive. But it also places demands on those who come to us, such as the willingness to get involved. The immigration society only works if we come together and take a common path. For this to succeed, permanent structures are also needed. The   challenges have intensified in particular where there has already been a lack of affordable housing space, childcare staff and public authorities. The situation is challenging for many districts and municipalities, and overwhelming for some."
-        }
-      ],
-      "citations_count": 9
-    },
-    "linke": {
-      "agreement": 10,
-      "explanation": "The Linke party strongly supports family reunification for all refugees, making them fundamentally opposed to the idea of abolishing the right for recognized refugees to join their families.",
-      "citations": [
-        {
-          "score": 0.3625943064689636,
-          "source": "Linke_Program_en.pdf",
-          "location": "52 / 60",
-          "content": "Linke: We will only be able to meet the major challenges of more staff in health, care, education and upbringing, of sufficiently affordable housing, functioning local transport, and the social and ecological restructuring of the economy together."
-        },
-        {
-          "score": 0.3864328861236572,
-          "source": "Linke_Program_en.pdf",
-          "location": "51 / 60",
-          "content": "Linke: For a just immigration society, defend the right to asylum The Left Party stands for an immigrant society based on solidarity, in which all people have the same rights and opportunities, regardless of passport, origin, skin colour, cultural or religious affiliation. We fight against anti-Semitism, antigypsyism, anti-Muslim racism, anti-Black racism and every other form of racism and for an end to structural as well as institutional discrimination Exclusions permeate all areas of life, in particular our education system, the labour and housing market and public administration. Every person must have full access to social, political and cultural rights Our vision is a just and open society in which equal participation is a matter of course The migration debate from the right turns migrants and refugees into scapegoats for the failed policies in the interests of the rich Instead of a debate between an \"us\" and \"them\" that plays people off against each other, Die Linke is guided by the model of a democratic and social immigration society that focuses on human dignity In order to shape this and enable refugees to arrive well, appropriate legal, financial and structural framework conditions must be created so that municipalities in particular are not left alone with the tasks of supply, accommodation and integrative services More investment is needed in public infrastructure and social cohesion, i."
+          "score": 0.39356034994125366,
+          "source": "Volt_Program_en.pdf",
+          "location": "21 / 164",
+          "content": "Volt: However, Germany's rigid debt brake massively restricts important future investments in infrastructure, education, climate protection and digitalisation. A reform of the debt brake enables a sustainable and economically smart fiscal policy that strengthens current and future generations."
         }
       ],
       "citations_count": 2
     },
-    "spd": {
-      "agreement": 10,
-      "explanation": "The SPD has a commitment to humanitarian standards and the right to family reunification, fundamentally opposing the statement.",
+    "afd": {
+      "agreement": 75,
+      "explanation": "The AfD supports the retention of the debt brake and rejects any softening of it.",
       "citations": [
         {
-          "score": 0.4117782711982727,
-          "source": "SPD_Program_en.pdf",
-          "location": "54 / 68",
-          "content": "SPD: To this end, we are strengthening the immigration authorities, improving the exchange of data and establishing one-stop government procedures. When clarifying identity, we will ensure clear regulations, taking into account the security interests of the state. We want to control migration with humanitarian responsibility. We have provided new clarity in migration policy \u2013 for a paradigm shift towards orderly migration to the labour market and better control of forced migration. At the European level, the Common European Asylum System (CEAS) will apply from 2026. We want humanitarian standards for refugees to exist throughout Europe and migration to be managed in solidarity. The individual human right to asylum and international refugee law are the basis for the Common European Asylum System. Border procedures must ensure high legal standards. Our goal is a truly solidarity-based distribution in which all member states participate. This requires more than a loosely agreed solidarity mechanism in the European Union. Border closures and blanket rejections at internal borders contradict the spirit of a common area of freedom, security and justice. The temporary reintroduction of internal border controls must therefore remain the absolute exception."
+          "score": 0.3585050404071808,
+          "source": "AFD_Program_en.pdf",
+          "location": "54 / 177",
+          "content": "AFD: Among other things, the contributions of almost 30 billion euros (2023) to the EU are to be drastically reduced. The debt brake laid down in the Basic Law must be observed. The AfD resolutely rejects any softening of the debt brake."
+        },
+        {
+          "score": 0.40041714906692505,
+          "source": "AFD_Program_en.pdf",
+          "location": "54 / 177",
+          "content": "AFD: Less bureaucracy, more personal responsibility and a more efficient use of public funds are important prerequisites for a sustainable Germany. Despite the current high tax revenues, the constantly increasing consumption expenditure leaves less and less room for necessary investments. As a result, this leads to demands for tax increases and additional debt. We are committed to moving away from excessive taxation and in return for spending discipline in order to strengthen private households and our companies as well as to comply with the debt brake and reduce debt. We plan to simplify the complex German tax law. CONSOLIDATE THE FEDERAL BUDGET, END TAX WASTE, COMPLY WITH THE DEBT BRAKE Germany does not have a revenue problem, but an expenditure problem. Despite still high tax revenues, the federal government regularly fails to bring in a federal budget without further new debt. We must not continue to burden future generations with debts and interest. That is why we call for tax waste to be avoided. The main examples are the reduction of senseless expenditures owed to the alleged \"climate rescue\", as well as the termination of the financing of superfluous prestige projects, especially abroad."
+        },
+        {
+          "score": 0.40266501903533936,
+          "source": "AFD_Program_en.pdf",
+          "location": "65 / 177",
+          "content": "AFD: Debt and tax collection should generally only take place at the national level. No German liability for foreign banks With the European Banking Union, the German savings banks, cooperative banks and the German private banking industry, which have so far been anchored in the local government, would be subject to EU redistribution. The planned European deposit insurance scheme would be the largest joint liability facility in the EU at several trillion euros. Through this mutualization, German savers would be liable with their deposits for ailing banks in other countries that have high and risky loan claims on their balance sheets. Huge defaults would only be a matter of time and would directly trigger a German payment obligation. This would be a further step towards the liability and transfer union rejected by the AfD. The AfD demands that German banks limit liabilities to the national level and continue to be able to maintain their own institutional, liability and deposit guarantee solutions specific to the banking group, such as the exclusively regionally active and locally anchored savings banks and cooperative banks. We advocate the restoration of national sovereignty across all financial services. We oppose the European communitarisation of liability risks."
+        },
+        {
+          "score": 0.4063231647014618,
+          "source": "AFD_Program_en.pdf",
+          "location": "58 / 177",
+          "content": "AFD: In 1957, the Federal Constitutional Court declared the additional tax burden on spouses to be incompatible with the Basic Law in application of this article."
+        },
+        {
+          "score": 0.4154110848903656,
+          "source": "AFD_Program_en.pdf",
+          "location": "64 / 177",
+          "content": "AFD: However, liability and repayment remain with the nation states, especially Germany. Such loans taken out by the EU, which largely benefit the euro crisis countries, lead to a deterioration in our credit rating and thus to an increase in the interest burdens and taxes of Germans. An exit from the euro would be beneficial for our economy and taxpayers."
+        },
+        {
+          "score": 0.4216121435165405,
+          "source": "AFD_Program_en.pdf",
+          "location": "131 / 177",
+          "content": "AFD: The sovereign should have the right to amend or reject laws passed by parliament and thus force our representatives of the people to work diligently to decide on amendments to the Basic Law and important international treaties and, in compliance with the limits of Article 79. Fundamental right of freedom of expression \u2013 no censorship in public debate Any censorship of expressions of opinion constitutes an attack on the fundamental right of freedom of expression. A supremacy in social media and education must not be used to unilaterally influence the political decision-making process. As quasi-oligopolies, the major providers of social media are to be obliged to respect the freedom of expression of their users. The Internet must be preserved as a place of freedom of expression. We will immediately abolish government censorship regulations and state-imposed agreements with private companies that carry out censorship measures. Self-proclaimed \"fact-checkers\" and opinion watchdogs must not receive state funding. We reject the Federal Government's increasing control and prohibition policy in the area of media and social networks. In particular, there must be no censorship by state-commissioned professional denunciators."
+        }
+      ],
+      "citations_count": 6
+    },
+    "fdp": {
+      "agreement": 60,
+      "explanation": "The FDP supports maintaining strict debt rules but also emphasizes future-oriented budgetary policies.",
+      "citations": [
+        {
+          "score": 0.3583078980445862,
+          "source": "FDP_Program_en.pdf",
+          "location": "34 / 52",
+          "content": "FDP: We are cutting back subsidies for the few, but we are creating better location conditions for everyone. Where we really need a well-functioning state, it must be better equipped. Federalism must become simpler and the state leaner and more efficient. With clear responsibilities, we want to upgrade the interaction between the federal and state governments from an obstacle to a locational advantage. A lot has to change in Germany. The state is perhaps the biggest construction site. We have it in our hands to change that. Sound public finances We Free Democrats want to protect future generations from the burdens of excessive national debt. That is why we stand for responsible and future-oriented budgetary and financial policy. Our goal is a successful economy that grows and creates prosperity. Compliance with the debt brake is intergenerational justice Freedom for future generations also means not leaving them mountains of debt. Therefore, for us Free Democrats, compliance with the debt brake enshrined in the Basic Law central commandment of intergenerational justice. Otherwise, children are liable for their parents. This also applies to the federal states. Sustainable and prioritizing budgets create intergenerational justice because burdens are not passed on to future generations."
+        },
+        {
+          "score": 0.383958101272583,
+          "source": "FDP_Program_en.pdf",
+          "location": "34 / 52",
+          "content": "FDP: This is the only way we can secure the financial room for manoeuvre of future generations. Germany must remain an anchor of stability in Europe and set a good example. We cannot afford to have our creditworthiness questioned."
+        },
+        {
+          "score": 0.41331273317337036,
+          "source": "FDP_Program_en.pdf",
+          "location": "35 / 52",
+          "content": "FDP: We have fought for strict debt rules in the past. If we don't play by the rules, monetary union will fail. No debt at the European level We Free Democrats are strictly against the European Union's debt competence. The EU's Next Generation EU recovery fund must remain a one-off exception. Further EU debt funds would be a breach of law and trust. The European Union does not need new debt, but must focus on its core tasks with European added value. We Free Democrats therefore position ourselves firmly against a European debt union. Fewer subsidies and more market We Free Democrats want to reduce subsidies so that financial aid and tax reductions are brought to an appropriate ratio to economic value creation. After all, the many billions of euros in state money to individual industries and companies are better invested in the long term, for example in education. In future, existing and new subsidy programmes must be consistently limited in time, degressive and externally evaluated. We Free Democrats want to sell state shareholdings because private investors are the better entrepreneurs. In doing so, we must also adapt the federal government's budget law so that it does not stand in the way of a sale of federal shareholdings that makes sense for the economy as a whole."
+        },
+        {
+          "score": 0.4246549606323242,
+          "source": "FDP_Program_en.pdf",
+          "location": "36 / 52",
+          "content": "FDP: The federal government should only subsidize tasks of the states in exceptional cases. A strong federalism needs clear competences and responsibilities. We therefore consider a new Financial Federalism Commission to be indispensable and will campaign for its establishment. If tasks between the federal government and the states are changed, this must also be underpinned by a change in the financing flows. An agile state for a modern country A federal government that sets a good example A lean and resource-saving state begins with the federal government. That is why we want to significantly reduce the number of Federal Government Commissioners and keep them permanently at a lower level with the help of a one-in, one-out principle. We also want to limit the number of state secretaries in the ministries and make the career regulations more flexible. The Federal Agency for Disruptive Innovations (SPRIND) should be a role model for the release of potential. With the SPRIND Freedom Act, we have created scope for innovation \u2013 for example, by dispensing with intermediate instances and an exception to the prohibition of preferential treatment in order to attract highly qualified specialists."
+        },
+        {
+          "score": 0.4262422025203705,
+          "source": "FDP_Program_en.pdf",
+          "location": "11 / 52",
+          "content": "FDP: We want a bureaucracy-free year for companies in which they do not have to comply with reporting obligations. There must be an annual bureaucracy relief law every year to create a reduction path for superfluous regulations. With a bureaucracy brake in the Basic Law, we are anchoring the reduction of bureaucracy in our constitution."
+        }
+      ],
+      "citations_count": 5
+    },
+    "bsw": {
+      "agreement": 50,
+      "explanation": "No specific mention of the debt brake.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "gruene": {
+      "agreement": 40,
+      "explanation": "The Greens are critical of the current debt brake as it limits essential investments but acknowledge the need for fiscal responsibility.",
+      "citations": [
+        {
+          "score": 0.4036294221878052,
+          "source": "Gruene_Program_en.pdf",
+          "location": "35 / 160",
+          "content": "Gruene: The black zero in the budget is a mortgage for the future viability of our country. We will therefore set up a Germany Fund for the federal, state and local governments. From this, we will build the rails on which trains will take people to their destinations on time, renovate daycare centres, schools and universities where equal opportunities are created for all, finance research that will form the basis of the ideas and technologies for tomorrow's prosperity, and give companies the space to invest in their future. Funds from the Germany Fund will supplement regular budget funds. The investment backlog in Germany is in the three-digit billion range, even though we are an economically strong country. The debt brake in its current form prevents investments and other measures that stimulate our stagnating economy again. In order to finance the necessary investments in infrastructure, in the decarbonisation of our country and in a strong, sustainable economy, we want to reform the debt brake in line with European rules. The taking out of state loans is to be made possible to the extent that investments are made by the state. In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times."
+        },
+        {
+          "score": 0.4077984392642975,
+          "source": "Gruene_Program_en.pdf",
+          "location": "107 / 160",
+          "content": "Gruene: We want participation to become the rule for all people. Many financially weak municipalities that have undergone structural change are still sitting on high mountains of debt and are stuck in a vicious circle in the face of oppressive interest rates. In order to give them a perspective again, we are committed to a legacy debt fund financed by the federal and state governments. In doing so, we will also take into account the situation of the East German municipalities, which are challenged by legacy issues through no fault of their own. Tasks assigned to the municipalities, such as the provision of rescue services, the accommodation and integration of refugees or, for example, youth social work, must be taken over in full by the federal and state governments \u2013 as the costs for such mandatory public services of general interest increase, the financial resources for the municipalities must consequently also increase."
+        },
+        {
+          "score": 0.40966877341270447,
+          "source": "Gruene_Program_en.pdf",
+          "location": "35 / 160",
+          "content": "Gruene: In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times. In this way, we are creating new financial leeway, which we will distribute appropriately between the federal and state governments. At the same time, we will ensure that the overall debt remains sustainable in the long term. This is also advised by leading economic institutes such as the International Monetary Fund (IMF), the Bundesbank and the German Federal Government's Council of Economic Experts. At the European level, we continue to advocate common fiscal rules that leave enough room for sustainable investment. After the grand coalition has ruined the country for almost two decades, we in the federal government have initiated the turnaround. Investments in climate and environmental protection, in transport, energy, education and research infrastructure, and in national security are priorities for us. We propose a reform of the debt brake and a Germany fund for investment expenditure. In order to finance current expenses, we want to close gaps in fairness in our tax system."
+        },
+        {
+          "score": 0.41377100348472595,
+          "source": "Gruene_Program_en.pdf",
+          "location": "113 / 160",
+          "content": "Gruene: In order to protect them, we will make the ministerial right to issue instructions to public prosecutors transparent. As is already the case with the Federal Constitutional Court, additional income of federal judges is to be published at all other supreme federal courts. Directives must be free of political influence. A good judiciary must also be resistant to enemies of the constitution. Therefore, we will adopt rule-of-law regulations so that the judiciary is protected from enemies of the constitution. People should not end up in prison because they cannot pay small fines. We are modernising criminal law with the aim of relieving the burden on the judiciary. To this end, we want to examine which minor offences can be regulated outside criminal law. We want the cause of the non-payment and alternatives to be considered more closely before a custodial sentence is initiated. A strong legal profession is the foundation of a stable constitutional state and civil rights. We will continue to ensure that every person who is taken into custody receives legal assistance in the future. In order to protect the special relationship of trust between state-recognised social workers and clients in a legally secure manner, we want to examine the extension of the right to refuse to testify. We are making Europe a strong and common area of justice."
+        },
+        {
+          "score": 0.4163569211959839,
+          "source": "Gruene_Program_en.pdf",
+          "location": "68 / 160",
+          "content": "Gruene: In addition, we want to end the apportionability of property tax so that it can no longer be passed on to tenants. About half of the people in our country live in rented accommodation and have to spend more and more money on it. We will extend the rent brake and tighten it by abolishing exceptions. We also want to apply the rent brake to apartments that are more than five years old. And we will close loopholes, for example when apartments are not offered at fair prices, but at overpriced prices as furnished apartments or holiday apartments. Rent indices are to be better qualified by extending the observation period. Municipalities should be able to provide evidence of tight housing markets on their own. We will enable a rent freeze in tense housing markets. Rent usury must be combated by strengthening Section 5 of the Economic Criminal Code in order to make it easier for tenants to provide evidence and thus to punish violations of the rent brake more strongly. Indexed rents are to be regulated by upper limits and renovations must be apportioned in a warm-rent-neutral manner. The letting of furnished apartments must be strictly regulated and the misappropriation of living space must be punished. In addition, we will counter rent increases by lowering the capping limits. Commercial tenants also need tenant protection."
+        }
+      ],
+      "citations_count": 5
+    },
+    "cdu": {
+      "agreement": 30,
+      "explanation": "The CDU emphasizes sound budget policy and intergenerational justice but advocates for binding Maastricht criteria rather than a strict position on the debt brake itself.",
+      "citations": [
+        {
+          "score": 0.3858376145362854,
+          "source": "CDU_Program_en.pdf",
+          "location": "76 / 82",
+          "content": "CDU: It makes an important contribution to regional value creation and employment, housing and quality of life, the maintenance of customs and traditions and the safeguarding of infrastructure. It is particularly important for rural areas. Sound budgeting, responsible use of taxpayers' money The budget situation in Germany is tense. National debt is rising and rising, both at the federal level and in the states and municipalities. What Germany needs now is a sound budget policy. Citizens are entitled to demand that the state handle their tax money responsibly. A sound budget policy is also an imperative of intergenerational justice, because debt burdens our children and grandchildren. It ensures that burdens are not placed on our children and grandchildren. It obliges politicians to make do with the revenues available for the fulfilment of state tasks, thus ensuring the long-term sustainability of the federal budget. Even in times of crisis, it has proven its functionality and flexibility. Money is tight, so every euro must be used efficiently. We stand for a sound budget policy. Immediately at the beginning of the new legislative period, we are making an honest cash check and questioning all expenditures, especially subsidies."
+        },
+        {
+          "score": 0.41106927394866943,
+          "source": "CDU_Program_en.pdf",
+          "location": "77 / 82",
+          "content": "CDU: We clearly reject all forms of German liability for the debts of other states. The Maastricht criteria, in particular the debt ratio of 60 per cent and the annual deficit criterion of three per cent of gross domestic product, must remain binding. Violations must be sanctioned with an automated deficit procedure. EU budget funds must be used for tasks that create European added value and benefit European citizens. We are committed to an insolvency code for member states in order to be better prepared for emergencies. Maintaining stable money and financial markets The global financial crisis of 2008 and 2009 changed our banks and capital markets. Since then, there have been new rules in Germany and Europe for greater resilience and stability. We are doing everything we can to avoid new crises, to make our financial centre more efficient and to keep the euro currency system stable. As the largest economy in the euro zone, Germany must remain its anchor of stability. We are committed to the independence of the European Central Bank (ECB). At the same time, we expect it to work to maintain monetary stability and to fight inflation consistently. We reject government financing by the ECB."
+        }
+      ],
+      "citations_count": 2
+    },
+    "linke": {
+      "agreement": 20,
+      "explanation": "The Linke does not explicitly support the debt brake, suggesting a focus on broader social issues and spending.",
+      "citations": [
+        {
+          "score": 0.4073251485824585,
+          "source": "Linke_Program_en.pdf",
+          "location": "55 / 60",
+          "content": "Linke: Everyone has a right to a free basic account \u2022  Illuminated advertising is not only annoying, it also costs a lot of energy, distracts and affects people and animals We want to restrict them In addition, we demand advertising bans for particularly climate-damaging products and activities such as urban off-road vehicles (SUVs), cruises or air travel."
         }
       ],
       "citations_count": 1
