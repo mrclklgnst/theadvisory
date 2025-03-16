@@ -176,9 +176,9 @@ def build_graph(vector_store):
     def retrieve(state: State):
         # Pull relevant docs from the vector stored
         retrieved_docs = []
-        # Use standard similarity search
-        results = vector_store.similarity_search_with_score(
-            state['question'], k=15
+        # Use MMR instead of standard similarity search for better diversity
+        results = vector_store.max_marginal_relevance_search_with_score(
+            state['question'], k=15, fetch_k=20, lambda_mult=0.5
         )
 
         # Group documents by party for better representation
@@ -356,9 +356,9 @@ def build_graph_en(vector_store):
     def retrieve(state: State):
         # Pull relevant docs from the vector stored
         retrieved_docs = []
-        # Use standard similarity search
-        results = vector_store.similarity_search_with_score(
-            state['question'], k=15
+        # Use MMR instead of standard similarity search for better diversity
+        results = vector_store.max_marginal_relevance_search_with_score(
+            state['question'], k=15, fetch_k=20, lambda_mult=0.5
         )
 
         # Group documents by party for better representation
