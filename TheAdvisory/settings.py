@@ -63,7 +63,6 @@ MIDDLEWARE = [
 ROOT_URLCONF = "TheAdvisory.urls"
 
 
-
 # Define log file path
 LOG_DIR = os.path.join(BASE_DIR, "logs")
 LOG_FILE = os.path.join(LOG_DIR, "django_errors.log")
@@ -108,8 +107,7 @@ LOGGING = {
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [BASE_DIR / 'templates']
-        ,
+        "DIRS": [BASE_DIR / 'templates'],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -172,7 +170,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = "/static/"
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')  # Directory for collected static files
+# Directory for collected static files
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
@@ -188,8 +187,10 @@ VECTOR_STORAGES_URL = os.path.join(BASE_DIR, "media/vector_storages/")
 if USE_SPACES:
     DO_SPACES_ENDPOINT = os.getenv("DO_SPACES_ENDPOINT")
     PDF_STORAGE_URL = f"{DO_SPACES_ENDPOINT}/pdfs/"
+    # Ensure the URL ends with a slash
+    if not PDF_STORAGE_URL.endswith('/'):
+        PDF_STORAGE_URL += '/'
     # VECTOR_STORAGES_URL = f"{DO_SPACES_ENDPOINT}/{DO_SPACES_NAME}/vector_storages/"
 else:
     PDF_STORAGE_URL = os.path.join(BASE_DIR, "media/pdfs/")
     # VECTOR_STORAGES_URL = os.path.join(BASE_DIR, "media/vector_storages/")
-

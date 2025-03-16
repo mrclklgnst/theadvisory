@@ -56,6 +56,41 @@ def electionadvisor(request):
     return render(request, "PoliticalAdvisor/electionadvisor.html", {"lang_context": selected_lang_context})
 
 
+def debug_vector_store(request):
+    """Debug endpoint to check what documents are in the vector store"""
+    _, vector_store, _, vector_store_en = get_vector_store_objects()
+
+    # Get a sample query to retrieve documents
+    sample_query = "climate change"
+
+    # Get documents from both vector stores
+    results_de = vector_store.similarity_search_with_score(sample_query, k=5)
+    results_en = vector_store_en.similarity_search_with_score(
+        sample_query, k=5)
+
+    # Format results for display
+    formatted_results = {
+        "de": [],
+        "en": []
+    }
+
+    for doc, score in results_de:
+        formatted_results["de"].append({
+            "content": doc.page_content[:200] + "...",
+            "metadata": doc.metadata,
+            "score": float(score)
+        })
+
+    for doc, score in results_en:
+        formatted_results["en"].append({
+            "content": doc.page_content[:200] + "...",
+            "metadata": doc.metadata,
+            "score": float(score)
+        })
+
+    return JsonResponse(formatted_results)
+
+
 async def analyze_user_input(request):
     graph_de, vector_store, graph_en, vector_store_en = get_vector_store_objects()
 

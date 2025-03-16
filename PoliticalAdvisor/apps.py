@@ -22,6 +22,7 @@ class PoliticaladvisorConfig(AppConfig):
         self.initialized = True
 
         from .pinecone_rag import build_vector_store, build_graph, build_graph_en
+        from .vector_store import init_pinecone, delete_all
 
         rebuild_index = os.environ.get("REBUILD_INDEX", default=True)
 
@@ -49,6 +50,23 @@ class PoliticaladvisorConfig(AppConfig):
 
         if rebuild_index == 'True':
             logger.info("Building vector stores")
+
+            # Initialize vector stores first
+            temp_vector_store = init_pinecone()
+
+            # Delete all existing vectors before rebuilding
+            try:
+                logger.info(
+                    "Deleting all existing vectors from Pinecone index")
+                delete_all(temp_vector_store)
+                logger.info(
+                    "Successfully deleted all vectors from Pinecone index")
+            except Exception as e:
+                logger.error(f"Error deleting vectors from Pinecone: {e}")
+                logger.info(
+                    "Continuing with index rebuild despite deletion error")
+
+            # Now build the vector stores
             self.global_vector_store = build_vector_store(pdf_list)
             logger.info('Built DE vector store')
             self.global_vector_store_en = build_vector_store(pdf_list_en)

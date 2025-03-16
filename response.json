@@ -2,51 +2,111 @@
   "answer": {
     "linke": {
       "agreement": 90,
-      "explanation": "Die Linke has consistently opposed NATO expansion and advocated for peaceful relations with Russia, strongly agreeing with the statement.",
-      "citations": [],
-      "citations_count": 0
+      "explanation": "The Left Party strongly opposes right-wing extremism and anti-fascism, indicating a high likelihood of supporting projects against right-wing extremism.",
+      "citations": [
+        {
+          "score": 0.531531453,
+          "source": "Linke_Program_en.pdf",
+          "location": "47.0 / 60.0",
+          "content": "LINKE: We oppose anti-Semitism, anti-feminism and racism in any form and no matter where it comes from Anti-fascism means putting the radical right in its place at all levels and by all democratic means and fighting the conditions that made the shift to the right possible in the first place and continue to promote it. The Left Party defends freedom of expression, freedom of the press and freedom of science This includes the protection of whistleblowers!"
+        }
+      ],
+      "citations_count": 1
     },
-    "afd": {
+    "gruene": {
+      "agreement": 90,
+      "explanation": "The Greens specifically focus on right-wing extremism and advocate for legal adjustments to combat it, indicating strong support for projects against right-wing extremism.",
+      "citations": [
+        {
+          "score": 0.573316038,
+          "source": "Gruene_Program_en.pdf",
+          "location": "136.0 / 160.0",
+          "content": "GRUENE: To this end, we are focusing in particular on the right-wing extremist scene. We advocate that a prejudice motivation be consistently taken into account in criminal offences and that it be examined whether legal adjustments are necessary for this purpose. We will counter the new and complex dangers by investing in our internal security."
+        },
+        {
+          "score": 0.513341606,
+          "source": "Gruene_Program_en.pdf",
+          "location": "135.0 / 160.0",
+          "content": "GRUENE: The greatest danger to our democracy continues to come from right-wing extremism. This assessment is also shared by the Federal Office for the Protection of the Constitution (BfV). This is also reflected in the record number of right-wing extremist crimes detected."
+        }
+      ],
+      "citations_count": 2
+    },
+    "spd": {
       "agreement": 80,
-      "explanation": "The AfD has historically been skeptical of NATO expansion and has often advocated for better relations with Russia, suggesting they would likely agree with this statement.",
-      "citations": [],
-      "citations_count": 0
+      "explanation": "The SPD focuses on uncovering and preventing right-wing extremist structures and improving democratic participation, suggesting strong support for projects against right-wing extremism.",
+      "citations": [
+        {
+          "score": 0.578371346,
+          "source": "SPD_Program_en.pdf",
+          "location": "41.0 / 68.0",
+          "content": "SPD: We ensure that the financial sources of right-wing extremist networks are exposed and dried up. We want the structures of right-wing extremist groups to be consistently uncovered and prevented. To this end, we are checking whether the current powers of the security authorities are sufficient."
+        },
+        {
+          "score": 0.505028665,
+          "source": "SPD_Program_en.pdf",
+          "location": "40.0 / 68.0",
+          "content": "SPD: Because we know how dangerous it can be for a society. We make an offer to people who doubt democracy out of uncertainty or frustration and turn away: We want to improve the democratic participation of our country through better citizen participation and comprehensible decisions and regain lost trust. In the fight against extremism, we focus first and foremost on prevention in order to combat extremist tendencies and hostility to democracy at an early stage."
+        }
+      ],
+      "citations_count": 2
+    },
+    "cdu": {
+      "agreement": 70,
+      "explanation": "The CDU advocates for fighting all forms of extremism and has clear rules for cooperation with Muslim actors, suggesting a moderate agreement with supporting projects against right-wing extremism.",
+      "citations": [
+        {
+          "score": 0.597162068,
+          "source": "CDU_Program_en.pdf",
+          "location": "6.0 / 82.0",
+          "content": "CDU: We are countering the increasing extremist threats with a 360-degree view. We fight every form of extremism, violence and terror with full force. We act."
+        },
+        {
+          "score": 0.572093129,
+          "source": "CDU_Program_en.pdf",
+          "location": "44.0 / 82.0",
+          "content": "CDU: Clear rules in cooperation with Muslim actors. We exclude clubs and associations that or their members are observed by the Office for the Protection of the Constitution from state cooperation and funding. All institutions that want to receive money from the state must commit themselves to the free democratic basic order and issue a declaration against anti-Semitism."
+        }
+      ],
+      "citations_count": 2
+    },
+    "fdp": {
+      "agreement": 60,
+      "explanation": "The FDP rejects all forms of extremism and emphasizes the protection of vulnerable groups, suggesting a moderate agreement with supporting projects against right-wing extremism.",
+      "citations": [
+        {
+          "score": 0.500191867,
+          "source": "FDP_Program_en.pdf",
+          "location": "25.0 / 52.0",
+          "content": "FDP: Fighting extremism from the middle of society We Free Democrats strictly reject any form of political and religious extremism. The security authorities must take better care of the protection of particularly vulnerable groups and their facilities. Scientific expertise in the security authorities in combating various forms of extremism must be expanded."
+        }
+      ],
+      "citations_count": 1
     },
     "bsw": {
       "agreement": 50,
-      "explanation": "B\u00fcndnis Sahra Wagenknecht (BSW) has a mixed stance on foreign policy, but their focus on peace and diplomacy might lean towards agreeing with the statement.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "spd": {
-      "agreement": 40,
-      "explanation": "The SPD has a mixed stance on NATO, but their recent policies suggest they would lean towards disagreeing with the statement.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "cdu": {
-      "agreement": 30,
-      "explanation": "The CDU generally supports NATO and its expansion, so they would likely disagree with the statement.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "fdp": {
-      "agreement": 20,
-      "explanation": "The FDP is generally pro-NATO and supports its role in European security, suggesting disagreement with the statement.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "gruene": {
-      "agreement": 10,
-      "explanation": "The Greens strongly support NATO and its role in European defense, indicating strong disagreement with the statement.",
+      "explanation": "No specific context provided for BSW, so a neutral stance is assumed.",
       "citations": [],
       "citations_count": 0
     },
     "volt": {
-      "agreement": 10,
-      "explanation": "Volt Deutschland is pro-European integration and supports NATO, indicating strong disagreement with the statement.",
+      "agreement": 50,
+      "explanation": "No specific context provided for Volt, so a neutral stance is assumed.",
       "citations": [],
       "citations_count": 0
+    },
+    "afd": {
+      "agreement": 10,
+      "explanation": "The AfD emphasizes the fight against left-wing extremism and considers the focus on right-wing extremism to be neglected, suggesting they would not strongly support projects specifically against right-wing extremism.",
+      "citations": [
+        {
+          "score": 0.510947645,
+          "source": "AFD_Program_en.pdf",
+          "location": "120.0 / 177.0",
+          "content": "AFD: This applies to right-wing extremism as well as left-wing extremism as well as religious \u2013 mostly Islamist \u2013 extremism. The fight against left-wing extremism, which repeatedly spreads sheer violence, fear and terror, is currently criminally neglected by the state. The AfD will end this grievance."
+        }
+      ],
+      "citations_count": 1
     }
   }
 }
