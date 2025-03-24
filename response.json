@@ -1,178 +1,228 @@
 {
   "answer": {
-    "linke": {
-      "agreement": 90,
-      "explanation": "They strongly support limiting rent increases and promoting affordable housing as critical social issues.",
-      "citations": [
-        {
-          "score": 0.3401499092578888,
-          "source": "Linke_Program_en.pdf",
-          "location": "7 / 60",
-          "content": "Linke: Housing must not be a luxury Affordable housing is the central social issue of our time Olaf Scholz took office as rent chancellor, but rents have continued to explode in the last three years. Not only in the cities, but also in many rural areas, housing costs have risen sharply in recent years Millions of people spend a large part of their income on housing In addition, there are the rapidly rising ancillary costs Real estate companies make extra profits by sending excessive heating bills to their tenants and hoping that no one notices Exploding rents are not a law of nature: affordable housing, security from rent increases, cooperative housing construction are sensible, fair and also achievable The sale of public land is also a deliberate political decision \u2013 it could be stopped tomorrow SPD and Co claim that we have to build to get affordable housing again The average rent for a newly built apartment in Berlin: 20 euros per square metre A 50-square-metre apartment will then cost an average of 1,000 euros Who should be able to afford that? The real estate companies are using new construction to charge excessive rents, thus driving up the rent for existing apartments."
-        },
-        {
-          "score": 0.3976324200630188,
-          "source": "Linke_Program_en.pdf",
-          "location": "9 / 60",
-          "content": "Linke: The EU Parliament calls for the abolition of homelessness The German government has written an action plan \u2013 but it has not led to a single new measure against homelessness \u2022  There are 30,000 forced evictions every year, many of those affected end up in homelessness We want to ban forced evictions into homelessness! \u2022  We want to anchor the \"Housing First\" approach in the fight against homelessness: homeless people are first provided with housing, followed by other offers Since the introduction of \"Housing First\" in 2008, Finland has been able to more than halve homelessness Everyone has the right to their own apartment! We want to clearly anchor this in the Basic Law: We will end the forced accommodation of refugees in mass accommodation and ensure that regular housing is available for the homeless, seasonal and migrant workers and refugees that meets their needs 3."
-        },
-        {
-          "score": 0.4052925109863281,
-          "source": "Linke_Program_en.pdf",
-          "location": "8 / 60",
-          "content": "Linke: With tax exemptions and preferential treatment for subsidies and public land, we want to create strong incentives to participate in the development of a non-profit housing market sector in which rents are based on real costs and profits are capped \u2022 We want to reintroduce and strengthen the municipal right of first refusal. A (re-)municipalisation fund is intended to support municipalities in bringing housing back into public ownership. We are committed to a price-limited right of first refusal that is not based on the speculative \"market price\", but on rents that are affordable for the residents (social income value)."
-        }
-      ],
-      "citations_count": 3
-    },
     "spd": {
-      "agreement": 85,
-      "explanation": "They aim for limits on rent increases to protect tenants, especially in tight housing markets.",
+      "agreement": 90,
+      "explanation": "Strongly advocates for federal investment and involvement in education to ensure quality and equal access for all children.",
       "citations": [
         {
-          "score": 0.2919514775276184,
+          "score": 0.3299698233604431,
           "source": "SPD_Program_en.pdf",
-          "location": "19 / 68",
-          "content": "SPD: In the future, index-linked leases will also be capped by the capping limits of normal leases, such as the local comparative rent. Misappropriation and vacancy of living space through short-term rentals must be prevented. There is to be more transparency about existing rents and new rental rents. Exorbitant rents must be effectively prevented, among other things by tightening economic criminal law. We want to extend the possibility of banning the conversion of rental apartments into condominiums in the BauGB beyond 2025. At the same time, we want to reform the law on termination for personal use and limit it to residential use by the nuclear family. More for you. Better for Germany."
+          "location": "14 / 68",
+          "content": "SPD: No child should start school without the necessary basic skills \u2013 and no child should leave primary school without being able to speak, listen, read, write and do arithmetic adequately. At the latest at the age of four and when they start school, the level of development of all children must be determined and, if necessary, binding support must be offered. We want to guarantee the best education and care for children, reliability for working parents and good work for the employees in daycare centres. That is why we want the federal, state and local governments to continue to invest together in good daycare quality. To provide targeted support for daycare centers in disadvantaged locations, we also want to create a Start Opportunities Program with federal funds and successively expand the Start Opportunities Program at schools. The Digital Pact for Schools must also be continued and further developed in terms of content."
         },
         {
-          "score": 0.2940804362297058,
+          "score": 0.3763597309589386,
           "source": "SPD_Program_en.pdf",
-          "location": "20 / 68",
-          "content": "SPD: That's why we want only a maximum rent increase of six percent in three years to be allowed in areas with a tight housing market up to the local comparative rent. We want to open up the possibility for federal states to make independent regulations that go beyond this in order to limit rent increases more strongly in extremely tight housing markets. We want to extend the rent index observation period to ten years and include price-controlled housing in the consideration. The ancillary costs for tenants are to be more transparent and easier to understand. Property tax is a tax on ownership of land. We want to relieve tenants of property tax. The apportionability of property tax must therefore not go so far that the owner may apportion all burdens to the tenants. With the housing benefit, we specifically support employed people and pensioners. We have implemented the expansion of housing benefit to housing benefit plus, which means that significantly more people benefit from support. In the Housing Benefit Act, we have also stipulated the regular automatic increase of housing benefit in line with real price and rent developments. Similarly, we also want to stipulate a regular and automatic increase in the BAf\u00f6G housing cost lump sum for people in training. The support must continuously follow real rent developments."
+          "location": "16 / 68",
+          "content": "SPD: We are therefore committed to changing this unjust mechanism. For example, we must invest heavily in education, manage socio-ecological and digital structural change and modernise infrastructure up and down the country. Not only the federal government, but also the states and municipalities need the necessary financial leeway for this. We therefore propose a pact for the future of the federal, state and local governments. This includes the reform of the debt rule already described in order to give the states more financial leeway. In addition, we want to make the highest assets in our country more responsible for financing the community. Inheritance and gift tax as well as wealth tax then strengthen the revenue side of the More for you. Better for Germany."
         },
         {
-          "score": 0.3326925039291382,
+          "score": 0.386216938495636,
           "source": "SPD_Program_en.pdf",
-          "location": "19 / 68",
-          "content": "SPD: That is why housing is a public good for us, which must not be left to the private market alone. This is a public matter. We want to overcome the acute housing shortage with an investment, tax and bureaucracy reduction offensive and accelerate planning and approval procedures. We want to have overcome homelessness by 2030. The creation and maintenance of affordable housing is a permanent task for the state. At the same time, we are strengthening private housing construction by creating good conditions for private investment, among other things by further reducing bureaucracy. We want to protect tenants from usurious rents and excessive demands. We want to slow down the development of rents. The rent brakes will expire at the end of 2025. The rent brake is a very good instrument for curbing rising rents. And we want to ensure stable and affordable rents in tight housing markets in the long term. In metropolitan areas, short-term rentals are to be reduced to a minimum. The rent brake is to apply indefinitely and also to properties occupied until 2019 in order to ensure stable and affordable rents in tight housing markets in the long term. We will ensure that the rent brake cannot be circumvented by, for example, (partially) furnished and temporary housing offers."
+          "location": "14 / 68",
+          "content": "SPD: We want all young people to be able to choose their training path freely. In Germany, every young person should be able to make the best of themselves and their abilities. All young people must have access to all educational paths. This is our promise of Advancement through education. For young people at the beginning of their training or studies, the rising cost of living is currently the central problem \u2013 even more so than in the population as a whole. We therefore want to raise the minimum training allowance. With a reform of BAf\u00f6G we want to ensure that the amount of educational support is regularly adjusted to the rising More for you. Better for Germany."
         },
         {
-          "score": 0.38299572467803955,
+          "score": 0.3914583623409271,
           "source": "SPD_Program_en.pdf",
-          "location": "20 / 68",
-          "content": "SPD: The support must continuously follow real rent developments. We want to ensure that students and trainees do not pay more than 400 euros for a room in a shared flat. To this end, we want to consolidate and increase the funds for the expansion of student and trainee halls of residence and ensure that these funds are actually used by the states for the construction of new halls of residence. By expanding the scope of the rent brake, significantly more trainees and students will be covered. By creating an online platform in cooperation with student and trainee unions that, as a legal service provider, asserts the claims of trainees and students under the rent brake free of charge and in an uncomplicated manner, we ensure that the rent brake is also enforced. Via the same platform, we will refund the difference to students and trainees whose rental contracts fall within the scope of the rent brake and have been reviewed by the platform and, if necessary, compliance with the rent brake has been sued, if the rent for their room is above 400 euros. We want more affordable apartments to be built. In order to stabilize the supply of affordable housing in the medium and long term, joint efforts are necessary for faster construction and a social land policy. We want to set the right framework conditions and impulses for this. We want to strengthen and consolidate investments in social housing construction at a high level."
-        },
-        {
-          "score": 0.40533703565597534,
-          "source": "SPD_Program_en.pdf",
-          "location": "21 / 68",
-          "content": "SPD: The cooperative program is to be consolidated and expanded. We want to stop the rapid price development for land in many regions. We need a trend reversal towards a social land policy, because soil is an unreproducible commodity. Its use should also serve the common good. In order to enable long-term and sustainable urban development, municipalities must be supported in setting up land funds. Models are to be supported by the municipalities of land value increases through planning. The right of first refusal for municipalities must be strengthened. Construction costs must be reduced and procedures accelerated. Our goal: Reducing bureaucracy must be continued and the construction administration must receive a digitalization boost. Too much bureaucracy and a lack of digitization prolong processes and decision-making paths. The Alliance for Affordable Housing is to be made permanent and expanded. Simplified building standards such as building type E must be further developed. There is great potential in serial and modular construction that we want to leverage. In the future, funding programmes in the construction sector are to be reliably offered at fixed funding conditions for the duration of the legislative period."
-        }
-      ],
-      "citations_count": 5
-    },
-    "gruene": {
-      "agreement": 80,
-      "explanation": "They support measures to protect tenants and limit rent increases through various regulatory measures.",
-      "citations": [
-        {
-          "score": 0.28223851323127747,
-          "source": "Gruene_Program_en.pdf",
-          "location": "68 / 160",
-          "content": "Gruene: In addition, we want to end the apportionability of property tax so that it can no longer be passed on to tenants. About half of the people in our country live in rented accommodation and have to spend more and more money on it. We will extend the rent brake and tighten it by abolishing exceptions. We also want to apply the rent brake to apartments that are more than five years old. And we will close loopholes, for example when apartments are not offered at fair prices, but at overpriced prices as furnished apartments or holiday apartments. Rent indices are to be better qualified by extending the observation period. Municipalities should be able to provide evidence of tight housing markets on their own. We will enable a rent freeze in tense housing markets. Rent usury must be combated by strengthening Section 5 of the Economic Criminal Code in order to make it easier for tenants to provide evidence and thus to punish violations of the rent brake more strongly. Indexed rents are to be regulated by upper limits and renovations must be apportioned in a warm-rent-neutral manner. The letting of furnished apartments must be strictly regulated and the misappropriation of living space must be punished. In addition, we will counter rent increases by lowering the capping limits. Commercial tenants also need tenant protection."
-        },
-        {
-          "score": 0.3999433219432831,
-          "source": "Gruene_Program_en.pdf",
-          "location": "69 / 160",
-          "content": "Gruene: We want to support people in these plans by making it legally easier to exchange homes and by adapting and making funding instruments for supporting tenants more flexible. Home ownership \u2013 whether it is your own house or apartment \u2013 offers security, freedom and a sustainable retirement provision. That's why we want to make it easier to make the chance of home ownership a reality. We want to promote the purchase and construction of the first owner-occupied residential property as well as the conversion of vacant apartments and conversions into affordable housing in a stronger and socially just way. In this way, we support young families in particular through low-interest state loans. In particular, the energy-efficient renovation of vacant apartments, the division of underused single-family houses and extensions for the provision of additional living space are to be promoted. We relieve the burden of ancillary costs such as brokerage and notary fees. A housing subsidy, the amount of which increases with inflation and which is geared to climate protection targets, also makes it easier for people with low and medium incomes to access home ownership."
-        },
-        {
-          "score": 0.40577399730682373,
-          "source": "Gruene_Program_en.pdf",
-          "location": "69 / 160",
-          "content": "Gruene: That is why we want to further develop the National Action Plan for the Prevention and Management of Homelessness. The goal remains to overcome homelessness by 2030. To avoid homelessness, low-threshold preventive assistance and target-group-oriented offers, for example for women and families, are essential. There must be no forced evictions on the streets. The Housing-First approach is a central component in which homeless people can move into an apartment without first qualifying for help. We will also use other instruments such as social housing agencies. Regardless of their citizenship and residence status, people must have equal access to the assistance system. We want to protect tenants better. We want much stronger protection in the case of terminations for personal use and terminations due to rent debts, as well as an extension of the conversion period. We want to better inform tenants about their rights and at the same time enable municipalities to support tenants in enforcing their rights. Many people are interested in exchanging their homes because their living conditions have changed. In this way, living space could be used better. We want to support people in these plans by making it legally easier to exchange homes and by adapting and making funding instruments for supporting tenants more flexible."
-        },
-        {
-          "score": 0.41114574670791626,
-          "source": "Gruene_Program_en.pdf",
-          "location": "70 / 160",
-          "content": "Gruene: We want to prevent speculation with tenants' homes. We do not accept that housing corporations and real estate companies pay out returns while apartments in which people live fall into disrepair. We want to put a stop to these business models. That is why we want to oblige these players to fulfil their responsibilities and limit the distribution of returns if they do not live up to this responsibility. For fast, cost-effective and climate-friendly construction and renovation We want to create good framework conditions for climate-friendly, fast and inexpensive construction and conversion. This requires a realistic strategy for more living space. The best way is to use existing potential: add storeys to existing buildings, convert unused office and commercial space into living space, convert attics, reactivate repurposed and vacant buildings. Several million apartments could be made available in this way. There is no need to lay new infrastructure here, which makes construction easier and cheaper. In order to enable low-cost conversions, we want to reduce building and tax hurdles and bureaucracy. The conversion of existing buildings must become more attractive than demolishing existing buildings and building new ones. To this end, we will simplify building law, digitise procedures and harmonise them nationwide \u2013 all forms of construction will benefit from this."
+          "location": "15 / 68",
+          "content": "SPD: Students from different backgrounds should be able to identify with them. The best education needs powerful and sustainable whole-of-government funding. We therefore want to reform inheritance and gift tax in order to be able to invest specifically in better education for all children and young people. As with the Start Opportunities Programme, we want to use our funds specifically where disadvantages found in the educational backgrounds of parents or neighbourhoods become disadvantages for children's educational opportunities. We fight for a financial policy that serves the future of our country. Many people can talk about all the things that are not good. We want to get down to business. For a good future for the country and our children, comprehensive modernization is necessary today. This applies to both the private sector and public services: from daycare centres, schools and universities to the health system and care. Climate protection (renewable energies and grids), digitalisation and artificial intelligence, increased defence readiness and improved transport infrastructure also require a major modernisation effort. Therefore, we want to establish an era of investment in the future and at the same time ensure financial soundness. This requires a joint effort by the federal, state and local governments. We want everyone to work together to modernise our infrastructure."
         }
       ],
       "citations_count": 4
     },
     "volt": {
-      "agreement": 75,
-      "explanation": "They generally support tenant protections and affordable housing measures that would involve limiting rent increases.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "bsw": {
-      "agreement": 70,
-      "explanation": "They want to stabilize rents but focus more on promoting non-profit housing construction rather than strict limits on rent increases.",
+      "agreement": 85,
+      "explanation": "Supports harmonization and federal cooperation in educational standards to ensure equal opportunities across regions.",
       "citations": [
         {
-          "score": 0.32369956374168396,
-          "source": "BSW_Program_en.pdf",
-          "location": "26 / 45",
-          "content": "BSW: Stop rent increases \u2013 promote non-profit housing construction Politics has failed on the housing market. It has not protected citizens from rapidly rising housing costs, but has continued to drive up inflation through incorrect requirements and a lack of regulation. More and more people can hardly pay their rent. Anyone who has to move today is faced with an almost impossible task, not only in big cities. Where citizens and families dare to take the plunge into the longed-for home, the state also intervenes and benefits from rising real estate prices. Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
+          "score": 0.35656705498695374,
+          "source": "Volt_Program_en.pdf",
+          "location": "104 / 164",
+          "content": "Volt: FREE EDUCATION FOR MORE EQUAL OPPORTUNITIES AND PARTICIPATION Education is a fundamental right that must be fully accessible to all children and young people. A free education system strengthens equal opportunities and enables participation regardless of financial background. That's why Volt is committed to this future: \u2022  Free learning materials: Learning materials are provided free of charge to school-age children nationwide and financed by federal funds."
         },
         {
-          "score": 0.3409927785396576,
-          "source": "BSW_Program_en.pdf",
-          "location": "27 / 45",
-          "content": "BSW: These earmarked public funds are intended to strengthen the equity of the municipal housing companies and enable them to build rental apartments that remain in public ownership in the long term and are thus available for affordable housing. One example is municipal, non-profit housing in Vienna, thanks to which around 60 percent of Viennese live in apartments that have been built or renovated with housing subsidies. We will campaign for the adoption of a law to better combat rent usury and take legal action against grossly excessive rents for furnished rooms. It is also necessary to accelerate construction projects, for example by simplifying serial construction and introducing a simplified approval procedure for social housing. At federal, state and local level, we advocate initiatives to tighten regulation of the conversion of apartments into commercial holiday homes and to combat housing vacancies. Costs for renovations have to be borne by the landlords. We want to curb speculation on building land and promote an active, long-term land policy and a sustainable urban development policy with mixed neighbourhoods. In order to curb construction costs, excessive building regulations must be put to the test."
+          "score": 0.39200273156166077,
+          "source": "Volt_Program_en.pdf",
+          "location": "103 / 164",
+          "content": "Volt: Only with open, European concepts for free access to education will we achieve a competent citizenry for the democracy of tomorrow. RESTARTING EDUCATION \u2013 SETTING THE COURSE FOR THE FUTURE All people should have equal access to education for a united, socially just, inclusive and democratic society. LIFT THE BAN ON COOPERATION \u2013 HARMONISE EDUCATION NATIONWIDE Uniform quality standards, efficient use of resources and faster decision-making processes are essential to ensure equal opportunities in education. Through the gradual dissolution of federalism in education, nationwide solutions can be developed and implemented. That's why Volt is committed to this future: \u2022  Lifting of the ban on cooperation: The ban on cooperation between the federal and state governments in the field of education will be abolished."
+        }
+      ],
+      "citations_count": 2
+    },
+    "gruene": {
+      "agreement": 70,
+      "explanation": "Strongly supports collaborative approaches to education policy, favoring federal initiatives that promote equality and sustainability.",
+      "citations": [
+        {
+          "score": 0.34178847074508667,
+          "source": "Gruene_Program_en.pdf",
+          "location": "32 / 160",
+          "content": "Gruene: In some places in our federal state, the tasks and roles are to be redistributed, bundled and also made clearer. Especially when it comes to digitalisation, citizens expect nationwide solutions at all levels of public administration. The federal government must take responsibility here and be given the appropriate competences to do so. We rely on constructive cooperation instead of double structures and against each other. The federal government should transfer more responsibility for implementing laws and funding programmes to the states and municipalities instead of regulating everything in detail itself. The states and municipalities need more leeway for independent action as well as for concrete cooperation. Conversely, the federal government should provide a digital service for services regulated by law nationwide, which states and municipalities can use to provide services locally. Such central service units allow the Confederation to perform routine tasks centrally so that the local administration can concentrate on providing advice. The prelude to these reform processes could be the discussions in a citizens' assembly. Federal legislation must take into account practicality and digital feasibility in the process."
         },
         {
-          "score": 0.3591544032096863,
-          "source": "BSW_Program_en.pdf",
-          "location": "27 / 45",
-          "content": "BSW: This goal was missed by miles. The number of building permits has recently continued to plummet. The number of social housing units has reached a low of around one million. In 1990, there were almost three times as many. Every year, significantly more apartments fall out of the social bond than new ones are built. In view of high interest rates and construction costs as well as increasing financial burdens on broad sections of the population and municipalities, it is high time for a trend reversal in new residential construction. Non-profit housing construction must be strengthened. Larger parts of the housing market must again be subject to the rules of non-profit status, non-profit and municipal housing companies should receive low-interest loans and launch a large housing construction program. Where social housing is built, the social commitment must apply permanently. Tenants have to spend more and more on housing, especially in metropolitan areas and university towns. Instead of increasing housing benefit, which ultimately only benefits property owners, the state should cap rents and invest in the construction of new rental apartments \u2013 with a clear focus on the low-cost segment."
+          "score": 0.3703354597091675,
+          "source": "Gruene_Program_en.pdf",
+          "location": "76 / 160",
+          "content": "Gruene: With a \"Future Investment Programme for Education\", we want to work hand in hand with the states and municipalities nationwide to ensure more equal opportunities and intergenerational justice. In this way, we ensure modern and barrier-free school buildings with digitally equipped classrooms, attractive exercise rooms, leak-proof roofs and functioning toilets. We are creating more positions for school social work, school psychology and inclusion in multi-professional teams. We strengthen the children's skills and achievements, with a focus on acquiring basic skills that are indispensable for a successful educational path. We promote political education, democracy education, environmental education and education for sustainable development. We also focus on the development of digital skills, media literacy and the responsible use of artificial intelligence (AI). We are striving for greater social recognition of the teaching profession, in particular to combat the shortage of teachers and lesson cancellations. We see the digitalisation of our schools as an ongoing task for the federal, state and local governments, in which we will continue to invest. Just like in the expansion of good all-day education and care services."
         },
         {
-          "score": 0.4181690216064453,
+          "score": 0.3767969608306885,
+          "source": "Gruene_Program_en.pdf",
+          "location": "64 / 160",
+          "content": "Gruene: This is where individual freedom, the possibility of personal self-determination as well as the possibility of social participation develop. Education decides the life chances of young people: This starts fundamentally with daycare and extends to training or studies - and must not end there. And this applies regardless of whether you work in the trades, science, services or industry later in life. Education also decides whether we can make our country fit for the demands of the new era. We equip young people with skills that are indispensable in the new, digital and climate-neutral world of work. We take lifelong learning seriously and strengthen educational formats for all stages of life. It is time to finally take this into account in federal politics \u2013 hand in hand with the states and municipalities in a modern federalism. We are strengthening our education systems, not least so that in future they will give children with a migrant background and from socio-economically disadvantaged families the same opportunities for participation and advancement. In addition, we also strengthen the discrimination-sensitive approach to all children from the very beginning and advocate an appreciative attitude in education policy."
+        },
+        {
+          "score": 0.3812246024608612,
+          "source": "Gruene_Program_en.pdf",
+          "location": "109 / 160",
+          "content": "Gruene: In addition to the state offices, the Federal Agency for Civic Education plays an important role in this, and we want to strengthen and secure its independence and impartiality. We also need more efforts nationwide to strengthen media literacy and the critical approach of citizens to digital content in all social groups. Political foundations also make an important contribution to political education in our plural democracy, provided that they stand on the common ground of our democratic basic order. Direct opportunities for participation already enrich our democracy in many ways at the municipal and state level. With citizens' assemblies, it is possible to obtain the advice of the people as \"experts of everyday life\" in a representative procedure. This must also be strengthened and secured by law, including democratic procedures for individual consultation results. To this end, we want to examine, for example, the introduction of a popular initiative. We want to further develop and strengthen the right to petition. Anyone who has their permanent centre of life in Germany must have the opportunity to participate in all elections, referendums and democratic processes here on an equal footing. We want to make it easier for German citizens living abroad to participate in elections."
+        },
+        {
+          "score": 0.39090096950531006,
+          "source": "Gruene_Program_en.pdf",
+          "location": "75 / 160",
+          "content": "Gruene: We are introducing tax incentives for companies that create daycare places themselves or in cooperation so that employees' children can be cared for in the immediate vicinity of the workplace. For strong schools for all children For children and young people, schools are the centre of their lives alongside their families. This is where personality develops, where people live, learn and laugh. That's why it's so important that everyone feels they belong and is accepted. Schools also empower children and young people to shape their self-determined and sustainable future. Therefore, every young person deserves the best education \u2013 regardless of where they live, where they come from or what special educational needs they need. Germany is in fact a country of immigration, so we need more than provisional and temporary solutions for dealing with refugees and others who come to us at short notice. We want integration in and through education to become a regular task of our education system, not only on paper, but above all in reality, from kindergarten to school, university and vocational training. They should be places where diversity and discrimination-sensitive learning is promoted and where people can discover and develop their talents and creativity."
+        }
+      ],
+      "citations_count": 5
+    },
+    "cdu": {
+      "agreement": 60,
+      "explanation": "The CDU supports collaboration between federal and state governments but is cautious about increasing federal responsibilities.",
+      "citations": [
+        {
+          "score": 0.29033949971199036,
+          "source": "CDU_Program_en.pdf",
+          "location": "64 / 82",
+          "content": "CDU: To this end, the federal, state and local governments must work more closely together. We are focusing on minimum standards and are supporting the states and municipalities in expanding the number of childcare places with a further investment programme. Every child who starts school must be able to speak German. We want to oblige all children with special needs to participate in a pre-school programme in a day-care centre, kindergarten or pre-school. In addition, we are initiating a restart of the successful federal language daycare centre programme. We are creating the legal prerequisites for an improved cooperation structure for schools, youth welfare and integration assistance. Strengthening schools as a place of learning Education is the great promise of advancement that our country gives to every young generation: the vast majority succeed, but far too many still don't. Tens of thousands of school dropouts per year are an indictment of our country \u2013 and a threat to prosperity and cohesion. We need to support children and young people more and demand more. School is compulsory. Graduation too. It must not be the case that the place of residence is decisive for the quality of education."
+        },
+        {
+          "score": 0.3272362947463989,
+          "source": "CDU_Program_en.pdf",
+          "location": "64 / 82",
+          "content": "CDU: It must not be the case that the place of residence is decisive for the quality of education. We rely on meaningful and binding comparative studies and learning status surveys. Our goal is a high-level Abitur that is comparable in quality nationwide. There must be no levelling of requirements. We are pushing ahead with the expansion of all-day educational opportunities for primary school children. Each child should be supported and challenged more individually. One thing is clear: reading, writing and arithmetic are the basis for any educational success."
+        },
+        {
+          "score": 0.3631843328475952,
+          "source": "CDU_Program_en.pdf",
+          "location": "64 / 82",
+          "content": "CDU: Never again does a person learn as quickly as in the first few years. In the family, in the daycare center and in the kindergarten, not only are the foundations for a successful life created, but it is also decisive what our country will look like tomorrow and the day after tomorrow. Our goal: to give children the chance to get the best out of themselves, regardless of their origin and budget. This is a fundamental imperative of equal opportunities \u2013 and a key to new success for our country. To do this, they need a functioning, reliable education and care system. We need second opportunities for young people without a first educational qualification and strong further training in the face of technological upheavals and digitalisation. We want to significantly improve the form and content of cooperation between the federal and state governments without calling into question the clearly defined responsibilities. We are placing greater emphasis on educational research in order to create uniform standards for the comprehensive diagnosis of the developmental status of all three- to four-year-olds. In the future, education, family and social policy must go hand in hand for the benefit of all children. To this end, the federal, state and local governments must work more closely together."
+        }
+      ],
+      "citations_count": 3
+    },
+    "fdp": {
+      "agreement": 50,
+      "explanation": "The party advocates for educational freedom and local governance, with some support for federal partnerships on specific reforms.",
+      "citations": [
+        {
+          "score": 0.2939506769180298,
+          "source": "FDP_Program_en.pdf",
+          "location": "7 / 52",
+          "content": "FDP: Until the corresponding implementation, the federal government supports projects as an exception within the framework of the allocation of competences in the Basic Law, the state share must follow the strict principle of additionality (i. In addition, cooperation between the federal government and only some of the states is to be made possible. We want to abolish the Standing Conference of the Ministers of Education and Cultural Affairs (KMK) as a decision-making body and replace it with a Federal Education Council made up of scientists, practitioners, parents and business representatives. Student performance is better when schools have more freedom and are not paralyzed by bureaucracy. We are committed to school freedom laws. While maintaining the existing financial responsibility for education, we want to create uniform nationwide quality standards for children's education from kindergarten to graduation. Through uniform final examinations (Deutschland-Abitur), we ensure the nationwide comparability of school leaving certificates. We are in favour of compulsory grades from the third grade at the latest."
+        },
+        {
+          "score": 0.3074372410774231,
+          "source": "FDP_Program_en.pdf",
+          "location": "8 / 52",
+          "content": "FDP: The present agreement between the federal and state governments is a missed opportunity, because the states are hardly contributing any additional funds. We want to give schools more pedagogical, personnel and financial competences. To this end, everyone is to receive a freely deployable opportunity budget. This allows schools to decide independently on the organisation of educational elements, their school profile, the use of multi-professional teams, but also on personnel decisions and the length of the grammar school career (G8/G9). Modern curricula and excellent teachers Schools need excellent teachers. With more attractive working conditions, practical training and further education, performance-based pay and attractive opportunities for advancement, we want to create more freedom in the teaching profession. We want to develop apprenticeship training nationwide into a dual teacher training program that closely interlinks theory and practice and places a stronger focus on digital and AI skills. A nationwide mobility guarantee is intended to make it easier for teachers to change federal states. At the same time, we want to modernize the curricula: We Free Democrats demand more space for economic and financial education, STEM topics, democracy and politics as well as media literacy. We are particularly committed to the nationwide introduction of the school subjects of economics and computer science."
+        },
+        {
+          "score": 0.33565083146095276,
+          "source": "FDP_Program_en.pdf",
+          "location": "7 / 52",
+          "content": "FDP: To combat the shortage of skilled workers, we want to fundamentally modernise pedagogical training, further education and training. By making educator training and further education generally free of school fees and remunerating them appropriately, as well as by increasing the training capacities of the federal states, we are enabling more people to have access to training. We are modularising training in order to raise the quality of training to a high uniform level nationwide. Modern and independent schools \u2013 better educational opportunities for all It is not only the poor PISA results that show that in times of rapid social change, a real paradigm shift in the education system is needed. We have taken the first big steps with the Startchancen programme. We have to build on that. A state-of-the-art educational federalism We can no longer afford the battle of competences between the federal and state governments. As a result, we miss out on creating the education system that our children deserve."
+        },
+        {
+          "score": 0.3406621217727661,
+          "source": "FDP_Program_en.pdf",
+          "location": "36 / 52",
+          "content": "FDP: The federal government should only subsidize tasks of the states in exceptional cases. A strong federalism needs clear competences and responsibilities. We therefore consider a new Financial Federalism Commission to be indispensable and will campaign for its establishment. If tasks between the federal government and the states are changed, this must also be underpinned by a change in the financing flows. An agile state for a modern country A federal government that sets a good example A lean and resource-saving state begins with the federal government. That is why we want to significantly reduce the number of Federal Government Commissioners and keep them permanently at a lower level with the help of a one-in, one-out principle. We also want to limit the number of state secretaries in the ministries and make the career regulations more flexible. The Federal Agency for Disruptive Innovations (SPRIND) should be a role model for the release of potential. With the SPRIND Freedom Act, we have created scope for innovation \u2013 for example, by dispensing with intermediate instances and an exception to the prohibition of preferential treatment in order to attract highly qualified specialists."
+        },
+        {
+          "score": 0.3680186867713928,
+          "source": "FDP_Program_en.pdf",
+          "location": "7 / 52",
+          "content": "FDP: We are in favour of compulsory grades from the third grade at the latest. We are committed to modern extracurricular learning venues \u2013 for example, so-called student labs, maker spaces and TUMO centres. We want to integrate AI-supported and adaptive learning methods into everyday school life by creating a campus for educational innovations analogous to the GovTech campus. This connects federal states and municipalities with innovative players in the tech scene and applied research. Renovation offensive and more autonomy for schools Not only does our education system need an update, but many of our schools are also in need of renovation. We Free Democrats therefore demand the renovation of school buildings in Germany. Through a Digital Pact 2."
+        },
+        {
+          "score": 0.3718380033969879,
+          "source": "FDP_Program_en.pdf",
+          "location": "35 / 52",
+          "content": "FDP: Modernizing the state with a federalism reform The federal structure and administration in Germany has proven its worth, but it needs an update that focuses on efficiency and citizen-friendliness. An agile state that shows that it can reform itself demonstrates its ability to act and strengthens citizens' trust in democratic institutions. A general inventory is the first necessary step for this. All federal responsibilities and administrative processes must be subjected to a critical review. Too many authorities at the federal and state level as well as in the municipalities overlap in the fulfilment of their tasks. The general inventory must be based on a clear political will to improve the efficiency and ability of the state to act, and must be concluded with a reform of federalism. For us, reforms in the financial and education sectors, internal security, civil protection and disaster control, migration and digitalisation are priorities. In the course of a federalism reform, tax revenue must also be distributed between the Federation and the L\u00e4nder in such a way that the now considerable co-financing of L\u00e4nder tasks by the Federation can also be provided by the Federation."
+        },
+        {
+          "score": 0.37650710344314575,
+          "source": "FDP_Program_en.pdf",
+          "location": "24 / 52",
+          "content": "FDP: In addition, the federal and state governments must comply with the constitutional mandate to replace state benefits. We want to subject the Islamic associations to a critical examination."
+        },
+        {
+          "score": 0.38754382729530334,
+          "source": "FDP_Program_en.pdf",
+          "location": "34 / 52",
+          "content": "FDP: We are cutting back subsidies for the few, but we are creating better location conditions for everyone. Where we really need a well-functioning state, it must be better equipped. Federalism must become simpler and the state leaner and more efficient. With clear responsibilities, we want to upgrade the interaction between the federal and state governments from an obstacle to a locational advantage. A lot has to change in Germany. The state is perhaps the biggest construction site. We have it in our hands to change that. Sound public finances We Free Democrats want to protect future generations from the burdens of excessive national debt. That is why we stand for responsible and future-oriented budgetary and financial policy. Our goal is a successful economy that grows and creates prosperity. Compliance with the debt brake is intergenerational justice Freedom for future generations also means not leaving them mountains of debt. Therefore, for us Free Democrats, compliance with the debt brake enshrined in the Basic Law central commandment of intergenerational justice. Otherwise, children are liable for their parents. This also applies to the federal states. Sustainable and prioritizing budgets create intergenerational justice because burdens are not passed on to future generations."
+        }
+      ],
+      "citations_count": 8
+    },
+    "bsw": {
+      "agreement": 40,
+      "explanation": "The focus is on addressing educational inequality, but not necessarily advocating for more federal involvement in school policy.",
+      "citations": [
+        {
+          "score": 0.32604363560676575,
           "source": "BSW_Program_en.pdf",
-          "location": "16 / 45",
-          "content": "BSW: Another loophole for the wealthy that urgently needs to be closed is the tax exemption of increases in the value of real estate with a holding period of ten years or more. We want this privilege to be limited to owner-occupied housing. By means of so-called \"share deals\", institutional investors can avoid real estate transfer tax when selling a property. We also want to close this loophole, which has been known for a long time. We demand a moratorium on burdens for normal homeowners and tenants. Currently, the higher the inheritance, the lower the effective tax rate. This is neither fair nor reasonable, because it means that an inherited single-family home is subject to higher taxes than an inherited business empire worth hundreds of millions of euros. We want to change this and tax all inherited assets above the exemption amounts equally."
+          "location": "23 / 45",
+          "content": "BSW: More and more young people are leaving school without elementary knowledge. They hardly have a chance on the job market later on. Two-thirds of current recipients of citizen's allowance do not have a vocational qualification, and many do not have a school-leaving certificate either. We need a comprehensive renewal of education policy. This will contribute to the end of small-scale education. Different types of schools as a prerequisite for different later training paths make sense in principle, but social selection according to the parental home is not."
+        },
+        {
+          "score": 0.36110976338386536,
+          "source": "BSW_Program_en.pdf",
+          "location": "23 / 45",
+          "content": "BSW: The early decision in most federal states as early as the 4th grade is one of the reasons why parents' wishes and expectations often have more influence on the children's educational path than their talents and talents. Therefore, the school system must be permeable at all levels. We are committed to longer joint learning. Educational justice also means that educational opportunities must not depend on the parents' wallets. In order for basic school education to be effective, preparation for basic technical and social skills must begin in the daycare centre. Primary schools must once again focus on the core competencies of reading, writing and arithmetic. Studies also show that analogue learning materials are superior to digital ones when it comes to acquiring reading and spelling skills."
+        },
+        {
+          "score": 0.38303810358047485,
+          "source": "BSW_Program_en.pdf",
+          "location": "24 / 45",
+          "content": "BSW: The chronic underfunding of universities must be ended. It is imperative that the federal government participates in the basic funding of universities and in the construction of higher education institutions with investment funds. A BAf\u00f6G reform to adequately finance studies and a higher education social pact for good social infrastructure are urgently needed. Universities must once again become places of free thought and open discourse. Professors and university staff must have the opportunity to express themselves critically within the framework of freedom of expression, without fear of disciplinary proceedings or job loss. Academic freedom must be restored. Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
+        },
+        {
+          "score": 0.38777461647987366,
+          "source": "BSW_Program_en.pdf",
+          "location": "24 / 45",
+          "content": "BSW: Working conditions in all educational institutions urgently need to be improved. To this end, teachers must be relieved of non-specialist tasks by support teams (social work, school psychologists, IT management). Teacher training should include more practical elements. Dual forms of training that lead to a bachelor's/master's degree followed by a traineeship are conceivable. In the short term, the shortage of teachers can be combated by attractive working conditions for lateral entrants. In recent years, teachers have been increasingly burdened with additional tasks, such as IT management, school organization, and psychological counseling. The formation of support teams for everyday work at schools \u2013 social work, IT management, psychological support \u2013 can bring about a decisive improvement. The children and young people themselves must be able to perceive daycare centres and schools as safe havens again \u2013 without discrimination, bullying or racism \u2013 with dignity and recognition. Education does not end in adulthood. Adult education centres must be financially strengthened. The chronic underfunding of universities must be ended."
         }
       ],
       "citations_count": 4
     },
-    "cdu": {
-      "agreement": 40,
-      "explanation": "They generally support market solutions and may not fully agree with limiting rent increases legislatively.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "fdp": {
+    "linke": {
       "agreement": 30,
-      "explanation": "They oppose the rent cap, seeing it as a disincentive for investment and construction.",
+      "explanation": "Generally favoring expanded public services, but more focused on financing and access rather than federal governance in education.",
       "citations": [
         {
-          "score": 0.38068094849586487,
-          "source": "FDP_Program_en.pdf",
-          "location": "43 / 52",
-          "content": "FDP: In urban planning, we want to use digital technologies and data to improve the lives of citizens and develop cities into smart cities. AI-supported traffic management is intended to intelligently control traffic flows and optimize infrastructure use. The flexible use of hard shoulders and digital real-time recording of parking spaces are important building blocks in this regard. Fair rules for tenants and landlords We Free Democrats want balanced rules between tenants and landlords. Many private landlords are withdrawing from the market because renting has become unattractive due to complicated regulations. This exacerbates the housing shortage. We are therefore simplifying the law on ancillary costs. The rent brake is demonstrably a brake on investment. That's why we're phasing them out. In order to create incentives for the urgently needed new construction, we are breaking the state regulatory spiral in the rental market. There will be no nationwide rent cap with us. In addition, we will relax the rigid capping limits for energy-efficient renovations so that the modernisation of the building stock can progress. The tenants also benefit from this. Because such renovations reduce ancillary costs."
+          "score": 0.38645654916763306,
+          "source": "Linke_Program_en.pdf",
+          "location": "43 / 60",
+          "content": "Linke: Costs caused by the federal government or the states must also be financed by them (connection)."
         }
       ],
       "citations_count": 1
     },
     "afd": {
       "agreement": 25,
-      "explanation": "They advocate for decreasing regulations in housing and supporting home ownership, which suggests less agreement with limiting rent increases.",
+      "explanation": "The party values sovereignty and opposes expanded federal control over school policy, emphasizing local governance and individual responsibility.",
       "citations": [
         {
-          "score": 0.3763728439807892,
+          "score": 0.38505202531814575,
           "source": "AFD_Program_en.pdf",
-          "location": "36 / 177",
-          "content": "AFD: Escalating legal requirements for building and tenancy law, such as the so-called Heating Act, are hindering the construction of affordable apartments. We will free housing construction from these shackles so that in the future every citizen can afford an apartment or a house. Prosperity arises from home ownership. Seventy percent of all EU citizens live in their own property, while the majority of Germans do not live in their own four walls, but rent. Reduce housing and ancillary construction costs In addition to construction costs, ancillary housing costs must be significantly reduced in order to make housing affordable again for citizens. For example, the real estate transfer tax for owner-occupiers, the property tax and the broadcasting fee (GEZ) are to be abolished, and the real estate transfer tax for foreign buyers with their main residence outside the EU is to be increased to 20%, as in Austria. We will abolish ideology-driven costs such as the EEG levy, CO\u2082 tax and the Building Energy Act (GEG). Building law must remain national law According to the principle of subsidiarity, decisions on building law are to be reserved for the nation states. We reject the EU's cost-driving regulations in this area."
-        },
-        {
-          "score": 0.3803156614303589,
-          "source": "AFD_Program_en.pdf",
-          "location": "37 / 177",
-          "content": "AFD: Turn tenants into owners Property is freedom, protects against poverty in old age and against rent increases. We want to remove barriers to conversion. Tenants are to be supported in the purchase of owner-occupied residential property, e. To promote ownership, we will create a framework in which tenants can purchase their apartments from public housing companies on preferential terms. Housing cooperatives are to be given preference in the allocation of public land. Promoting locals When allocating residential building plots and housing, locals are to be given preference according to the local model. More housing benefit instead of social housing The previous social housing construction has failed, it can only reach a fraction of the eligible. It leads to incorrect receipts and causes high costs for the taxpayer. It is better to provide more housing benefit to low-income tenants, which ensures social mix. If the housing benefit is not sufficient to secure an apartment, citizens must also be paid a municipal housing benefit."
-        },
-        {
-          "score": 0.4089130461215973,
-          "source": "AFD_Program_en.pdf",
-          "location": "58 / 177",
-          "content": "AFD: The basic income tax allowance is to be increased to 15,000 euros, and the previous reference to social welfare regulations will be abandoned. The allowances are to be indexed in order to rule out secret tax increases in the future. These measures take into account the wage gap requirement and motivate people to participate in working life. We also consider the corresponding shift from further tariff benchmarks up to the top tax rate to be necessary. Abolish property tax and compensate for tax losses The collection of property tax, which benefits cities and municipalities, is extremely complicated and involves a very high administrative burden. The federal model is calculated according to the standard land values, which are often outdated, inaccurate or arbitrary. The property tax also violates the principle of equality, as it does not take into account the individual characteristics of the properties. Therefore, it will be abolished completely. The municipalities are fully compensated by a surcharge on income tax and corporation tax. This is based on the economic performance of the taxpayers. This also relieves tenants. Introduce family splitting According to Article 6 of the Basic Law, marriage and family are under the special protection of the state order."
+          "location": "131 / 177",
+          "content": "AFD: The sovereign should have the right to amend or reject laws passed by parliament and thus force our representatives of the people to work diligently to decide on amendments to the Basic Law and important international treaties and, in compliance with the limits of Article 79. Fundamental right of freedom of expression \u2013 no censorship in public debate Any censorship of expressions of opinion constitutes an attack on the fundamental right of freedom of expression. A supremacy in social media and education must not be used to unilaterally influence the political decision-making process. As quasi-oligopolies, the major providers of social media are to be obliged to respect the freedom of expression of their users. The Internet must be preserved as a place of freedom of expression. We will immediately abolish government censorship regulations and state-imposed agreements with private companies that carry out censorship measures. Self-proclaimed \"fact-checkers\" and opinion watchdogs must not receive state funding. We reject the Federal Government's increasing control and prohibition policy in the area of media and social networks. In particular, there must be no censorship by state-commissioned professional denunciators."
         }
       ],
-      "citations_count": 3
+      "citations_count": 1
     }
   }
 }

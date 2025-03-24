@@ -330,6 +330,7 @@ def build_graph_en(vector_store):
     def retrieve(state: State):
         logger.info('retrieving docs')
         retrieved_docs = []
+        logger.info(f'vector store in memory with: {type(vector_store)}')
         results = vector_store.similarity_search_with_score(state['question'], k=30)
         logger.info(f'results found with {type(results)}')
         for doc, score in results:
