@@ -328,8 +328,10 @@ def build_graph_en(vector_store):
 
     # Define application steps
     def retrieve(state: State):
+        logger.info('retrieving docs')
         retrieved_docs = []
         results = vector_store.similarity_search_with_score(state['question'], k=30)
+        logger.info(f'results found with {type(results)}')
         for doc, score in results:
             party = doc.metadata['source'].split("_")[0].lower()
             doc.metadata['party'] = party
@@ -375,6 +377,7 @@ def respond_to_query(user_query, graph):
 
     # Invoke the graph with the user query
     result = graph.invoke({"question": user_query})
+    logger.info(f'result obtained from invoking graph with {type(result)}')
 
     # Dictionary with 2 keys: 'answer' and 'citations'
     response = {}
@@ -387,6 +390,7 @@ def respond_to_query(user_query, graph):
         # check if answer is a dictionary
         if isinstance(answer_raw, dict):
             response['answer'] = answer_raw
+
         # else try to reformat the answer
         else:
             try:
