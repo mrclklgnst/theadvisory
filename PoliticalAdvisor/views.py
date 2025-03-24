@@ -64,9 +64,12 @@ async def analyze_user_input(request):
             graph = graph_en
             error_response = {"message": {"answer": "This query did not quite work out. Please try again."}}
 
+        logger.info(f'language setting: {language}')
+
         # Get suggested prompts
         suggested_prompts = createRandomPrompts(language)
         error_response["suggested_prompts"] = suggested_prompts
+        logger.info('got suggested promprts')
 
         if mockup_response == "True":
             try:
@@ -99,15 +102,21 @@ async def analyze_user_input(request):
                         logger.info('Response from OpenAI not in expected format')
                         return JsonResponse({"message": model_output, "suggested_prompts": suggested_prompts})
         else:
+            logger.info('going to query openAI')
             try:
                 # query openAI, returns dict with keys 'answer' and 'citations'
                 async_respond_to_query = sync_to_async(respond_to_query)
+                logger.info('respond to query transformed to async')
+
                 model_output = await async_respond_to_query(user_input, graph)
+                logger.info(f'model input complete with: {type(model_output)}')
+
                 # check if answer in needed format
                 if isinstance(model_output["answer"], dict):
                     with open("response.json", "w") as f:
                         json.dump(model_output, f, indent=2)
                     return JsonResponse({"message": model_output, "suggested_prompts": suggested_prompts})
+
                 # else try to reformat the answer
                 else:
                     try:
