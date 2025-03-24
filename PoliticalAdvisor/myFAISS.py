@@ -332,8 +332,13 @@ def build_graph_en(vector_store):
         retrieved_docs = []
         logger.info(f'vector store in memory with: {type(vector_store)}')
         logger.info(f'question posed: {state['question']}')
-        results = vector_store.similarity_search_with_score(state['question'], k=30)
-        logger.info(f'results found with {type(results)}')
+        try:
+            results = vector_store.similarity_search_with_score(state['question'], k=30)
+            logger.info(f"Similarity search returned {len(results)} results")
+        except Exception as e:
+            logger.exception("Vector store similarity search failed")
+            raise
+
         for doc, score in results:
             party = doc.metadata['source'].split("_")[0].lower()
             doc.metadata['party'] = party
