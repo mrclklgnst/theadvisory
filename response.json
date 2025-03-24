@@ -1,228 +1,202 @@
 {
   "answer": {
     "spd": {
-      "agreement": 90,
-      "explanation": "Strongly advocates for federal investment and involvement in education to ensure quality and equal access for all children.",
+      "agreement": 80,
+      "explanation": "The SPD is likely to support the continuation of church tax due to their commitment to social equality and recognizing the contributions of religious communities to social welfare.",
       "citations": [
         {
-          "score": 0.3299698233604431,
-          "source": "SPD_Program_en.pdf",
-          "location": "14 / 68",
-          "content": "SPD: No child should start school without the necessary basic skills \u2013 and no child should leave primary school without being able to speak, listen, read, write and do arithmetic adequately. At the latest at the age of four and when they start school, the level of development of all children must be determined and, if necessary, binding support must be offered. We want to guarantee the best education and care for children, reliability for working parents and good work for the employees in daycare centres. That is why we want the federal, state and local governments to continue to invest together in good daycare quality. To provide targeted support for daycare centers in disadvantaged locations, we also want to create a Start Opportunities Program with federal funds and successively expand the Start Opportunities Program at schools. The Digital Pact for Schools must also be continued and further developed in terms of content."
-        },
-        {
-          "score": 0.3763597309589386,
+          "score": 0.420948326587677,
           "source": "SPD_Program_en.pdf",
           "location": "16 / 68",
           "content": "SPD: We are therefore committed to changing this unjust mechanism. For example, we must invest heavily in education, manage socio-ecological and digital structural change and modernise infrastructure up and down the country. Not only the federal government, but also the states and municipalities need the necessary financial leeway for this. We therefore propose a pact for the future of the federal, state and local governments. This includes the reform of the debt rule already described in order to give the states more financial leeway. In addition, we want to make the highest assets in our country more responsible for financing the community. Inheritance and gift tax as well as wealth tax then strengthen the revenue side of the More for you. Better for Germany."
         },
         {
-          "score": 0.386216938495636,
+          "score": 0.42458376288414,
           "source": "SPD_Program_en.pdf",
-          "location": "14 / 68",
-          "content": "SPD: We want all young people to be able to choose their training path freely. In Germany, every young person should be able to make the best of themselves and their abilities. All young people must have access to all educational paths. This is our promise of Advancement through education. For young people at the beginning of their training or studies, the rising cost of living is currently the central problem \u2013 even more so than in the population as a whole. We therefore want to raise the minimum training allowance. With a reform of BAf\u00f6G we want to ensure that the amount of educational support is regularly adjusted to the rising More for you. Better for Germany."
+          "location": "17 / 68",
+          "content": "SPD: In addition, the L\u00e4nder are responsible for providing the municipalities with adequate financial resources to cope with their tasks. At the municipal level, a large part of the investments necessary for structural change is incurred anyway. At the same time, the financial situation of many municipalities is serious. We must and want to change that. A solution to the specific problem of old municipal debts is finally needed. In doing so, we want to ensure that the situation of the East German municipalities is also taken into account, which are also challenged by legacy issues through no fault of their own, such as the situation of the old municipal housing companies or the Entitlement and Expectancy Transfer Act (AA\u00dcG). In addition, we are committed to long-term support and financing agreements between the state levels, especially in the areas of education, transport and supply infrastructure, urban development, heat planning and energy efficiency. In addition, larger and modern capacities for infrastructure planning of the municipalities are required, for example for cross-municipal investment planning or joint personnel deployment. We want to significantly simplify and reduce bureaucracy in funding programmes as far as possible. We want to achieve a systematic improvement in municipal finances."
         },
         {
-          "score": 0.3914583623409271,
+          "score": 0.42529791593551636,
           "source": "SPD_Program_en.pdf",
-          "location": "15 / 68",
-          "content": "SPD: Students from different backgrounds should be able to identify with them. The best education needs powerful and sustainable whole-of-government funding. We therefore want to reform inheritance and gift tax in order to be able to invest specifically in better education for all children and young people. As with the Start Opportunities Programme, we want to use our funds specifically where disadvantages found in the educational backgrounds of parents or neighbourhoods become disadvantages for children's educational opportunities. We fight for a financial policy that serves the future of our country. Many people can talk about all the things that are not good. We want to get down to business. For a good future for the country and our children, comprehensive modernization is necessary today. This applies to both the private sector and public services: from daycare centres, schools and universities to the health system and care. Climate protection (renewable energies and grids), digitalisation and artificial intelligence, increased defence readiness and improved transport infrastructure also require a major modernisation effort. Therefore, we want to establish an era of investment in the future and at the same time ensure financial soundness. This requires a joint effort by the federal, state and local governments. We want everyone to work together to modernise our infrastructure."
-        }
-      ],
-      "citations_count": 4
-    },
-    "volt": {
-      "agreement": 85,
-      "explanation": "Supports harmonization and federal cooperation in educational standards to ensure equal opportunities across regions.",
-      "citations": [
-        {
-          "score": 0.35656705498695374,
-          "source": "Volt_Program_en.pdf",
-          "location": "104 / 164",
-          "content": "Volt: FREE EDUCATION FOR MORE EQUAL OPPORTUNITIES AND PARTICIPATION Education is a fundamental right that must be fully accessible to all children and young people. A free education system strengthens equal opportunities and enables participation regardless of financial background. That's why Volt is committed to this future: \u2022  Free learning materials: Learning materials are provided free of charge to school-age children nationwide and financed by federal funds."
-        },
-        {
-          "score": 0.39200273156166077,
-          "source": "Volt_Program_en.pdf",
-          "location": "103 / 164",
-          "content": "Volt: Only with open, European concepts for free access to education will we achieve a competent citizenry for the democracy of tomorrow. RESTARTING EDUCATION \u2013 SETTING THE COURSE FOR THE FUTURE All people should have equal access to education for a united, socially just, inclusive and democratic society. LIFT THE BAN ON COOPERATION \u2013 HARMONISE EDUCATION NATIONWIDE Uniform quality standards, efficient use of resources and faster decision-making processes are essential to ensure equal opportunities in education. Through the gradual dissolution of federalism in education, nationwide solutions can be developed and implemented. That's why Volt is committed to this future: \u2022  Lifting of the ban on cooperation: The ban on cooperation between the federal and state governments in the field of education will be abolished."
-        }
-      ],
-      "citations_count": 2
-    },
-    "gruene": {
-      "agreement": 70,
-      "explanation": "Strongly supports collaborative approaches to education policy, favoring federal initiatives that promote equality and sustainability.",
-      "citations": [
-        {
-          "score": 0.34178847074508667,
-          "source": "Gruene_Program_en.pdf",
-          "location": "32 / 160",
-          "content": "Gruene: In some places in our federal state, the tasks and roles are to be redistributed, bundled and also made clearer. Especially when it comes to digitalisation, citizens expect nationwide solutions at all levels of public administration. The federal government must take responsibility here and be given the appropriate competences to do so. We rely on constructive cooperation instead of double structures and against each other. The federal government should transfer more responsibility for implementing laws and funding programmes to the states and municipalities instead of regulating everything in detail itself. The states and municipalities need more leeway for independent action as well as for concrete cooperation. Conversely, the federal government should provide a digital service for services regulated by law nationwide, which states and municipalities can use to provide services locally. Such central service units allow the Confederation to perform routine tasks centrally so that the local administration can concentrate on providing advice. The prelude to these reform processes could be the discussions in a citizens' assembly. Federal legislation must take into account practicality and digital feasibility in the process."
-        },
-        {
-          "score": 0.3703354597091675,
-          "source": "Gruene_Program_en.pdf",
-          "location": "76 / 160",
-          "content": "Gruene: With a \"Future Investment Programme for Education\", we want to work hand in hand with the states and municipalities nationwide to ensure more equal opportunities and intergenerational justice. In this way, we ensure modern and barrier-free school buildings with digitally equipped classrooms, attractive exercise rooms, leak-proof roofs and functioning toilets. We are creating more positions for school social work, school psychology and inclusion in multi-professional teams. We strengthen the children's skills and achievements, with a focus on acquiring basic skills that are indispensable for a successful educational path. We promote political education, democracy education, environmental education and education for sustainable development. We also focus on the development of digital skills, media literacy and the responsible use of artificial intelligence (AI). We are striving for greater social recognition of the teaching profession, in particular to combat the shortage of teachers and lesson cancellations. We see the digitalisation of our schools as an ongoing task for the federal, state and local governments, in which we will continue to invest. Just like in the expansion of good all-day education and care services."
-        },
-        {
-          "score": 0.3767969608306885,
-          "source": "Gruene_Program_en.pdf",
-          "location": "64 / 160",
-          "content": "Gruene: This is where individual freedom, the possibility of personal self-determination as well as the possibility of social participation develop. Education decides the life chances of young people: This starts fundamentally with daycare and extends to training or studies - and must not end there. And this applies regardless of whether you work in the trades, science, services or industry later in life. Education also decides whether we can make our country fit for the demands of the new era. We equip young people with skills that are indispensable in the new, digital and climate-neutral world of work. We take lifelong learning seriously and strengthen educational formats for all stages of life. It is time to finally take this into account in federal politics \u2013 hand in hand with the states and municipalities in a modern federalism. We are strengthening our education systems, not least so that in future they will give children with a migrant background and from socio-economically disadvantaged families the same opportunities for participation and advancement. In addition, we also strengthen the discrimination-sensitive approach to all children from the very beginning and advocate an appreciative attitude in education policy."
-        },
-        {
-          "score": 0.3812246024608612,
-          "source": "Gruene_Program_en.pdf",
-          "location": "109 / 160",
-          "content": "Gruene: In addition to the state offices, the Federal Agency for Civic Education plays an important role in this, and we want to strengthen and secure its independence and impartiality. We also need more efforts nationwide to strengthen media literacy and the critical approach of citizens to digital content in all social groups. Political foundations also make an important contribution to political education in our plural democracy, provided that they stand on the common ground of our democratic basic order. Direct opportunities for participation already enrich our democracy in many ways at the municipal and state level. With citizens' assemblies, it is possible to obtain the advice of the people as \"experts of everyday life\" in a representative procedure. This must also be strengthened and secured by law, including democratic procedures for individual consultation results. To this end, we want to examine, for example, the introduction of a popular initiative. We want to further develop and strengthen the right to petition. Anyone who has their permanent centre of life in Germany must have the opportunity to participate in all elections, referendums and democratic processes here on an equal footing. We want to make it easier for German citizens living abroad to participate in elections."
-        },
-        {
-          "score": 0.39090096950531006,
-          "source": "Gruene_Program_en.pdf",
-          "location": "75 / 160",
-          "content": "Gruene: We are introducing tax incentives for companies that create daycare places themselves or in cooperation so that employees' children can be cared for in the immediate vicinity of the workplace. For strong schools for all children For children and young people, schools are the centre of their lives alongside their families. This is where personality develops, where people live, learn and laugh. That's why it's so important that everyone feels they belong and is accepted. Schools also empower children and young people to shape their self-determined and sustainable future. Therefore, every young person deserves the best education \u2013 regardless of where they live, where they come from or what special educational needs they need. Germany is in fact a country of immigration, so we need more than provisional and temporary solutions for dealing with refugees and others who come to us at short notice. We want integration in and through education to become a regular task of our education system, not only on paper, but above all in reality, from kindergarten to school, university and vocational training. They should be places where diversity and discrimination-sensitive learning is promoted and where people can discover and develop their talents and creativity."
-        }
-      ],
-      "citations_count": 5
-    },
-    "cdu": {
-      "agreement": 60,
-      "explanation": "The CDU supports collaboration between federal and state governments but is cautious about increasing federal responsibilities.",
-      "citations": [
-        {
-          "score": 0.29033949971199036,
-          "source": "CDU_Program_en.pdf",
-          "location": "64 / 82",
-          "content": "CDU: To this end, the federal, state and local governments must work more closely together. We are focusing on minimum standards and are supporting the states and municipalities in expanding the number of childcare places with a further investment programme. Every child who starts school must be able to speak German. We want to oblige all children with special needs to participate in a pre-school programme in a day-care centre, kindergarten or pre-school. In addition, we are initiating a restart of the successful federal language daycare centre programme. We are creating the legal prerequisites for an improved cooperation structure for schools, youth welfare and integration assistance. Strengthening schools as a place of learning Education is the great promise of advancement that our country gives to every young generation: the vast majority succeed, but far too many still don't. Tens of thousands of school dropouts per year are an indictment of our country \u2013 and a threat to prosperity and cohesion. We need to support children and young people more and demand more. School is compulsory. Graduation too. It must not be the case that the place of residence is decisive for the quality of education."
-        },
-        {
-          "score": 0.3272362947463989,
-          "source": "CDU_Program_en.pdf",
-          "location": "64 / 82",
-          "content": "CDU: It must not be the case that the place of residence is decisive for the quality of education. We rely on meaningful and binding comparative studies and learning status surveys. Our goal is a high-level Abitur that is comparable in quality nationwide. There must be no levelling of requirements. We are pushing ahead with the expansion of all-day educational opportunities for primary school children. Each child should be supported and challenged more individually. One thing is clear: reading, writing and arithmetic are the basis for any educational success."
-        },
-        {
-          "score": 0.3631843328475952,
-          "source": "CDU_Program_en.pdf",
-          "location": "64 / 82",
-          "content": "CDU: Never again does a person learn as quickly as in the first few years. In the family, in the daycare center and in the kindergarten, not only are the foundations for a successful life created, but it is also decisive what our country will look like tomorrow and the day after tomorrow. Our goal: to give children the chance to get the best out of themselves, regardless of their origin and budget. This is a fundamental imperative of equal opportunities \u2013 and a key to new success for our country. To do this, they need a functioning, reliable education and care system. We need second opportunities for young people without a first educational qualification and strong further training in the face of technological upheavals and digitalisation. We want to significantly improve the form and content of cooperation between the federal and state governments without calling into question the clearly defined responsibilities. We are placing greater emphasis on educational research in order to create uniform standards for the comprehensive diagnosis of the developmental status of all three- to four-year-olds. In the future, education, family and social policy must go hand in hand for the benefit of all children. To this end, the federal, state and local governments must work more closely together."
+          "location": "17 / 68",
+          "content": "SPD: We will not agree to the centralisation of cohesion policy. We are committed to further developing cohesion policy in line with needs so that the ecological and digital structural change can be mastered. We will expand the Just Transition Fund to all industrial regions. We also need to strengthen government revenues through a fair tax system. This also includes continuing to fight tax evasion and financial crime. For example, it is important to further reduce VAT fraud, especially in cash-intensive industries, and to further develop and supplement the measures taken so far. We are committed to building and strengthening an authority in the fight against financial crime, tax evasion and money laundering. In addition, we continue to take decisive action against money laundering, close the gaps in the transparency register, make it accessible to civil society again and advocate for the effective fight against asset concealment. We want to continue to counteract tax avoidance and harmful tax competition. This includes an obligation to notify of domestic tax arrangements. We are also committed to a uniform basic corporate tax More for you. Better for Germany."
         }
       ],
       "citations_count": 3
     },
-    "fdp": {
-      "agreement": 50,
-      "explanation": "The party advocates for educational freedom and local governance, with some support for federal partnerships on specific reforms.",
+    "bsw": {
+      "agreement": 70,
+      "explanation": "The BSW recognizes the contributions of religious communities to society, which may imply some support for church tax, but they emphasize neutrality and do not explicitly advocate for its continuation.",
       "citations": [
         {
-          "score": 0.2939506769180298,
-          "source": "FDP_Program_en.pdf",
-          "location": "7 / 52",
-          "content": "FDP: Until the corresponding implementation, the federal government supports projects as an exception within the framework of the allocation of competences in the Basic Law, the state share must follow the strict principle of additionality (i. In addition, cooperation between the federal government and only some of the states is to be made possible. We want to abolish the Standing Conference of the Ministers of Education and Cultural Affairs (KMK) as a decision-making body and replace it with a Federal Education Council made up of scientists, practitioners, parents and business representatives. Student performance is better when schools have more freedom and are not paralyzed by bureaucracy. We are committed to school freedom laws. While maintaining the existing financial responsibility for education, we want to create uniform nationwide quality standards for children's education from kindergarten to graduation. Through uniform final examinations (Deutschland-Abitur), we ensure the nationwide comparability of school leaving certificates. We are in favour of compulsory grades from the third grade at the latest."
+          "score": 0.4199179410934448,
+          "source": "BSW_Program_en.pdf",
+          "location": "31 / 45",
+          "content": "BSW: In return, there are to be tax advantages for these companies. In addition, we want to upgrade the social and educator professions. Focus on social actors \u2013 living diversity, strengthening cohesion Our party stands for the preservation of the state's neutrality in religious and ideological questions. We emphasize the fundamental right to free exercise of religion according to Article 4 of the Basic Law. Every person has the right to practice his religion freely or not to choose any religion. This fundamental right is non-negotiable and a cornerstone of our democratic society. We recognize the significant contributions of churches, religious communities and world-wide associations. This includes in particular their achievements in the social, cultural and societal spheres. Whether Christian churches, Jewish, Islamic or other religious communities \u2013 they do valuable work for the common good, social peace and the cultural diversity of our country. In addition, secular and ideological associations are also important actors in society that enrich our democratic coexistence. Their perspectives and commitment also contribute to the promotion of tolerance and social progress."
         },
         {
-          "score": 0.3074372410774231,
-          "source": "FDP_Program_en.pdf",
-          "location": "8 / 52",
-          "content": "FDP: The present agreement between the federal and state governments is a missed opportunity, because the states are hardly contributing any additional funds. We want to give schools more pedagogical, personnel and financial competences. To this end, everyone is to receive a freely deployable opportunity budget. This allows schools to decide independently on the organisation of educational elements, their school profile, the use of multi-professional teams, but also on personnel decisions and the length of the grammar school career (G8/G9). Modern curricula and excellent teachers Schools need excellent teachers. With more attractive working conditions, practical training and further education, performance-based pay and attractive opportunities for advancement, we want to create more freedom in the teaching profession. We want to develop apprenticeship training nationwide into a dual teacher training program that closely interlinks theory and practice and places a stronger focus on digital and AI skills. A nationwide mobility guarantee is intended to make it easier for teachers to change federal states. At the same time, we want to modernize the curricula: We Free Democrats demand more space for economic and financial education, STEM topics, democracy and politics as well as media literacy. We are particularly committed to the nationwide introduction of the school subjects of economics and computer science."
-        },
+          "score": 0.4369020164012909,
+          "source": "BSW_Program_en.pdf",
+          "location": "16 / 45",
+          "content": "BSW: It must not remain the case that it is mainly low-income earners and the middle class that finance the welfare state. This could noticeably relieve the burden on employees and pensioners. Companies should invest their surplus capital primarily in their business models and innovation instead of driving up their own share price through share buybacks. By taxing share buybacks, we want to ensure that this practice is avoided. Debt interest and royalty payments to holding companies abroad are among the most important instruments for internationally active companies to shift profits to tax-advantaged foreign countries. These should therefore no longer be allowed to be deducted from trade income when calculating trade tax. They will only be deductible from capital gains tax if the recipient pays an acceptable minimum tax rate in his country of residence."
+        }
+      ],
+      "citations_count": 2
+    },
+    "fdp": {
+      "agreement": 60,
+      "explanation": "The FDP believes in reducing state interference, aligning with the idea of church tax due to its role in community funding while advocating for more oversight and efficiency.",
+      "citations": [
         {
-          "score": 0.33565083146095276,
-          "source": "FDP_Program_en.pdf",
-          "location": "7 / 52",
-          "content": "FDP: To combat the shortage of skilled workers, we want to fundamentally modernise pedagogical training, further education and training. By making educator training and further education generally free of school fees and remunerating them appropriately, as well as by increasing the training capacities of the federal states, we are enabling more people to have access to training. We are modularising training in order to raise the quality of training to a high uniform level nationwide. Modern and independent schools \u2013 better educational opportunities for all It is not only the poor PISA results that show that in times of rapid social change, a real paradigm shift in the education system is needed. We have taken the first big steps with the Startchancen programme. We have to build on that. A state-of-the-art educational federalism We can no longer afford the battle of competences between the federal and state governments. As a result, we miss out on creating the education system that our children deserve."
-        },
-        {
-          "score": 0.3406621217727661,
-          "source": "FDP_Program_en.pdf",
-          "location": "36 / 52",
-          "content": "FDP: The federal government should only subsidize tasks of the states in exceptional cases. A strong federalism needs clear competences and responsibilities. We therefore consider a new Financial Federalism Commission to be indispensable and will campaign for its establishment. If tasks between the federal government and the states are changed, this must also be underpinned by a change in the financing flows. An agile state for a modern country A federal government that sets a good example A lean and resource-saving state begins with the federal government. That is why we want to significantly reduce the number of Federal Government Commissioners and keep them permanently at a lower level with the help of a one-in, one-out principle. We also want to limit the number of state secretaries in the ministries and make the career regulations more flexible. The Federal Agency for Disruptive Innovations (SPRIND) should be a role model for the release of potential. With the SPRIND Freedom Act, we have created scope for innovation \u2013 for example, by dispensing with intermediate instances and an exception to the prohibition of preferential treatment in order to attract highly qualified specialists."
-        },
-        {
-          "score": 0.3680186867713928,
-          "source": "FDP_Program_en.pdf",
-          "location": "7 / 52",
-          "content": "FDP: We are in favour of compulsory grades from the third grade at the latest. We are committed to modern extracurricular learning venues \u2013 for example, so-called student labs, maker spaces and TUMO centres. We want to integrate AI-supported and adaptive learning methods into everyday school life by creating a campus for educational innovations analogous to the GovTech campus. This connects federal states and municipalities with innovative players in the tech scene and applied research. Renovation offensive and more autonomy for schools Not only does our education system need an update, but many of our schools are also in need of renovation. We Free Democrats therefore demand the renovation of school buildings in Germany. Through a Digital Pact 2."
-        },
-        {
-          "score": 0.3718380033969879,
-          "source": "FDP_Program_en.pdf",
-          "location": "35 / 52",
-          "content": "FDP: Modernizing the state with a federalism reform The federal structure and administration in Germany has proven its worth, but it needs an update that focuses on efficiency and citizen-friendliness. An agile state that shows that it can reform itself demonstrates its ability to act and strengthens citizens' trust in democratic institutions. A general inventory is the first necessary step for this. All federal responsibilities and administrative processes must be subjected to a critical review. Too many authorities at the federal and state level as well as in the municipalities overlap in the fulfilment of their tasks. The general inventory must be based on a clear political will to improve the efficiency and ability of the state to act, and must be concluded with a reform of federalism. For us, reforms in the financial and education sectors, internal security, civil protection and disaster control, migration and digitalisation are priorities. In the course of a federalism reform, tax revenue must also be distributed between the Federation and the L\u00e4nder in such a way that the now considerable co-financing of L\u00e4nder tasks by the Federation can also be provided by the Federation."
-        },
-        {
-          "score": 0.37650710344314575,
+          "score": 0.38544556498527527,
           "source": "FDP_Program_en.pdf",
           "location": "24 / 52",
           "content": "FDP: In addition, the federal and state governments must comply with the constitutional mandate to replace state benefits. We want to subject the Islamic associations to a critical examination."
         },
         {
-          "score": 0.38754382729530334,
+          "score": 0.43092840909957886,
           "source": "FDP_Program_en.pdf",
-          "location": "34 / 52",
-          "content": "FDP: We are cutting back subsidies for the few, but we are creating better location conditions for everyone. Where we really need a well-functioning state, it must be better equipped. Federalism must become simpler and the state leaner and more efficient. With clear responsibilities, we want to upgrade the interaction between the federal and state governments from an obstacle to a locational advantage. A lot has to change in Germany. The state is perhaps the biggest construction site. We have it in our hands to change that. Sound public finances We Free Democrats want to protect future generations from the burdens of excessive national debt. That is why we stand for responsible and future-oriented budgetary and financial policy. Our goal is a successful economy that grows and creates prosperity. Compliance with the debt brake is intergenerational justice Freedom for future generations also means not leaving them mountains of debt. Therefore, for us Free Democrats, compliance with the debt brake enshrined in the Basic Law central commandment of intergenerational justice. Otherwise, children are liable for their parents. This also applies to the federal states. Sustainable and prioritizing budgets create intergenerational justice because burdens are not passed on to future generations."
+          "location": "14 / 52",
+          "content": "FDP: We demand that the allowances be automatically increased by the inflation rate. This is the only way to ensure that the average tax burden on gifts and inheritances remains constant with rising prices. Gastronomic offerings must remain affordable. A reduced VAT rate for food in the catering industry applies in 23 EU member states and should also apply in Germany. A uniform VAT rate of 7 percent on food, whether on site or to take away, would not only benefit customers, but also employees in the catering industry. We Free Democrats want to simplify and reduce bureaucracy in the catalogue of sales at the reduced tax rate. The tourism industry is a central driver of economic growth, creates jobs, promotes international exchange and makes a significant contribution to regional development. A liberal tourism policy is not characterized by bans, but wants to preserve established tourist structures, enable new things and not let bureaucracy become a locational disadvantage. Competitive corporate taxes for a competitive economy Companies in Germany need more freedom, less state interference and a lower tax burden. We need internationally competitive corporate taxes. This is the only way we can achieve a real economic turnaround."
+        },
+        {
+          "score": 0.44394826889038086,
+          "source": "FDP_Program_en.pdf",
+          "location": "13 / 52",
+          "content": "FDP: In order to create additional incentives to work, we want to exempt bonuses for overtime from full-time work from income tax. In the future, the top tax rate may only be paid by people who really earn a top income and not by the middle of society. Specifically, we demand that the top tax rate be based on the current contribution assessment ceiling of the pension insurance in the future. This means that the top tax rate no longer applies from an annual income of a good 68,000 euros, but only from 96,600 euros. In addition, we want to abolish the solidarity surcharge completely. Because it has now developed into a punitive tax for small and medium-sized businesses. To ensure that the state does not become a beneficiary of inflation and the taxpayer does not become a victim of cold progression, we want to automatically adjust the allowances and benchmarks of income tax to the general price development (tariff on wheels). The allowances of inheritance tax and gift tax must also be automatically increased by the inflation rate. We reject any form of wealth tax or wealth levy. Families are the backbone of our society and need to be strengthened. In order to provide greater relief for families and single parents, we want to improve the tax deductibility of childcare costs and statutory maintenance payments."
+        }
+      ],
+      "citations_count": 3
+    },
+    "volt": {
+      "agreement": 60,
+      "explanation": "Volt supports a secular state but acknowledges the social role of religious organizations, suggesting a pragmatic approach to church tax collection.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "cdu": {
+      "agreement": 50,
+      "explanation": "The CDU acknowledges the cultural significance of churches but has a mixed stance on church tax collection, leaning towards support due to their contributions but also considering neutrality.",
+      "citations": [
+        {
+          "score": 0.42595040798187256,
+          "source": "CDU_Program_en.pdf",
+          "location": "58 / 82",
+          "content": "CDU: Clubs are places of cultural exchange. In the Building Use Ordinance, clubs should be recognised as places of culture in order to underline their social importance. In doing so, we pay particular attention to supporting the music industry as well as promoting cinema, film and games. Germany is deeply influenced by the Christian faith in terms of history, culture and values. The churches make an indispensable contribution to education, the common good and social cohesion. We are committed to the protection of Christian holidays and Sunday rest as well as to regulated cooperation between state and church. Religious education is indispensable. We are in favor of upgrading religion as a proper school subject. We appreciate it when religion contributes to social cohesion and provides orientation. The comprehensive protection of religious freedom and the protection of religious and ideological minorities is of particular concern to us. Our Basic Law guarantees freedom of religion. However, it is not a carte blanche to spread ideologies that are directed against other religions and our liberal legal system. Freedom of religion is and will continue to be the decisive acid test for liberal democracy, the rule of law, freedom of expression and conscience as well as all other universal human rights."
+        },
+        {
+          "score": 0.437946081161499,
+          "source": "CDU_Program_en.pdf",
+          "location": "4 / 82",
+          "content": "CDU: We reject a wealth tax. There will be no pension cuts with us. Those who voluntarily continue to work beyond the statutory retirement age receive their salary up to 2,000 euros per month tax-free. To this end, the state subsidises individual and funded private pension provision for all 6 to 18-year-olds with 10 euros per month. In this way, we build up a starting asset for early private retirement provision. Supporting our agriculture Farmers deserve recognition, respect and trust. We are providing relief through better framework conditions and planning security. We act. What matters most now: \u2022  We are reintroducing the agricultural diesel rebate in full. In this way, we relieve the burden on agricultural businesses. At the same time, the Common Agricultural Policy must be drastically simplified."
+        }
+      ],
+      "citations_count": 2
+    },
+    "gruene": {
+      "agreement": 50,
+      "explanation": "The Gr\u00fcnen party emphasizes participation and equality, which suggests a nuanced stance on church tax collection as part of a broader societal contribution.",
+      "citations": [
+        {
+          "score": 0.40226301550865173,
+          "source": "Gruene_Program_en.pdf",
+          "location": "104 / 160",
+          "content": "Gruene: Non-denominationals also contribute to the cohesion of society and are entitled to comprehensive consideration of their interests and equal participation. We want to further develop the existing constitutional law on religion in such a way that it does justice to our growing religious and ideological plurality."
+        },
+        {
+          "score": 0.43682438135147095,
+          "source": "Gruene_Program_en.pdf",
+          "location": "68 / 160",
+          "content": "Gruene: In addition, we want to end the apportionability of property tax so that it can no longer be passed on to tenants. About half of the people in our country live in rented accommodation and have to spend more and more money on it. We will extend the rent brake and tighten it by abolishing exceptions. We also want to apply the rent brake to apartments that are more than five years old. And we will close loopholes, for example when apartments are not offered at fair prices, but at overpriced prices as furnished apartments or holiday apartments. Rent indices are to be better qualified by extending the observation period. Municipalities should be able to provide evidence of tight housing markets on their own. We will enable a rent freeze in tense housing markets. Rent usury must be combated by strengthening Section 5 of the Economic Criminal Code in order to make it easier for tenants to provide evidence and thus to punish violations of the rent brake more strongly. Indexed rents are to be regulated by upper limits and renovations must be apportioned in a warm-rent-neutral manner. The letting of furnished apartments must be strictly regulated and the misappropriation of living space must be punished. In addition, we will counter rent increases by lowering the capping limits. Commercial tenants also need tenant protection."
+        },
+        {
+          "score": 0.43750491738319397,
+          "source": "Gruene_Program_en.pdf",
+          "location": "107 / 160",
+          "content": "Gruene: We want participation to become the rule for all people. Many financially weak municipalities that have undergone structural change are still sitting on high mountains of debt and are stuck in a vicious circle in the face of oppressive interest rates. In order to give them a perspective again, we are committed to a legacy debt fund financed by the federal and state governments. In doing so, we will also take into account the situation of the East German municipalities, which are challenged by legacy issues through no fault of their own. Tasks assigned to the municipalities, such as the provision of rescue services, the accommodation and integration of refugees or, for example, youth social work, must be taken over in full by the federal and state governments \u2013 as the costs for such mandatory public services of general interest increase, the financial resources for the municipalities must consequently also increase."
+        },
+        {
+          "score": 0.44206681847572327,
+          "source": "Gruene_Program_en.pdf",
+          "location": "107 / 160",
+          "content": "Gruene: This is also part of the German culture of remembrance. For municipalities that are capable of acting State benefits must function \u2013 from ambulance services to kindergartens. In the municipalities, it becomes immediately apparent whether the state is sufficiently fulfilling its tasks and providing citizens with reliable public infrastructure and social services. If this task succeeds, it will strengthen people's confidence in democracy. The strength of our country lies first and foremost in the municipalities, with the local people. For strong municipalities, many well-trained administrative employees are needed. In order to avert a shortage of skilled workers, modern structures and fair wages in the public sector are needed. Currently, every second municipality is no longer in a position to finance necessary projects. For the maintenance and renovation of municipal infrastructure alone, which includes roads, playgrounds, swimming pools, youth clubs, sports fields and cultural institutions, there is a shortfall of 186 billion euros nationwide. By providing more adequate funding for municipalities and the Germany Fund, we are finally giving municipalities the opportunity to finance these urgently needed investments. We want participation to become the rule for all people."
+        },
+        {
+          "score": 0.4455370008945465,
+          "source": "Gruene_Program_en.pdf",
+          "location": "73 / 160",
+          "content": "Gruene: As a further pillar, we therefore rely on income from local taxation of the profits of multinational corporations. We support the United Nations (UN) working out a fair basis for this. The VAT system is a patchwork of unjustified special rules and exceptions. Unfortunately, past governments' efforts to achieve overdue reform have not been successful. Even though we know that a holistic VAT reform is a very complex undertaking with many pitfalls, we want to make another attempt: through a revenue-neutral reform, we will simplify VAT, reduce bureaucracy and reduce false incentives. To this end, we will delete exceptions and special rules that have fallen out of time."
+        },
+        {
+          "score": 0.4463385343551636,
+          "source": "Gruene_Program_en.pdf",
+          "location": "111 / 160",
+          "content": "Gruene: We want to relieve their work of unnecessary bureaucracy. In addition, we are expanding the catalogue of charitable purposes. We will also make it clear in law that charitable purposes can also be pursued by participating in political and public decision-making and that organisations may occasionally express themselves politically outside of their charitable purpose. We want to recognize digital volunteering and the development, operation and maintenance of non-profit open source software as non-profit and provide institutional support. For sport that connects Sport is an outstanding pillar for social coexistence. Exercise and sport connect people, create and convey regional identities and contribute to health. Sport conveys basic values of democracy, tolerance and promotes integration. We support a German bid for the Olympic and Paralympic Games, because major sporting events must also have a future in the democratic countries of Europe. We want to show that human rights are an integral part of sports policy. We also want to take the sustainability goals into account by including existing sports facilities in the application and making new ones to be built usable for the public. Those who benefit financially from hosting the Olympic Games are to pay taxes on the proceeds and pay the usual municipal fees for events."
+        }
+      ],
+      "citations_count": 6
+    },
+    "linke": {
+      "agreement": 40,
+      "explanation": "The Linke party supports secularism and may view church tax collection skeptically, but they also recognize the role of religious communities in society.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "afd": {
+      "agreement": 20,
+      "explanation": "The AfD emphasizes the need for state neutrality in religious matters and does not support the continuation of church tax collection, viewing it as a state involvement in religious matters which they oppose.",
+      "citations": [
+        {
+          "score": 0.39369869232177734,
+          "source": "AFD_Program_en.pdf",
+          "location": "58 / 177",
+          "content": "AFD: The basic income tax allowance is to be increased to 15,000 euros, and the previous reference to social welfare regulations will be abandoned. The allowances are to be indexed in order to rule out secret tax increases in the future. These measures take into account the wage gap requirement and motivate people to participate in working life. We also consider the corresponding shift from further tariff benchmarks up to the top tax rate to be necessary. Abolish property tax and compensate for tax losses The collection of property tax, which benefits cities and municipalities, is extremely complicated and involves a very high administrative burden. The federal model is calculated according to the standard land values, which are often outdated, inaccurate or arbitrary. The property tax also violates the principle of equality, as it does not take into account the individual characteristics of the properties. Therefore, it will be abolished completely. The municipalities are fully compensated by a surcharge on income tax and corporation tax. This is based on the economic performance of the taxpayers. This also relieves tenants. Introduce family splitting According to Article 6 of the Basic Law, marriage and family are under the special protection of the state order."
+        },
+        {
+          "score": 0.41803741455078125,
+          "source": "AFD_Program_en.pdf",
+          "location": "58 / 177",
+          "content": "AFD: In 1957, the Federal Constitutional Court declared the additional tax burden on spouses to be incompatible with the Basic Law in application of this article."
+        },
+        {
+          "score": 0.42988359928131104,
+          "source": "AFD_Program_en.pdf",
+          "location": "173 / 177",
+          "content": "AFD: The AfD is committed to the cultural sovereignty of the federal states and wants to limit the cultural policy activities of the federal government. A balanced culture of remembrance and remembrance is central to the formation of identity in Germany. The memorials are adequately financed by the federal and state governments and retain their political independence. No VAT liability for musicians, artists and freelance educators Artists, musicians and freelance educators are often exposed to the most difficult financial conditions as freelancers. A VAT liability is not realistic to implement and pushes these people into illegal employment. We will exempt artistic and educational activities in the arts and culture sector from VAT up to a reasonable income limit. As educators, they are often employed on an hourly basis in precarious employment relationships at elementary schools or music schools. The possibility of social insurance, e. POLICY BASIC RADIO instead of GEZ compulsory fee With around 9 billion euros in licence fee revenue plus advertising revenue, German public broadcasting is not only the most expensive in the world, but it also has many times the financial and personnel resources of all private media as a whole."
+        },
+        {
+          "score": 0.4369797110557556,
+          "source": "AFD_Program_en.pdf",
+          "location": "54 / 177",
+          "content": "AFD: Less bureaucracy, more personal responsibility and a more efficient use of public funds are important prerequisites for a sustainable Germany. Despite the current high tax revenues, the constantly increasing consumption expenditure leaves less and less room for necessary investments. As a result, this leads to demands for tax increases and additional debt. We are committed to moving away from excessive taxation and in return for spending discipline in order to strengthen private households and our companies as well as to comply with the debt brake and reduce debt. We plan to simplify the complex German tax law. CONSOLIDATE THE FEDERAL BUDGET, END TAX WASTE, COMPLY WITH THE DEBT BRAKE Germany does not have a revenue problem, but an expenditure problem. Despite still high tax revenues, the federal government regularly fails to bring in a federal budget without further new debt. We must not continue to burden future generations with debts and interest. That is why we call for tax waste to be avoided. The main examples are the reduction of senseless expenditures owed to the alleged \"climate rescue\", as well as the termination of the financing of superfluous prestige projects, especially abroad."
+        },
+        {
+          "score": 0.4410712718963623,
+          "source": "AFD_Program_en.pdf",
+          "location": "59 / 177",
+          "content": "AFD: Families with children must not be treated worse than those without children. As one of the most important measures based on the wording of the Basic Law, we demand an extension of the spousal splitting to the family splitting. This would mean that the sum of the income earned by all family members would be divided by the number of family members. This will relieve the tax burden on families with children. In view of the birth rate in Germany, which is clearly too low, we are also creating an incentive for more children. The European Union does not have its own right to tax The right to levy taxes is considered one of the royal rights of national parliaments. According to the European treaties, the EU is not allowed to levy taxes. The budget is generally to be financed from own resources. According to the current legal situation, a partial transfer of tax legislation to the EU would require an amendment to the Basic Law, which is permanently prohibited under Article 79 (3) of the Basic Law (\"eternity clause\") because it restricts the budgetary sovereignty of the federal states. In addition, an encroachment on the sovereignty and democratic legitimacy of the Federal Republic of Germany would be the result, as it would have less room for manoeuvre over its own tax systems. The EU must therefore not be given its own right to levy taxes in the future."
+        },
+        {
+          "score": 0.4429301619529724,
+          "source": "AFD_Program_en.pdf",
+          "location": "55 / 177",
+          "content": "AFD: It states that the state level that initiates an expenditure must also provide the associated financing (\"He who orders, pays\"). In practice, this principle is not consistently adhered to, especially to the detriment of the municipalities, which leads to considerable financial burdens there. We demand strict adherence to the constitutionally regulated principle. Reduce donations to non-governmental organisations According to information from the Federal Government, more than 500 non-governmental organisations (NGOs) based or active in German are financially supported, both directly and indirectly, by companies that are majority-owned by the Federal Government. In the context of budget consolidation, we demand a detailed examination of these organizations and their projects, with the aim of saving unnecessary and ideology-based expenditures. Exposing the true costs of asylum policy The costs of asylum policy are spread over numerous individual plans at the federal, state and local levels in a way that is difficult to manage. Not all costs can be clearly quantified, as expenditure in the household is usually not assigned to a group of people. We call for a differentiated and transparent structure in such a way that the costs of immigration are shown as a separate item in the federal budget and, in particular, the principle of connection is adhered to here as well."
+        },
+        {
+          "score": 0.4462532699108124,
+          "source": "AFD_Program_en.pdf",
+          "location": "68 / 177",
+          "content": "AFD: We demand the preservation of freedom and independence from the state through tax and regulatory restraint on the part of politicians."
+        },
+        {
+          "score": 0.4483431577682495,
+          "source": "AFD_Program_en.pdf",
+          "location": "56 / 177",
+          "content": "AFD: Under no circumstances should it become an end in itself to demonstrate political actionism. In addition, the government, like all state agencies, is obliged to remain neutral in party politics according to the established case law of the Federal Constitutional Court. We therefore demand that the government's tax-financed public relations work be limited to important information that cannot already be obtained through the media or in any other way. GREATLY SIMPLIFY TAX LAW With over 30,000 regulations, German tax law is one of the most complicated in the world. Numerous individual case decisions by the tax courts are therefore necessary, but these in turn further complicate tax law. The collection of taxes is time-consuming and associated with considerable costs for those involved. This deters companies from setting up in Germany; many companies based here are relocating abroad. The AfD will simplify tax law by changing the income tax rate with a few levels. We will reduce tax rates, as well as the depreciation options for \"tax-saving models\". We will make corporate tax neutral in terms of legal form. These measures will make taxes clearer, and the collection of taxes will be easier, time-saving and cost-effective."
         }
       ],
       "citations_count": 8
-    },
-    "bsw": {
-      "agreement": 40,
-      "explanation": "The focus is on addressing educational inequality, but not necessarily advocating for more federal involvement in school policy.",
-      "citations": [
-        {
-          "score": 0.32604363560676575,
-          "source": "BSW_Program_en.pdf",
-          "location": "23 / 45",
-          "content": "BSW: More and more young people are leaving school without elementary knowledge. They hardly have a chance on the job market later on. Two-thirds of current recipients of citizen's allowance do not have a vocational qualification, and many do not have a school-leaving certificate either. We need a comprehensive renewal of education policy. This will contribute to the end of small-scale education. Different types of schools as a prerequisite for different later training paths make sense in principle, but social selection according to the parental home is not."
-        },
-        {
-          "score": 0.36110976338386536,
-          "source": "BSW_Program_en.pdf",
-          "location": "23 / 45",
-          "content": "BSW: The early decision in most federal states as early as the 4th grade is one of the reasons why parents' wishes and expectations often have more influence on the children's educational path than their talents and talents. Therefore, the school system must be permeable at all levels. We are committed to longer joint learning. Educational justice also means that educational opportunities must not depend on the parents' wallets. In order for basic school education to be effective, preparation for basic technical and social skills must begin in the daycare centre. Primary schools must once again focus on the core competencies of reading, writing and arithmetic. Studies also show that analogue learning materials are superior to digital ones when it comes to acquiring reading and spelling skills."
-        },
-        {
-          "score": 0.38303810358047485,
-          "source": "BSW_Program_en.pdf",
-          "location": "24 / 45",
-          "content": "BSW: The chronic underfunding of universities must be ended. It is imperative that the federal government participates in the basic funding of universities and in the construction of higher education institutions with investment funds. A BAf\u00f6G reform to adequately finance studies and a higher education social pact for good social infrastructure are urgently needed. Universities must once again become places of free thought and open discourse. Professors and university staff must have the opportunity to express themselves critically within the framework of freedom of expression, without fear of disciplinary proceedings or job loss. Academic freedom must be restored. Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
-        },
-        {
-          "score": 0.38777461647987366,
-          "source": "BSW_Program_en.pdf",
-          "location": "24 / 45",
-          "content": "BSW: Working conditions in all educational institutions urgently need to be improved. To this end, teachers must be relieved of non-specialist tasks by support teams (social work, school psychologists, IT management). Teacher training should include more practical elements. Dual forms of training that lead to a bachelor's/master's degree followed by a traineeship are conceivable. In the short term, the shortage of teachers can be combated by attractive working conditions for lateral entrants. In recent years, teachers have been increasingly burdened with additional tasks, such as IT management, school organization, and psychological counseling. The formation of support teams for everyday work at schools \u2013 social work, IT management, psychological support \u2013 can bring about a decisive improvement. The children and young people themselves must be able to perceive daycare centres and schools as safe havens again \u2013 without discrimination, bullying or racism \u2013 with dignity and recognition. Education does not end in adulthood. Adult education centres must be financially strengthened. The chronic underfunding of universities must be ended."
-        }
-      ],
-      "citations_count": 4
-    },
-    "linke": {
-      "agreement": 30,
-      "explanation": "Generally favoring expanded public services, but more focused on financing and access rather than federal governance in education.",
-      "citations": [
-        {
-          "score": 0.38645654916763306,
-          "source": "Linke_Program_en.pdf",
-          "location": "43 / 60",
-          "content": "Linke: Costs caused by the federal government or the states must also be financed by them (connection)."
-        }
-      ],
-      "citations_count": 1
-    },
-    "afd": {
-      "agreement": 25,
-      "explanation": "The party values sovereignty and opposes expanded federal control over school policy, emphasizing local governance and individual responsibility.",
-      "citations": [
-        {
-          "score": 0.38505202531814575,
-          "source": "AFD_Program_en.pdf",
-          "location": "131 / 177",
-          "content": "AFD: The sovereign should have the right to amend or reject laws passed by parliament and thus force our representatives of the people to work diligently to decide on amendments to the Basic Law and important international treaties and, in compliance with the limits of Article 79. Fundamental right of freedom of expression \u2013 no censorship in public debate Any censorship of expressions of opinion constitutes an attack on the fundamental right of freedom of expression. A supremacy in social media and education must not be used to unilaterally influence the political decision-making process. As quasi-oligopolies, the major providers of social media are to be obliged to respect the freedom of expression of their users. The Internet must be preserved as a place of freedom of expression. We will immediately abolish government censorship regulations and state-imposed agreements with private companies that carry out censorship measures. Self-proclaimed \"fact-checkers\" and opinion watchdogs must not receive state funding. We reject the Federal Government's increasing control and prohibition policy in the area of media and social networks. In particular, there must be no censorship by state-commissioned professional denunciators."
-        }
-      ],
-      "citations_count": 1
     }
   }
 }

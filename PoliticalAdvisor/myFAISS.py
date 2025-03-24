@@ -332,6 +332,14 @@ def build_graph_en(vector_store):
         retrieved_docs = []
         logger.info(f'vector store in memory with: {type(vector_store)}')
         logger.info(f'question posed: {state['question']}')
+
+        # After loading FAISS
+        logger.info(f"FAISS index dimension: {vector_store.index.d}")
+
+        # After embedding query
+        query_vector = vector_store.embedding_function.embed_query(state['question'])
+        logger.info(f"Query vector length: {len(query_vector)}")
+
         try:
             results = vector_store.similarity_search_with_score(state['question'], k=30)
             logger.info(f"Similarity search returned {len(results)} results")
