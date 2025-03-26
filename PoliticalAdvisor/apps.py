@@ -1,4 +1,3 @@
-
 from django.apps import AppConfig
 from django.conf import settings
 import logging
@@ -22,20 +21,10 @@ class PoliticaladvisorConfig(AppConfig):
             return
         self.initialized = True
 
-        from .myFAISS import build_faiss_programs, load_faiss, build_graph
-        from .myFAISS import build_graph_en
+        from .pinecone_rag import build_vector_store, build_graph, build_graph_en
+        from .vector_store import init_pinecone, delete_all
 
-        # Get the current working directory for debugging
-        # Rework to only include local directory indexes
-        # In terms of logic, we need two directories locally
-        # We need to mimick those in spaces as well, but then also know the individual file names
-        faiss_dir_de = 'faiss_index'
-        faiss_dir_en = 'faiss_index_en'
-
-        faiss_dir_path_de = os.path.join(settings.VECTOR_STORAGES_URL, faiss_dir_de)
-        faiss_dir_path_en = os.path.join(settings.VECTOR_STORAGES_URL, faiss_dir_en)
-
-        rebuild_faiss_index = os.environ.get("REBUILD_FAISS_INDEX", default=True)
+        rebuild_index = os.environ.get("REBUILD_INDEX", default=True)
 
         # Define party programs
         pdf_list = [
@@ -58,26 +47,43 @@ class PoliticaladvisorConfig(AppConfig):
             'Volt_Program_en.pdf',
             'SPD_Program_en.pdf'
         ]
-        if rebuild_faiss_index == 'True':
-            logger.info("Rebuilding FAISS indexes")
-            build_faiss_programs(faiss_dir_path_de, 'politicaladvisor', faiss_dir_de, pdf_list)
-            build_faiss_programs(faiss_dir_path_en, 'politicaladvisor', faiss_dir_en, pdf_list_en)
-        else:
-            logger.info('Skipped building of FAISS index')
 
-        # Store FAISS as class attributes
-        self.global_vector_store = load_faiss(faiss_dir_path_de, 'politicaladvisor', faiss_dir_de)
-        logger.info('Loaded DE vector store in memory')
+        if rebuild_index == 'True':
+            logger.info("Building vector stores")
+
+            # Initialize vector stores first
+            temp_vector_store = init_pinecone()
+
+            # Delete all existing vectors before rebuilding
+            try:
+                logger.info(
+                    "Deleting all existing vectors from Pinecone index")
+                delete_all(temp_vector_store)
+                logger.info(
+                    "Successfully deleted all vectors from Pinecone index")
+            except Exception as e:
+                logger.error(f"Error deleting vectors from Pinecone: {e}")
+                logger.info(
+                    "Continuing with index rebuild despite deletion error")
+
+            # Now build the vector stores
+            self.global_vector_store = build_vector_store(pdf_list)
+            logger.info('Built DE vector store')
+            self.global_vector_store_en = build_vector_store(pdf_list_en)
+            logger.info('Built EN vector store')
+        else:
+            logger.info('Skipped building of vector stores')
+            from .vector_store import init_pinecone
+            self.global_vector_store = init_pinecone()
+            logger.info('Loaded DE vector store')
+            self.global_vector_store_en = init_pinecone()
+            logger.info('Loaded EN vector store')
 
         self.global_graph = build_graph(self.global_vector_store)
-        logger.info('Loaded DE graph in memory')
-
-        self.global_vector_store_en = load_faiss(faiss_dir_path_en, 'politicaladvisor', faiss_dir_en)
-        logger.info('Loaded EN vector store in memory')
+        logger.info('Built DE graph')
 
         self.global_graph_en = build_graph_en(self.global_vector_store_en)
-        logger.info('Loaded EN graph in memory')
+        logger.info('Built EN graph')
 
-        logger.info("FAISS index loaded")
-        logger.info(f"FAISS Ready function called (PID: {os.getpid()})")
-
+        logger.info("Vector stores ready")
+        logger.info(f"Ready function called (PID: {os.getpid()})")

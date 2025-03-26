@@ -9,3 +9,5 @@ __pycache__/
 app-env1/
 logs/
 media/
+advi2/
+response.json
