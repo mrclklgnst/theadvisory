@@ -1,109 +1,128 @@
 {
   "answer": {
-    "linke": {
-      "agreement": 90,
-      "explanation": "The Left Party strongly opposes right-wing extremism and anti-fascism, indicating a high likelihood of supporting projects against right-wing extremism.",
+    "bsw": {
+      "agreement": 100,
+      "explanation": "BSW explicitly states that they want to bring necessary dentures back into the catalogue of benefits of statutory health insurance.",
       "citations": [
         {
-          "score": 0.531531453,
-          "source": "Linke_Program_en.pdf",
-          "location": "47.0 / 60.0",
-          "content": "LINKE: We oppose anti-Semitism, anti-feminism and racism in any form and no matter where it comes from Anti-fascism means putting the radical right in its place at all levels and by all democratic means and fighting the conditions that made the shift to the right possible in the first place and continue to promote it. The Left Party defends freedom of expression, freedom of the press and freedom of science This includes the protection of whistleblowers!"
-        }
-      ],
-      "citations_count": 1
-    },
-    "gruene": {
-      "agreement": 90,
-      "explanation": "The Greens specifically focus on right-wing extremism and advocate for legal adjustments to combat it, indicating strong support for projects against right-wing extremism.",
-      "citations": [
-        {
-          "score": 0.573316038,
-          "source": "Gruene_Program_en.pdf",
-          "location": "136.0 / 160.0",
-          "content": "GRUENE: To this end, we are focusing in particular on the right-wing extremist scene. We advocate that a prejudice motivation be consistently taken into account in criminal offences and that it be examined whether legal adjustments are necessary for this purpose. We will counter the new and complex dangers by investing in our internal security."
+          "score": 0.535359323,
+          "source": "BSW_Program_en.pdf",
+          "location": "26.0 / 45.0",
+          "content": "BSW: Every year, citizens pay more than five billion euros out of their own pockets for dental treatments. We want to bring necessary dentures and visual aids back into the catalogue of benefits of statutory health insurance. People's smiles must not depend on their wallets!"
         },
         {
-          "score": 0.513341606,
-          "source": "Gruene_Program_en.pdf",
-          "location": "135.0 / 160.0",
-          "content": "GRUENE: The greatest danger to our democracy continues to come from right-wing extremism. This assessment is also shared by the Federal Office for the Protection of the Constitution (BfV). This is also reflected in the record number of right-wing extremist crimes detected."
+          "score": 0.474249,
+          "source": "BSW_Program_en.pdf",
+          "location": "25.0 / 45.0",
+          "content": "BSW: These false incentives must be overcome. Health care is based on human contact. Medical confidentiality is therefore a basic prerequisite for creating trust in care."
         }
       ],
       "citations_count": 2
     },
-    "spd": {
-      "agreement": 80,
-      "explanation": "The SPD focuses on uncovering and preventing right-wing extremist structures and improving democratic participation, suggesting strong support for projects against right-wing extremism.",
+    "linke": {
+      "agreement": 100,
+      "explanation": "LINKE supports covering all medically useful services, including dentures, under solidarity-based health insurance.",
       "citations": [
         {
-          "score": 0.578371346,
-          "source": "SPD_Program_en.pdf",
-          "location": "41.0 / 68.0",
-          "content": "SPD: We ensure that the financial sources of right-wing extremist networks are exposed and dried up. We want the structures of right-wing extremist groups to be consistently uncovered and prevented. To this end, we are checking whether the current powers of the security authorities are sufficient."
+          "score": 0.483537436,
+          "source": "Linke_Program_en.pdf",
+          "location": "17.0 / 60.0",
+          "content": "LINKE: Our solidarity-based health insurance is to cover all medically useful services such as dentures, glasses and ibuprofen on an evidence-based basis \u2013 but we can save ourselves proven useless services \u2022  Our solidarity-based comprehensive care insurance is intended to cover all care services: People with care needs and their families often pay more than 3,000 euros a month for a place in a nursing home \u2013 this would then be omitted: No care service may be refused for cost reasons!"
         },
         {
-          "score": 0.505028665,
+          "score": 0.43426773,
+          "source": "Linke_Program_en.pdf",
+          "location": "17.0 / 60.0",
+          "content": "LINKE: We are committed to solidarity-based health and long-term care insurance Everyone pays, contributions are levied on all incomes, everyone is well cared for The contribution assessment ceiling is abolished Contributions must also be paid for income from capital gains and other types of income Privately insured persons are transferred to statutory health insurance As a result, the contribution for health insurance will fall from the current 17. For all people with a monthly income of less than 7,100 euros (gross), contributions will decrease."
+        }
+      ],
+      "citations_count": 2
+    },
+    "gruene": {
+      "agreement": 80,
+      "explanation": "GRUENE supports a citizens' insurance that includes all insured persons, suggesting a broader coverage, but does not explicitly mention dental treatments.",
+      "citations": [
+        {
+          "score": 0.464576811,
+          "source": "Gruene_Program_en.pdf",
+          "location": "92.0 / 160.0",
+          "content": "GRUENE: We are committed to financing the health and care of our society that is more reliable and equitable than the status quo. The basis for this is a fair participation of all insured persons in the financing. Our goal is citizens' insurance, which includes not only those with statutory health insurance but also the privately insured in the solidarity-based financial equalization of the health care system 93 ."
+        }
+      ],
+      "citations_count": 1
+    },
+    "spd": {
+      "agreement": 80,
+      "explanation": "SPD supports equal access to high-quality care and a solidarity-based system, suggesting broader coverage, but does not explicitly mention dental treatments.",
+      "citations": [
+        {
+          "score": 0.493498057,
           "source": "SPD_Program_en.pdf",
-          "location": "40.0 / 68.0",
-          "content": "SPD: Because we know how dangerous it can be for a society. We make an offer to people who doubt democracy out of uncertainty or frustration and turn away: We want to improve the democratic participation of our country through better citizen participation and comprehensible decisions and regain lost trust. In the fight against extremism, we focus first and foremost on prevention in order to combat extremist tendencies and hostility to democracy at an early stage."
+          "location": "27.0 / 68.0",
+          "content": "SPD: We want a health system in our country in which everyone has equal access to the same quality and which does not overwhelm anyone financially. The health of everyone is an indicator of how a country makes policy. Our goal is a fair health care system that ensures fast and high-quality care regardless of crises without overburdening people financially."
+        },
+        {
+          "score": 0.455395073,
+          "source": "SPD_Program_en.pdf",
+          "location": "27.0 / 68.0",
+          "content": "SPD: We reject any deterioration in services for patients. We rely on a solidarity-based system of citizens' insurance that gives all people equal access to health services of the same quality. For federal civil servants, we are creating a real right to choose statutory health insurance through a lump-sum subsidy."
+        }
+      ],
+      "citations_count": 2
+    },
+    "volt": {
+      "agreement": 80,
+      "explanation": "VOLT supports a solidarity-based health system that ensures better care, suggesting broader coverage, but does not explicitly mention dental treatments.",
+      "citations": [
+        {
+          "score": 0.433732778,
+          "source": "Volt_Program_en.pdf",
+          "location": "122.0 / 164.0",
+          "content": "VOLT: HEALTH INSURANCE REFORM \u2013 NEW, SOLIDARITY-BASED AND EFFICIENT A solidarity-based health system that is fairer and more efficient ensures better care and lower administrative costs. We all benefit from fair financing, greater co-determination and sustainable health services. That's why Volt is committed to this future: \u2022  Common European health insurance: a common health insurance scheme is created for all, including civil servants and the self-employed -  initially at national level, and in the long term at European level."
+        },
+        {
+          "score": 0.420048267,
+          "source": "Volt_Program_en.pdf",
+          "location": "123.0 / 164.0",
+          "content": "VOLT: Evidence-based services: Non-evidence-based services such as homeopathy are excluded from statutory health insurance financing. Needs-based care: Oversupply through commercial incentives or undersupply due to shortage of appointments is combated."
+        }
+      ],
+      "citations_count": 2
+    },
+    "afd": {
+      "agreement": 0,
+      "explanation": "AFD does not mention any specific support for covering all dental treatments under statutory health insurance.",
+      "citations": [
+        {
+          "score": 0.563223541,
+          "source": "AFD_Program_en.pdf",
+          "location": "32.0 / 177.0",
+          "content": "AFD: We want every citizen to be able to decide for themselves who they want to be treated by and reject the abolition of the alternative practitioner profession."
+        },
+        {
+          "score": 0.469898552,
+          "source": "AFD_Program_en.pdf",
+          "location": "21.0 / 177.0",
+          "content": "AFD: from the federal budget in the future. Another starting point for reducing health insurance contributions is the exorbitantly high administrative costs, which we want to massively reduce by merging he..."
         }
       ],
       "citations_count": 2
     },
     "cdu": {
-      "agreement": 70,
-      "explanation": "The CDU advocates for fighting all forms of extremism and has clear rules for cooperation with Muslim actors, suggesting a moderate agreement with supporting projects against right-wing extremism.",
-      "citations": [
-        {
-          "score": 0.597162068,
-          "source": "CDU_Program_en.pdf",
-          "location": "6.0 / 82.0",
-          "content": "CDU: We are countering the increasing extremist threats with a 360-degree view. We fight every form of extremism, violence and terror with full force. We act."
-        },
-        {
-          "score": 0.572093129,
-          "source": "CDU_Program_en.pdf",
-          "location": "44.0 / 82.0",
-          "content": "CDU: Clear rules in cooperation with Muslim actors. We exclude clubs and associations that or their members are observed by the Office for the Protection of the Constitution from state cooperation and funding. All institutions that want to receive money from the state must commit themselves to the free democratic basic order and issue a declaration against anti-Semitism."
-        }
-      ],
-      "citations_count": 2
+      "agreement": 0,
+      "explanation": "No information is provided about CDU's position on covering all dental treatments under statutory health insurance.",
+      "citations": [],
+      "citations_count": 0
     },
     "fdp": {
-      "agreement": 60,
-      "explanation": "The FDP rejects all forms of extremism and emphasizes the protection of vulnerable groups, suggesting a moderate agreement with supporting projects against right-wing extremism.",
+      "agreement": 0,
+      "explanation": "FDP does not mention any specific support for covering all dental treatments under statutory health insurance.",
       "citations": [
         {
-          "score": 0.500191867,
+          "score": 0.438478678,
           "source": "FDP_Program_en.pdf",
-          "location": "25.0 / 52.0",
-          "content": "FDP: Fighting extremism from the middle of society We Free Democrats strictly reject any form of political and religious extremism. The security authorities must take better care of the protection of particularly vulnerable groups and their facilities. Scientific expertise in the security authorities in combating various forms of extremism must be expanded."
-        }
-      ],
-      "citations_count": 1
-    },
-    "bsw": {
-      "agreement": 50,
-      "explanation": "No specific context provided for BSW, so a neutral stance is assumed.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "volt": {
-      "agreement": 50,
-      "explanation": "No specific context provided for Volt, so a neutral stance is assumed.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "afd": {
-      "agreement": 10,
-      "explanation": "The AfD emphasizes the fight against left-wing extremism and considers the focus on right-wing extremism to be neglected, suggesting they would not strongly support projects specifically against right-wing extremism.",
-      "citations": [
-        {
-          "score": 0.510947645,
-          "source": "AFD_Program_en.pdf",
-          "location": "120.0 / 177.0",
-          "content": "AFD: This applies to right-wing extremism as well as left-wing extremism as well as religious \u2013 mostly Islamist \u2013 extremism. The fight against left-wing extremism, which repeatedly spreads sheer violence, fear and terror, is currently criminally neglected by the state. The AfD will end this grievance."
+          "location": "32.0 / 52.0",
+          "content": "FDP: We are committed to the dual system of statutory (GKV) and private (PKV) health insurance. Therefore, we reject a single health insurance fund (so-called citizens' insurance). In both insurance systems, we want to strengthen the freedom of change and freedom of choice for the insured."
         }
       ],
       "citations_count": 1
