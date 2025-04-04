@@ -1,210 +1,185 @@
 {
   "answer": {
     "afd": {
-      "agreement": 100,
-      "explanation": "AFD supports the use of video surveillance in public transport to combat crime and ensure safety.",
+      "agreement": 0,
+      "explanation": "AFD wants to abolish property tax and compensate for tax losses, relieving tenants.",
       "citations": [
         {
-          "score": 0.4916035234928131,
+          "score": 0.4630698561668396,
           "source": "AFD_Program_en.pdf",
-          "location": "47 / 177",
-          "content": "AFD: Companies and government institutions use these technical possibilities to research the lives of citizens and consumers down to the last detail."
+          "location": "58 / 177",
+          "content": "AFD: The basic income tax allowance is to be increased to 15,000 euros, and the previous reference to social welfare regulations will be abandoned. The allowances are to be indexed in order to rule out secret tax increases in the future. These measures take into account the wage gap requirement and motivate people to participate in working life. We also consider the corresponding shift from further tariff benchmarks up to the top tax rate to be necessary. Abolish property tax and compensate for tax losses The collection of property tax, which benefits cities and municipalities, is extremely complicated and involves a very high administrative burden. The federal model is calculated according to the standard land values, which are often outdated, inaccurate or arbitrary. The property tax also violates the principle of equality, as it does not take into account the individual characteristics of the properties. Therefore, it will be abolished completely. The municipalities are fully compensated by a surcharge on income tax and corporation tax. This is based on the economic performance of the taxpayers. This also relieves tenants. Introduce family splitting According to Article 6 of the Basic Law, marriage and family are under the special protection of the state order."
         },
         {
-          "score": 0.51377272605896,
+          "score": 0.511160135269165,
           "source": "AFD_Program_en.pdf",
-          "location": "48 / 177",
-          "content": "AFD: This allows detailed usage and movement profiles to be created. Even the knowledge of the recording and merging of such data influences the behavior of citizens. We demand the restriction of location and device monitoring to the minimum necessary level, as well as the mandatory possibility of switching off by the user. Furthermore, we demand complete transparency with regard to the monitoring possibilities for the user. We are expressly committed to the abolition of the mandatory speed warning system (Intelligent Speed Assistance), as it patronizes the driver. Fight against disinformation Critical and supposedly disturbing opinions, as long as they do not cross the line into criminal liability, are part of the constitutionally guaranteed right of every citizen of our country. The expression of free opinion in the media of any kind also represents a possibility for the citizen to control the state. Freedom of expression also includes the right to make mistakes. Recently, however, attempts have been made by public and \"non-state\" actors to restrict freedom of expression by directly banning or delegitimizing critical opinions. More and more public and non-state actors, so-called \"NGOs\", such as \"Faktenchecker\" or \"Correctiv\", are being used for disinformation campaigns through state commissioning and financing. As an example, the campaigns for the Corona vaccination should be remembered here."
-        }
-      ],
-      "citations_count": 2
-    },
-    "cdu": {
-      "agreement": 100,
-      "explanation": "CDU supports the use of video surveillance in public transport to better protect women, the elderly, children, people with disabilities and other particularly vulnerable groups.",
-      "citations": [
-        {
-          "score": 0.41486048698425293,
-          "source": "CDU_Program_en.pdf",
-          "location": "38 / 82",
-          "content": "CDU: We are tightening criminal law in order to better protect women, the elderly, children, people with disabilities and other particularly vulnerable groups. We are increasing the maximum penalty for stalking. We will punish bodily injuries, especially if they are committed with a knife, and group rape much more severely. We do not leave the victims of domestic violence, especially women and children, alone. Your protection is a priority for us. We are therefore developing a security concept and strengthening the women's shelters. We are increasingly using electronic ankle bracelets so that perpetrators of violence against women keep their distance from their former partners. We ensure that where children are cared for, there are binding and standardised protection concepts across the board. In terms of access rights, the following should apply: If a parent inflicts violence on the child, the child must be excluded from care. There is still exploitation, violence and abuse. Human trafficking, forced prostitution and clan crime are a great evil and must be fought."
-        },
-        {
-          "score": 0.49282220005989075,
-          "source": "CDU_Program_en.pdf",
-          "location": "39 / 82",
-          "content": "CDU: The protection of the population and the security interests of our state must take precedence over the data protection interests of the individual. No one who violates our laws should be given false protection by the anonymity of the Internet. In the fight against serious crimes, such as sexual violence against children, or to prevent terrorist attacks, we oblige Internet service providers to store IP addresses and port numbers for a minimum period of time. We give our security authorities the widest possible authority to use electronic facial recognition and allow them to use modern software to analyse large amounts of data, police databases and social networks. We are creating digital powers such as source telecommunications surveillance, online searches and automatic data analysis using AI for all federal security agencies. We are expanding the possibility of monitoring telecommunications and evaluating radio cells. This is especially true for crimes such as burglary and grandchild tricks, which cut deeply into the victims' sense of security. We need better staffing of our courts, competitive salaries, a boost in digitalisation and faster court proceedings."
-        },
-        {
-          "score": 0.5066399574279785,
-          "source": "CDU_Program_en.pdf",
-          "location": "39 / 82",
-          "content": "CDU: We need better staffing of our courts, competitive salaries, a boost in digitalisation and faster court proceedings. The punishment must follow the deed on the heels. Relieving staff is mainly possible with the help of technical processes and the support of AI. Appreciation for security authorities and emergency services We stand firmly by the side of our security authorities, customs and our emergency services in the police, fire brigade, technical relief agency, aid organisations, rescue services and the Bundeswehr. They deserve support, support and appreciation. Attacks on those who protect us will be punished more harshly. We also include health professionals in this protection. Police officers must be well equipped so that they can protect us and themselves well. We ensure this, for example by equipping the entire area with distance electric impulse devices (TA-SER) and the use of bodycams \u2013 even for operations in living spaces. Where there are allegations against them, they must be clarified by public prosecutors and courts. We are abolishing special investigators, such as the federal police commissioner set up by the traffic light. We reject the introduction of mandatory identification for federal police officers."
-        },
-        {
-          "score": 0.5118055939674377,
-          "source": "CDU_Program_en.pdf",
-          "location": "37 / 82",
-          "content": "CDU: Zero-tolerance strategy We have a zero-tolerance strategy in the fight against crime. Anyone who does not comply with the law must be punished immediately. Everyone must be able to move freely in everyday life, on the way to work and in their free time without fear. We oppose the neglect of public space, because it is often the starting point for crime."
-        },
-        {
-          "score": 0.5152328014373779,
-          "source": "CDU_Program_en.pdf",
-          "location": "73 / 82",
-          "content": "CDU: It is important to have local public transport that is needs-based and future-proof. This also includes a reliable and robust infrastructure as well as an attractive range of urban and rural services. We want to create new transparency in the financing of public transport and ensure adequate financing. To this end, we are streamlining the company and repositioning it. For more competition, the infrastructure and transport sectors must be separated more closely than before. The federal government provides the main financing for maintenance, expansion and modernisation. We are paying particular attention to the expansion of cross-border infrastructure, for example in the direction of Poland. We are reducing the excessive burden of CO2 pricing and CO2 surcharges in the transport industry. We ensure lasting financial stability that is independent of fluctuating budgetary resources. In addition, we need to mobilize more capital in the short term to solve the investment backlog. To this end, we rely on strong incentives for private investors."
-        }
-      ],
-      "citations_count": 5
-    },
-    "spd": {
-      "agreement": 100,
-      "explanation": "SPD does not explicitly mention video surveillance in public transport but supports the creation of a modern Federal Police Act that gives the Federal Police clear powers to effectively meet today's security policy challenges.",
-      "citations": [
-        {
-          "score": 0.4742283821105957,
-          "source": "SPD_Program_en.pdf",
-          "location": "34 / 68",
-          "content": "SPD: This will make local public transport affordable for the breadth of society. Together with the states and municipalities, we will strengthen the financing of local public transport in the long term. The federal government's regionalisation funds are important for this. We will legally stipulate the mandatory takeover of staff for all employees in the event of a change of operator in local and regional transport. We will also enforce the obligation to comply with collective bargaining agreements in procurement procedures. In metropolitan areas, public transport is to be given priority wherever possible. Even those who cannot or do not want to drive a car must be able to be mobile. This requires good accessibility and good bus and train frequencies, both in the countryside and in the city. More for you. Better for Germany."
-        },
-        {
-          "score": 0.5020134449005127,
-          "source": "SPD_Program_en.pdf",
-          "location": "42 / 68",
-          "content": "SPD: We are creating a modern Federal Police Act that gives the Federal Police clear powers to effectively meet today's security policy challenges. We want police officers to receive respect and recognition for their indispensable services to our society. Attacks on them, as well as on rescue workers and helpers, must be consistently punished and punished more severely. In addition, we want to quickly increase the protection of emergency services through improved technical equipment, training and a superior force approach in threatening situations. We must stand by the people who risk their lives every day for our safety. In order to better ensure that no one is harmed when fireworks are set off, we are examining the expansion of the legal options for municipalities to be able to act in a more targeted manner on the ground. In addition, we will launch an initiative with the L\u00e4nder to harmonise the federal differences in the area of police and assembly law. At the same time, the riot police of the states and the federal government are to be strengthened so that the fundamental right to assembly can be protected everywhere. We fight organized crime effectively and sustainably. To this end, we are modernising the definition of organised crime and strengthening our security authorities. We also want to focus on organized white-collar crime and take better account of network-like structures."
+          "location": "37 / 177",
+          "content": "AFD: Turn tenants into owners Property is freedom, protects against poverty in old age and against rent increases. We want to remove barriers to conversion. Tenants are to be supported in the purchase of owner-occupied residential property, e. To promote ownership, we will create a framework in which tenants can purchase their apartments from public housing companies on preferential terms. Housing cooperatives are to be given preference in the allocation of public land. Promoting locals When allocating residential building plots and housing, locals are to be given preference according to the local model. More housing benefit instead of social housing The previous social housing construction has failed, it can only reach a fraction of the eligible. It leads to incorrect receipts and causes high costs for the taxpayer. It is better to provide more housing benefit to low-income tenants, which ensures social mix. If the housing benefit is not sufficient to secure an apartment, citizens must also be paid a municipal housing benefit."
         }
       ],
       "citations_count": 2
     },
     "bsw": {
-      "agreement": 75,
-      "explanation": "BSW agrees with the use of video surveillance in public transport, but emphasizes the importance of clear authorisation bases and boundaries for the use of such technologies.",
+      "agreement": 0,
+      "explanation": "BSW wants to end the apportionability of property tax so that it can no longer be passed on to tenants.",
       "citations": [
         {
-          "score": 0.43700331449508667,
+          "score": 0.4556480944156647,
           "source": "BSW_Program_en.pdf",
-          "location": "33 / 45",
-          "content": "BSW: Safe streets and squares: For a well-equipped police force More and more people no longer feel safe in public spaces. We are committed to ensuring that the police are staffed and equipped in such a way that they can provide security from crime. Not least for the effective fight against clan crime, the police Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
+          "location": "16 / 45",
+          "content": "BSW: Another loophole for the wealthy that urgently needs to be closed is the tax exemption of increases in the value of real estate with a holding period of ten years or more. We want this privilege to be limited to owner-occupied housing. By means of so-called \"share deals\", institutional investors can avoid real estate transfer tax when selling a property. We also want to close this loophole, which has been known for a long time. We demand a moratorium on burdens for normal homeowners and tenants. Currently, the higher the inheritance, the lower the effective tax rate. This is neither fair nor reasonable, because it means that an inherited single-family home is subject to higher taxes than an inherited business empire worth hundreds of millions of euros. We want to change this and tax all inherited assets above the exemption amounts equally."
         },
         {
-          "score": 0.4569743573665619,
+          "score": 0.49529924988746643,
           "source": "BSW_Program_en.pdf",
-          "location": "34 / 45",
-          "content": "BSW: This requires sufficient staff. It is an untenable state of affairs that in some cities the police can no longer really support victims of crime due to an acute shortage of personnel, and even serious crimes are no longer prosecuted. We want to change that. We oppose the privatization of security tasks. Security belongs in the professional hands of the police. Police officers, firefighters, rescue and disaster relief workers, doctors and health professionals as well as countless volunteers stand up for people's lives and rights every day. When it comes down to it, they must protect our lives. For this commitment and their passionate commitment, these everyday heroes need our support. Our police must be put in a position to put a stop to criminals, terrorists and extremists more effectively. We demand that the police be solidly equipped with modern resources and IT \u2013 especially with regard to current challenges such as cybercrime and terrorism. In doing so, we rely on excellent training and further education in academies and training centres."
+          "location": "27 / 45",
+          "content": "BSW: This goal was missed by miles. The number of building permits has recently continued to plummet. The number of social housing units has reached a low of around one million. In 1990, there were almost three times as many. Every year, significantly more apartments fall out of the social bond than new ones are built. In view of high interest rates and construction costs as well as increasing financial burdens on broad sections of the population and municipalities, it is high time for a trend reversal in new residential construction. Non-profit housing construction must be strengthened. Larger parts of the housing market must again be subject to the rules of non-profit status, non-profit and municipal housing companies should receive low-interest loans and launch a large housing construction program. Where social housing is built, the social commitment must apply permanently. Tenants have to spend more and more on housing, especially in metropolitan areas and university towns. Instead of increasing housing benefit, which ultimately only benefits property owners, the state should cap rents and invest in the construction of new rental apartments \u2013 with a clear focus on the low-cost segment."
         },
         {
-          "score": 0.493521124124527,
+          "score": 0.49636316299438477,
           "source": "BSW_Program_en.pdf",
-          "location": "34 / 45",
-          "content": "BSW: It is important that all powers give the safety authorities exactly the tools they need to perform their tasks and must always have clear and unambiguous boundaries. Authorisation bases with a particularly high level of interference \u2013 such as the AI-based evaluation of inventory data or automated data comparison \u2013 are only necessary where our society needs to be protected from extreme, terrorist or other serious crimes. House searches for insulting politicians or scouring the Internet for possible insults are certainly not among the tasks that our police and investigative authorities should deal with. Politicians who employ entire public prosecutors' offices to prosecute their critics for harmless postings on social media are diverting capacities that are needed for more important things. While l\u00e8se-majest\u00e9 against foreign heads of government has no longer been punishable since 2017, the Bundestag added the offence of insulting a \"person standing in the political life of the people\" to the Criminal Code in 2021. However, it is precisely politicians who occupy positions of power and whose decisions often have direct consequences for people's lives and prosperity that have to face criticism from citizens in a free democratic state governed by the rule of law."
-        },
-        {
-          "score": 0.5173436403274536,
-          "source": "BSW_Program_en.pdf",
-          "location": "42 / 45",
-          "content": "BSW: Tracking by means of cookies or other methods should be avoided as a matter of principle and should not be requested via cookie banner if the user specifies this in the browser settings. This also applies to people who do not have a computer or an Internet connection. They must all be able to use the services of the railway and local transport at no extra charge and to receive their packages. They must be able to get appointments at offices, with doctors and doctors. The same goes for people who don't have access to the internet. Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
+          "location": "27 / 45",
+          "content": "BSW: These earmarked public funds are intended to strengthen the equity of the municipal housing companies and enable them to build rental apartments that remain in public ownership in the long term and are thus available for affordable housing. One example is municipal, non-profit housing in Vienna, thanks to which around 60 percent of Viennese live in apartments that have been built or renovated with housing subsidies. We will campaign for the adoption of a law to better combat rent usury and take legal action against grossly excessive rents for furnished rooms. It is also necessary to accelerate construction projects, for example by simplifying serial construction and introducing a simplified approval procedure for social housing. At federal, state and local level, we advocate initiatives to tighten regulation of the conversion of apartments into commercial holiday homes and to combat housing vacancies. Costs for renovations have to be borne by the landlords. We want to curb speculation on building land and promote an active, long-term land policy and a sustainable urban development policy with mixed neighbourhoods. In order to curb construction costs, excessive building regulations must be put to the test."
         }
       ],
-      "citations_count": 4
+      "citations_count": 3
     },
-    "volt": {
-      "agreement": 75,
-      "explanation": "Volt supports the use of video surveillance in public transport as part of their commitment to strengthening the protection of religious freedom and the security of religious institutions. They also support the digitization of case processing to improve law enforcement.",
+    "cdu": {
+      "agreement": 0,
+      "explanation": "CDU does not explicitly mention property tax apportionability.",
       "citations": [
         {
-          "score": 0.4880569875240326,
-          "source": "Volt_Program_en.pdf",
-          "location": "33 / 164",
-          "content": "Volt: We all benefit from efficient and transparent policing. That's why Volt is committed to this future: \u2022  Integration of digital technologies: Technologies and equipment, such as bodycams, reporting systems and analytics tools, will be more integrated into the service. RESOLUTELY FIGHTING CYBERCRIME With an ever-evolving threat landscape, it is important to ensure the protection of personal data and the digital security of everyone. This ensures trust in digital rights and at the same time the competitiveness of Germany as a business location. Clearly defined government contact points and practicable data protection regulations enable companies to work securely, in compliance with the law and in an innovation-friendly manner. At the same time, access to innovation-relevant data is made possible without interfering with personal rights. That's why Volt is committed to this future: \u2022  Expansion of cybercrime units: Cybercrime units of the police and judiciary will be strengthened."
+          "score": 0.44096529483795166,
+          "source": "CDU_Program_en.pdf",
+          "location": "72 / 82",
+          "content": "CDU: We make costs for energy-efficient renovations deductible from inheritance and gift tax. In this way, we promote the efficient energy-efficient renovation of the real estate portfolio. We stand for effective and appropriate tenant protection \u2013 this also includes the rules on rent levels. The high rents in many training centres are a major problem. Social housing construction must be solidly promoted and housing benefit must be adjusted regularly."
         },
         {
-          "score": 0.49989354610443115,
-          "source": "Volt_Program_en.pdf",
-          "location": "32 / 164",
-          "content": "Volt: For some time now, however, it has been part of the everyday life of the police and public prosecutor's office that the workload increases and overtime is accumulated to an unjustifiable extent. A reduction in overtime and a normalization of the workload are not in sight. This jeopardizes the quality of work and creates a risk both for the staff and for the people whose safety it is supposed to ensure. Law enforcement authorities and their staff must therefore be strengthened and supported in the best possible way in the fulfilment of their tasks. RETURN TO CORE POLICE TASKS Police are often overburdened with tasks outside their core area, which limits their ability to perform and endangers public safety. In addition, there is a shortage of staff in many places. A return to the core tasks and measures for recruiting personnel enables high-quality police work that increases the safety of the population. That's why Volt is committed to this future: \u2022  Delegation of subsidiary tasks: Tasks such as dog tax controls or prison transports are returned to the responsible administrations. This includes measures to make training more attractive. SECURITY IN THE DIGITAL SPACE People's lives are increasingly taking place in the digital space."
+          "score": 0.4891194701194763,
+          "source": "CDU_Program_en.pdf",
+          "location": "72 / 82",
+          "content": "CDU: With us, there are no new standards that increase construction costs without significant added value. We reduce planning and ancillary costs by digitizing and accelerating land-use and building permit procedures. Low construction costs and more new construction are also benefiting tenants in particular. To this end, we are concentrating our funding on multi-storey housing construction in tight housing markets. With a significantly higher, temporary special depreciation for affordable housing, we are giving new construction a kickstart. We supplement this with effective degressive depreciation. We are adjusting the deduction of income-related expenses so that those who demand less than the local comparative rent will not have any tax disadvantages in the future. More building land and low construction costs help families to build their own property. We are realigning existing subsidy programmes, such as KfW's interest subsidy programmes, by raising income limits and including the purchase of existing properties. We are retaining the existing EH55 energy efficiency standard for new buildings and making it eligible for funding again."
         },
         {
-          "score": 0.5086778998374939,
-          "source": "Volt_Program_en.pdf",
-          "location": "34 / 164",
-          "content": "Volt: Strengthened law enforcement protects the population from the effects of these crimes. That's why Volt is committed to this future: \u2022  Increased personnel: Special units at the BKA, customs and in the federal states will be strengthened. ADAPTED LAW ENFORCEMENT Effective and efficient prosecution is essential to solve crimes quickly and fairly. We all benefit from accelerated case processing, better cooperation between authorities and a targeted use of resources. That's why Volt is committed to this future: \u2022  Digitization of case processing: The entire process from the filing of the complaint to the public prosecutor's office will be digitized. NATIONWIDE STANDARDS FOR THE POLICE The challenges of modern crime require uniform and coordinated police work throughout Germany. We all benefit from more efficient law enforcement, the same standards and improved protection against crime in all regions of German land."
-        },
-        {
-          "score": 0.5145828127861023,
-          "source": "Volt_Program_en.pdf",
-          "location": "36 / 164",
-          "content": "Volt: It is important to strengthen the protection of religious freedom and the security of religious institutions. That's why Volt is committed to this future: \u2022  Protection of religious institutions: The protection and security of places of worship and places of worship will be expanded. SAFETY FOR PEOPLE WITH EXPERIENCE OF RACISM Discrimination and unfair treatment by security authorities undermine trust in public safety and justice. Targeted measures are needed to combat racist practices and empower those affected. That's why Volt is committed to this future: \u2022  Independent complaints bodies: Independent complaints bodies will be expanded to take stronger action against discrimination."
-        },
-        {
-          "score": 0.5183397531509399,
-          "source": "Volt_Program_en.pdf",
-          "location": "25 / 164",
-          "content": "Volt: STRENGTHENING FUNDAMENTAL DIGITAL RIGHTS We must preserve and strengthen digital fundamental rights, because they are of central importance for people's trust in the state. Clear legal framework conditions are needed to ensure the protection of privacy and prevent the misuse of surveillance technologies. This preserves the fundamental rights to privacy, informational self-determination and protection against arbitrary interference. That's why Volt is committed to this future: \u2022  Rejection of surveillance technologies: There is no nationwide use and no automatic evaluation of surveillance technologies. Systems for biometric real-time remote identification (RBI) will be banned \u2013 even in sensitive places such as borders and prisons. The conditions and responsibilities for (temporary) exceptions, for example for the fight against terrorism, are clearly and transparently defined. A supervisory body based on the model of the UK Biometrics and Surveillance Camera Commissioner will be set up at the BfDI."
-        },
-        {
-          "score": 0.5198572874069214,
-          "source": "Volt_Program_en.pdf",
-          "location": "17 / 164",
-          "content": "Volt: That is why Volt is committed to the following future: \u2022  Uniform recording and transparency: A nationwide standardised reporting system will be introduced for the uniform recording of politically motivated crimes. A central pool of information documents extremist ideas and networks, which facilitates targeted prosecution. In addition, the penalties for hate crimes and support for extremist ideologies \u2013 especially in the digital space \u2013 will be tightened in order to create clear consequences for perpetrators."
+          "score": 0.5005239248275757,
+          "source": "CDU_Program_en.pdf",
+          "location": "33 / 82",
+          "content": "CDU: We support families in particular in fulfilling their dream of owning their own home. L\u00e4nder are to be able to grant an allowance for real estate transfer tax of 250,000 euros per adult and 150,000 euros for each child when purchasing owner-occupied residential property for the first time. We don't want to punish people who have worked hard for and built something. Instead, we want to support all people in building up their own assets. We reject a wealth tax. We are significantly increasing the inheritance tax allowances. This means that the home can be inherited tax-free to a greater extent. We are focusing above all on a clear legal framework, less bureaucracy and higher tax allowances. We are committed to harmonizing the rules in the EU and reducing bureaucratic hurdles. We are significantly increasing the income tax allowance for employee equity investments and ensuring that shareholdings are generally only taxed at the time of sale. We are introducing a capital formation premium in which we merge the employee savings allowance and the housing construction premium."
         }
       ],
-      "citations_count": 6
+      "citations_count": 3
     },
     "linke": {
-      "agreement": 50,
-      "explanation": "Linke is cautious about the use of video surveillance, emphasizing the importance of closing security gaps without exception and making the Federal Office for Information Security more independent.",
+      "agreement": 0,
+      "explanation": "Linke does not explicitly mention property tax apportionability.",
       "citations": [
         {
-          "score": 0.5039908289909363,
+          "score": 0.47825437784194946,
           "source": "Linke_Program_en.pdf",
-          "location": "56 / 60",
-          "content": "Linke: That is why we want to decriminalise IT security research, close security gaps without exception and make the Federal Office for Information Security more independent."
+          "location": "8 / 60",
+          "content": "Linke: With tax exemptions and preferential treatment for subsidies and public land, we want to create strong incentives to participate in the development of a non-profit housing market sector in which rents are based on real costs and profits are capped \u2022 We want to reintroduce and strengthen the municipal right of first refusal. A (re-)municipalisation fund is intended to support municipalities in bringing housing back into public ownership. We are committed to a price-limited right of first refusal that is not based on the speculative \"market price\", but on rents that are affordable for the residents (social income value)."
         },
         {
-          "score": 0.5152583718299866,
+          "score": 0.5097827315330505,
           "source": "Linke_Program_en.pdf",
-          "location": "35 / 60",
-          "content": "Linke: Every twentieth car trip could be avoided by the ticket - and it was only available for 3 months The increase in the subscription price to 58 euros is fatal and the different solutions in the states must be designed uniformly nationwide With a VAT exemption for local public transport, money will be freed up for local transport in the short term \u2022  We want to reintroduce the 9-euro ticket immediately. For pupils, trainees, students and senior citizens, we want an immediate 0-euro ticket. The carriage of children as well as bicycles and dogs must be included For all subscribers, we demand six free rides per year in long-distance transport."
+          "location": "7 / 60",
+          "content": "Linke: Housing must not be a luxury Affordable housing is the central social issue of our time Olaf Scholz took office as rent chancellor, but rents have continued to explode in the last three years. Not only in the cities, but also in many rural areas, housing costs have risen sharply in recent years Millions of people spend a large part of their income on housing In addition, there are the rapidly rising ancillary costs Real estate companies make extra profits by sending excessive heating bills to their tenants and hoping that no one notices Exploding rents are not a law of nature: affordable housing, security from rent increases, cooperative housing construction are sensible, fair and also achievable The sale of public land is also a deliberate political decision \u2013 it could be stopped tomorrow SPD and Co claim that we have to build to get affordable housing again The average rent for a newly built apartment in Berlin: 20 euros per square metre A 50-square-metre apartment will then cost an average of 1,000 euros Who should be able to afford that? The real estate companies are using new construction to charge excessive rents, thus driving up the rent for existing apartments."
+        }
+      ],
+      "citations_count": 2
+    },
+    "fdp": {
+      "agreement": 0,
+      "explanation": "FDP does not explicitly mention property tax apportionability.",
+      "citations": [
+        {
+          "score": 0.5023229718208313,
+          "source": "FDP_Program_en.pdf",
+          "location": "44 / 52",
+          "content": "FDP: With a real estate transfer tax allowance of EUR 500,000 for the first owner-occupied property of natural persons, we facilitate access to property. For families, this allowance increases by 100,000 euros for each child. Following the Swiss model, funds from the company pension scheme should be able to be used for the purchase of property - an additional, flexible source of financing. Freedom in the boiler room: CO2-free, but affordable We Free Democrats are convinced: A warm home with modern, climate-friendly heating is possible - economically and open to technology. We rely on innovative solutions that promote climate protection and at the same time remain affordable. Instead of countless individual regulations, we rely on a market-based solution \u2013 CO2 certificate trading. The Heating Act with its excessive requirements must be phased out completely. In order to cushion the social costs of climate protection, we Free Democrats want to introduce a climate dividend and drastically reduce energy taxation. We reject a compulsion to connect to district heating networks. Heating with wood remains possible with us, and we want to reduce requirements for fireplaces and stoves. Entrepreneurial agriculture Agriculture is of outstanding importance for Germany, which goes far beyond the production of food."
+        },
+        {
+          "score": 0.5152908563613892,
+          "source": "FDP_Program_en.pdf",
+          "location": "13 / 52",
+          "content": "FDP: In order to create additional incentives to work, we want to exempt bonuses for overtime from full-time work from income tax. In the future, the top tax rate may only be paid by people who really earn a top income and not by the middle of society. Specifically, we demand that the top tax rate be based on the current contribution assessment ceiling of the pension insurance in the future. This means that the top tax rate no longer applies from an annual income of a good 68,000 euros, but only from 96,600 euros. In addition, we want to abolish the solidarity surcharge completely. Because it has now developed into a punitive tax for small and medium-sized businesses. To ensure that the state does not become a beneficiary of inflation and the taxpayer does not become a victim of cold progression, we want to automatically adjust the allowances and benchmarks of income tax to the general price development (tariff on wheels). The allowances of inheritance tax and gift tax must also be automatically increased by the inflation rate. We reject any form of wealth tax or wealth levy. Families are the backbone of our society and need to be strengthened. In order to provide greater relief for families and single parents, we want to improve the tax deductibility of childcare costs and statutory maintenance payments."
         }
       ],
       "citations_count": 2
     },
     "gruene": {
-      "agreement": 50,
-      "explanation": "Gruene wants to make buses and trains places where passengers feel comfortable, including safety from assaults, especially against women. They do not explicitly mention video surveillance but focus on improving police action and attitude patterns.",
+      "agreement": 0,
+      "explanation": "Gruene wants to end the apportionability of property tax so that it can no longer be passed on to tenants.",
       "citations": [
         {
-          "score": 0.46418190002441406,
+          "score": 0.3974284529685974,
           "source": "Gruene_Program_en.pdf",
-          "location": "48 / 160",
-          "content": "Gruene: In addition, we want to make buses and trains places where passengers feel comfortable. In addition to cleanliness, this also includes safety from assaults, especially against women."
+          "location": "68 / 160",
+          "content": "Gruene: In addition, we want to end the apportionability of property tax so that it can no longer be passed on to tenants. About half of the people in our country live in rented accommodation and have to spend more and more money on it. We will extend the rent brake and tighten it by abolishing exceptions. We also want to apply the rent brake to apartments that are more than five years old. And we will close loopholes, for example when apartments are not offered at fair prices, but at overpriced prices as furnished apartments or holiday apartments. Rent indices are to be better qualified by extending the observation period. Municipalities should be able to provide evidence of tight housing markets on their own. We will enable a rent freeze in tense housing markets. Rent usury must be combated by strengthening Section 5 of the Economic Criminal Code in order to make it easier for tenants to provide evidence and thus to punish violations of the rent brake more strongly. Indexed rents are to be regulated by upper limits and renovations must be apportioned in a warm-rent-neutral manner. The letting of furnished apartments must be strictly regulated and the misappropriation of living space must be punished. In addition, we will counter rent increases by lowering the capping limits. Commercial tenants also need tenant protection."
         },
         {
-          "score": 0.49834370613098145,
+          "score": 0.4975775480270386,
           "source": "Gruene_Program_en.pdf",
-          "location": "133 / 160",
-          "content": "Gruene: With the Federal Police Commissioner, we have created a contact point for police officers and citizens, whom we want to strengthen and develop. In this way, we are also improving the working conditions for police officers. As the executive organ of the state's monopoly on violence, the police also have a special responsibility. With a system for checks that sets out the reasons for checks, we want to make police action more transparent. In doing so, we want to design police control powers in such a way that they can be applied in a legally secure manner. In addition, we are introducing an anonymised labelling requirement for the Federal Police. In education and training, we want to raise awareness of diversity and develop a good error culture. Police action and attitude patterns have been comparatively little researched in Germany. That is why we want to open up the police more to scientific research. We want to focus more on dealing with exceptional psychological situations and improve psychosocial emergency care for emergency services and those affected. When the security authorities in Europe work together, they create more security for people in a Europe that is growing together. To this end, we are expanding the joint police centres in the border regions."
-        },
-        {
-          "score": 0.4984000027179718,
-          "source": "Gruene_Program_en.pdf",
-          "location": "132 / 160",
-          "content": "Gruene: We reconcile evidence-based domestic policy with civil rights and address the causes of crime. With investments, we also want to ensure that the police can work in modern properties and with good equipment, including digitally. Crime is increasingly shifting to the digital space \u2013 the police must be able to keep up with this technology. In order to prevent crime, we want to keep an eye on crime developments and make greater use of scientific expertise. We therefore want to enshrine the periodic safety report, which bundles this work, in law. Scientifically sound recording systems and databases enable precise situation pictures and assessments, promote good investigative work and lay the foundation for appropriate and legally secure police measures. We are therefore working towards improving police databases in the police information network. We are reforming police statistics to better record hate crime. Anyone who is known to the security authorities as an enemy of the constitution is not allowed to possess weapons. The number of legal and illegal firearms has increased in recent years. Too many acts of violence are still committed with firearms, especially in the domestic sphere. Every person who dies from a firearm is one too many."
+          "location": "69 / 160",
+          "content": "Gruene: We want to support people in these plans by making it legally easier to exchange homes and by adapting and making funding instruments for supporting tenants more flexible. Home ownership \u2013 whether it is your own house or apartment \u2013 offers security, freedom and a sustainable retirement provision. That's why we want to make it easier to make the chance of home ownership a reality. We want to promote the purchase and construction of the first owner-occupied residential property as well as the conversion of vacant apartments and conversions into affordable housing in a stronger and socially just way. In this way, we support young families in particular through low-interest state loans. In particular, the energy-efficient renovation of vacant apartments, the division of underused single-family houses and extensions for the provision of additional living space are to be promoted. We relieve the burden of ancillary costs such as brokerage and notary fees. A housing subsidy, the amount of which increases with inflation and which is geared to climate protection targets, also makes it easier for people with low and medium incomes to access home ownership."
         }
       ],
-      "citations_count": 3
+      "citations_count": 2
     },
-    "fdp": {
-      "agreement": 25,
-      "explanation": "FDP is critical of comprehensive surveillance in public spaces and rejects the use of automated facial recognition. They support video surveillance at individual crime hotspots but not as a replacement for police presence.",
+    "spd": {
+      "agreement": 0,
+      "explanation": "SPD wants to relieve tenants of property tax, not allowing owners to apportion all burdens to the tenants.",
       "citations": [
         {
-          "score": 0.500675618648529,
-          "source": "FDP_Program_en.pdf",
-          "location": "23 / 52",
-          "content": "FDP: Because we all have the right to move in public space without constant control. Video surveillance can make sense at individual crime hotspots such as train stations, but it never replaces the Presence of police officers and functioning prevention concepts. There must therefore be no comprehensive surveillance in public spaces. We reject the use of automated facial recognition in public spaces. The protection of privacy must also apply in the digital world. This includes a right to encryption so that private communication remains private. We reject network blocking, chat controls, upload filters, data retention and other forms of data collection without cause. With our Quick-freeze model, certain data can instead be secured by judicial order in the event of suspicion. German gun law must be designed with a sense of proportion. Sport shooters and hunters must not be unnecessarily burdened. Instead, the focus on endangerers and extremists should be strengthened by improved communication between the authorities and the fight against the illegal arms trade. We call for the development of a future-proof data infrastructure and the reform of the fragmented data protection supervisory authority in order to strengthen the innovative strength and competitiveness of the German economy."
+          "score": 0.3923506736755371,
+          "source": "SPD_Program_en.pdf",
+          "location": "20 / 68",
+          "content": "SPD: That's why we want only a maximum rent increase of six percent in three years to be allowed in areas with a tight housing market up to the local comparative rent. We want to open up the possibility for federal states to make independent regulations that go beyond this in order to limit rent increases more strongly in extremely tight housing markets. We want to extend the rent index observation period to ten years and include price-controlled housing in the consideration. The ancillary costs for tenants are to be more transparent and easier to understand. Property tax is a tax on ownership of land. We want to relieve tenants of property tax. The apportionability of property tax must therefore not go so far that the owner may apportion all burdens to the tenants. With the housing benefit, we specifically support employed people and pensioners. We have implemented the expansion of housing benefit to housing benefit plus, which means that significantly more people benefit from support. In the Housing Benefit Act, we have also stipulated the regular automatic increase of housing benefit in line with real price and rent developments. Similarly, we also want to stipulate a regular and automatic increase in the BAf\u00f6G housing cost lump sum for people in training. The support must continuously follow real rent developments."
+        },
+        {
+          "score": 0.43641912937164307,
+          "source": "SPD_Program_en.pdf",
+          "location": "18 / 68",
+          "content": "SPD: If a property that is not used by the owner is sold privately, the profit is currently tax-free after a speculation period of ten years has expired. We want to change that and thus ensure more tax justice. It also reduces incentives for purely speculative property purchases while increasing incentives for long-term investment in real estate. This can also have positive effects on the supply on the housing market. More for you. Better for Germany."
+        },
+        {
+          "score": 0.45621052384376526,
+          "source": "SPD_Program_en.pdf",
+          "location": "19 / 68",
+          "content": "SPD: That is why housing is a public good for us, which must not be left to the private market alone. This is a public matter. We want to overcome the acute housing shortage with an investment, tax and bureaucracy reduction offensive and accelerate planning and approval procedures. We want to have overcome homelessness by 2030. The creation and maintenance of affordable housing is a permanent task for the state. At the same time, we are strengthening private housing construction by creating good conditions for private investment, among other things by further reducing bureaucracy. We want to protect tenants from usurious rents and excessive demands. We want to slow down the development of rents. The rent brakes will expire at the end of 2025. The rent brake is a very good instrument for curbing rising rents. And we want to ensure stable and affordable rents in tight housing markets in the long term. In metropolitan areas, short-term rentals are to be reduced to a minimum. The rent brake is to apply indefinitely and also to properties occupied until 2019 in order to ensure stable and affordable rents in tight housing markets in the long term. We will ensure that the rent brake cannot be circumvented by, for example, (partially) furnished and temporary housing offers."
+        },
+        {
+          "score": 0.47906404733657837,
+          "source": "SPD_Program_en.pdf",
+          "location": "18 / 68",
+          "content": "SPD: We want to increase the personal allowances in order to take account of the increases in asset prices since the last adjustment. The family home used by the owner will remain untouched in the future. The suspended wealth tax we want to revitalize for very high assets. We also support Brazil's G20 plans for an internationally coordinated minimum tax on the super-rich. An internationally coordinated approach creates the necessary transparency about wealth accumulation and makes tax avoidance unattractive. The tax revenues from inheritance and gift tax as well as wealth tax are due to the states in whose area of responsibility education policy lies. It is therefore our goal that the L\u00e4nder use the additional revenue generated by our reforms for the urgently needed strengthening and modernisation of the education system. In addition, we want to tax income from capital via the income tax rate. Unlike in the financial centres of Paris or Milan, financial transactions in Germany have not yet been taxed. That is why we want to introduce a financial transaction tax. This should be done as much as possible in harmony with our European partners."
+        },
+        {
+          "score": 0.49239325523376465,
+          "source": "SPD_Program_en.pdf",
+          "location": "19 / 68",
+          "content": "SPD: In the future, index-linked leases will also be capped by the capping limits of normal leases, such as the local comparative rent. Misappropriation and vacancy of living space through short-term rentals must be prevented. There is to be more transparency about existing rents and new rental rents. Exorbitant rents must be effectively prevented, among other things by tightening economic criminal law. We want to extend the possibility of banning the conversion of rental apartments into condominiums in the BauGB beyond 2025. At the same time, we want to reform the law on termination for personal use and limit it to residential use by the nuclear family. More for you. Better for Germany."
+        },
+        {
+          "score": 0.5077665448188782,
+          "source": "SPD_Program_en.pdf",
+          "location": "20 / 68",
+          "content": "SPD: The support must continuously follow real rent developments. We want to ensure that students and trainees do not pay more than 400 euros for a room in a shared flat. To this end, we want to consolidate and increase the funds for the expansion of student and trainee halls of residence and ensure that these funds are actually used by the states for the construction of new halls of residence. By expanding the scope of the rent brake, significantly more trainees and students will be covered. By creating an online platform in cooperation with student and trainee unions that, as a legal service provider, asserts the claims of trainees and students under the rent brake free of charge and in an uncomplicated manner, we ensure that the rent brake is also enforced. Via the same platform, we will refund the difference to students and trainees whose rental contracts fall within the scope of the rent brake and have been reviewed by the platform and, if necessary, compliance with the rent brake has been sued, if the rent for their room is above 400 euros. We want more affordable apartments to be built. In order to stabilize the supply of affordable housing in the medium and long term, joint efforts are necessary for faster construction and a social land policy. We want to set the right framework conditions and impulses for this. We want to strengthen and consolidate investments in social housing construction at a high level."
+        },
+        {
+          "score": 0.5096670985221863,
+          "source": "SPD_Program_en.pdf",
+          "location": "21 / 68",
+          "content": "SPD: The cooperative program is to be consolidated and expanded. We want to stop the rapid price development for land in many regions. We need a trend reversal towards a social land policy, because soil is an unreproducible commodity. Its use should also serve the common good. In order to enable long-term and sustainable urban development, municipalities must be supported in setting up land funds. Models are to be supported by the municipalities of land value increases through planning. The right of first refusal for municipalities must be strengthened. Construction costs must be reduced and procedures accelerated. Our goal: Reducing bureaucracy must be continued and the construction administration must receive a digitalization boost. Too much bureaucracy and a lack of digitization prolong processes and decision-making paths. The Alliance for Affordable Housing is to be made permanent and expanded. Simplified building standards such as building type E must be further developed. There is great potential in serial and modular construction that we want to leverage. In the future, funding programmes in the construction sector are to be reliably offered at fixed funding conditions for the duration of the legislative period."
         }
       ],
-      "citations_count": 1
+      "citations_count": 7
+    },
+    "volt": {
+      "agreement": 0,
+      "explanation": "Volt does not explicitly mention property tax apportionability.",
+      "citations": [],
+      "citations_count": 0
     }
   }
 }

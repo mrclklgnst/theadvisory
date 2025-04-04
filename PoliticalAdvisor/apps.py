@@ -18,6 +18,8 @@ class PoliticaladvisorConfig(AppConfig):
     name = "PoliticalAdvisor"
 
     def ready(self):
+        if os.environ.get("RUN_MAIN") != "true":
+            return
         if hasattr(self, "initialized"):  # Prevent multiple executions
             return
         self.initialized = True
