@@ -1,191 +1,222 @@
 {
   "answer": {
-    "bsw": {
-      "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "cdu": {
-      "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "linke": {
-      "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
-    },
     "fdp": {
       "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "gruene": {
-      "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "spd": {
-      "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
-    },
-    "volt": {
-      "agreement": 50,
-      "explanation": "No information provided in the context.",
-      "citations": [],
-      "citations_count": 0
+      "explanation": "Die FDP unterst\u00fctzt die Umsetzung von Vorhaben durch den Bund im Rahmen der Kompetenzzuweisung des Grundgesetzes und setzt sich f\u00fcr einheitliche bundesweite Qualit\u00e4tsstandards ein, was auf eine gewisse Zentralisierung hinweist.",
+      "citations": [
+        {
+          "score": 0.24159619212150574,
+          "source": "FDP_Program.pdf",
+          "location": "7 / 52",
+          "content": "FDP: Bis zur entsprechenden Umsetzung unterst\u00fctzt der  Bund Vorhaben ausnahmsweise im Rahmen der Kompetenzzuweisung des Grundgesetzes, der  L\u00e4nderanteil muss dem strikten Grundsatz der Zus\u00e4tzlichkeit (also neue Mittel) folgen. Dar\u00fcber  hinaus sollen Kooperationen zwischen dem Bund auch nur mit einem Teil der L\u00e4nder erm\u00f6glicht  werden. Wir wollen die Kultusministerkonferenz (KMK) als Entscheidungsgremium abschaffen und  durch einen Bundesbildungsrat aus Wissenschaftlern, Praktikern, Eltern- und Wirtschaftsvertretern  ersetzen. Sch\u00fclerleistungen sind besser, wenn Schulen mehr Freir\u00e4ume haben und sie nicht durch  B\u00fcrokratie gel\u00e4hmt werden. Wir setzen uns f\u00fcr Schulfreiheitsgesetze ein. Wir wollen unter Wahrung  der bestehenden Finanzierungsverantwortung f\u00fcr Bildung einheitliche bundesweite  Qualit\u00e4tsstandards f\u00fcr Bildung von Kindern ab der Kita bis zum Schulabschluss schaffen. Durch  einheitliche Abschlusspr\u00fcfungen (Deutschland-Abitur) stellen wir die bundesweite Vergleichbarkeit  von Schulabschl\u00fcssen sicher. Wir sprechen uns f\u00fcr eine Notenpflicht sp\u00e4testens ab der dritten Klasse  aus. Wir setzen uns f\u00fcr moderne au\u00dferschulische Lernorte ein \u2013 beispielsweise sogenannte  Sch\u00fclerlabore, Maker-Spaces und TUMO-Zentren."
+        },
+        {
+          "score": 0.2664482295513153,
+          "source": "FDP_Program.pdf",
+          "location": "8 / 52",
+          "content": "FDP: Wir wollen den Schulen mehr p\u00e4dagogische, personelle und finanzielle  Kompetenzen einr\u00e4umen. Dazu sollen alle ein frei einsetzbares Chancenbudget erhalten. Damit  k\u00f6nnen Schulen eigenst\u00e4ndig \u00fcber die Organisation der Bildungselemente, ihr Schulprofil, den  Einsatz multiprofessioneller Teams, aber auch \u00fcber Personalentscheidungen und die L\u00e4nge der  gymnasialen Laufbahn (G8/G9) entscheiden. Mit attraktiveren Arbeitsbedingungen, einer praxisnahen  Aus- und Fortbildung, einer leistungsorientierten Bezahlung und attraktiven  Aufstiegsm\u00f6glichkeiten wollen wir mehr Freir\u00e4ume im Lehrberuf schaffen. Die Lehrausbildung  wollen wir bundesweit zu einem dualen Lehramtsstudium weiterentwickeln, das Theorie und Praxis  eng miteinander verzahnt und einen st\u00e4rkeren Fokus auf digitale und KI-Kompetenzen legt. Eine  bundesweite Mobilit\u00e4tsgarantie soll es Lehrkr\u00e4ften vereinfachen, das Bundesland zu wechseln. Wir setzen uns insbesondere f\u00fcr die bundesweite Einf\u00fchrung der Schulf\u00e4cher  Wirtschaft und Informatik ein."
+        },
+        {
+          "score": 0.2972968816757202,
+          "source": "FDP_Program.pdf",
+          "location": "7 / 52",
+          "content": "FDP: Zur  Bek\u00e4mpfung des Fachkr\u00e4ftemangels wollen wir die p\u00e4dagogischen Aus-, Fort- und Weiterbildung  grundlegend modernisieren. Indem wir die Erzieheraus- und Weiterbildung generell schulgeldfrei  stellen und angemessen verg\u00fcten sowie die Ausbildungskapazit\u00e4ten der L\u00e4nder erh\u00f6hen,  erm\u00f6glichen wir mehr Menschen den Zugang zur Ausbildung. Wir modularisieren die Ausbildung, um  die Ausbildungsqualit\u00e4t bundesweit auf ein hohes einheitliches Niveau anzuheben. Moderne und selbstst\u00e4ndige Schulen \u2013 bessere Bildungschancen f\u00fcr alle  Nicht erst die schlechten PISA-Ergebnisse zeigen: In Zeiten rasanten gesellschaftlichen Wandels  braucht es einen echten Paradigmenwechsel im Bildungssystem. Mit dem Startchancen-Programm  haben wir erste gro\u00dfe Schritte gemacht. Darauf m\u00fcssen wir aufbauen. Dadurch  verpassen wir, das Bildungssystem zu schaffen, das unsere Kinder verdienen."
+        },
+        {
+          "score": 0.307952880859375,
+          "source": "FDP_Program.pdf",
+          "location": "35 / 52",
+          "content": "FDP: Wir Freie Demokraten wollen Ausgaben des Bundes  grunds\u00e4tzlich st\u00e4rker auf die origin\u00e4ren Aufgaben des Bundes beschr\u00e4nken."
+        },
+        {
+          "score": 0.31190526485443115,
+          "source": "FDP_Program.pdf",
+          "location": "36 / 52",
+          "content": "FDP: Ein starker F\u00f6deralismus braucht klare  Zust\u00e4ndigkeiten und Verantwortlichkeiten. Wir halten eine neue Finanzf\u00f6deralismuskommission  daher f\u00fcr unerl\u00e4sslich und werden uns f\u00fcr deren Einsetzung stark machen. Werden Aufgaben  zwischen Bund und L\u00e4ndern ver\u00e4ndert, muss dies auch durch eine \u00c4nderung der  Finanzierungsstr\u00f6me unterlegt sein. Ein agiler Staat f\u00fcr ein modernes Land  Eine Bundesregierung, die mit gutem Beispiel vorangeht  Ein schlanker und ressourcenschonender Staat beginnt bei der Bundesregierung. Deshalb wollen wir  die Zahl der Beauftragten der Bundesregierung deutlich reduzieren und mit Hilfe eines One in, one  out-Prinzips dauerhaft auf niedrigerem Niveau halten. Au\u00dferdem wollen wir die Zahl der  Staatssekret\u00e4re in den Ministerien beschr\u00e4nken und die Laufbahnordnung flexibilisieren. Die  Bundesagentur f\u00fcr Sprunginnovationen (SPRIND) sollte ein Vorbild f\u00fcr die Freisetzung von  Potentialen sein. Mit dem SPRIND-Freiheitsgesetz haben wir Freir\u00e4ume f\u00fcr Innovation geschaffen \u2013  etwa durch den Verzicht auf Zwischeninstanzen und eine Ausnahme vom Besserstellungsverbot, um  hochqualifizierte Fachkr\u00e4fte zu gewinnen. So k\u00f6nnen etwa Top-Experten aus der Wirtschaft  projektbezogen oder zeitlich befristet f\u00fcr Spezialaufgaben zu marktgerechteren Konditionen  angeworben werden, was mit den \u00fcblichen Instrumenten des \u00f6ffentlichen Dienstrechts nicht gelingt."
+        },
+        {
+          "score": 0.31756678223609924,
+          "source": "FDP_Program.pdf",
+          "location": "7 / 52",
+          "content": "FDP: Wir setzen uns f\u00fcr moderne au\u00dferschulische Lernorte ein \u2013 beispielsweise sogenannte  Sch\u00fclerlabore, Maker-Spaces und TUMO-Zentren. Wir wollen KI-gest\u00fctzte und adaptive  Lernmethoden in den Schulalltag integrieren, indem wir analog zum GovTech-Campus einen Campus  f\u00fcr Bildungsinnovationen schaffen. Dieser vernetzt Bundesl\u00e4nder und Kommunen mit innovativen  Akteuren der Tech-Szene und der angewandten Forschung. Durch einen  Digitalpakt 2."
+        }
+      ],
+      "citations_count": 6
     },
     "afd": {
       "agreement": 0,
-      "explanation": "The AfD strongly opposes state subsidies and financial compensation for energy-intensive companies, advocating for a return to market-based principles and the abolition of CO\u2082 taxes.",
+      "explanation": "Die AfD hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
       "citations": [
         {
-          "score": 0.38899099826812744,
-          "source": "AFD_Program_en.pdf",
-          "location": "40 / 177",
-          "content": "AFD: In the future, plants for the generation of \"renewable energies\" will have to prove their unrestricted environmental compatibility and economic benefit by waiving priority feed-in and subsidies."
+          "score": 0.3066994845867157,
+          "source": "AFD_Program.pdf",
+          "location": "159 / 177",
+          "content": "AFD: Wir werden verbindliche Kriterien f\u00fcr den \u00dcbergang auf das  Gymnasium festlegen. Schulpflicht zur Bildungspflicht umwandeln Kinder haben ein Recht auf Bildung, und der Staat ist verpflichtet,  dieses sicherzustellen. Er kommt dieser Verpflichtung aber nur  noch unzureichend nach. Deshalb wollen wir die im internationalen  Vergleich sehr strenge deutsche Schulpflicht lockern und zu einer  Bildungspflicht umwandeln. Das Wohl der Sch\u00fcler muss dabei im- mer im Vordergrund stehen. Wiedereinf\u00fchren von Vorschulklassen Die schulischen Leistungen in Deutschland sind seit Jahren r\u00fcckl\u00e4ufig. Wir setzen uns f\u00fcr die Einf\u00fchrung einer  bedarfsorientierten Vorschule ein, um alle Kinder so weit zu f\u00f6rdern,  dass sie dem regul\u00e4ren Unterricht folgen k\u00f6nnen. F\u00f6rderschulen als Bildungschance erhalten Eine Inklusion muss mit Augenma\u00df erfolgen, den Kindern Erfolgs- erlebnisse erm\u00f6glichen, darf aber Sch\u00fcler und Lehrer nicht \u00fcberfor- dern und die Mitsch\u00fcler nicht am Lernfortschritt hindern. Kinder mit besonderem Fo\u0308rderbedarf erhalten in der Fo\u0308rderschule eine  umfassende Unterst\u00fctzung, die die Regelschule nicht leisten kann."
         },
         {
-          "score": 0.4076274633407593,
-          "source": "AFD_Program_en.pdf",
-          "location": "41 / 177",
-          "content": "AFD: Hydrogen as an energy carrier is not competitive. In the transport sector, the AfD will campaign at all levels to lift the ban on the combustion engine. Contractually promised subsidies for existing plants will remain in place. Openness to technology is guaranteed, and energy production for self-consumption is kept tax-free and duty-free for industry and citizens."
-        },
-        {
-          "score": 0.4146588444709778,
-          "source": "AFD_Program_en.pdf",
-          "location": "40 / 177",
-          "content": "AFD: The phase-out of nuclear and coal energy, which is being advocated by all established parties, has exacerbated this situation. In the wake of the Russia sanctions, Germany's affordable energy supply is also at considerable risk. This means that our country is no longer internationally competitive. While this will lead to deindustrialization and the impoverishment of the German population, the ecosocialist \"climate protectors\" are happy about falling CO\u2082 emissions. None of the so-called renewable energies or the desired new applications such as heat pumps or electromobility can survive on the market without subsidies, while conventional energies are artificially increased in price or banned. This departure from market-based principles is costing German taxpayers enormous sums of money, has destabilised the electricity grids and made Germany an electricity importing country with one of the highest electricity prices of all industrialised countries. Many citizens have to accept a loss of prosperity, and energy-intensive companies are migrating or filing for bankruptcy."
-        },
-        {
-          "score": 0.4218338131904602,
-          "source": "AFD_Program_en.pdf",
-          "location": "57 / 177",
-          "content": "AFD: In addition to the increased costs for basic foodstuffs and energy as well as the equally higher personnel costs, the increased tax is another price driver for the industry. Innkeepers had no choice but to pass on the costs to customers by way of price increases. A slump in demand was the result. Restaurants have had to close, and for many people in the country, another piece of quality of life has been lost. That is why we are calling for a uniform VAT rate of 7% for the catering industry. Abolition of all CO\u2082 taxes The CO\u2082 taxes increase production costs and lead to a competitive disadvantage for German industry. Furthermore, they disadvantage rural regions, especially our farmers, who are dependent on fossil fuels. A vehicle with a high \"emission potential\" may ultimately emit less CO\u2082 than a vehicle with a lower \"emission potential\", but will be taxed higher. Electric vehicles, which pollute the environment in production, are preferred one-sidedly. We demand the abolition of CO\u2082 taxes without replacement. Work must pay off \u2013 relieve the burden on the low-wage sector and SMEs Inflation is a major problem for many people in Germany and puts a considerable financial burden on them in a way that sometimes even threatens their existence. Food prices in particular are driving inflation."
-        },
-        {
-          "score": 0.4298301637172699,
-          "source": "AFD_Program_en.pdf",
-          "location": "64 / 177",
-          "content": "AFD: However, liability and repayment remain with the nation states, especially Germany. Such loans taken out by the EU, which largely benefit the euro crisis countries, lead to a deterioration in our credit rating and thus to an increase in the interest burdens and taxes of Germans. An exit from the euro would be beneficial for our economy and taxpayers."
-        },
-        {
-          "score": 0.4361247420310974,
-          "source": "AFD_Program_en.pdf",
-          "location": "41 / 177",
-          "content": "AFD: The remaining and still intact pipeline of Nord Stream 2 (string B) is to be put into operation as soon as possible. The repair of the damaged Nord Stream 1 and 2 lines must be carried out promptly, and the saboteurs must be identified and held accountable. The planned phase-out of lignite-fired power generation will not take place with the AfD. In addition to the expansion of coal-fired power plants that will be necessary in the short term, we are planning to re-enter nuclear energy. Existing concepts are to be taken up again and new developments taken into account. Existing power plants are to be put back into operation as soon as possible. All the necessary technologies and prerequisites for this are to be relocated to German companies, authorities, institutes and universities. Until Germany uses nuclear power again, coal and gas will have to ensure a secure electricity supply, as large-scale electricity storage facilities do not exist or are too expensive. In a technology-neutral heating sector, inexpensive gas, preferably from pipelines, or heating oil will once again be available. Hydrogen as an energy carrier is not competitive. In the transport sector, the AfD will campaign at all levels to lift the ban on the combustion engine."
-        },
-        {
-          "score": 0.4363485276699066,
-          "source": "AFD_Program_en.pdf",
-          "location": "13 / 177",
-          "content": "AFD: Instead, we are creating framework conditions that make Germany attractive again and restore our international competitiveness."
-        },
-        {
-          "score": 0.4443622827529907,
-          "source": "AFD_Program_en.pdf",
-          "location": "58 / 177",
-          "content": "AFD: The basic income tax allowance is to be increased to 15,000 euros, and the previous reference to social welfare regulations will be abandoned. The allowances are to be indexed in order to rule out secret tax increases in the future. These measures take into account the wage gap requirement and motivate people to participate in working life. We also consider the corresponding shift from further tariff benchmarks up to the top tax rate to be necessary. Abolish property tax and compensate for tax losses The collection of property tax, which benefits cities and municipalities, is extremely complicated and involves a very high administrative burden. The federal model is calculated according to the standard land values, which are often outdated, inaccurate or arbitrary. The property tax also violates the principle of equality, as it does not take into account the individual characteristics of the properties. Therefore, it will be abolished completely. The municipalities are fully compensated by a surcharge on income tax and corporation tax. This is based on the economic performance of the taxpayers. This also relieves tenants. Introduce family splitting According to Article 6 of the Basic Law, marriage and family are under the special protection of the state order."
-        },
-        {
-          "score": 0.4478657841682434,
-          "source": "AFD_Program_en.pdf",
-          "location": "80 / 177",
-          "content": "AFD: In particular, the death of birds, bats and insects is accepted as collateral damage of the left-green energy transformation. The consequences of this are population declines, which can lead to the extinction of protected species. No other form of energy demands such a high death toll in the animal world as the wind power industry. The further effects of soil erosion and wind towing caused by wind turbines must be researched as quickly as possible. In addition, this type of energy generation has a massive impact on the soil and water balance. Further damage to our nature in the name of supposed climate protection must be prevented at all costs. For example, the destruction of the \"Grimm Fairytale Forest\" in northern Hesse is an inexcusable intervention in a German mental landscape for wind industrial plants and shows the whole inhumanity in the thinking of climate ideologues. That is why we reject the further expansion of wind energy. We reject the construction of new photovoltaic systems as agro-PV on agricultural land due to their high land consumption. In addition, these increase the heating of the microclimate and intensify the pressure on agricultural production areas. Photovoltaic systems generally lead to a change in the microclimate and cause an increase in temperature."
-        },
-        {
-          "score": 0.4490070044994354,
-          "source": "AFD_Program_en.pdf",
-          "location": "45 / 177",
-          "content": "AFD: Many flights are becoming unprofitable as a result, which is why there is already a considerable shift in traffic abroad. We reject ideologically motivated bans on domestic and short-haul flights."
-        },
-        {
-          "score": 0.45402735471725464,
-          "source": "AFD_Program_en.pdf",
-          "location": "79 / 177",
-          "content": "AFD: This includes the EU's \"Green Deal\", which is destroying the European economy and thus our prosperity. However, the current CO\u2082-centric policy is already having devastating effects on our economy, our liberal way of life and our prosperity: energy-intensive industries are migrating, the automotive industry is stumbling, and jobs are being lost to an alarming extent. This undesirable development threatens to accelerate in the coming years. Meanwhile, well-deserved amenities such as holiday flights and affordable cars are to be taken away from the masses. The beneficiaries of the current climate policy are exclusively politicians, international corporations with their lobbies and NGOs close to politics. Interest groups and their supporting parties are thus increasingly creating fields of activity for their own clientele \u2013 without any added value and without a positive impact on the environment. The AfD therefore rejects any policy and any tax that invokes alleged climate protection, because humans cannot protect the climate. We also want to withdraw from the Paris Climate Agreement. The AfD will bring back hope and the possibility of a dignified life in freedom and prosperity to our future generations. We will return the sprawling planned and subsidy economy of recent decades to a modern social market economy with which we can master all future challenges."
-        },
-        {
-          "score": 0.4545971751213074,
-          "source": "AFD_Program_en.pdf",
-          "location": "64 / 177",
-          "content": "AFD: The EU is also pursuing prohibited economic policies \u2013 through huge earmarked guarantees and selective purchases of \"green\" bonds. Environmental-social governance regulations and taxonomy requirements, which regulate in a highly ideological and bureaucratic manner which economic activities are worthy of support, represent a planned economy macro-control. These vehicles de facto lead to cash gifts to \"distressed\" states via jointly liable EU debt (Next Generation Fund, Target-2, soon Ukraine bonds). This illegitimate ECB policy leads to inflation. It destroys corporate calculations, funded pension systems and private savings. The AfD calls for a return to the law and the market economy: All measures by the ECB to manipulate the free capital market must be stopped. No borrowing by the EU: loans only at national level Contrary to the explicit wording of the EU treaties, the EU presumes to take on its own debt, contrary to the explicit wording of the EU treaties, at the expense of future generations. The funds are raised through new debt and then spent by EU bureaucrats on mostly ideologically motivated projects in the style of landlords. However, liability and repayment remain with the nation states, especially Germany."
-        },
-        {
-          "score": 0.4551427364349365,
-          "source": "AFD_Program_en.pdf",
-          "location": "67 / 177",
-          "content": "AFD: In combination with the asset register, which is also planned, the prerequisites for comprehensive expropriation options for assets that have already been taxed will be created here."
-        },
-        {
-          "score": 0.4571766257286072,
-          "source": "AFD_Program_en.pdf",
-          "location": "39 / 177",
-          "content": "AFD: In order for them to be able to participate in social and economic life on an equal footing, the infrastructure and, above all, public transport must be expanded in line with demand and fit for the future. Rural areas are characterised by a high level of self-responsibility and self-organisation on the part of its citizens. If the feeling of home is stronger than the attractions of urban areas, people will want to continue living in rural areas. It is indispensable for people to remain in their homeland that it does not degenerate into an industrial park due to the expansion of large-scale wind turbines. The size and frequency of such turbines and their excessive attachment to wind farms destroy the landscape of entire regions, while even small residential buildings in the outer area still have no chance of obtaining a building permit. This was made possible by numerous ideology-driven changes in building law at federal and state level. We will immediately end the large-scale destruction of nature by wind turbines and photovoltaic systems in forests, fields and arable land. The Building Code and the Regional Planning Act can be traced back to the ideology-free regulations before 2021. In addition, replacement for old existing buildings must be made possible in the outdoor area under approval law."
-        },
-        {
-          "score": 0.45747849345207214,
-          "source": "AFD_Program_en.pdf",
-          "location": "74 / 177",
-          "content": "AFD: We rely on incentives instead of bans. Agricultural support must take into account the achievements of family farms and cooperatives and simplify farm succession. Agriculture must be reduced in bureaucracy in order to relieve the burden on farmers. Neither German nor EU authorities should interfere in their economic practices, such as in the choice of crop rotation. In order to preserve our diverse agricultural structures, we will improve the situation of young farmers who cultivate their agricultural land themselves. We will relieve the tax burden on start-ups. In addition, we oppose the decrease in agricultural land and will make it more difficult for non-agricultural investors to access the land market. Consumer protection Consumers must be able to meet the increasingly globally active companies at eye level. However, for many foodstuffs, financial products and material goods, consumers lack essential information about product origin and quality. The AfD wants to enable consumers to make an informed purchase decision. The AfD supports the model of the responsible citizen. He should not be patronized by the state in his consumer behavior. That is why we reject any form of separate food taxation, such as a meat or sugar tax. This includes educating people about the health risks of fashionable diets and preserving our traditional food culture in public institutions."
-        },
-        {
-          "score": 0.45797720551490784,
-          "source": "AFD_Program_en.pdf",
-          "location": "42 / 177",
-          "content": "AFD: Expensive technologies such as accumulators, fuel cells and hydrogen technology are not required for this. TRAFFIC Transport policy \u2013 ideology-free and needs-based The AfD is in favour of a transport policy that is geared to the needs of citizens. The AfD rejects an ideologically guided prohibition policy that favors or discriminates against certain means of transport. For us, the focus is on the freedom of citizens in their choice of means of transport. Individual mobility must remain affordable. Protecting motorised private transport The AfD supports and promotes motorised individual transport as the most popular means of transport. Intelligent technology and traffic management that avoids traffic jams protect the environment. Scientifically insufficiently proven measures, such as diesel driving bans or 30 km/h regulations on main roads, do not achieve this. At the same time, the AfD calls for the preservation and expansion of inner-city lanes and parking space to avoid growing traffic chaos and to protect the attractiveness of retail. The AfD also rejects collective measures such as driving bans for motorcycles due to misconduct by individuals. Basically, the AfD relies on the sense of responsibility of the citizens. In this context, we also want to enable accompanied driving from the age of 16."
-        },
-        {
-          "score": 0.45901066064834595,
-          "source": "AFD_Program_en.pdf",
-          "location": "56 / 177",
-          "content": "AFD: We will make corporate tax neutral in terms of legal form. These measures will make taxes clearer, and the collection of taxes will be easier, time-saving and cost-effective."
-        },
-        {
-          "score": 0.4619627296924591,
-          "source": "AFD_Program_en.pdf",
-          "location": "83 / 177",
-          "content": "AFD: We firmly reject the deforestation of the cultural asset of the forest for wind turbines in order to protect wild species and to hand over an intact nature to our children. Water protection and drinking water supply Water protection does not belong in the hands of the EU, but in Germany and the individual federal states. In coordinated cooperation with representatives of municipalities, agriculture and other stakeholders, they can ensure water protection much more effectively. The AfD is in favour of regional water supply by municipalities and special-purpose associations. The ownership of the water resources, the conveyor systems, the water treatment and the pipeline network must remain in public hands and thus in the hands of the citizens. In this context, we reject the introduction of further taxes and levies for water withdrawals. An EU-wide liberalisation and commercialisation of the water market must be prevented at all costs. There must be no general privatisation of water or waterworks, as stimulated by EU directives. Wells of private property owners who obtain their drinking water from this are exempt from this."
-        },
-        {
-          "score": 0.46228110790252686,
-          "source": "AFD_Program_en.pdf",
-          "location": "165 / 177",
-          "content": "AFD: Production sites develop where regulations, infrastructure, education and costs do not allow for marketable production. Government subsidies for the semiconductor industry are a recent example of wasted taxpayers' money. Nuclear The AfD will create new, urgently needed nuclear research centers and nuclear power plants in Germany in order to regain its leading position in nuclear technology. After the sell-off of German expertise, targeted investments are necessary to develop innovative technologies and train new specialists. This serves both energy security and the prosperity of future generations as well as environmental protection. Raw materials and circular economy Recycling technologies can be an effective means of responsible use of resources and waste. They prevail when it is energy-efficient and thus cost-effective to process materials by type, and the recycling of residual materials offers a competitive advantage. Germany is already well positioned in this area. Research on such technologies in state institutes, in cooperation with industry, could help to drive innovation. The AfD rejects blanket bans, such as straws or the ban on entire groups of substances such as Teflon and PFAS, which is being discussed in the EU. Instead, we call for an evidence-based assessment of the risks of individual substances."
-        },
-        {
-          "score": 0.46401846408843994,
-          "source": "AFD_Program_en.pdf",
-          "location": "39 / 177",
-          "content": "AFD: In addition, replacement for old existing buildings must be made possible in the outdoor area under approval law."
-        },
-        {
-          "score": 0.4652988910675049,
-          "source": "AFD_Program_en.pdf",
-          "location": "54 / 177",
-          "content": "AFD: Less bureaucracy, more personal responsibility and a more efficient use of public funds are important prerequisites for a sustainable Germany. Despite the current high tax revenues, the constantly increasing consumption expenditure leaves less and less room for necessary investments. As a result, this leads to demands for tax increases and additional debt. We are committed to moving away from excessive taxation and in return for spending discipline in order to strengthen private households and our companies as well as to comply with the debt brake and reduce debt. We plan to simplify the complex German tax law. CONSOLIDATE THE FEDERAL BUDGET, END TAX WASTE, COMPLY WITH THE DEBT BRAKE Germany does not have a revenue problem, but an expenditure problem. Despite still high tax revenues, the federal government regularly fails to bring in a federal budget without further new debt. We must not continue to burden future generations with debts and interest. That is why we call for tax waste to be avoided. The main examples are the reduction of senseless expenditures owed to the alleged \"climate rescue\", as well as the termination of the financing of superfluous prestige projects, especially abroad."
-        },
-        {
-          "score": 0.47140997648239136,
-          "source": "AFD_Program_en.pdf",
-          "location": "15 / 177",
-          "content": "AFD: For us, the starting point for strengthening personal responsibility is, in addition to strengthening family life, a comprehensive school education that makes our young citizens well-educated and critical members of our society, lays the foundation for successful professional development and enables them to participate in government and voluntary work. Our understanding of education includes not only mental abilities and craftsmanship but also social skills."
-        },
-        {
-          "score": 0.47327011823654175,
-          "source": "AFD_Program_en.pdf",
-          "location": "62 / 177",
-          "content": "AFD: Any further participation in the permanent rescue policy is tantamount to delaying insolvency at the expense of German taxpayers. The AfD is aware that the reintroduction of a stable national currency cannot take place without the burden of changeover. However, these will be lower than the long-term costs of remaining in the euro system. Therefore, Germany must terminate this \"transfer union\" and end the wrong path of permanent rescue by reintroducing a national currency, if necessary while retaining the euro or a flexible ECU-like unit of account. Hedging against the euro crisis, reforming the monetary system and bringing back state gold Germany must also be able to act in the event of a monetary crisis. In the event of a reintroduction of the German mark (D-Mark), the state gold, some of which is stored abroad, could serve as a temporary cover option. According to all historical experience, gold is a potential backing for currencies, which is particularly relevant in crises and after the introduction of a new currency to build confidence. The German state gold must be kept in its own country as a potential last currency reserve without counterparty and custody risk."
+          "score": 0.3114233613014221,
+          "source": "AFD_Program.pdf",
+          "location": "158 / 177",
+          "content": "AFD: MEHRGLIEDRIGES SCHULSYSTEM ERHALTEN  Die AfD bef\u00fcrwortet ein nach Begabungen differenziertes Schulsys- tem, das dem unterschiedlichen Leistungsverm\u00f6gen der Sch\u00fcler  gerecht wird. Gleichzeitig soll aber eine Durchl\u00e4ssigkeit gew\u00e4hrleis- tet werden. Hochbegabungen sind besonders zu f\u00f6rdern. An allen  Schulformen sollen die Klassenst\u00e4rken verringert werden."
         }
       ],
-      "citations_count": 23
+      "citations_count": 2
+    },
+    "bsw": {
+      "agreement": 0,
+      "explanation": "Die BSW hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "citations": [
+        {
+          "score": 0.30074000358581543,
+          "source": "BSW_Program.pdf",
+          "location": "23 / 45",
+          "content": "BSW: Die fr\u00fche  Entscheidung in den meisten Bundesl\u00e4ndern  bereits in der 4. Klasse ist einer der Gr\u00fcnde,  dass Elternw\u00fcnsche und -erwartungen oft mehr  Einfluss auf den Bildungsweg der Kinder haben  als deren Talente und Begabungen. Daher muss das Schulsystem auf allen Ebenen  durchl\u00e4ssig sein. Wir setzen uns f\u00fcr ein l\u00e4ngeres  gemeinsames Lernen ein. Bildungsgerechtigkeit  bedeutet auch, dass Bildungschancen nicht  vom Geldbeutel der Eltern abh\u00e4ngen d\u00fcrfen. Damit die schulische Grundausbildung funktio- nieren kann, muss die Vorbereitung in den  fachlichen und sozialen Basiskompetenzen  schon in der Kita beginnen. Senkung von Kita- Beitr\u00e4gen und mittelfristig Beitragsfreiheit. Die Grundschule muss wieder die Kernkompe- tenzen Lesen, Schreiben und Rechnen in den  Mittelpunkt stellen. Das \u201eSchreiben nach Geh\u00f6r\u201c  war dabei kontraproduktiv und muss vollst\u00e4ndig  verschwinden. Studien belegen au\u00dferdem, dass  analoge Lernmittel den digitalen beim Erwerb  von Lese- und Rechtschreibf\u00e4higkeiten \u00fcber- legen sind."
+        },
+        {
+          "score": 0.30121737718582153,
+          "source": "BSW_Program.pdf",
+          "location": "23 / 45",
+          "content": "BSW: Studien belegen au\u00dferdem, dass  analoge Lernmittel den digitalen beim Erwerb  von Lese- und Rechtschreibf\u00e4higkeiten \u00fcber- legen sind. Statt krankmachender Social-Media-Algorith- men brauchen Kinder mehr Bewegung, Spa\u00df  und Freunde auch au\u00dferhalb der Schule. So werden Kinder in  die Vereine gebracht und die Vereine und  ihre wertvolle Arbeit unterst\u00fctzt."
+        },
+        {
+          "score": 0.31009969115257263,
+          "source": "BSW_Program.pdf",
+          "location": "24 / 45",
+          "content": "BSW: Bildung endet nicht im Erwachsenenalter. Die chronische Unterfinanzierung von  Hochschulen muss beendet werden. Zwingend  notwendig ist eine Beteiligung des Bundes an  der Grundfinanzierung von Hochschulen und  mit Investitionsmitteln am Hochschulbau. Eine BAf\u00f6G-Reform zur ausk\u00f6mmlichen Finan- zierung des Studiums und einen Hochschul- sozialpakt f\u00fcr gute soziale Infrastruktur sind  dringend n\u00f6tig. Hochschulen m\u00fcssen wieder zu  Orten des freien Denkens und offenen Diskurses  werden. Professoren und Hochschulpersonal  m\u00fcssen die Gelegenheit haben, sich im Rahmen  der Meinungsfreiheit kritisch \u00e4u\u00dfern zu k\u00f6nnen,  ohne Angst vor einem Disziplinarverfahren oder  dem Verlust des Arbeitsplatzes. Wissenschafts- freiheit muss wiederhergestellt werden."
+        },
+        {
+          "score": 0.31266945600509644,
+          "source": "BSW_Program.pdf",
+          "location": "24 / 45",
+          "content": "BSW: Um den Fachkr\u00e4ftemangel in p\u00e4dagogischen  Berufen aufzul\u00f6sen, sind L\u00e4nder und Kommu- nen bei der Ausbildung von mehr Lehrern und  Erziehern zu unterst\u00fctzen. Die Arbeitsbedingun- gen in allen Bildungseinrichtungen m\u00fcssen  dringend verbessert werden. Dazu m\u00fcssen  Lehrkr\u00e4fte durch Unterst\u00fctzungsteams (Sozial- arbeit, Schulpsychologen, IT-Management) von  fachfremden Aufgaben entlastet werden. Die Lehrerausbildung sollte mehr Praxiselemen- te enthalten. Denkbar sind duale Ausbildungs- formen, die zu einem Bachelor-/Masterab- schluss mit anschlie\u00dfendem Referendariat  f\u00fchren. Kurzfristig kann der Mangel an Lehrkr\u00e4f- ten durch attraktive Arbeitsbedingen f\u00fcr Seiten- einsteiger bek\u00e4mpft werden. In den vergangenen Jahren sind Lehrer immer  mehr mit zus\u00e4tzlichen Aufgaben belastet  worden, wie IT-Management, Schulorganisation,  und psychologischer Beratung. Die Bildung von unterst\u00fctzenden Teams f\u00fcr die  Alltagsarbeit an den Schulen \u2013 Sozialarbeit, IT-  Management, psychologische Unterst\u00fctzung  \u2013 kann eine entscheidende Verbesserung  bewirken. Die Kinder und Jugendlichen selbst  m\u00fcssen Kitas und Schulen wieder als geborge- ne Schutzr\u00e4ume empfinden k\u00f6nnen \u2013 ohne  Diskriminierung, Mobbing oder Rassismus \u2013   mit W\u00fcrde und Anerkennung."
+        },
+        {
+          "score": 0.3185068964958191,
+          "source": "BSW_Program.pdf",
+          "location": "24 / 45",
+          "content": "BSW: In den weiterf\u00fchrenden Schulen sollen neben  dem Erwerb solider Grundkenntnisse die indivi- duellen St\u00e4rken ins Zentrum der Ausbildung  r\u00fccken. Jedem jungen Menschen ist das Recht  auf einen Ausbildungsplatz zu garantieren. Eine  St\u00e4rkung der Berufsvorbereitung in der Sekun- darstufe I ist ebenso n\u00f6tig wie die Aufwertung  von mittleren Schulabschl\u00fcssen und Ausbil- dungsberufen \u2013 gerade die \u201ealten\u201c Meisterberufe  geh\u00f6ren zu unseren St\u00e4rken und sollten es auch  in Zukunft sein. Mit einem bundesweiten Prakti- kumskonzept sollen Unternehmen und Betriebe  in enge Kooperation mit den Schulen kommen."
+        }
+      ],
+      "citations_count": 5
+    },
+    "cdu": {
+      "agreement": 0,
+      "explanation": "Die CDU hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "citations": [
+        {
+          "score": 0.28484731912612915,
+          "source": "CDU_Program.pdf",
+          "location": "64 / 82",
+          "content": "CDU: Wir setzen auf aussagekr\u00e4ftige und ver- bindliche Vergleichsarbeiten und Lernstandserhebungen. Unser Ziel ist ein bundesweit  qualitativ vergleichbares Abitur auf hohem Niveau. Es darf keine Nivellierung der Anfor- derungen geben. Wir forcieren den Ausbau ganzt\u00e4giger Bildungsangebote  f\u00fcr Grundschulkinder. Jedes Kind soll individuell mehr gef\u00f6rdert und gefordert werden."
+        },
+        {
+          "score": 0.29391711950302124,
+          "source": "CDU_Program.pdf",
+          "location": "64 / 82",
+          "content": "CDU: Hierzu m\u00fcssen Bund, L\u00e4nder und Kommunen  enger zusammenwirken. Wir setzen auf Mindeststandards und unterst\u00fctzen mit  einem weiteren Investitionsprogramm L\u00e4nder und Kommunen beim Ausbau der Betreu- ungspl\u00e4tze. Jedes Kind, das eingeschult wird, muss Deutsch k\u00f6nnen. Zudem lei- ten wir einen Neustart des erfolgreichen Bundesprogramms Sprach-Kitas ein. Wir schaffen die rechtlichen Voraussetzungen f\u00fcr  eine verbesserte Kooperationsstruktur f\u00fcr Schule, Jugendhilfe und Eingliederungshilfe. Zehntausende  Schulabbrecher pro Jahr sind ein Armutszeugnis f\u00fcr unser Land \u2013 und eine Gefahr f\u00fcr  Wohlstand und Zusammenhalt. Wir m\u00fcssen Kinder und Jugendliche mehr f\u00f6rdern und  mehr fordern. Schule ist Pflicht. Schulabschluss auch. Es darf nicht sein, dass der Wohnort ma\u00df- geblich \u00fcber die Qualit\u00e4t der Bildung entscheidet. Wir setzen auf aussagekr\u00e4ftige und ver- bindliche Vergleichsarbeiten und Lernstandserhebungen."
+        },
+        {
+          "score": 0.3205612599849701,
+          "source": "CDU_Program.pdf",
+          "location": "8 / 82",
+          "content": "CDU: Zudem erh\u00f6hen wir die  steuerliche Absetzbarkeit von Betreuungskosten. Der Jugendschutz und  das Erziehungsrecht der Eltern d\u00fcrfen nicht untergraben werden. Dreh- und Angelpunkt ist ein funktionierendes, verl\u00e4ssliches Bildungssystem. Worauf es jetzt vor allem ankommt:  \u2022 W Wir setzen auf verpflichtende Sprachtests im Vorschulalter. Kinder mit Sprachproble- men m\u00fcssen eine Kita oder Vorschule besuchen. Bei den Anforderun- gen darf es keine Abstriche geben. Es kommt auf jede Fachkraft an. Zudem sorgen wir da- f\u00fcr, dass die Beantragung unb\u00fcrokratischer und schneller wird. Es geht uns um Daseinsvorsorge, Eigenverantwortung und Pr\u00e4vention."
+        }
+      ],
+      "citations_count": 3
+    },
+    "linke": {
+      "agreement": 0,
+      "explanation": "Die Linke hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "citations": [
+        {
+          "score": 0.29119420051574707,
+          "source": "Linke_Program.pdf",
+          "location": "37 / 60",
+          "content": "Linke: Wir wollen die duale  Ausbildung st\u00e4rken und fl\u00e4chenweit anbieten. Die  Anerkennung sowie Qualifizierung zugewanderter  Lehrkr\u00e4fte wollen wir verbessern und die Ausbildung  von Quer- und Seiteneinsteiger*innen (auch als Einfach- Lehrer*innen) vorantreiben. Bis dahin fordern wir vom Bund  ein 100-Milliarden-Euro-Sonderverm\u00f6gen f\u00fcr die  Sanierung, Modernisierung und Unterst\u00fctzung von  Bildungseinrichtungen, um die desolaten Zust\u00e4nde dort  schnell zu beheben. Privatisie- rungen m\u00fcssen f\u00fcr den Bildungssektor ausgeschlossen  werden. Daf\u00fcr  m\u00fcssen Investitionsmittel bereitgestellt werden."
+        },
+        {
+          "score": 0.292411744594574,
+          "source": "Linke_Program.pdf",
+          "location": "38 / 60",
+          "content": "Linke: Wir bef\u00fcrworten die  Kooperation mit der Kinder- und Jugendhilfe aber nicht  so, dass durch die Etikettierung nach verschiedenen  F\u00f6rderbedarfen diskriminiert und ausgesondert wird. Wir wollen das Angebot zum Spracherwerb  an Schulen erweitern und fordern, dass Herkunfts- sprachen in Schulen auch als Erst- oder Zweitsprache  anerkannt werden. Keine Werbung der Bundeswehr in Schulen  und Universit\u00e4ten. Gegen die Kriegst\u00fcchtigkeit vom  Klassenzimmer bis zum H\u00f6rsaal. Wir fordern stattdessen  Bildung und Aufkl\u00e4rung zu Friedensarbeit und zu zivilen  Alternativen zur Bundeswehr an Bildungseinrichtungen!  (Kapitel 6) \t \u25aaWir wollen die Verkehrssicherheit auf dem Weg zur  Schule verbessern und unterst\u00fctzen daher u."
+        },
+        {
+          "score": 0.3056758940219879,
+          "source": "Linke_Program.pdf",
+          "location": "37 / 60",
+          "content": "Linke: Wir fordern au\u00dferdem eine  kostenfreie Verpflegung in Kitas und Schulen sowie eine  kostenfreie Bef\u00f6rderung von Sch\u00fcler*innen, damit gute  Bildung nicht vom Geldbeutel abh\u00e4ngt. Das  Ein\u00fcben und Festigen von Gelerntem sowie die  Bearbeitung von \u00dcbungsaufgaben erfolgen in der  Schule. Die  Kita-Gruppen sind zu gro\u00df und das Personal ist oftmals  \u00fcberlastet. Viele Erzieher*innen verlassen ihren Beruf. Wir  fordern daher ein Kitaqualit\u00e4tsgesetz, das Kinder und  Besch\u00e4ftigte in den Mittelpunkt stellt und den Rechtsan- spruch auf einen Kita-Platz umsetzt."
+        }
+      ],
+      "citations_count": 3
+    },
+    "gruene": {
+      "agreement": 0,
+      "explanation": "Die Gr\u00fcnen haben keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "citations": [
+        {
+          "score": 0.2647068500518799,
+          "source": "Gruene_Program.pdf",
+          "location": "76 / 160",
+          "content": "Gruene: Genau wie in den  Ausbau guter ganzt\u00e4giger Bildungs- und  Betreuungsangebote. Wir bauen die An- gebote der Mental Health Coaches an  Schulen aus und wir setzen uns daf\u00fcr ein,  dass Inklusion aller Sch\u00fcler*innen gem\u00e4\u00df  der UN-Behindertenrechtskonvention an  allen Schulen zur gelebten Realit\u00e4t wird. Diese Unterst\u00fctzung soll dort ankommen,  wo sie besonders gebraucht wird. Statt nur  nach dem K\u00f6nigsteiner Schl\u00fcssel nach Ein- wohnerzahl und Finanzkraft zu finanzieren,  wollen wir die Finanzierung st\u00e4rker an  den tats\u00e4chlichen Bedarfen ausrichten. Wir f\u00f6rdern dabei die  Zusammenarbeit zwischen Schulen, Schul- aufsicht, Schultr\u00e4ger und Jugendhilfe, zum  Beispiel in regionalen Bildungsnetzwerken. Das  Kooperationsverbot wollen wir abschaffen."
+        },
+        {
+          "score": 0.3035687506198883,
+          "source": "Gruene_Program.pdf",
+          "location": "77 / 160",
+          "content": "Gruene: Gemeinsam f\u00f6rdern wir  gesunde Arbeitsbedingungen, inklusive  Arbeitszeiterfassung f\u00fcr Lehrkr\u00e4fte. Au\u00dfer- dem verlassen \u00fcber 50. Einen besonderen Schwerpunkt werden  wir au\u00dferdem auf die Sprachbildung legen. Denn nur  wer die deutsche Sprache versteht und  beherrscht, kann am Unterricht und der  Gemeinschaft teilhaben, sich entfalten und  erfolgreich lernen. Die Sprachf\u00f6rderung  muss als durchg\u00e4ngiger Prozess angelegt  werden, der in der Kita beginnt und sich in  der Schule sowie beruflichen Ausbildung  fortsetzt. Dabei verdient die Mehrsprachig- keit vieler Sch\u00fcler*innen Respekt und die  St\u00e4rkung durch unsere Bildungseinrichtun- gen. Jedes Kind in Deutschland, unabh\u00e4n- gig der Sprachkenntnisse, soll Zugang zum  regul\u00e4ren Bildungssystem erhalten. F\u00fcr eine gute Berufsbildung, die  allen offensteht Unser Land braucht weitere energische  Schritte f\u00fcr mehr Fachkr\u00e4fte \u2013 in Industrie  und Handwerk ebenso wie in Kitas, Schulen  und im Gesundheitssektor."
+        },
+        {
+          "score": 0.30783504247665405,
+          "source": "Gruene_Program.pdf",
+          "location": "75 / 160",
+          "content": "Gruene: Ein  besonderes Augenmerk legen wir auch auf  Kitas mit einem hohen Anteil sozio\u00f6kono- misch benachteiligter Kinder. Dort wollen  wir besonders unterst\u00fctzen. Damit eine  gute Kindertagesbetreuung f\u00fcr alle offen  ist, werden wir daran arbeiten, dass die In- anspruchnahme nicht von hohen Beitr\u00e4gen  abh\u00e4ngt. Wir fordern einkommensabh\u00e4ngi- ge Kitageb\u00fchren als Standard. Das Mitbestimmungsrecht von Kindern  wollen wir weiter st\u00e4rken und Konzepte  zur Demokratief\u00f6rderung fl\u00e4chendeckend  umsetzen. Wir f\u00fchren steuerliche Anreize  f\u00fcr Unternehmen ein, die selbst oder in  Kooperation Kitapl\u00e4tze schaffen, sodass  Kinder von Besch\u00e4ftigten in unmittelbarer  N\u00e4he zur Arbeitsstelle betreut werden  k\u00f6nnen. F\u00fcr starke Schulen f\u00fcr alle Kinder Schulen sind f\u00fcr Kinder und Jugendliche  neben der Familie der Mittelpunkt ihres  Lebens. Hier entwickelt sich die Pers\u00f6n- lichkeit, hier wird gelebt, gelernt und  gelacht. Daher ist es so wichtig, dass jede  und jeder sich dort zugeh\u00f6rig f\u00fchlt und an- genommen wird. Schulen bef\u00e4higen Kinder  und Jugendliche auch dazu, ihre selbst- bestimmte und nachhaltige Zukunft zu ge- stalten. Daher hat jeder junge Mensch die  beste Bildung verdient \u2013 ganz unabh\u00e4ngig  von Wohnort, Herkunft oder sonderp\u00e4da- gogischem F\u00f6rderbedarf."
+        },
+        {
+          "score": 0.30791088938713074,
+          "source": "Gruene_Program.pdf",
+          "location": "65 / 160",
+          "content": "Gruene: Durch Bildung entscheiden  sich die Lebenschancen junger Menschen:  Das f\u00e4ngt grundlegend mit der Kita an  und reicht bis zu Ausbildung oder Studium  \u2013 und darf dort nicht enden. Und das gilt  ganz gleich, ob man im sp\u00e4teren Leben im  Handwerk, der Wissenschaft, im Dienstleis- tungsgewerbe oder der Industrie arbeitet. Wir statten  die jungen Menschen mit F\u00e4higkeiten aus,  die in der neuen, digitalen und klimaneu- tralen Arbeitswelt unverzichtbar sind. Wir  nehmen lebenslanges Lernen ernst und  st\u00e4rken Bildungsformate f\u00fcr alle Lebens- abschnitte. Es ist an der Zeit, dem endlich  auch in der Bundespolitik Rechnung zu  tragen \u2013 Hand in Hand mit L\u00e4ndern und  Kommunen in einem modernen F\u00f6deralis- mus. Wir st\u00e4rken unsere Bildungssysteme,  auch damit sie in Zukunft Kindern mit  Migrationsgeschichte und aus sozio\u00f6ko- nomisch benachteiligten Familien die  gleichen Chancen auf Teilhabe und Auf- stieg erm\u00f6glichen."
+        }
+      ],
+      "citations_count": 4
+    },
+    "spd": {
+      "agreement": 0,
+      "explanation": "Die SPD hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "citations": [
+        {
+          "score": 0.2914653718471527,
+          "source": "SPD_Program.pdf",
+          "location": "14 / 68",
+          "content": "SPD: Wir wollen daher eine Fachkr\u00e4fteoffensive f\u00fcr Kitas  und Schulen verbindlich zwischen allen Bundesl\u00e4ndern vereinbaren, die unter anderem den  Ausbau von Ausbildungskapazit\u00e4ten, eine entlohnte Ausbildung f\u00fcr Erzieherinnen und Erzieher,  multiprofessionelle Teams, die verst\u00e4rkte Ansprache von Quereinsteigenden aus anderen Berufen  sowie den Ausbau vollzeitnaher T\u00e4tigkeit bei den meist weiblichen Besch\u00e4ftigten umfasst. Kein Kind soll ohne die n\u00f6tigen Grundfertigkeiten in die Schule starten \u2013 und keines die Grundschule  verlassen, ohne ausreichend sprechen, zuh\u00f6ren, lesen, schreiben und rechnen zu k\u00f6nnen. Sp\u00e4testens  mit vier Jahren und bei der Einschulung muss der Entwicklungsstand aller Kinder festgestellt und  wenn n\u00f6tig eine verbindliche F\u00f6rderung angeboten werden. Wir wollen beste Bildung und Betreuung f\u00fcr Kinder, Verl\u00e4sslichkeit f\u00fcr arbeitende Eltern und  gute Arbeit f\u00fcr die Besch\u00e4ftigten in Kitas garantieren. Deshalb wollen wir, dass Bund, L\u00e4nder und  Gemeinden gemeinsam weiter in gute Kita-Qualit\u00e4t investieren. F\u00fcr eine gezielte F\u00f6rderung von  Kitas in benachteiligten Lagen wollen wir auch mit Bundesmitteln ein Startchancenprogramm  schaffen und das Startchancenprogramm an Schulen sukzessive ausbauen. Auch der Digitalpakt  Schule muss fortgesetzt und inhaltlich weiterentwickelt werden."
+        },
+        {
+          "score": 0.3092578649520874,
+          "source": "SPD_Program.pdf",
+          "location": "15 / 68",
+          "content": "SPD: Wir wollen  Vielfalt auch in Bildungspl\u00e4nen, Schulb\u00fcchern und in den p\u00e4dagogischen Berufen widerspiegeln. Beste Bildung braucht eine kraftvolle und nachhaltige gesamtstaatliche Finanzierung. Wir wollen  deswegen die Erbschafts- und Schenkungssteuer reformieren, um gezielt in bessere Bildung f\u00fcr alle  Kinder und Jugendlichen investieren zu k\u00f6nnen. Wie schon beim Startchancenprogramm wollen wir  unsere Mittel gezielt dort einsetzen, wo vorgefundene Nachteile bei den Bildungshintergr\u00fcnden von  Elternhaus oder Nachbarschaft zu Nachteilen f\u00fcr die Bildungschancen von Kindern werden. Dar\u00fcber reden, was alles nicht gut ist, das k\u00f6nnen viele. Wir wollen anpacken. F\u00fcr eine gute Zukunft  des Landes und unserer Kinder ist heute eine umfassende Modernisierung n\u00f6tig. Dies gilt sowohl  f\u00fcr die private Wirtschaft als auch f\u00fcr die \u00f6ffentliche Daseinsvorsorge: von Kitas, Schulen und  Hochschulen \u00fcber das Gesundheitssystem bis hin zur Pflege."
+        }
+      ],
+      "citations_count": 2
+    },
+    "volt": {
+      "agreement": 0,
+      "explanation": "Volt hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "citations": [
+        {
+          "score": 0.3163515329360962,
+          "source": "Volt_Program.pdf",
+          "location": "111 / 164",
+          "content": "Volt: Deshalb setzt sich Volt f\u00fcr diese Zukunft ein: \u2022\t Demokratie als Querschnittsthema: Demokratiebildung wird in allen F\u00e4chern verankert."
+        },
+        {
+          "score": 0.3192676901817322,
+          "source": "Volt_Program.pdf",
+          "location": "109 / 164",
+          "content": "Volt: Unser Ziel muss eine inklusive und vielf\u00e4ltige Bildungs- landschaft sein, in der individuelles Lernen, die F\u00f6rderung aller Talente und die freie Ent- faltung der Pers\u00f6nlichkeit im Mittelpunkt stehen. SCHULE F\u00dcR ALLE \u2013 CHANCENGLEICHHEIT UND VIELFALT  Eine gemeinsame Schule f\u00fcr alle Kinder und Jugendlichen schafft gleiche Chancen und  f\u00f6rdert Vielfalt. L\u00e4ngeres gemeinsames Lernen st\u00e4rkt den sozialen Zusammenhalt und er- m\u00f6glicht faire Bildungserfolge, unabh\u00e4ngig von Herkunft oder Wohnort. Deshalb setzt sich  Volt f\u00fcr diese Zukunft ein: \u2022\t Abschaffung der Dreigliedrigkeit: Die Trennung von Hauptschule, Realschule und  Gymnasium wird zugunsten eines l\u00e4ngeren gemeinsamen Lernens aufgehoben, um  Chancengleichheit und sozialen Zusammenhalt zu st\u00e4rken."
+        }
+      ],
+      "citations_count": 2
     }
   }
 }

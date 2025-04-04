@@ -43,7 +43,7 @@ load_dotenv()
 
 def initialize_ms_faiss():
     # Instantiate the vector store
-    embedding_model = MistralAIEmbeddings()
+    embedding_model = MistralAIEmbeddings(model="mistral-embed", mistral_api_key=os.environ.get("MISTRAL_API_KEY"))
 
     # Identify the dimensions and create index by embedding an empty string
     sample_embedding = embedding_model.embed_query("")
@@ -52,7 +52,7 @@ def initialize_ms_faiss():
 
     # Initialize the vector store and return
     vector_store = FAISS(
-        embedding_function=MistralAIEmbeddings(),
+        embedding_function=embedding_model,
         index=index,
         docstore=InMemoryDocstore(),
         index_to_docstore_id={}
