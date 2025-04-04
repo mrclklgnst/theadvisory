@@ -33,7 +33,8 @@ logger = logging.getLogger(__name__)
 
 # Initialize the LLM
 llm = ChatMistralAI(
-    model="mistral-large-latest",
+    # model="mistral-large-latest",
+    model='open-mistral-nemo',
     temperature=0,
     max_retries=2,
 )
@@ -59,14 +60,17 @@ def initialize_ms_faiss():
     )
     return vector_store
 def create_pdf_splits(file_path, programfolder):
+    '''
+    Takes in the path to a relevant PDF file and splits it into smaller chunks
+    '''
+
     if settings.USE_SPACES:
-
+        # Load PDF from DigitalOcean Spaces
         pdf_url = f"{settings.PDF_STORAGE_URL}{file_path}"
-
         response = requests.get(pdf_url)
+
         if response.status_code != 200:
             raise ValueError(f"ERROR: Unable to download PDF from {pdf_url}")
-
         # Save PDF temporarily before processing
         temp_pdf_path = f"/tmp/{file_path}"
         with open(temp_pdf_path, "wb") as f:
@@ -80,10 +84,8 @@ def create_pdf_splits(file_path, programfolder):
             raise ValueError(f"ERROR: PDF file not found - {pdf_path}")
 
         loader = PyMuPDFLoader(pdf_path)
-    # split the given pdf given in file path and programfolder into chunks and return
 
-    # Load the pdf PyMUPDFLoader works much better than PyPDFLoader
-
+    # Load the PDF document
     pdf_doc = loader.load()
     logger.info(f"Loaded {len(pdf_doc)} pages from {file_path}")
 
@@ -109,12 +111,12 @@ def create_pdf_splits(file_path, programfolder):
             logger.error(f"⚠️ Failed to delete temporary file {temp_pdf_path}: {e}")
 
     return pdf_splits
+
 def ms_load_faiss(faiss_dir_path, bucket_name, faiss_dir):
     '''Load FAISS index from local file,
     or from DigitalOcean Spaces if not found locally
     :arg faiss_path: Path to the local FAISS index file
     '''
-    logger.info('IN load faiss')
 
     # Ensure `faiss_dir_path` is a directory
     if not os.path.exists(faiss_dir_path):
@@ -127,6 +129,7 @@ def ms_load_faiss(faiss_dir_path, bucket_name, faiss_dir):
                                         allow_dangerous_deserialization=True)
         logger.info(f"Loaded FAISS index from {faiss_dir_path}")
         return vector_store
+
     except:
         # Load the FAISS index from DigitalOcean Spaces
         try:
@@ -212,21 +215,7 @@ def save_to_spaces(local_path, bucket_name, remote_path):
     finally:
         client.close()
         logger.info("Closed DigitalOcean Spaces client")
-def query_faiss(query, vector_store):
-    # results = vector_store.similarity_search(query=query, k=3)
-    results = vector_store.similarity_search_with_score(query=query, k=3)
-    for doc, score in results:
-        citation = doc.metadata['source'].split("_")[0] + ": "
-        cont = doc.page_content
-        cont = cont.replace('\n', ' ')
-        pattern = r'(?<=\. )([A-Z][^.]*\.)'
-        matches = re.findall(pattern, cont)
-        content = " ".join(matches)
-        citation = citation + content
-        print(f"Score: {score}")
-        print(f"{citation[:300]}")
-        print(f"{doc.metadata['source']}")
-        print("-"*50)
+
 def build_graph(vector_store):
     # Build a graph to be used to process user queries
 
@@ -345,9 +334,11 @@ def build_graph_en(vector_store):
     # Define application steps
     def retrieve(state: State):
         retrieved_docs = []
+        party_count = {}
         results = vector_store.similarity_search_with_score(state['question'], k=30)
         for doc, score in results:
             party = doc.metadata['source'].split("_")[0].lower()
+            party_count[party] = party_count.get(party, 0) + 1
             doc.metadata['party'] = party
             citation = doc.metadata['source'].split("_")[0] + ": "
             cont = doc.page_content
@@ -358,8 +349,12 @@ def build_graph_en(vector_store):
             citation = citation + content
             doc.page_content = citation
             doc.metadata['score'] = float(score)
+
             if len(citation)>100:
                 retrieved_docs.append(doc)
+
+        logger.info(f"Retrieved {len(retrieved_docs)} documents from {len(party_count)} parties.")
+        logger.info(f"Party count: {party_count}")
         return {"context": retrieved_docs}
 
     def generate(state: State):

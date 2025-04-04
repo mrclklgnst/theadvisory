@@ -1,222 +1,210 @@
 {
   "answer": {
-    "fdp": {
-      "agreement": 50,
-      "explanation": "Die FDP unterst\u00fctzt die Umsetzung von Vorhaben durch den Bund im Rahmen der Kompetenzzuweisung des Grundgesetzes und setzt sich f\u00fcr einheitliche bundesweite Qualit\u00e4tsstandards ein, was auf eine gewisse Zentralisierung hinweist.",
+    "afd": {
+      "agreement": 100,
+      "explanation": "AFD supports the use of video surveillance in public transport to combat crime and ensure safety.",
       "citations": [
         {
-          "score": 0.24159619212150574,
-          "source": "FDP_Program.pdf",
-          "location": "7 / 52",
-          "content": "FDP: Bis zur entsprechenden Umsetzung unterst\u00fctzt der  Bund Vorhaben ausnahmsweise im Rahmen der Kompetenzzuweisung des Grundgesetzes, der  L\u00e4nderanteil muss dem strikten Grundsatz der Zus\u00e4tzlichkeit (also neue Mittel) folgen. Dar\u00fcber  hinaus sollen Kooperationen zwischen dem Bund auch nur mit einem Teil der L\u00e4nder erm\u00f6glicht  werden. Wir wollen die Kultusministerkonferenz (KMK) als Entscheidungsgremium abschaffen und  durch einen Bundesbildungsrat aus Wissenschaftlern, Praktikern, Eltern- und Wirtschaftsvertretern  ersetzen. Sch\u00fclerleistungen sind besser, wenn Schulen mehr Freir\u00e4ume haben und sie nicht durch  B\u00fcrokratie gel\u00e4hmt werden. Wir setzen uns f\u00fcr Schulfreiheitsgesetze ein. Wir wollen unter Wahrung  der bestehenden Finanzierungsverantwortung f\u00fcr Bildung einheitliche bundesweite  Qualit\u00e4tsstandards f\u00fcr Bildung von Kindern ab der Kita bis zum Schulabschluss schaffen. Durch  einheitliche Abschlusspr\u00fcfungen (Deutschland-Abitur) stellen wir die bundesweite Vergleichbarkeit  von Schulabschl\u00fcssen sicher. Wir sprechen uns f\u00fcr eine Notenpflicht sp\u00e4testens ab der dritten Klasse  aus. Wir setzen uns f\u00fcr moderne au\u00dferschulische Lernorte ein \u2013 beispielsweise sogenannte  Sch\u00fclerlabore, Maker-Spaces und TUMO-Zentren."
+          "score": 0.4916035234928131,
+          "source": "AFD_Program_en.pdf",
+          "location": "47 / 177",
+          "content": "AFD: Companies and government institutions use these technical possibilities to research the lives of citizens and consumers down to the last detail."
         },
         {
-          "score": 0.2664482295513153,
-          "source": "FDP_Program.pdf",
-          "location": "8 / 52",
-          "content": "FDP: Wir wollen den Schulen mehr p\u00e4dagogische, personelle und finanzielle  Kompetenzen einr\u00e4umen. Dazu sollen alle ein frei einsetzbares Chancenbudget erhalten. Damit  k\u00f6nnen Schulen eigenst\u00e4ndig \u00fcber die Organisation der Bildungselemente, ihr Schulprofil, den  Einsatz multiprofessioneller Teams, aber auch \u00fcber Personalentscheidungen und die L\u00e4nge der  gymnasialen Laufbahn (G8/G9) entscheiden. Mit attraktiveren Arbeitsbedingungen, einer praxisnahen  Aus- und Fortbildung, einer leistungsorientierten Bezahlung und attraktiven  Aufstiegsm\u00f6glichkeiten wollen wir mehr Freir\u00e4ume im Lehrberuf schaffen. Die Lehrausbildung  wollen wir bundesweit zu einem dualen Lehramtsstudium weiterentwickeln, das Theorie und Praxis  eng miteinander verzahnt und einen st\u00e4rkeren Fokus auf digitale und KI-Kompetenzen legt. Eine  bundesweite Mobilit\u00e4tsgarantie soll es Lehrkr\u00e4ften vereinfachen, das Bundesland zu wechseln. Wir setzen uns insbesondere f\u00fcr die bundesweite Einf\u00fchrung der Schulf\u00e4cher  Wirtschaft und Informatik ein."
-        },
-        {
-          "score": 0.2972968816757202,
-          "source": "FDP_Program.pdf",
-          "location": "7 / 52",
-          "content": "FDP: Zur  Bek\u00e4mpfung des Fachkr\u00e4ftemangels wollen wir die p\u00e4dagogischen Aus-, Fort- und Weiterbildung  grundlegend modernisieren. Indem wir die Erzieheraus- und Weiterbildung generell schulgeldfrei  stellen und angemessen verg\u00fcten sowie die Ausbildungskapazit\u00e4ten der L\u00e4nder erh\u00f6hen,  erm\u00f6glichen wir mehr Menschen den Zugang zur Ausbildung. Wir modularisieren die Ausbildung, um  die Ausbildungsqualit\u00e4t bundesweit auf ein hohes einheitliches Niveau anzuheben. Moderne und selbstst\u00e4ndige Schulen \u2013 bessere Bildungschancen f\u00fcr alle  Nicht erst die schlechten PISA-Ergebnisse zeigen: In Zeiten rasanten gesellschaftlichen Wandels  braucht es einen echten Paradigmenwechsel im Bildungssystem. Mit dem Startchancen-Programm  haben wir erste gro\u00dfe Schritte gemacht. Darauf m\u00fcssen wir aufbauen. Dadurch  verpassen wir, das Bildungssystem zu schaffen, das unsere Kinder verdienen."
-        },
-        {
-          "score": 0.307952880859375,
-          "source": "FDP_Program.pdf",
-          "location": "35 / 52",
-          "content": "FDP: Wir Freie Demokraten wollen Ausgaben des Bundes  grunds\u00e4tzlich st\u00e4rker auf die origin\u00e4ren Aufgaben des Bundes beschr\u00e4nken."
-        },
-        {
-          "score": 0.31190526485443115,
-          "source": "FDP_Program.pdf",
-          "location": "36 / 52",
-          "content": "FDP: Ein starker F\u00f6deralismus braucht klare  Zust\u00e4ndigkeiten und Verantwortlichkeiten. Wir halten eine neue Finanzf\u00f6deralismuskommission  daher f\u00fcr unerl\u00e4sslich und werden uns f\u00fcr deren Einsetzung stark machen. Werden Aufgaben  zwischen Bund und L\u00e4ndern ver\u00e4ndert, muss dies auch durch eine \u00c4nderung der  Finanzierungsstr\u00f6me unterlegt sein. Ein agiler Staat f\u00fcr ein modernes Land  Eine Bundesregierung, die mit gutem Beispiel vorangeht  Ein schlanker und ressourcenschonender Staat beginnt bei der Bundesregierung. Deshalb wollen wir  die Zahl der Beauftragten der Bundesregierung deutlich reduzieren und mit Hilfe eines One in, one  out-Prinzips dauerhaft auf niedrigerem Niveau halten. Au\u00dferdem wollen wir die Zahl der  Staatssekret\u00e4re in den Ministerien beschr\u00e4nken und die Laufbahnordnung flexibilisieren. Die  Bundesagentur f\u00fcr Sprunginnovationen (SPRIND) sollte ein Vorbild f\u00fcr die Freisetzung von  Potentialen sein. Mit dem SPRIND-Freiheitsgesetz haben wir Freir\u00e4ume f\u00fcr Innovation geschaffen \u2013  etwa durch den Verzicht auf Zwischeninstanzen und eine Ausnahme vom Besserstellungsverbot, um  hochqualifizierte Fachkr\u00e4fte zu gewinnen. So k\u00f6nnen etwa Top-Experten aus der Wirtschaft  projektbezogen oder zeitlich befristet f\u00fcr Spezialaufgaben zu marktgerechteren Konditionen  angeworben werden, was mit den \u00fcblichen Instrumenten des \u00f6ffentlichen Dienstrechts nicht gelingt."
-        },
-        {
-          "score": 0.31756678223609924,
-          "source": "FDP_Program.pdf",
-          "location": "7 / 52",
-          "content": "FDP: Wir setzen uns f\u00fcr moderne au\u00dferschulische Lernorte ein \u2013 beispielsweise sogenannte  Sch\u00fclerlabore, Maker-Spaces und TUMO-Zentren. Wir wollen KI-gest\u00fctzte und adaptive  Lernmethoden in den Schulalltag integrieren, indem wir analog zum GovTech-Campus einen Campus  f\u00fcr Bildungsinnovationen schaffen. Dieser vernetzt Bundesl\u00e4nder und Kommunen mit innovativen  Akteuren der Tech-Szene und der angewandten Forschung. Durch einen  Digitalpakt 2."
+          "score": 0.51377272605896,
+          "source": "AFD_Program_en.pdf",
+          "location": "48 / 177",
+          "content": "AFD: This allows detailed usage and movement profiles to be created. Even the knowledge of the recording and merging of such data influences the behavior of citizens. We demand the restriction of location and device monitoring to the minimum necessary level, as well as the mandatory possibility of switching off by the user. Furthermore, we demand complete transparency with regard to the monitoring possibilities for the user. We are expressly committed to the abolition of the mandatory speed warning system (Intelligent Speed Assistance), as it patronizes the driver. Fight against disinformation Critical and supposedly disturbing opinions, as long as they do not cross the line into criminal liability, are part of the constitutionally guaranteed right of every citizen of our country. The expression of free opinion in the media of any kind also represents a possibility for the citizen to control the state. Freedom of expression also includes the right to make mistakes. Recently, however, attempts have been made by public and \"non-state\" actors to restrict freedom of expression by directly banning or delegitimizing critical opinions. More and more public and non-state actors, so-called \"NGOs\", such as \"Faktenchecker\" or \"Correctiv\", are being used for disinformation campaigns through state commissioning and financing. As an example, the campaigns for the Corona vaccination should be remembered here."
         }
       ],
-      "citations_count": 6
+      "citations_count": 2
     },
-    "afd": {
-      "agreement": 0,
-      "explanation": "Die AfD hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+    "cdu": {
+      "agreement": 100,
+      "explanation": "CDU supports the use of video surveillance in public transport to better protect women, the elderly, children, people with disabilities and other particularly vulnerable groups.",
       "citations": [
         {
-          "score": 0.3066994845867157,
-          "source": "AFD_Program.pdf",
-          "location": "159 / 177",
-          "content": "AFD: Wir werden verbindliche Kriterien f\u00fcr den \u00dcbergang auf das  Gymnasium festlegen. Schulpflicht zur Bildungspflicht umwandeln Kinder haben ein Recht auf Bildung, und der Staat ist verpflichtet,  dieses sicherzustellen. Er kommt dieser Verpflichtung aber nur  noch unzureichend nach. Deshalb wollen wir die im internationalen  Vergleich sehr strenge deutsche Schulpflicht lockern und zu einer  Bildungspflicht umwandeln. Das Wohl der Sch\u00fcler muss dabei im- mer im Vordergrund stehen. Wiedereinf\u00fchren von Vorschulklassen Die schulischen Leistungen in Deutschland sind seit Jahren r\u00fcckl\u00e4ufig. Wir setzen uns f\u00fcr die Einf\u00fchrung einer  bedarfsorientierten Vorschule ein, um alle Kinder so weit zu f\u00f6rdern,  dass sie dem regul\u00e4ren Unterricht folgen k\u00f6nnen. F\u00f6rderschulen als Bildungschance erhalten Eine Inklusion muss mit Augenma\u00df erfolgen, den Kindern Erfolgs- erlebnisse erm\u00f6glichen, darf aber Sch\u00fcler und Lehrer nicht \u00fcberfor- dern und die Mitsch\u00fcler nicht am Lernfortschritt hindern. Kinder mit besonderem Fo\u0308rderbedarf erhalten in der Fo\u0308rderschule eine  umfassende Unterst\u00fctzung, die die Regelschule nicht leisten kann."
+          "score": 0.41486048698425293,
+          "source": "CDU_Program_en.pdf",
+          "location": "38 / 82",
+          "content": "CDU: We are tightening criminal law in order to better protect women, the elderly, children, people with disabilities and other particularly vulnerable groups. We are increasing the maximum penalty for stalking. We will punish bodily injuries, especially if they are committed with a knife, and group rape much more severely. We do not leave the victims of domestic violence, especially women and children, alone. Your protection is a priority for us. We are therefore developing a security concept and strengthening the women's shelters. We are increasingly using electronic ankle bracelets so that perpetrators of violence against women keep their distance from their former partners. We ensure that where children are cared for, there are binding and standardised protection concepts across the board. In terms of access rights, the following should apply: If a parent inflicts violence on the child, the child must be excluded from care. There is still exploitation, violence and abuse. Human trafficking, forced prostitution and clan crime are a great evil and must be fought."
         },
         {
-          "score": 0.3114233613014221,
-          "source": "AFD_Program.pdf",
-          "location": "158 / 177",
-          "content": "AFD: MEHRGLIEDRIGES SCHULSYSTEM ERHALTEN  Die AfD bef\u00fcrwortet ein nach Begabungen differenziertes Schulsys- tem, das dem unterschiedlichen Leistungsverm\u00f6gen der Sch\u00fcler  gerecht wird. Gleichzeitig soll aber eine Durchl\u00e4ssigkeit gew\u00e4hrleis- tet werden. Hochbegabungen sind besonders zu f\u00f6rdern. An allen  Schulformen sollen die Klassenst\u00e4rken verringert werden."
+          "score": 0.49282220005989075,
+          "source": "CDU_Program_en.pdf",
+          "location": "39 / 82",
+          "content": "CDU: The protection of the population and the security interests of our state must take precedence over the data protection interests of the individual. No one who violates our laws should be given false protection by the anonymity of the Internet. In the fight against serious crimes, such as sexual violence against children, or to prevent terrorist attacks, we oblige Internet service providers to store IP addresses and port numbers for a minimum period of time. We give our security authorities the widest possible authority to use electronic facial recognition and allow them to use modern software to analyse large amounts of data, police databases and social networks. We are creating digital powers such as source telecommunications surveillance, online searches and automatic data analysis using AI for all federal security agencies. We are expanding the possibility of monitoring telecommunications and evaluating radio cells. This is especially true for crimes such as burglary and grandchild tricks, which cut deeply into the victims' sense of security. We need better staffing of our courts, competitive salaries, a boost in digitalisation and faster court proceedings."
+        },
+        {
+          "score": 0.5066399574279785,
+          "source": "CDU_Program_en.pdf",
+          "location": "39 / 82",
+          "content": "CDU: We need better staffing of our courts, competitive salaries, a boost in digitalisation and faster court proceedings. The punishment must follow the deed on the heels. Relieving staff is mainly possible with the help of technical processes and the support of AI. Appreciation for security authorities and emergency services We stand firmly by the side of our security authorities, customs and our emergency services in the police, fire brigade, technical relief agency, aid organisations, rescue services and the Bundeswehr. They deserve support, support and appreciation. Attacks on those who protect us will be punished more harshly. We also include health professionals in this protection. Police officers must be well equipped so that they can protect us and themselves well. We ensure this, for example by equipping the entire area with distance electric impulse devices (TA-SER) and the use of bodycams \u2013 even for operations in living spaces. Where there are allegations against them, they must be clarified by public prosecutors and courts. We are abolishing special investigators, such as the federal police commissioner set up by the traffic light. We reject the introduction of mandatory identification for federal police officers."
+        },
+        {
+          "score": 0.5118055939674377,
+          "source": "CDU_Program_en.pdf",
+          "location": "37 / 82",
+          "content": "CDU: Zero-tolerance strategy We have a zero-tolerance strategy in the fight against crime. Anyone who does not comply with the law must be punished immediately. Everyone must be able to move freely in everyday life, on the way to work and in their free time without fear. We oppose the neglect of public space, because it is often the starting point for crime."
+        },
+        {
+          "score": 0.5152328014373779,
+          "source": "CDU_Program_en.pdf",
+          "location": "73 / 82",
+          "content": "CDU: It is important to have local public transport that is needs-based and future-proof. This also includes a reliable and robust infrastructure as well as an attractive range of urban and rural services. We want to create new transparency in the financing of public transport and ensure adequate financing. To this end, we are streamlining the company and repositioning it. For more competition, the infrastructure and transport sectors must be separated more closely than before. The federal government provides the main financing for maintenance, expansion and modernisation. We are paying particular attention to the expansion of cross-border infrastructure, for example in the direction of Poland. We are reducing the excessive burden of CO2 pricing and CO2 surcharges in the transport industry. We ensure lasting financial stability that is independent of fluctuating budgetary resources. In addition, we need to mobilize more capital in the short term to solve the investment backlog. To this end, we rely on strong incentives for private investors."
+        }
+      ],
+      "citations_count": 5
+    },
+    "spd": {
+      "agreement": 100,
+      "explanation": "SPD does not explicitly mention video surveillance in public transport but supports the creation of a modern Federal Police Act that gives the Federal Police clear powers to effectively meet today's security policy challenges.",
+      "citations": [
+        {
+          "score": 0.4742283821105957,
+          "source": "SPD_Program_en.pdf",
+          "location": "34 / 68",
+          "content": "SPD: This will make local public transport affordable for the breadth of society. Together with the states and municipalities, we will strengthen the financing of local public transport in the long term. The federal government's regionalisation funds are important for this. We will legally stipulate the mandatory takeover of staff for all employees in the event of a change of operator in local and regional transport. We will also enforce the obligation to comply with collective bargaining agreements in procurement procedures. In metropolitan areas, public transport is to be given priority wherever possible. Even those who cannot or do not want to drive a car must be able to be mobile. This requires good accessibility and good bus and train frequencies, both in the countryside and in the city. More for you. Better for Germany."
+        },
+        {
+          "score": 0.5020134449005127,
+          "source": "SPD_Program_en.pdf",
+          "location": "42 / 68",
+          "content": "SPD: We are creating a modern Federal Police Act that gives the Federal Police clear powers to effectively meet today's security policy challenges. We want police officers to receive respect and recognition for their indispensable services to our society. Attacks on them, as well as on rescue workers and helpers, must be consistently punished and punished more severely. In addition, we want to quickly increase the protection of emergency services through improved technical equipment, training and a superior force approach in threatening situations. We must stand by the people who risk their lives every day for our safety. In order to better ensure that no one is harmed when fireworks are set off, we are examining the expansion of the legal options for municipalities to be able to act in a more targeted manner on the ground. In addition, we will launch an initiative with the L\u00e4nder to harmonise the federal differences in the area of police and assembly law. At the same time, the riot police of the states and the federal government are to be strengthened so that the fundamental right to assembly can be protected everywhere. We fight organized crime effectively and sustainably. To this end, we are modernising the definition of organised crime and strengthening our security authorities. We also want to focus on organized white-collar crime and take better account of network-like structures."
         }
       ],
       "citations_count": 2
     },
     "bsw": {
-      "agreement": 0,
-      "explanation": "Die BSW hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+      "agreement": 75,
+      "explanation": "BSW agrees with the use of video surveillance in public transport, but emphasizes the importance of clear authorisation bases and boundaries for the use of such technologies.",
       "citations": [
         {
-          "score": 0.30074000358581543,
-          "source": "BSW_Program.pdf",
-          "location": "23 / 45",
-          "content": "BSW: Die fr\u00fche  Entscheidung in den meisten Bundesl\u00e4ndern  bereits in der 4. Klasse ist einer der Gr\u00fcnde,  dass Elternw\u00fcnsche und -erwartungen oft mehr  Einfluss auf den Bildungsweg der Kinder haben  als deren Talente und Begabungen. Daher muss das Schulsystem auf allen Ebenen  durchl\u00e4ssig sein. Wir setzen uns f\u00fcr ein l\u00e4ngeres  gemeinsames Lernen ein. Bildungsgerechtigkeit  bedeutet auch, dass Bildungschancen nicht  vom Geldbeutel der Eltern abh\u00e4ngen d\u00fcrfen. Damit die schulische Grundausbildung funktio- nieren kann, muss die Vorbereitung in den  fachlichen und sozialen Basiskompetenzen  schon in der Kita beginnen. Senkung von Kita- Beitr\u00e4gen und mittelfristig Beitragsfreiheit. Die Grundschule muss wieder die Kernkompe- tenzen Lesen, Schreiben und Rechnen in den  Mittelpunkt stellen. Das \u201eSchreiben nach Geh\u00f6r\u201c  war dabei kontraproduktiv und muss vollst\u00e4ndig  verschwinden. Studien belegen au\u00dferdem, dass  analoge Lernmittel den digitalen beim Erwerb  von Lese- und Rechtschreibf\u00e4higkeiten \u00fcber- legen sind."
+          "score": 0.43700331449508667,
+          "source": "BSW_Program_en.pdf",
+          "location": "33 / 45",
+          "content": "BSW: Safe streets and squares: For a well-equipped police force More and more people no longer feel safe in public spaces. We are committed to ensuring that the police are staffed and equipped in such a way that they can provide security from crime. Not least for the effective fight against clan crime, the police Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
         },
         {
-          "score": 0.30121737718582153,
-          "source": "BSW_Program.pdf",
-          "location": "23 / 45",
-          "content": "BSW: Studien belegen au\u00dferdem, dass  analoge Lernmittel den digitalen beim Erwerb  von Lese- und Rechtschreibf\u00e4higkeiten \u00fcber- legen sind. Statt krankmachender Social-Media-Algorith- men brauchen Kinder mehr Bewegung, Spa\u00df  und Freunde auch au\u00dferhalb der Schule. So werden Kinder in  die Vereine gebracht und die Vereine und  ihre wertvolle Arbeit unterst\u00fctzt."
+          "score": 0.4569743573665619,
+          "source": "BSW_Program_en.pdf",
+          "location": "34 / 45",
+          "content": "BSW: This requires sufficient staff. It is an untenable state of affairs that in some cities the police can no longer really support victims of crime due to an acute shortage of personnel, and even serious crimes are no longer prosecuted. We want to change that. We oppose the privatization of security tasks. Security belongs in the professional hands of the police. Police officers, firefighters, rescue and disaster relief workers, doctors and health professionals as well as countless volunteers stand up for people's lives and rights every day. When it comes down to it, they must protect our lives. For this commitment and their passionate commitment, these everyday heroes need our support. Our police must be put in a position to put a stop to criminals, terrorists and extremists more effectively. We demand that the police be solidly equipped with modern resources and IT \u2013 especially with regard to current challenges such as cybercrime and terrorism. In doing so, we rely on excellent training and further education in academies and training centres."
         },
         {
-          "score": 0.31009969115257263,
-          "source": "BSW_Program.pdf",
-          "location": "24 / 45",
-          "content": "BSW: Bildung endet nicht im Erwachsenenalter. Die chronische Unterfinanzierung von  Hochschulen muss beendet werden. Zwingend  notwendig ist eine Beteiligung des Bundes an  der Grundfinanzierung von Hochschulen und  mit Investitionsmitteln am Hochschulbau. Eine BAf\u00f6G-Reform zur ausk\u00f6mmlichen Finan- zierung des Studiums und einen Hochschul- sozialpakt f\u00fcr gute soziale Infrastruktur sind  dringend n\u00f6tig. Hochschulen m\u00fcssen wieder zu  Orten des freien Denkens und offenen Diskurses  werden. Professoren und Hochschulpersonal  m\u00fcssen die Gelegenheit haben, sich im Rahmen  der Meinungsfreiheit kritisch \u00e4u\u00dfern zu k\u00f6nnen,  ohne Angst vor einem Disziplinarverfahren oder  dem Verlust des Arbeitsplatzes. Wissenschafts- freiheit muss wiederhergestellt werden."
+          "score": 0.493521124124527,
+          "source": "BSW_Program_en.pdf",
+          "location": "34 / 45",
+          "content": "BSW: It is important that all powers give the safety authorities exactly the tools they need to perform their tasks and must always have clear and unambiguous boundaries. Authorisation bases with a particularly high level of interference \u2013 such as the AI-based evaluation of inventory data or automated data comparison \u2013 are only necessary where our society needs to be protected from extreme, terrorist or other serious crimes. House searches for insulting politicians or scouring the Internet for possible insults are certainly not among the tasks that our police and investigative authorities should deal with. Politicians who employ entire public prosecutors' offices to prosecute their critics for harmless postings on social media are diverting capacities that are needed for more important things. While l\u00e8se-majest\u00e9 against foreign heads of government has no longer been punishable since 2017, the Bundestag added the offence of insulting a \"person standing in the political life of the people\" to the Criminal Code in 2021. However, it is precisely politicians who occupy positions of power and whose decisions often have direct consequences for people's lives and prosperity that have to face criticism from citizens in a free democratic state governed by the rule of law."
         },
         {
-          "score": 0.31266945600509644,
-          "source": "BSW_Program.pdf",
-          "location": "24 / 45",
-          "content": "BSW: Um den Fachkr\u00e4ftemangel in p\u00e4dagogischen  Berufen aufzul\u00f6sen, sind L\u00e4nder und Kommu- nen bei der Ausbildung von mehr Lehrern und  Erziehern zu unterst\u00fctzen. Die Arbeitsbedingun- gen in allen Bildungseinrichtungen m\u00fcssen  dringend verbessert werden. Dazu m\u00fcssen  Lehrkr\u00e4fte durch Unterst\u00fctzungsteams (Sozial- arbeit, Schulpsychologen, IT-Management) von  fachfremden Aufgaben entlastet werden. Die Lehrerausbildung sollte mehr Praxiselemen- te enthalten. Denkbar sind duale Ausbildungs- formen, die zu einem Bachelor-/Masterab- schluss mit anschlie\u00dfendem Referendariat  f\u00fchren. Kurzfristig kann der Mangel an Lehrkr\u00e4f- ten durch attraktive Arbeitsbedingen f\u00fcr Seiten- einsteiger bek\u00e4mpft werden. In den vergangenen Jahren sind Lehrer immer  mehr mit zus\u00e4tzlichen Aufgaben belastet  worden, wie IT-Management, Schulorganisation,  und psychologischer Beratung. Die Bildung von unterst\u00fctzenden Teams f\u00fcr die  Alltagsarbeit an den Schulen \u2013 Sozialarbeit, IT-  Management, psychologische Unterst\u00fctzung  \u2013 kann eine entscheidende Verbesserung  bewirken. Die Kinder und Jugendlichen selbst  m\u00fcssen Kitas und Schulen wieder als geborge- ne Schutzr\u00e4ume empfinden k\u00f6nnen \u2013 ohne  Diskriminierung, Mobbing oder Rassismus \u2013   mit W\u00fcrde und Anerkennung."
-        },
-        {
-          "score": 0.3185068964958191,
-          "source": "BSW_Program.pdf",
-          "location": "24 / 45",
-          "content": "BSW: In den weiterf\u00fchrenden Schulen sollen neben  dem Erwerb solider Grundkenntnisse die indivi- duellen St\u00e4rken ins Zentrum der Ausbildung  r\u00fccken. Jedem jungen Menschen ist das Recht  auf einen Ausbildungsplatz zu garantieren. Eine  St\u00e4rkung der Berufsvorbereitung in der Sekun- darstufe I ist ebenso n\u00f6tig wie die Aufwertung  von mittleren Schulabschl\u00fcssen und Ausbil- dungsberufen \u2013 gerade die \u201ealten\u201c Meisterberufe  geh\u00f6ren zu unseren St\u00e4rken und sollten es auch  in Zukunft sein. Mit einem bundesweiten Prakti- kumskonzept sollen Unternehmen und Betriebe  in enge Kooperation mit den Schulen kommen."
-        }
-      ],
-      "citations_count": 5
-    },
-    "cdu": {
-      "agreement": 0,
-      "explanation": "Die CDU hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
-      "citations": [
-        {
-          "score": 0.28484731912612915,
-          "source": "CDU_Program.pdf",
-          "location": "64 / 82",
-          "content": "CDU: Wir setzen auf aussagekr\u00e4ftige und ver- bindliche Vergleichsarbeiten und Lernstandserhebungen. Unser Ziel ist ein bundesweit  qualitativ vergleichbares Abitur auf hohem Niveau. Es darf keine Nivellierung der Anfor- derungen geben. Wir forcieren den Ausbau ganzt\u00e4giger Bildungsangebote  f\u00fcr Grundschulkinder. Jedes Kind soll individuell mehr gef\u00f6rdert und gefordert werden."
-        },
-        {
-          "score": 0.29391711950302124,
-          "source": "CDU_Program.pdf",
-          "location": "64 / 82",
-          "content": "CDU: Hierzu m\u00fcssen Bund, L\u00e4nder und Kommunen  enger zusammenwirken. Wir setzen auf Mindeststandards und unterst\u00fctzen mit  einem weiteren Investitionsprogramm L\u00e4nder und Kommunen beim Ausbau der Betreu- ungspl\u00e4tze. Jedes Kind, das eingeschult wird, muss Deutsch k\u00f6nnen. Zudem lei- ten wir einen Neustart des erfolgreichen Bundesprogramms Sprach-Kitas ein. Wir schaffen die rechtlichen Voraussetzungen f\u00fcr  eine verbesserte Kooperationsstruktur f\u00fcr Schule, Jugendhilfe und Eingliederungshilfe. Zehntausende  Schulabbrecher pro Jahr sind ein Armutszeugnis f\u00fcr unser Land \u2013 und eine Gefahr f\u00fcr  Wohlstand und Zusammenhalt. Wir m\u00fcssen Kinder und Jugendliche mehr f\u00f6rdern und  mehr fordern. Schule ist Pflicht. Schulabschluss auch. Es darf nicht sein, dass der Wohnort ma\u00df- geblich \u00fcber die Qualit\u00e4t der Bildung entscheidet. Wir setzen auf aussagekr\u00e4ftige und ver- bindliche Vergleichsarbeiten und Lernstandserhebungen."
-        },
-        {
-          "score": 0.3205612599849701,
-          "source": "CDU_Program.pdf",
-          "location": "8 / 82",
-          "content": "CDU: Zudem erh\u00f6hen wir die  steuerliche Absetzbarkeit von Betreuungskosten. Der Jugendschutz und  das Erziehungsrecht der Eltern d\u00fcrfen nicht untergraben werden. Dreh- und Angelpunkt ist ein funktionierendes, verl\u00e4ssliches Bildungssystem. Worauf es jetzt vor allem ankommt:  \u2022 W Wir setzen auf verpflichtende Sprachtests im Vorschulalter. Kinder mit Sprachproble- men m\u00fcssen eine Kita oder Vorschule besuchen. Bei den Anforderun- gen darf es keine Abstriche geben. Es kommt auf jede Fachkraft an. Zudem sorgen wir da- f\u00fcr, dass die Beantragung unb\u00fcrokratischer und schneller wird. Es geht uns um Daseinsvorsorge, Eigenverantwortung und Pr\u00e4vention."
-        }
-      ],
-      "citations_count": 3
-    },
-    "linke": {
-      "agreement": 0,
-      "explanation": "Die Linke hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
-      "citations": [
-        {
-          "score": 0.29119420051574707,
-          "source": "Linke_Program.pdf",
-          "location": "37 / 60",
-          "content": "Linke: Wir wollen die duale  Ausbildung st\u00e4rken und fl\u00e4chenweit anbieten. Die  Anerkennung sowie Qualifizierung zugewanderter  Lehrkr\u00e4fte wollen wir verbessern und die Ausbildung  von Quer- und Seiteneinsteiger*innen (auch als Einfach- Lehrer*innen) vorantreiben. Bis dahin fordern wir vom Bund  ein 100-Milliarden-Euro-Sonderverm\u00f6gen f\u00fcr die  Sanierung, Modernisierung und Unterst\u00fctzung von  Bildungseinrichtungen, um die desolaten Zust\u00e4nde dort  schnell zu beheben. Privatisie- rungen m\u00fcssen f\u00fcr den Bildungssektor ausgeschlossen  werden. Daf\u00fcr  m\u00fcssen Investitionsmittel bereitgestellt werden."
-        },
-        {
-          "score": 0.292411744594574,
-          "source": "Linke_Program.pdf",
-          "location": "38 / 60",
-          "content": "Linke: Wir bef\u00fcrworten die  Kooperation mit der Kinder- und Jugendhilfe aber nicht  so, dass durch die Etikettierung nach verschiedenen  F\u00f6rderbedarfen diskriminiert und ausgesondert wird. Wir wollen das Angebot zum Spracherwerb  an Schulen erweitern und fordern, dass Herkunfts- sprachen in Schulen auch als Erst- oder Zweitsprache  anerkannt werden. Keine Werbung der Bundeswehr in Schulen  und Universit\u00e4ten. Gegen die Kriegst\u00fcchtigkeit vom  Klassenzimmer bis zum H\u00f6rsaal. Wir fordern stattdessen  Bildung und Aufkl\u00e4rung zu Friedensarbeit und zu zivilen  Alternativen zur Bundeswehr an Bildungseinrichtungen!  (Kapitel 6) \t \u25aaWir wollen die Verkehrssicherheit auf dem Weg zur  Schule verbessern und unterst\u00fctzen daher u."
-        },
-        {
-          "score": 0.3056758940219879,
-          "source": "Linke_Program.pdf",
-          "location": "37 / 60",
-          "content": "Linke: Wir fordern au\u00dferdem eine  kostenfreie Verpflegung in Kitas und Schulen sowie eine  kostenfreie Bef\u00f6rderung von Sch\u00fcler*innen, damit gute  Bildung nicht vom Geldbeutel abh\u00e4ngt. Das  Ein\u00fcben und Festigen von Gelerntem sowie die  Bearbeitung von \u00dcbungsaufgaben erfolgen in der  Schule. Die  Kita-Gruppen sind zu gro\u00df und das Personal ist oftmals  \u00fcberlastet. Viele Erzieher*innen verlassen ihren Beruf. Wir  fordern daher ein Kitaqualit\u00e4tsgesetz, das Kinder und  Besch\u00e4ftigte in den Mittelpunkt stellt und den Rechtsan- spruch auf einen Kita-Platz umsetzt."
-        }
-      ],
-      "citations_count": 3
-    },
-    "gruene": {
-      "agreement": 0,
-      "explanation": "Die Gr\u00fcnen haben keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
-      "citations": [
-        {
-          "score": 0.2647068500518799,
-          "source": "Gruene_Program.pdf",
-          "location": "76 / 160",
-          "content": "Gruene: Genau wie in den  Ausbau guter ganzt\u00e4giger Bildungs- und  Betreuungsangebote. Wir bauen die An- gebote der Mental Health Coaches an  Schulen aus und wir setzen uns daf\u00fcr ein,  dass Inklusion aller Sch\u00fcler*innen gem\u00e4\u00df  der UN-Behindertenrechtskonvention an  allen Schulen zur gelebten Realit\u00e4t wird. Diese Unterst\u00fctzung soll dort ankommen,  wo sie besonders gebraucht wird. Statt nur  nach dem K\u00f6nigsteiner Schl\u00fcssel nach Ein- wohnerzahl und Finanzkraft zu finanzieren,  wollen wir die Finanzierung st\u00e4rker an  den tats\u00e4chlichen Bedarfen ausrichten. Wir f\u00f6rdern dabei die  Zusammenarbeit zwischen Schulen, Schul- aufsicht, Schultr\u00e4ger und Jugendhilfe, zum  Beispiel in regionalen Bildungsnetzwerken. Das  Kooperationsverbot wollen wir abschaffen."
-        },
-        {
-          "score": 0.3035687506198883,
-          "source": "Gruene_Program.pdf",
-          "location": "77 / 160",
-          "content": "Gruene: Gemeinsam f\u00f6rdern wir  gesunde Arbeitsbedingungen, inklusive  Arbeitszeiterfassung f\u00fcr Lehrkr\u00e4fte. Au\u00dfer- dem verlassen \u00fcber 50. Einen besonderen Schwerpunkt werden  wir au\u00dferdem auf die Sprachbildung legen. Denn nur  wer die deutsche Sprache versteht und  beherrscht, kann am Unterricht und der  Gemeinschaft teilhaben, sich entfalten und  erfolgreich lernen. Die Sprachf\u00f6rderung  muss als durchg\u00e4ngiger Prozess angelegt  werden, der in der Kita beginnt und sich in  der Schule sowie beruflichen Ausbildung  fortsetzt. Dabei verdient die Mehrsprachig- keit vieler Sch\u00fcler*innen Respekt und die  St\u00e4rkung durch unsere Bildungseinrichtun- gen. Jedes Kind in Deutschland, unabh\u00e4n- gig der Sprachkenntnisse, soll Zugang zum  regul\u00e4ren Bildungssystem erhalten. F\u00fcr eine gute Berufsbildung, die  allen offensteht Unser Land braucht weitere energische  Schritte f\u00fcr mehr Fachkr\u00e4fte \u2013 in Industrie  und Handwerk ebenso wie in Kitas, Schulen  und im Gesundheitssektor."
-        },
-        {
-          "score": 0.30783504247665405,
-          "source": "Gruene_Program.pdf",
-          "location": "75 / 160",
-          "content": "Gruene: Ein  besonderes Augenmerk legen wir auch auf  Kitas mit einem hohen Anteil sozio\u00f6kono- misch benachteiligter Kinder. Dort wollen  wir besonders unterst\u00fctzen. Damit eine  gute Kindertagesbetreuung f\u00fcr alle offen  ist, werden wir daran arbeiten, dass die In- anspruchnahme nicht von hohen Beitr\u00e4gen  abh\u00e4ngt. Wir fordern einkommensabh\u00e4ngi- ge Kitageb\u00fchren als Standard. Das Mitbestimmungsrecht von Kindern  wollen wir weiter st\u00e4rken und Konzepte  zur Demokratief\u00f6rderung fl\u00e4chendeckend  umsetzen. Wir f\u00fchren steuerliche Anreize  f\u00fcr Unternehmen ein, die selbst oder in  Kooperation Kitapl\u00e4tze schaffen, sodass  Kinder von Besch\u00e4ftigten in unmittelbarer  N\u00e4he zur Arbeitsstelle betreut werden  k\u00f6nnen. F\u00fcr starke Schulen f\u00fcr alle Kinder Schulen sind f\u00fcr Kinder und Jugendliche  neben der Familie der Mittelpunkt ihres  Lebens. Hier entwickelt sich die Pers\u00f6n- lichkeit, hier wird gelebt, gelernt und  gelacht. Daher ist es so wichtig, dass jede  und jeder sich dort zugeh\u00f6rig f\u00fchlt und an- genommen wird. Schulen bef\u00e4higen Kinder  und Jugendliche auch dazu, ihre selbst- bestimmte und nachhaltige Zukunft zu ge- stalten. Daher hat jeder junge Mensch die  beste Bildung verdient \u2013 ganz unabh\u00e4ngig  von Wohnort, Herkunft oder sonderp\u00e4da- gogischem F\u00f6rderbedarf."
-        },
-        {
-          "score": 0.30791088938713074,
-          "source": "Gruene_Program.pdf",
-          "location": "65 / 160",
-          "content": "Gruene: Durch Bildung entscheiden  sich die Lebenschancen junger Menschen:  Das f\u00e4ngt grundlegend mit der Kita an  und reicht bis zu Ausbildung oder Studium  \u2013 und darf dort nicht enden. Und das gilt  ganz gleich, ob man im sp\u00e4teren Leben im  Handwerk, der Wissenschaft, im Dienstleis- tungsgewerbe oder der Industrie arbeitet. Wir statten  die jungen Menschen mit F\u00e4higkeiten aus,  die in der neuen, digitalen und klimaneu- tralen Arbeitswelt unverzichtbar sind. Wir  nehmen lebenslanges Lernen ernst und  st\u00e4rken Bildungsformate f\u00fcr alle Lebens- abschnitte. Es ist an der Zeit, dem endlich  auch in der Bundespolitik Rechnung zu  tragen \u2013 Hand in Hand mit L\u00e4ndern und  Kommunen in einem modernen F\u00f6deralis- mus. Wir st\u00e4rken unsere Bildungssysteme,  auch damit sie in Zukunft Kindern mit  Migrationsgeschichte und aus sozio\u00f6ko- nomisch benachteiligten Familien die  gleichen Chancen auf Teilhabe und Auf- stieg erm\u00f6glichen."
+          "score": 0.5173436403274536,
+          "source": "BSW_Program_en.pdf",
+          "location": "42 / 45",
+          "content": "BSW: Tracking by means of cookies or other methods should be avoided as a matter of principle and should not be requested via cookie banner if the user specifies this in the browser settings. This also applies to people who do not have a computer or an Internet connection. They must all be able to use the services of the railway and local transport at no extra charge and to receive their packages. They must be able to get appointments at offices, with doctors and doctors. The same goes for people who don't have access to the internet. Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
         }
       ],
       "citations_count": 4
     },
-    "spd": {
-      "agreement": 0,
-      "explanation": "Die SPD hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+    "volt": {
+      "agreement": 75,
+      "explanation": "Volt supports the use of video surveillance in public transport as part of their commitment to strengthening the protection of religious freedom and the security of religious institutions. They also support the digitization of case processing to improve law enforcement.",
       "citations": [
         {
-          "score": 0.2914653718471527,
-          "source": "SPD_Program.pdf",
-          "location": "14 / 68",
-          "content": "SPD: Wir wollen daher eine Fachkr\u00e4fteoffensive f\u00fcr Kitas  und Schulen verbindlich zwischen allen Bundesl\u00e4ndern vereinbaren, die unter anderem den  Ausbau von Ausbildungskapazit\u00e4ten, eine entlohnte Ausbildung f\u00fcr Erzieherinnen und Erzieher,  multiprofessionelle Teams, die verst\u00e4rkte Ansprache von Quereinsteigenden aus anderen Berufen  sowie den Ausbau vollzeitnaher T\u00e4tigkeit bei den meist weiblichen Besch\u00e4ftigten umfasst. Kein Kind soll ohne die n\u00f6tigen Grundfertigkeiten in die Schule starten \u2013 und keines die Grundschule  verlassen, ohne ausreichend sprechen, zuh\u00f6ren, lesen, schreiben und rechnen zu k\u00f6nnen. Sp\u00e4testens  mit vier Jahren und bei der Einschulung muss der Entwicklungsstand aller Kinder festgestellt und  wenn n\u00f6tig eine verbindliche F\u00f6rderung angeboten werden. Wir wollen beste Bildung und Betreuung f\u00fcr Kinder, Verl\u00e4sslichkeit f\u00fcr arbeitende Eltern und  gute Arbeit f\u00fcr die Besch\u00e4ftigten in Kitas garantieren. Deshalb wollen wir, dass Bund, L\u00e4nder und  Gemeinden gemeinsam weiter in gute Kita-Qualit\u00e4t investieren. F\u00fcr eine gezielte F\u00f6rderung von  Kitas in benachteiligten Lagen wollen wir auch mit Bundesmitteln ein Startchancenprogramm  schaffen und das Startchancenprogramm an Schulen sukzessive ausbauen. Auch der Digitalpakt  Schule muss fortgesetzt und inhaltlich weiterentwickelt werden."
+          "score": 0.4880569875240326,
+          "source": "Volt_Program_en.pdf",
+          "location": "33 / 164",
+          "content": "Volt: We all benefit from efficient and transparent policing. That's why Volt is committed to this future: \u2022  Integration of digital technologies: Technologies and equipment, such as bodycams, reporting systems and analytics tools, will be more integrated into the service. RESOLUTELY FIGHTING CYBERCRIME With an ever-evolving threat landscape, it is important to ensure the protection of personal data and the digital security of everyone. This ensures trust in digital rights and at the same time the competitiveness of Germany as a business location. Clearly defined government contact points and practicable data protection regulations enable companies to work securely, in compliance with the law and in an innovation-friendly manner. At the same time, access to innovation-relevant data is made possible without interfering with personal rights. That's why Volt is committed to this future: \u2022  Expansion of cybercrime units: Cybercrime units of the police and judiciary will be strengthened."
         },
         {
-          "score": 0.3092578649520874,
-          "source": "SPD_Program.pdf",
-          "location": "15 / 68",
-          "content": "SPD: Wir wollen  Vielfalt auch in Bildungspl\u00e4nen, Schulb\u00fcchern und in den p\u00e4dagogischen Berufen widerspiegeln. Beste Bildung braucht eine kraftvolle und nachhaltige gesamtstaatliche Finanzierung. Wir wollen  deswegen die Erbschafts- und Schenkungssteuer reformieren, um gezielt in bessere Bildung f\u00fcr alle  Kinder und Jugendlichen investieren zu k\u00f6nnen. Wie schon beim Startchancenprogramm wollen wir  unsere Mittel gezielt dort einsetzen, wo vorgefundene Nachteile bei den Bildungshintergr\u00fcnden von  Elternhaus oder Nachbarschaft zu Nachteilen f\u00fcr die Bildungschancen von Kindern werden. Dar\u00fcber reden, was alles nicht gut ist, das k\u00f6nnen viele. Wir wollen anpacken. F\u00fcr eine gute Zukunft  des Landes und unserer Kinder ist heute eine umfassende Modernisierung n\u00f6tig. Dies gilt sowohl  f\u00fcr die private Wirtschaft als auch f\u00fcr die \u00f6ffentliche Daseinsvorsorge: von Kitas, Schulen und  Hochschulen \u00fcber das Gesundheitssystem bis hin zur Pflege."
+          "score": 0.49989354610443115,
+          "source": "Volt_Program_en.pdf",
+          "location": "32 / 164",
+          "content": "Volt: For some time now, however, it has been part of the everyday life of the police and public prosecutor's office that the workload increases and overtime is accumulated to an unjustifiable extent. A reduction in overtime and a normalization of the workload are not in sight. This jeopardizes the quality of work and creates a risk both for the staff and for the people whose safety it is supposed to ensure. Law enforcement authorities and their staff must therefore be strengthened and supported in the best possible way in the fulfilment of their tasks. RETURN TO CORE POLICE TASKS Police are often overburdened with tasks outside their core area, which limits their ability to perform and endangers public safety. In addition, there is a shortage of staff in many places. A return to the core tasks and measures for recruiting personnel enables high-quality police work that increases the safety of the population. That's why Volt is committed to this future: \u2022  Delegation of subsidiary tasks: Tasks such as dog tax controls or prison transports are returned to the responsible administrations. This includes measures to make training more attractive. SECURITY IN THE DIGITAL SPACE People's lives are increasingly taking place in the digital space."
+        },
+        {
+          "score": 0.5086778998374939,
+          "source": "Volt_Program_en.pdf",
+          "location": "34 / 164",
+          "content": "Volt: Strengthened law enforcement protects the population from the effects of these crimes. That's why Volt is committed to this future: \u2022  Increased personnel: Special units at the BKA, customs and in the federal states will be strengthened. ADAPTED LAW ENFORCEMENT Effective and efficient prosecution is essential to solve crimes quickly and fairly. We all benefit from accelerated case processing, better cooperation between authorities and a targeted use of resources. That's why Volt is committed to this future: \u2022  Digitization of case processing: The entire process from the filing of the complaint to the public prosecutor's office will be digitized. NATIONWIDE STANDARDS FOR THE POLICE The challenges of modern crime require uniform and coordinated police work throughout Germany. We all benefit from more efficient law enforcement, the same standards and improved protection against crime in all regions of German land."
+        },
+        {
+          "score": 0.5145828127861023,
+          "source": "Volt_Program_en.pdf",
+          "location": "36 / 164",
+          "content": "Volt: It is important to strengthen the protection of religious freedom and the security of religious institutions. That's why Volt is committed to this future: \u2022  Protection of religious institutions: The protection and security of places of worship and places of worship will be expanded. SAFETY FOR PEOPLE WITH EXPERIENCE OF RACISM Discrimination and unfair treatment by security authorities undermine trust in public safety and justice. Targeted measures are needed to combat racist practices and empower those affected. That's why Volt is committed to this future: \u2022  Independent complaints bodies: Independent complaints bodies will be expanded to take stronger action against discrimination."
+        },
+        {
+          "score": 0.5183397531509399,
+          "source": "Volt_Program_en.pdf",
+          "location": "25 / 164",
+          "content": "Volt: STRENGTHENING FUNDAMENTAL DIGITAL RIGHTS We must preserve and strengthen digital fundamental rights, because they are of central importance for people's trust in the state. Clear legal framework conditions are needed to ensure the protection of privacy and prevent the misuse of surveillance technologies. This preserves the fundamental rights to privacy, informational self-determination and protection against arbitrary interference. That's why Volt is committed to this future: \u2022  Rejection of surveillance technologies: There is no nationwide use and no automatic evaluation of surveillance technologies. Systems for biometric real-time remote identification (RBI) will be banned \u2013 even in sensitive places such as borders and prisons. The conditions and responsibilities for (temporary) exceptions, for example for the fight against terrorism, are clearly and transparently defined. A supervisory body based on the model of the UK Biometrics and Surveillance Camera Commissioner will be set up at the BfDI."
+        },
+        {
+          "score": 0.5198572874069214,
+          "source": "Volt_Program_en.pdf",
+          "location": "17 / 164",
+          "content": "Volt: That is why Volt is committed to the following future: \u2022  Uniform recording and transparency: A nationwide standardised reporting system will be introduced for the uniform recording of politically motivated crimes. A central pool of information documents extremist ideas and networks, which facilitates targeted prosecution. In addition, the penalties for hate crimes and support for extremist ideologies \u2013 especially in the digital space \u2013 will be tightened in order to create clear consequences for perpetrators."
+        }
+      ],
+      "citations_count": 6
+    },
+    "linke": {
+      "agreement": 50,
+      "explanation": "Linke is cautious about the use of video surveillance, emphasizing the importance of closing security gaps without exception and making the Federal Office for Information Security more independent.",
+      "citations": [
+        {
+          "score": 0.5039908289909363,
+          "source": "Linke_Program_en.pdf",
+          "location": "56 / 60",
+          "content": "Linke: That is why we want to decriminalise IT security research, close security gaps without exception and make the Federal Office for Information Security more independent."
+        },
+        {
+          "score": 0.5152583718299866,
+          "source": "Linke_Program_en.pdf",
+          "location": "35 / 60",
+          "content": "Linke: Every twentieth car trip could be avoided by the ticket - and it was only available for 3 months The increase in the subscription price to 58 euros is fatal and the different solutions in the states must be designed uniformly nationwide With a VAT exemption for local public transport, money will be freed up for local transport in the short term \u2022  We want to reintroduce the 9-euro ticket immediately. For pupils, trainees, students and senior citizens, we want an immediate 0-euro ticket. The carriage of children as well as bicycles and dogs must be included For all subscribers, we demand six free rides per year in long-distance transport."
         }
       ],
       "citations_count": 2
     },
-    "volt": {
-      "agreement": 0,
-      "explanation": "Volt hat keine Aussagen gemacht, die auf eine \u00dcbertragung von Zust\u00e4ndigkeiten in der Schulpolitik an den Bund hinweisen.",
+    "gruene": {
+      "agreement": 50,
+      "explanation": "Gruene wants to make buses and trains places where passengers feel comfortable, including safety from assaults, especially against women. They do not explicitly mention video surveillance but focus on improving police action and attitude patterns.",
       "citations": [
         {
-          "score": 0.3163515329360962,
-          "source": "Volt_Program.pdf",
-          "location": "111 / 164",
-          "content": "Volt: Deshalb setzt sich Volt f\u00fcr diese Zukunft ein: \u2022\t Demokratie als Querschnittsthema: Demokratiebildung wird in allen F\u00e4chern verankert."
+          "score": 0.46418190002441406,
+          "source": "Gruene_Program_en.pdf",
+          "location": "48 / 160",
+          "content": "Gruene: In addition, we want to make buses and trains places where passengers feel comfortable. In addition to cleanliness, this also includes safety from assaults, especially against women."
         },
         {
-          "score": 0.3192676901817322,
-          "source": "Volt_Program.pdf",
-          "location": "109 / 164",
-          "content": "Volt: Unser Ziel muss eine inklusive und vielf\u00e4ltige Bildungs- landschaft sein, in der individuelles Lernen, die F\u00f6rderung aller Talente und die freie Ent- faltung der Pers\u00f6nlichkeit im Mittelpunkt stehen. SCHULE F\u00dcR ALLE \u2013 CHANCENGLEICHHEIT UND VIELFALT  Eine gemeinsame Schule f\u00fcr alle Kinder und Jugendlichen schafft gleiche Chancen und  f\u00f6rdert Vielfalt. L\u00e4ngeres gemeinsames Lernen st\u00e4rkt den sozialen Zusammenhalt und er- m\u00f6glicht faire Bildungserfolge, unabh\u00e4ngig von Herkunft oder Wohnort. Deshalb setzt sich  Volt f\u00fcr diese Zukunft ein: \u2022\t Abschaffung der Dreigliedrigkeit: Die Trennung von Hauptschule, Realschule und  Gymnasium wird zugunsten eines l\u00e4ngeren gemeinsamen Lernens aufgehoben, um  Chancengleichheit und sozialen Zusammenhalt zu st\u00e4rken."
+          "score": 0.49834370613098145,
+          "source": "Gruene_Program_en.pdf",
+          "location": "133 / 160",
+          "content": "Gruene: With the Federal Police Commissioner, we have created a contact point for police officers and citizens, whom we want to strengthen and develop. In this way, we are also improving the working conditions for police officers. As the executive organ of the state's monopoly on violence, the police also have a special responsibility. With a system for checks that sets out the reasons for checks, we want to make police action more transparent. In doing so, we want to design police control powers in such a way that they can be applied in a legally secure manner. In addition, we are introducing an anonymised labelling requirement for the Federal Police. In education and training, we want to raise awareness of diversity and develop a good error culture. Police action and attitude patterns have been comparatively little researched in Germany. That is why we want to open up the police more to scientific research. We want to focus more on dealing with exceptional psychological situations and improve psychosocial emergency care for emergency services and those affected. When the security authorities in Europe work together, they create more security for people in a Europe that is growing together. To this end, we are expanding the joint police centres in the border regions."
+        },
+        {
+          "score": 0.4984000027179718,
+          "source": "Gruene_Program_en.pdf",
+          "location": "132 / 160",
+          "content": "Gruene: We reconcile evidence-based domestic policy with civil rights and address the causes of crime. With investments, we also want to ensure that the police can work in modern properties and with good equipment, including digitally. Crime is increasingly shifting to the digital space \u2013 the police must be able to keep up with this technology. In order to prevent crime, we want to keep an eye on crime developments and make greater use of scientific expertise. We therefore want to enshrine the periodic safety report, which bundles this work, in law. Scientifically sound recording systems and databases enable precise situation pictures and assessments, promote good investigative work and lay the foundation for appropriate and legally secure police measures. We are therefore working towards improving police databases in the police information network. We are reforming police statistics to better record hate crime. Anyone who is known to the security authorities as an enemy of the constitution is not allowed to possess weapons. The number of legal and illegal firearms has increased in recent years. Too many acts of violence are still committed with firearms, especially in the domestic sphere. Every person who dies from a firearm is one too many."
         }
       ],
-      "citations_count": 2
+      "citations_count": 3
+    },
+    "fdp": {
+      "agreement": 25,
+      "explanation": "FDP is critical of comprehensive surveillance in public spaces and rejects the use of automated facial recognition. They support video surveillance at individual crime hotspots but not as a replacement for police presence.",
+      "citations": [
+        {
+          "score": 0.500675618648529,
+          "source": "FDP_Program_en.pdf",
+          "location": "23 / 52",
+          "content": "FDP: Because we all have the right to move in public space without constant control. Video surveillance can make sense at individual crime hotspots such as train stations, but it never replaces the Presence of police officers and functioning prevention concepts. There must therefore be no comprehensive surveillance in public spaces. We reject the use of automated facial recognition in public spaces. The protection of privacy must also apply in the digital world. This includes a right to encryption so that private communication remains private. We reject network blocking, chat controls, upload filters, data retention and other forms of data collection without cause. With our Quick-freeze model, certain data can instead be secured by judicial order in the event of suspicion. German gun law must be designed with a sense of proportion. Sport shooters and hunters must not be unnecessarily burdened. Instead, the focus on endangerers and extremists should be strengthened by improved communication between the authorities and the fight against the illegal arms trade. We call for the development of a future-proof data infrastructure and the reform of the fragmented data protection supervisory authority in order to strengthen the innovative strength and competitiveness of the German economy."
+        }
+      ],
+      "citations_count": 1
     }
   }
 }
