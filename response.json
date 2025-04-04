@@ -1,226 +1,191 @@
 {
   "answer": {
-    "linke": {
-      "agreement": 90,
-      "explanation": "Die Linke fordert umfassende Regulierung von Mieten.",
-      "citations": [
-        {
-          "score": 0.24071991443634033,
-          "source": "Linke_Program.pdf",
-          "location": "7 / 60",
-          "content": "Linke: Wir wollen den K\u00fcndigungs\u00ad schutz ausweiten und fordern Dauermiet\u00advertr\u00e4ge f\u00fcr  alle. Eigenbedarfsk\u00fcndigungen m\u00fcssen auf Verwandte  ersten Grades beschr\u00e4nkt werden. Mietwohnungen  m\u00fcssen durch ein generelles Umwandlungsverbot  gesch\u00fctzt werden. Wir wollen das  Verfahren daher stark vereinfachen und von unn\u00f6tigen  Kriterien befreien. Antr\u00e4ge m\u00fcssen sp\u00e4testens drei  Monate nach Antragstellung beschieden werden. Mit  den steigenden Mieten explodiert auch das Wohngeld:  Durch einen bundesweiten Mietendeckel sowie Investi- tionen in den sozialen und gemeinn\u00fctzigen  Wohnungs\u00adbau wird jedoch die Notwendigkeit von  Wohngeldzusch\u00fcssen perspektivisch abnehmen. Wir wollen sozial gerechten Klimaschutz  (Kapitel 8). Das wollen wir unter Strafe stellen."
-        },
-        {
-          "score": 0.24605977535247803,
-          "source": "Linke_Program.pdf",
-          "location": "7 / 60",
-          "content": "Linke: Wir  m\u00fcssen dringend neue Wohnungen bauen, aber sie  m\u00fcssen bezahlbar sein! Es braucht eine grundlegende  Wende in der Mietenpolitik. Wohnungen sind keine Ware. Mieten runter! Mieten m\u00fcssen gesenkt und wirksam reguliert werden. Die  Mietpreisbremse ist weitgehend wirkungslos und bef\u00f6rdert  unversch\u00e4mte Praktiken: Wer klagt, hat schnell das  \u201eVertrauen\u201c des Vermieters verloren \u2013 dann dauert die  n\u00e4chste Reparatur in der Wohnung eben l\u00e4nger. Ein Drittel  der Wohnungen in den Metropolen wird mittlerweile  m\u00f6bliert vermietet, weil die Mietpreisbremse dann nicht  gilt. Die Ampel hat es nicht einmal geschafft, die Mietpreis\u00ad bremse zu verl\u00e4ngern, geschweige denn sie zu  versch\u00e4rfen. In  angespannten Wohnungsm\u00e4rkten m\u00fcssen besonders  hohe Mieten abgesenkt werden. Nur gemeinn\u00fctzige Vermieter*innen,  die bisher sehr niedrige Mieten angesetzt haben, d\u00fcrfen  diese im Rahmen der Kostendeckung geringf\u00fcgig  erh\u00f6hen. Es muss Schluss sein mit den Tricks der  Vermieter f\u00fcr h\u00f6here Mieten: Staffelmieten und Index- mietvertr\u00e4ge wollen wir verbieten und die Vermietung  m\u00f6blierter Wohnungen streng regulieren."
-        },
-        {
-          "score": 0.2843282222747803,
-          "source": "Linke_Program.pdf",
-          "location": "8 / 60",
-          "content": "Linke: Investitionsoffensive f\u00fcr den sozialen und  gemeinn\u00fctzigen Wohnungsbau Wir wollen 20\u00a0Milliarden\u00a0Euro im Jahr in gemeinn\u00fctzigen  Wohnraum investieren. Aktuell h\u00e4tten mehr als 11 Millionen  Mieter*innenhaushalte in Deutschland Anspruch auf eine  Sozialwohnung. Der Bestand reicht nicht einmal f\u00fcr jeden  zehnten dieser Haushalte. Gemeinn\u00fctziger Wohnraum h\u00e4lt  die Miete bezahlbar. Wien ist die Metropole in\u00a0Europa, in  der die Mieten am wenigsten explodiert sind, denn die  H\u00e4lfte des Wohnraums ist gemeinn\u00fctzig: ein Viertel  \u201eGemeindebau\u201c und ein Viertel genossenschaftlich. Wir wollen den Wohnbestand von  Immobilien\u00adkonzernen mit mehr als 3 000 Wohnungen  vergesellschaften und in eine Anstalt \u00f6ffentlichen  Rechts mit demokratischer Verwaltung \u00fcberf\u00fchren. Entsch\u00e4digungen soll es nur f\u00fcr Kleinaktion\u00e4re  geben. In den 1990er Jahren gab es  noch rund 3 Millionen Sozialwohnungen \u2013 jetzt gibt es  nur noch eine Million. Egal ob im Bestand oder beim  Neubau, wir fordern: einmal Sozialbindung, immer  Sozialbindung."
-        },
-        {
-          "score": 0.30297160148620605,
-          "source": "Linke_Program.pdf",
-          "location": "7 / 60",
-          "content": "Linke: Das wollen wir unter Strafe stellen. F\u00fcr den durchschnittlichen Verbrauch wollen wir  preisg\u00fcnstige Sockeltarife schaffen. Wir wollen Strom-  und Gassperren verbieten. Wir wollen einen Fonds  einrichten, aus dem unb\u00fcrokratisch die Heizkosten  \u00fcbernommen werden k\u00f6nnen, wenn sich Mieter*innen  keine warme Wohnung leisten k\u00f6nnen. Wir fordern ein Recht auf Wohnungstausch:  Vermieter*innen d\u00fcrfen einen Wohnungstausch ohne  Mieterh\u00f6hungen nur mit triftigen Gr\u00fcnden ablehnen."
-        },
-        {
-          "score": 0.31298255920410156,
-          "source": "Linke_Program.pdf",
-          "location": "33 / 60",
-          "content": "Linke: F\u00fcr einen Einpersonenhaushalt wollen wir bei  einem Jahreseinkommen von 30. Spitzen- verdiener*innen mit einem Einkommen von  250. Deshalb wollen wir die Umlage  f\u00fcr energetische Sanierung abschaffen und das Konzept  der Warmmietenneutralit\u00e4t verankern: Die Summe aus  der Kaltmiete und der durch die Sanierung tats\u00e4chlich  eingesparten Energiekosten muss gleichbleiben. Wir  unterst\u00fctzen das gemeinsame Drittelmodell von  Mieterbund und BUND. Bisher nehmen nur 15\u00a0Prozent  von ihnen die F\u00f6rdermittel in Anspruch. Ein Abriss soll nur  noch dann erlaubt sein, wenn die Geb\u00e4udesubstanz  nicht mehr zu retten ist oder wenn durch Neubau ein  Vielfaches des bisherigen Wohnraums entsteht."
-        },
-        {
-          "score": 0.31672951579093933,
-          "source": "Linke_Program.pdf",
-          "location": "7 / 60",
-          "content": "Linke: Wohnen darf kein Luxus sein Bezahlbares Wohnen ist die zentrale soziale Frage unserer  Zeit. Olaf Scholz ist als Mietenkanzler angetreten, aber in  den letzten drei Jahren sind die Mieten weiter explodiert. Millionen Menschen geben einen gro\u00dfen Teil  ihres Einkommens f\u00fcr das Wohnen aus. Dazu kommen die  rasant gestiegenen Nebenkosten. Immobilienkonzerne  machen Extra-Profite, indem sie \u00fcberzogene Heizkosten\u00ad rechnungen an ihre Mieter*innen schicken und hoffen,  dass es niemand merkt. Explodierende Mieten sind kein Naturgesetz: Bezahlbare  Wohnungen, Sicherheit vor Mieterh\u00f6hungen, genossen\u00ad schaftlicher Wohnungsbau sind sinnvoll, gerecht und auch  erreichbar. Auch der Ausverkauf von \u00f6ffentlichem Grund  und Boden ist eine bewusste politische Entscheidung \u2013 er  k\u00f6nnte morgen gestoppt werden. SPD und Co. Die durchschnitt\u00ad liche Miete f\u00fcr eine neu gebaute Wohnung in Berlin:  20\u00a0Euro pro Quadratmeter. Eine 50 Quadratmeter gro\u00dfe  Wohnung kostet dann im Schnitt 1. Wer soll sich  das leisten k\u00f6nnen? Die Immobilienkonzerne nutzen den  Neubau, um \u00fcberh\u00f6hte Mieten zu verlangen, und treiben  damit die Miete f\u00fcr Bestandswohnungen in die H\u00f6he."
-        },
-        {
-          "score": 0.32370099425315857,
-          "source": "Linke_Program.pdf",
-          "location": "9 / 60",
-          "content": "Linke: In F\u00e4llen von langfristigem Leerstand muss die  Wohnung im Sinne der Allgemeinheit vor\u00fcbergehend  beschlagnahmt, auf Kosten der Eigent\u00fcmer instandge- setzt und wieder vermietet werden. Obdachlosigkeit abschaffen! Es gibt in Deutschland ungef\u00e4hr 600 000 wohnungslose  Menschen. Das EU-Parlament fordert die Abschaffung der  Obdachlosigkeit. Die Bundesregierung hat einen  Aktionsplan geschrieben \u2013 der hat allerdings zu keiner  einzigen neuen Ma\u00dfnahme gegen Wohnungslosigkeit  gef\u00fchrt. Wir wollen  Zwangsr\u00e4umungen in die Obdachlosigkeit verbieten! \t \u25aaWir wollen den Ansatz \u201eHousing First\u201c in der  Bek\u00e4mpfung von Obdachlosigkeit verankern:  Wohnungslosen wird zuerst eine Wohnung vermittelt,  darauf folgen andere Angebote. Seit Einf\u00fchrung von  \u201eHousing First\u201c im Jahre 2008 konnte Finnland die  Obdachlosigkeit mehr als halbieren. Jeder Mensch hat das Recht auf eine eigene Wohnung!  Dies wollen wir im Grundgesetz klar verankern."
-        },
-        {
-          "score": 0.33478567004203796,
-          "source": "Linke_Program.pdf",
-          "location": "25 / 60",
-          "content": "Linke: Bis zum Verbot der Leiharbeit m\u00fcssen  Leihbesch\u00e4ftigte ab dem ersten Tag genauso bezahlt  und behandelt werden wie Besch\u00e4ftigte im Einsatzbe- trieb (einschlie\u00dflich tariflicher und betrieblicher Sonder- zahlungen), plus 10\u00a0Prozent Flexibilit\u00e4tszulage. Die  H\u00f6chst\u00fcberlassungsdauer muss f\u00fcr den Arbeitsplatz  gelten statt f\u00fcr die Besch\u00e4ftigten. Wir wollen Schein- werkvertr\u00e4ge wirkungsvoll bek\u00e4mpfen, damit niemand  um seine Besch\u00e4ftigtenrechte betrogen wird: Bei  Verdacht auf Verst\u00f6\u00dfe gegen das Arbeitnehmer\u00fcberlas- sungsgesetz muss die Beweislast bei den beteiligten  Unternehmen liegen. Leiharbeit darf nicht zum Streik- bruch eingesetzt werden. Mobile Arbeitsrechtsberatung in  Muttersprachen muss dauerhaft finanziert werden."
-        },
-        {
-          "score": 0.34311383962631226,
-          "source": "Linke_Program.pdf",
-          "location": "3 / 60",
-          "content": "Linke: Unterdessen steigen die R\u00fcstungsausgaben \u2013  auf Kosten von Wohnungsbau, Gesundheit und Pflege,  Kitas, Schulen, Frauenh\u00e4usern, Bahn und Mobilit\u00e4t. Und  damit wir das nicht merken, versuchen sie, uns zu spalten  und Hass gegen einige von uns zu sch\u00fcren. Die Profiteure  unserer ungerechten Wirtschaftsordnung wollen \u00fcber alles  reden, nur nicht dar\u00fcber, dass sie das Problem sind. Aber wir m\u00fcssen genau dar\u00fcber sprechen. F\u00fcr uns ist klar:  Die Spaltung der Gesellschaft in Arm und Reich ist eines  der gr\u00f6\u00dften Probleme unserer Zeit. Wer nur darauf hoffen  kann, dass die Waschmaschine, das Auto oder die eigene  Gesundheit noch zwei Jahre durchh\u00e4lt, braucht jetzt  Ver\u00e4nderung. Wer nicht wei\u00df, wie er die n\u00e4chste Mieter- h\u00f6hung zahlen oder sein Kind unterbringen soll, dem  helfen gro\u00dfe Versprechungen nicht weiter. Wir wollen, dass niemand mehr Angst haben muss, bei der  n\u00e4chsten Mieterh\u00f6hung aus der Wohnung zu fliegen. Dadurch k\u00f6nnen alle Menschen entspannt  weiter zu Hause wohnen."
-        }
-      ],
-      "citations_count": 9
-    },
-    "spd": {
-      "agreement": 85,
-      "explanation": "Die SPD hat eine klare Position f\u00fcr die Begrenzung von Mietsteigerungen.",
-      "citations": [
-        {
-          "score": 0.23951277136802673,
-          "source": "SPD_Program.pdf",
-          "location": "19 / 68",
-          "content": "SPD: Ende 2025 laufen die Mietpreisbremsen aus. Die Mietpreisbremse ist ein sehr gutes Instrument, um  die steigenden Mieten einzud\u00e4mmen. Und wir wollen langfristig f\u00fcr stabile und bezahlbare Mieten  in angespannten Wohnungsm\u00e4rkten sorgen. In Ballungsgebieten soll Kurzzeitvermietung auf ein  Mindestma\u00df reduziert werden. Die Mietpreisbremse soll unbefristet und auch f\u00fcr Immobilien, die  bis 2019 bezogen wurden, gelten, um langfristig f\u00fcr stabile und bezahlbare Mieten in angespannten  Wohnungsm\u00e4rkten zu sorgen. Wir werden daf\u00fcr sorgen, dass die Mietpreisbremse nicht durch  zum Beispiel (teil-)m\u00f6blierte und befristete Wohnungsangebote umgangen werden kann. Auch  Indexmietvertr\u00e4ge werden in Zukunft durch die Kappungsgrenzen normaler Mietvertr\u00e4ge, wie  der orts\u00fcblichen Vergleichsmiete, gedeckelt. Zweckentfremdung und Leerstand von Wohnraum  durch Kurzzeitvermietung sind zu unterbinden. Es soll mehr Transparenz \u00fcber Bestandsmieten und  Neuvermietungsmieten geben. Mietwucher muss wirksam unterbunden werden, unter anderem  durch Versch\u00e4rfung des Wirtschaftsstrafrechts. Die M\u00f6glichkeit zum Verbot der Umwandlung von  Miet- in Eigentumswohnungen im BauGB wollen wir \u00fcber 2025 hinaus verl\u00e4ngern. Zugleich wollen  wir das Recht der Eigenbedarfsk\u00fcndigung reformieren und es auf die Wohnnutzung durch die  Kernfamilie beschr\u00e4nken."
-        },
-        {
-          "score": 0.2724272608757019,
-          "source": "SPD_Program.pdf",
-          "location": "20 / 68",
-          "content": "SPD: Wir wollen, dass mehr bezahlbare Wohnungen gebaut werden. Um das Angebot bezahlbaren Wohnraums mittel- und langfristig zu stabilisieren, sind  gemeinschaftliche Kraftanstrengungen f\u00fcr schnelleres Bauen und eine soziale Bodenpolitik  notwendig. Wir wollen daf\u00fcr die richtigen Rahmenbedingungen und Impulse setzen. Wir werden k\u00fcnftig staatliche Bedarfsprognosen nach Regionen differenzieren. Das ist  die Grundlage f\u00fcr die Neubauziele der Bundesregierung und f\u00fcr die dazu notwendige F\u00f6rderung. Mit der neuen  Wohngemeinn\u00fctzigkeit hat die SPD in der vergangenen Wahlperiode einen wichtigen Grundstein f\u00fcr  eine weitere S\u00e4ule f\u00fcr dauerhaft bezahlbaren Wohnraum neben dem sozialen Wohnungsbau gelegt."
-        },
-        {
-          "score": 0.27646124362945557,
-          "source": "SPD_Program.pdf",
-          "location": "20 / 68",
-          "content": "SPD: Besser f\u00fcr Deutschland. Regierungsprogramm der SPD f\u00fcr die Bundestagswahl 2025 Wir wollen den dramatischen Anstieg der Mieten in Ballungsgebieten stoppen. Deswegen wollen wir,  dass in Gebieten mit angespanntem Wohnungsmarkt nur eine maximale Mietsteigerung von sechs  Prozent in drei Jahren bis zur orts\u00fcblichen Vergleichsmiete gestattet ist. Wir wollen f\u00fcr Bundesl\u00e4nder  die M\u00f6glichkeit er\u00f6ffnen, dar\u00fcber hinausgehende eigenst\u00e4ndige Regelungen zu treffen, um in  extrem angespannten Wohnungsm\u00e4rkten Mieterh\u00f6hungen st\u00e4rker zu begrenzen. Den Mietspiegel- Betrachtungszeitraum wollen wir auf zehn Jahre ausweiten und preisgebundenen Wohnraum in die  Betrachtung einbeziehen. Die Nebenkosten f\u00fcr Mieterinnen und Mieter sollen transparenter und  einfacher nachvollziehbar sein. Die Grundsteuer ist eine Steuer auf Eigentum an Grund und Boden. Mieterinnen und Mieter wollen  wir bei der Grundsteuer entlasten. Die Umlagef\u00e4higkeit der Grundsteuer darf deshalb nicht so weit  gehen, dass der Eigent\u00fcmer s\u00e4mtliche Lasten auf die Mietparteien umlegen darf. Mit dem Wohngeld unterst\u00fctzen wir gezielt Erwerbst\u00e4tige sowie Rentnerinnen und Rentner. Wir  haben die Erweiterung des Wohngelds zu Wohngeld plus umgesetzt, das hei\u00dft, deutlich mehr  Menschen profitieren von einer Unterst\u00fctzung."
-        },
-        {
-          "score": 0.3039037585258484,
-          "source": "SPD_Program.pdf",
-          "location": "20 / 68",
-          "content": "SPD: Im Wohngeldgesetz haben wir au\u00dferdem die  regelm\u00e4\u00dfige automatische Erh\u00f6hung des Wohngelds an die reale Preis- und Mietpreisentwicklung  festgeschrieben. Die Unterst\u00fctzung muss  kontinuierlich den realen Mietpreisentwicklungen folgen. Wir wollen sicherstellen, dass Studierende und Azubis f\u00fcr ein WG-Zimmer m\u00f6glichst nicht mehr  als 400 Euro zahlen. Daf\u00fcr wollen wir die Mittel in den Ausbau von Studierenden- und Azubi- Wohnheimen verstetigen und erh\u00f6hen und sicherstellen, dass diese Mittel von den L\u00e4ndern  tats\u00e4chlich f\u00fcr den Neubau von Wohnheimen verwendet werden. Indem wir den Anwendungsbereich  der Mietpreisbremse ausweiten, werden deutlich mehr Azubis und Studierende erfasst. Indem  wir in Kooperation mit Studierenden- und Azubi-Werken eine Onlineplattform schaffen, die als  Rechtsdienstleister kostenlos und unkompliziert die Anspr\u00fcche von Azubis und Studierenden aus  der Mietpreisbremse geltend macht, stellen wir sicher, dass die Mietpreisbremse auch durchgesetzt  wird."
-        },
-        {
-          "score": 0.313842236995697,
-          "source": "SPD_Program.pdf",
-          "location": "19 / 68",
-          "content": "SPD: Wohnen ist ein Menschenrecht! Wer wohnt, hat eine kleine Heimat f\u00fcr sich und die Familie. Wohnen  definiert die Lebensqualit\u00e4t eines jeden von uns. Und wir stehen daf\u00fcr ein! Jeder Mensch hat ein  Anrecht darauf, nicht nur ein Dach \u00fcber dem Kopf, sondern Sicherheit und Geborgenheit in einem  bezahlbaren Zuhause zu finden. Deshalb ist Wohnen f\u00fcr uns ein \u00f6ffentliches Gut, das nicht allein dem  privaten Markt \u00fcberlassen bleiben darf. Das ist eine \u00f6ffentliche Angelegenheit. Wir wollen den akuten  Wohnraummangel mit einer Investitions-, Steuer- und Entb\u00fcrokratisierungsoffensive \u00fcberwinden  und Planungs- und Genehmigungsverfahren beschleunigen. Wohnungslosigkeit wollen wir 2030  \u00fcberwunden haben. Die Schaffung und der Erhalt von bezahlbarem Wohnraum ist eine staatliche  Daueraufgabe. Wir st\u00e4rken gleichzeitig den privaten Wohnungsbau, indem wir unter anderem  durch einen weiteren B\u00fcrokratieabbau gute Rahmenbedingungen f\u00fcr private Investitionen setzen. Wir wollen die Mietpreisentwicklung bremsen. Ende 2025 laufen die Mietpreisbremsen aus."
-        }
-      ],
-      "citations_count": 5
-    },
-    "gruene": {
-      "agreement": 80,
-      "explanation": "Die Gr\u00fcnen setzen sich ebenfalls f\u00fcr eine st\u00e4rkere Regulierung der Mietpreise ein.",
-      "citations": [
-        {
-          "score": 0.2616824209690094,
-          "source": "Gruene_Program.pdf",
-          "location": "68 / 160",
-          "content": "Gruene: Es braucht  mehr Wohnungen, kluge und sozialvertr\u00e4g- liche Modernisierung und den Schutz vor zu  hohen Mietsteigerungen im Bestand. Zudem  wollen wir die Umlagef\u00e4higkeit der Grund- steuer beenden, damit diese nicht mehr auf  Mieter*innen umgew\u00e4lzt werden kann. Etwa die H\u00e4lfte der Menschen in unserem  Land lebt zur Miete und muss daf\u00fcr immer  mehr Geld ausgeben. Wir werden die Miet- preisbremse verl\u00e4ngern und sie durch die  Abschaffung von Ausnahmen versch\u00e4rfen. Und wir werden  Schlupfl\u00f6cher schlie\u00dfen, etwa wenn Woh- nungen nicht zu fairen Preisen, sondern  \u00fcberteuert als m\u00f6blierte Wohnung oder  Ferienwohnung angeboten werden. Miet- spiegel sollen durch die Verl\u00e4ngerung des  Betrachtungszeitraums besser qualifiziert  werden. Kommunen sollen angespannte  Wohnungsm\u00e4rkte eigenst\u00e4ndig nachwei- sen k\u00f6nnen. Wir werden in angespannten  Wohnungsm\u00e4rkten einen Mietenstopp  erm\u00f6glichen. Mietwucher muss durch die  St\u00e4rkung des \u00a7 5 Wirtschaftsstrafgesetz- buch bek\u00e4mpft werden, um den Nachweis  f\u00fcr Mieter*innen zu erleichtern und somit  Verst\u00f6\u00dfe gegen die Mietpreisbremse  st\u00e4rker zu ahnden."
-        },
-        {
-          "score": 0.2683348059654236,
-          "source": "Gruene_Program.pdf",
-          "location": "68 / 160",
-          "content": "Gruene: Indexmieten sollen  durch Obergrenzen reguliert werden und  Sanierungen m\u00fcssen warmmietenneutral  umgelegt werden."
-        },
-        {
-          "score": 0.30704909563064575,
-          "source": "Gruene_Program.pdf",
-          "location": "69 / 160",
-          "content": "Gruene: Zudem werden wir  Mieterh\u00f6hungen durch eine Senkung der  Kappungsgrenzen begegnen. Auch Gewer- bemieter*innen brauchen einen Mieter*in- nenschutz. Obdachlosigkeit sollte in einem reichen  Land wie Deutschland nicht vorkommen  \u2013 ein eigenes Zuhause ist eine wichtige  Voraussetzung f\u00fcr ein Leben in W\u00fcrde und  f\u00fcr gesellschaftliche Teilhabe. Deshalb  wollen wir den Nationalen Aktionsplan  zur Vermeidung und Bew\u00e4ltigung von  Wohnungs- und Obdachlosigkeit weiter- entwickeln. Ziel bleibt es, Obdach- und  Wohnungslosigkeit bis 2030 zu \u00fcber- winden. Zur Vermeidung von Wohnungs- losigkeit sind niedrigschwellige pr\u00e4ventive  Hilfen und zielgruppengerechte Angebote,  etwa f\u00fcr Frauen und Familien, unerl\u00e4sslich. Der Housing-First-Ansatz ist  ein zentraler Baustein, bei dem obdachlose  Personen in eine Wohnung einziehen k\u00f6n- nen, ohne sich zuvor f\u00fcr Hilfe qualifizieren  zu m\u00fcssen. Auch andere Instrumente wie  soziale Wohnraumagenturen werden wir  nutzen. Unabh\u00e4ngig von ihrer Staats- b\u00fcrgerschaft und ihrem Aufenthaltsstatus  m\u00fcssen Menschen einen gleichberechtig- ten Zugang zum Hilfesystem erhalten. Mieter*innen wollen wir besser sch\u00fctzen."
-        },
-        {
-          "score": 0.320970356464386,
-          "source": "Gruene_Program.pdf",
-          "location": "69 / 160",
-          "content": "Gruene: Wir  entlasten bei den Nebenkosten wie den  Makler- und Notargeb\u00fchren. Eine Woh- nungsbaupr\u00e4mie, deren H\u00f6he mit der In- flation steigt und die an den Klimaschutz- zielen ausgerichtet ist, erleichtert auch  Menschen mit geringem und mittlerem  Einkommen den Zugang zu Wohneigentum."
-        },
-        {
-          "score": 0.3257078230381012,
-          "source": "Gruene_Program.pdf",
-          "location": "69 / 160",
-          "content": "Gruene: Wir wollen Mieter*innen besser \u00fcber  ihre Rechte aufkl\u00e4ren und gleichzeitig die  Kommunen bef\u00e4higen, die Mieter*innen  bei der Rechtsdurchsetzung zu unterst\u00fct- zen. Viele Menschen haben das Interesse,  ihre Wohnung zu tauschen, weil sich ihre  Lebensumst\u00e4nde ge\u00e4ndert haben. So k\u00f6nn- te Wohnraum besser genutzt werden. Wir  wollen Menschen bei diesen Pl\u00e4nen unter- st\u00fctzen, indem wir den Wohnungstausch  rechtlich erleichtern und F\u00f6rderinstrumen- te f\u00fcr die Unterst\u00fctzung von Mieter*innen  anpassen und flexibilisieren. Wohneigentum \u2013 sei es ein eigenes Haus  oder eine eigene Wohnung \u2013 bietet Sicher- heit, Freiheit und eine nachhaltige Alters- vorsorge. Deshalb wollen wir die Chance  auf Wohneigentum leichter zur Realit\u00e4t  werden lassen. Wir wollen den Kauf und  den Neubau des ersten, selbst genutzten  Wohneigentums sowie den Umbau leer  stehender Wohnungen und Ausbauten zu  g\u00fcnstigem Wohnraum st\u00e4rker und sozial  gerecht f\u00f6rdern. Damit unterst\u00fctzen wir  vor allem junge Familien durch zins- g\u00fcnstige staatliche Kredite. Insbesondere  sollen dabei die energetische Sanierung  leer stehender Wohnungen, die Teilung von  untergenutzten Einfamilienh\u00e4usern sowie  Ausbauten f\u00fcr die Bereitstellung zus\u00e4tz- lichen Wohnraums gef\u00f6rdert werden. Wir  entlasten bei den Nebenkosten wie den  Makler- und Notargeb\u00fchren."
-        },
-        {
-          "score": 0.33728015422821045,
-          "source": "Gruene_Program.pdf",
-          "location": "70 / 160",
-          "content": "Gruene: Wir wollen Spekulationen mit dem Zu- hause von Mieter*innen verhindern. Wir  akzeptieren nicht, dass Wohnkonzerne und  Immobiliengesellschaften Rendite aus- sch\u00fctten, w\u00e4hrend Wohnungen verfallen, in  denen Menschen leben. Diesen Gesch\u00e4fts- modellen wollen wir einen Riegel vor- schieben. Darum wollen wir diese Akteure  darauf verpflichten, ihrer Verantwortung  nachzukommen, und die Aussch\u00fcttung von  Renditen begrenzen, wenn sie dieser Ver- antwortung nicht gerecht werden. F\u00fcr schnelles, g\u00fcnstiges und klima- vertr\u00e4gliches Bauen und Sanieren Wir wollen gute Rahmenbedingungen f\u00fcr  klimavertr\u00e4gliches, schnelles und m\u00f6g- lichst preiswertes Bauen und Umbauen  schaffen. Daf\u00fcr braucht es eine realistische Strate- gie f\u00fcr mehr Wohnraum. Der beste Weg  liegt darin, vorhandenes Potenzial zu  nutzen: bestehende Geb\u00e4ude aufstocken,  ungenutzte B\u00fcro- und Gewerbefl\u00e4chen  zu Wohnraum umwandeln, Dachb\u00f6den  ausbauen, zweckentfremdete und leer  stehende Geb\u00e4ude wieder aktivieren. Hier  muss nicht aufwendig neue Infrastruktur  gelegt werden, was das Bauen einfacher  und g\u00fcnstiger macht."
-        }
-      ],
-      "citations_count": 6
-    },
-    "volt": {
-      "agreement": 75,
-      "explanation": "Volt spricht sich f\u00fcr soziale Wohnpolitik aus und k\u00f6nnte daf\u00fcr sein, Mietsteigerungen zu begrenzen.",
+    "bsw": {
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
       "citations": [],
       "citations_count": 0
     },
-    "bsw": {
-      "agreement": 70,
-      "explanation": "Der BSW bef\u00fcrwortet eine st\u00e4rkere Regulierung, um Mietwucher zu bek\u00e4mpfen.",
-      "citations": [
-        {
-          "score": 0.2604683041572571,
-          "source": "BSW_Program.pdf",
-          "location": "27 / 45",
-          "content": "BSW: Diese zweckgebundenen \u00f6ffentlichen  Mittel sollen das Eigenkapital der kommunalen  Wohnungsgesellschaften st\u00e4rken und es ihnen  erm\u00f6glichen, Mietwohnungen zu bauen, die  langfristig im \u00f6ffentlichen Eigentum bleiben und  so f\u00fcr preisg\u00fcnstiges Wohnen zur Verf\u00fcgung  stehen. Als Beispiel kann der kommunale,  gemeinn\u00fctzige Wohnbau in Wien dienen, dank  dessen rund 60 Prozent der Wiener in Wohnun- gen leben, die mit Wohnbauf\u00f6rderung errichtet  oder saniert wurden. Wir werden uns f\u00fcr die Verabschiedung eines  Gesetzes zur besseren Bek\u00e4mpfung von  Mietwucher stark machen und gesetzlich gegen  stark \u00fcberh\u00f6hte Mieten bei m\u00f6blierten Zimmern  vorgehen. Notwendig ist auch die Beschleuni- gung von Bauvorhaben, etwa durch die Verein- fachung von seriellem Bauen und die Einf\u00fchrung  eines vereinfachten Genehmigungsverfahrens  f\u00fcr sozialen Wohnungsbau. In Bund, L\u00e4ndern  und Kommunen bef\u00fcrworten wir Initiativen zur  strengeren Regulierung der Umwandlung von  Wohnungen in gewerbliche Ferienwohnungen  sowie gegen den Leerstand von Wohnraum."
-        },
-        {
-          "score": 0.30471178889274597,
-          "source": "BSW_Program.pdf",
-          "location": "27 / 45",
-          "content": "BSW: Kosten f\u00fcr Sanierungen haben die  Vermieter zu tragen. Wir wollen die Spekulation mit Bauland eind\u00e4m- men sowie eine aktive, langfristige Bodenpolitik  und eine nachhaltige Stadtentwicklungspolitik  mit gemischten Quartieren f\u00f6rdern. Zur D\u00e4mpfung der Baukosten m\u00fcssen \u00fcber- zogene Bauvorschriften auf den Pr\u00fcfstand  gestellt werden. Leistungslose Gewinne privater  Grundeigent\u00fcmer, die durch planungsbedingte  Wertsteigerungen entstehen, sind mindestens  teilweise abzusch\u00f6pfen. Verkehrspolitik f\u00fcr alle statt  Bevormundung und Verbote Das Auto ist nach wie vor das wichtigste  Verkehrsmittel in Deutschland. W\u00e4hrend jeder  Dritte t\u00e4glich das Auto nutzt, f\u00e4hrt nur jeweils  jeder Zehnte mit \u00f6ffentlichen Verkehrsmitteln  oder mit dem Fahrrad. Das Auto ist f\u00fcr die  meisten Menschen wichtiger Teil des Alltags  und erm\u00f6glicht Mobilit\u00e4t, insbesondere auf  dem Land. Autofahren  immer teurer zu machen, ist r\u00fccksichtslos  gegen\u00fcber denen, die auf ihr Auto angewie- sen sind."
-        },
-        {
-          "score": 0.31651201844215393,
-          "source": "BSW_Program.pdf",
-          "location": "26 / 45",
-          "content": "BSW: Eine w\u00fcrdige Pflege im  Alter darf keine Frage des Geldes sein. Wir wollen mehr Medizinstudienpl\u00e4tze und  Ausbildungspl\u00e4tze f\u00fcr Psychotherapeuten  schaffen, mehr Pflegepersonal ausbilden und  eine bessere Bezahlung. Junge Leute mit einem  harten Numerus clausus vom Medizin-Studium  abzuhalten und dann die \u00c4rzte aus \u00e4rmeren  L\u00e4ndern anzuwerben, ist eine zynische Politik. Mieterh\u00f6hungen stoppen \u2013  gemeinn\u00fctzigen Wohnungsbau f\u00f6rdern Auf dem Wohnungsmarkt hat die Politik versagt. Immer mehr Men- schen k\u00f6nnen kaum noch ihre Miete bezahlen."
-        },
-        {
-          "score": 0.33858048915863037,
-          "source": "BSW_Program.pdf",
-          "location": "27 / 45",
-          "content": "BSW: Dieses Ziel wurde meilenweit  verfehlt. Die Anzahl der Baugenehmigungen  brach zuletzt weiter ein. Die Zahl der Sozialwoh- nungen ist mit rund einer Million auf einem  Tiefstand angekommen. Jedes Jahr fallen deutlich  mehr Wohnungen aus der Sozialbindung als  neue gebaut werden. Angesichts hoher Zinsen  und Baukosten sowie zunehmender finanzieller  Belastungen breiter Bev\u00f6lkerungsschichten und  der Kommunen ist es h\u00f6chste Zeit f\u00fcr eine  Trendwende beim Wohnungs-Neubau. Gr\u00f6\u00dfere Teile des Woh- nungsmarktes m\u00fcssen wieder den Regeln der  Gemeinn\u00fctzigkeit unterliegen, gemeinn\u00fctzige  und kommunale Wohnungsbauunternehmen  sollten zinsverg\u00fcnstigte Kredite erhalten und  ein gro\u00dfes Wohnungsbauprogramm auflegen. Mieter m\u00fcssen vor allem in Ballungsr\u00e4umen und  Universit\u00e4tsst\u00e4dten immer mehr f\u00fcr das Wohnen  ausgeben."
-        }
-      ],
-      "citations_count": 4
-    },
     "cdu": {
-      "agreement": 40,
-      "explanation": "Die CDU k\u00f6nnte eine moderate Zustimmung haben, aber eher in Richtung Markt frei lassen.",
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "linke": {
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
       "citations": [],
       "citations_count": 0
     },
     "fdp": {
-      "agreement": 30,
-      "explanation": "Die FDP unterst\u00fctzt flexible L\u00f6sungen und eher marktgetriebenes Handeln.",
-      "citations": [
-        {
-          "score": 0.3404976725578308,
-          "source": "FDP_Program.pdf",
-          "location": "43 / 52",
-          "content": "FDP: Denn solche Sanierungen senken die Nebenkosten. Das Wohngeld ist daf\u00fcr das richtige Instrument \u2013 es hilft flexibel und passgenau. Wir werden dieses  System neu justieren: Durch bessere Abstimmungen der verschiedenen Leistungen schaffen wir  klare Anreize f\u00fcr mehr Erwerbst\u00e4tigkeit und unterst\u00fctzen zielgenau. Wir wollen, dass der Traum  vom Eigenheim f\u00fcr mehr Menschen zur Realit\u00e4t werden kann."
-        }
-      ],
-      "citations_count": 1
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "gruene": {
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "spd": {
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
+      "citations": [],
+      "citations_count": 0
+    },
+    "volt": {
+      "agreement": 50,
+      "explanation": "No information provided in the context.",
+      "citations": [],
+      "citations_count": 0
     },
     "afd": {
-      "agreement": 25,
-      "explanation": "Die AfD setzt auf Eigentum und weniger staatliche Eingriffe im Mietrecht.",
+      "agreement": 0,
+      "explanation": "The AfD strongly opposes state subsidies and financial compensation for energy-intensive companies, advocating for a return to market-based principles and the abolition of CO\u2082 taxes.",
       "citations": [
         {
-          "score": 0.29835429787635803,
-          "source": "AFD_Program.pdf",
-          "location": "36 / 177",
-          "content": "AFD: Ausufernde gesetzliche  Vorgaben zum Bau- und Mietrecht, wie das sogenannte Heizungs-  gesetz, behindern die Erstellung preiswerter Wohnungen. Wohlstand entsteht aus Wohneigentum. Siebzig Prozent aller  EU-B\u00fcrger leben im Eigentum, w\u00e4hrend die Mehrheit der Deutschen  nicht in den eigenen vier W\u00e4nden, sondern zur Miete wohnt. Wohn- und Baunebenkosten senken Neben den Baukosten sind die Wohnnebenkosten deutlich zu  senken, um Wohnen f\u00fcr die B\u00fcrger wieder bezahlbar zu machen. So  sind die Grunderwerbsteuer f\u00fcr Selbstnutzer, die Grundsteuer und  der Rundfunkbeitrag (GEZ) aufzuheben, sowie die Grunderwerbs- steuer f\u00fcr ausl\u00e4ndische K\u00e4ufer mit Hauptwohnsitz au\u00dferhalb der  EU auf 20 % zu erh\u00f6hen, so wie in \u00d6sterreich. Ideologiegetriebene  Kosten wie EEG-Umlage, CO\u2082-Steuer und das Geb\u00e4udeenergie-  gesetz (GEG) werden wir abschaffen. Baurecht muss nationales Recht bleiben Nach dem Subsidiarit\u00e4tsprinzip sind Entscheidungen zum Baurecht  den Nationalstaaten vorzubehalten. Die kostentreibenden Vor- schriften der EU in diesem Bereich lehnen wir ab."
+          "score": 0.38899099826812744,
+          "source": "AFD_Program_en.pdf",
+          "location": "40 / 177",
+          "content": "AFD: In the future, plants for the generation of \"renewable energies\" will have to prove their unrestricted environmental compatibility and economic benefit by waiving priority feed-in and subsidies."
         },
         {
-          "score": 0.31883519887924194,
-          "source": "AFD_Program.pdf",
-          "location": "37 / 177",
-          "content": "AFD: Mieter zu Eigent\u00fcmern machen Eigentum ist Freiheit, sch\u00fctzt vor Altersarmut und vor Mietsteige- rungen. Umwandlungshemmnisse wollen wir aufheben. Mieter  sollen beim Kauf von selbstgenutztem Wohneigentum z. B. Zur F\u00f6rderung der Eigentumsbildung werden wir einen Rahmen  schaffen, in dem Mieter ihre Wohnungen von \u00f6ffentlichen Woh- nungsbauunternehmen zu verg\u00fcnstigten Bedingungen erwerben  k\u00f6nnen. Wohnungsbaugenossenschaften sollen bei der Vergabe von  \u00f6ffentlichen Grundst\u00fccken bevorzugt werden. Einheimische f\u00f6rdern Bei der Vergabe von Wohnbaugrundst\u00fccken und Wohnraum sind  Einheimische nach dem Einheimischen-Modell zu bevorzugen. Mehr Wohngeld statt sozialem Wohnungsbau Der bisherige soziale Wohnungsbau ist gescheitert, er kann nur  einen Bruchteil der Berechtigten erreichen. Er f\u00fchrt zu Fehlbelegun- gen und verursacht hohe Kosten f\u00fcr den Steuerzahler. Es ist besser,  einkommensschwache Mieter vermehrt mit Wohngeld zu unterst\u00fct- zen, wodurch eine soziale Durchmischung gew\u00e4hrleistet wird. Reicht das Wohngeld nicht aus, um sich eine Wohnung zu sichern,  ist den B\u00fcrgern zus\u00e4tzlich ein kommunales Wohngeld zu zahlen."
+          "score": 0.4076274633407593,
+          "source": "AFD_Program_en.pdf",
+          "location": "41 / 177",
+          "content": "AFD: Hydrogen as an energy carrier is not competitive. In the transport sector, the AfD will campaign at all levels to lift the ban on the combustion engine. Contractually promised subsidies for existing plants will remain in place. Openness to technology is guaranteed, and energy production for self-consumption is kept tax-free and duty-free for industry and citizens."
         },
         {
-          "score": 0.34073150157928467,
-          "source": "AFD_Program.pdf",
+          "score": 0.4146588444709778,
+          "source": "AFD_Program_en.pdf",
+          "location": "40 / 177",
+          "content": "AFD: The phase-out of nuclear and coal energy, which is being advocated by all established parties, has exacerbated this situation. In the wake of the Russia sanctions, Germany's affordable energy supply is also at considerable risk. This means that our country is no longer internationally competitive. While this will lead to deindustrialization and the impoverishment of the German population, the ecosocialist \"climate protectors\" are happy about falling CO\u2082 emissions. None of the so-called renewable energies or the desired new applications such as heat pumps or electromobility can survive on the market without subsidies, while conventional energies are artificially increased in price or banned. This departure from market-based principles is costing German taxpayers enormous sums of money, has destabilised the electricity grids and made Germany an electricity importing country with one of the highest electricity prices of all industrialised countries. Many citizens have to accept a loss of prosperity, and energy-intensive companies are migrating or filing for bankruptcy."
+        },
+        {
+          "score": 0.4218338131904602,
+          "source": "AFD_Program_en.pdf",
+          "location": "57 / 177",
+          "content": "AFD: In addition to the increased costs for basic foodstuffs and energy as well as the equally higher personnel costs, the increased tax is another price driver for the industry. Innkeepers had no choice but to pass on the costs to customers by way of price increases. A slump in demand was the result. Restaurants have had to close, and for many people in the country, another piece of quality of life has been lost. That is why we are calling for a uniform VAT rate of 7% for the catering industry. Abolition of all CO\u2082 taxes The CO\u2082 taxes increase production costs and lead to a competitive disadvantage for German industry. Furthermore, they disadvantage rural regions, especially our farmers, who are dependent on fossil fuels. A vehicle with a high \"emission potential\" may ultimately emit less CO\u2082 than a vehicle with a lower \"emission potential\", but will be taxed higher. Electric vehicles, which pollute the environment in production, are preferred one-sidedly. We demand the abolition of CO\u2082 taxes without replacement. Work must pay off \u2013 relieve the burden on the low-wage sector and SMEs Inflation is a major problem for many people in Germany and puts a considerable financial burden on them in a way that sometimes even threatens their existence. Food prices in particular are driving inflation."
+        },
+        {
+          "score": 0.4298301637172699,
+          "source": "AFD_Program_en.pdf",
+          "location": "64 / 177",
+          "content": "AFD: However, liability and repayment remain with the nation states, especially Germany. Such loans taken out by the EU, which largely benefit the euro crisis countries, lead to a deterioration in our credit rating and thus to an increase in the interest burdens and taxes of Germans. An exit from the euro would be beneficial for our economy and taxpayers."
+        },
+        {
+          "score": 0.4361247420310974,
+          "source": "AFD_Program_en.pdf",
+          "location": "41 / 177",
+          "content": "AFD: The remaining and still intact pipeline of Nord Stream 2 (string B) is to be put into operation as soon as possible. The repair of the damaged Nord Stream 1 and 2 lines must be carried out promptly, and the saboteurs must be identified and held accountable. The planned phase-out of lignite-fired power generation will not take place with the AfD. In addition to the expansion of coal-fired power plants that will be necessary in the short term, we are planning to re-enter nuclear energy. Existing concepts are to be taken up again and new developments taken into account. Existing power plants are to be put back into operation as soon as possible. All the necessary technologies and prerequisites for this are to be relocated to German companies, authorities, institutes and universities. Until Germany uses nuclear power again, coal and gas will have to ensure a secure electricity supply, as large-scale electricity storage facilities do not exist or are too expensive. In a technology-neutral heating sector, inexpensive gas, preferably from pipelines, or heating oil will once again be available. Hydrogen as an energy carrier is not competitive. In the transport sector, the AfD will campaign at all levels to lift the ban on the combustion engine."
+        },
+        {
+          "score": 0.4363485276699066,
+          "source": "AFD_Program_en.pdf",
+          "location": "13 / 177",
+          "content": "AFD: Instead, we are creating framework conditions that make Germany attractive again and restore our international competitiveness."
+        },
+        {
+          "score": 0.4443622827529907,
+          "source": "AFD_Program_en.pdf",
           "location": "58 / 177",
-          "content": "AFD: F\u00fcr Mieter  ergibt sich dadurch ebenfalls eine Entlastung. Familiensplitting einf\u00fchren Laut Artikel 6 Grundgesetz stehen Ehe und Familie unter dem  besonderen Schutz der staatlichen Ordnung."
+          "content": "AFD: The basic income tax allowance is to be increased to 15,000 euros, and the previous reference to social welfare regulations will be abandoned. The allowances are to be indexed in order to rule out secret tax increases in the future. These measures take into account the wage gap requirement and motivate people to participate in working life. We also consider the corresponding shift from further tariff benchmarks up to the top tax rate to be necessary. Abolish property tax and compensate for tax losses The collection of property tax, which benefits cities and municipalities, is extremely complicated and involves a very high administrative burden. The federal model is calculated according to the standard land values, which are often outdated, inaccurate or arbitrary. The property tax also violates the principle of equality, as it does not take into account the individual characteristics of the properties. Therefore, it will be abolished completely. The municipalities are fully compensated by a surcharge on income tax and corporation tax. This is based on the economic performance of the taxpayers. This also relieves tenants. Introduce family splitting According to Article 6 of the Basic Law, marriage and family are under the special protection of the state order."
+        },
+        {
+          "score": 0.4478657841682434,
+          "source": "AFD_Program_en.pdf",
+          "location": "80 / 177",
+          "content": "AFD: In particular, the death of birds, bats and insects is accepted as collateral damage of the left-green energy transformation. The consequences of this are population declines, which can lead to the extinction of protected species. No other form of energy demands such a high death toll in the animal world as the wind power industry. The further effects of soil erosion and wind towing caused by wind turbines must be researched as quickly as possible. In addition, this type of energy generation has a massive impact on the soil and water balance. Further damage to our nature in the name of supposed climate protection must be prevented at all costs. For example, the destruction of the \"Grimm Fairytale Forest\" in northern Hesse is an inexcusable intervention in a German mental landscape for wind industrial plants and shows the whole inhumanity in the thinking of climate ideologues. That is why we reject the further expansion of wind energy. We reject the construction of new photovoltaic systems as agro-PV on agricultural land due to their high land consumption. In addition, these increase the heating of the microclimate and intensify the pressure on agricultural production areas. Photovoltaic systems generally lead to a change in the microclimate and cause an increase in temperature."
+        },
+        {
+          "score": 0.4490070044994354,
+          "source": "AFD_Program_en.pdf",
+          "location": "45 / 177",
+          "content": "AFD: Many flights are becoming unprofitable as a result, which is why there is already a considerable shift in traffic abroad. We reject ideologically motivated bans on domestic and short-haul flights."
+        },
+        {
+          "score": 0.45402735471725464,
+          "source": "AFD_Program_en.pdf",
+          "location": "79 / 177",
+          "content": "AFD: This includes the EU's \"Green Deal\", which is destroying the European economy and thus our prosperity. However, the current CO\u2082-centric policy is already having devastating effects on our economy, our liberal way of life and our prosperity: energy-intensive industries are migrating, the automotive industry is stumbling, and jobs are being lost to an alarming extent. This undesirable development threatens to accelerate in the coming years. Meanwhile, well-deserved amenities such as holiday flights and affordable cars are to be taken away from the masses. The beneficiaries of the current climate policy are exclusively politicians, international corporations with their lobbies and NGOs close to politics. Interest groups and their supporting parties are thus increasingly creating fields of activity for their own clientele \u2013 without any added value and without a positive impact on the environment. The AfD therefore rejects any policy and any tax that invokes alleged climate protection, because humans cannot protect the climate. We also want to withdraw from the Paris Climate Agreement. The AfD will bring back hope and the possibility of a dignified life in freedom and prosperity to our future generations. We will return the sprawling planned and subsidy economy of recent decades to a modern social market economy with which we can master all future challenges."
+        },
+        {
+          "score": 0.4545971751213074,
+          "source": "AFD_Program_en.pdf",
+          "location": "64 / 177",
+          "content": "AFD: The EU is also pursuing prohibited economic policies \u2013 through huge earmarked guarantees and selective purchases of \"green\" bonds. Environmental-social governance regulations and taxonomy requirements, which regulate in a highly ideological and bureaucratic manner which economic activities are worthy of support, represent a planned economy macro-control. These vehicles de facto lead to cash gifts to \"distressed\" states via jointly liable EU debt (Next Generation Fund, Target-2, soon Ukraine bonds). This illegitimate ECB policy leads to inflation. It destroys corporate calculations, funded pension systems and private savings. The AfD calls for a return to the law and the market economy: All measures by the ECB to manipulate the free capital market must be stopped. No borrowing by the EU: loans only at national level Contrary to the explicit wording of the EU treaties, the EU presumes to take on its own debt, contrary to the explicit wording of the EU treaties, at the expense of future generations. The funds are raised through new debt and then spent by EU bureaucrats on mostly ideologically motivated projects in the style of landlords. However, liability and repayment remain with the nation states, especially Germany."
+        },
+        {
+          "score": 0.4551427364349365,
+          "source": "AFD_Program_en.pdf",
+          "location": "67 / 177",
+          "content": "AFD: In combination with the asset register, which is also planned, the prerequisites for comprehensive expropriation options for assets that have already been taxed will be created here."
+        },
+        {
+          "score": 0.4571766257286072,
+          "source": "AFD_Program_en.pdf",
+          "location": "39 / 177",
+          "content": "AFD: In order for them to be able to participate in social and economic life on an equal footing, the infrastructure and, above all, public transport must be expanded in line with demand and fit for the future. Rural areas are characterised by a high level of self-responsibility and self-organisation on the part of its citizens. If the feeling of home is stronger than the attractions of urban areas, people will want to continue living in rural areas. It is indispensable for people to remain in their homeland that it does not degenerate into an industrial park due to the expansion of large-scale wind turbines. The size and frequency of such turbines and their excessive attachment to wind farms destroy the landscape of entire regions, while even small residential buildings in the outer area still have no chance of obtaining a building permit. This was made possible by numerous ideology-driven changes in building law at federal and state level. We will immediately end the large-scale destruction of nature by wind turbines and photovoltaic systems in forests, fields and arable land. The Building Code and the Regional Planning Act can be traced back to the ideology-free regulations before 2021. In addition, replacement for old existing buildings must be made possible in the outdoor area under approval law."
+        },
+        {
+          "score": 0.45747849345207214,
+          "source": "AFD_Program_en.pdf",
+          "location": "74 / 177",
+          "content": "AFD: We rely on incentives instead of bans. Agricultural support must take into account the achievements of family farms and cooperatives and simplify farm succession. Agriculture must be reduced in bureaucracy in order to relieve the burden on farmers. Neither German nor EU authorities should interfere in their economic practices, such as in the choice of crop rotation. In order to preserve our diverse agricultural structures, we will improve the situation of young farmers who cultivate their agricultural land themselves. We will relieve the tax burden on start-ups. In addition, we oppose the decrease in agricultural land and will make it more difficult for non-agricultural investors to access the land market. Consumer protection Consumers must be able to meet the increasingly globally active companies at eye level. However, for many foodstuffs, financial products and material goods, consumers lack essential information about product origin and quality. The AfD wants to enable consumers to make an informed purchase decision. The AfD supports the model of the responsible citizen. He should not be patronized by the state in his consumer behavior. That is why we reject any form of separate food taxation, such as a meat or sugar tax. This includes educating people about the health risks of fashionable diets and preserving our traditional food culture in public institutions."
+        },
+        {
+          "score": 0.45797720551490784,
+          "source": "AFD_Program_en.pdf",
+          "location": "42 / 177",
+          "content": "AFD: Expensive technologies such as accumulators, fuel cells and hydrogen technology are not required for this. TRAFFIC Transport policy \u2013 ideology-free and needs-based The AfD is in favour of a transport policy that is geared to the needs of citizens. The AfD rejects an ideologically guided prohibition policy that favors or discriminates against certain means of transport. For us, the focus is on the freedom of citizens in their choice of means of transport. Individual mobility must remain affordable. Protecting motorised private transport The AfD supports and promotes motorised individual transport as the most popular means of transport. Intelligent technology and traffic management that avoids traffic jams protect the environment. Scientifically insufficiently proven measures, such as diesel driving bans or 30 km/h regulations on main roads, do not achieve this. At the same time, the AfD calls for the preservation and expansion of inner-city lanes and parking space to avoid growing traffic chaos and to protect the attractiveness of retail. The AfD also rejects collective measures such as driving bans for motorcycles due to misconduct by individuals. Basically, the AfD relies on the sense of responsibility of the citizens. In this context, we also want to enable accompanied driving from the age of 16."
+        },
+        {
+          "score": 0.45901066064834595,
+          "source": "AFD_Program_en.pdf",
+          "location": "56 / 177",
+          "content": "AFD: We will make corporate tax neutral in terms of legal form. These measures will make taxes clearer, and the collection of taxes will be easier, time-saving and cost-effective."
+        },
+        {
+          "score": 0.4619627296924591,
+          "source": "AFD_Program_en.pdf",
+          "location": "83 / 177",
+          "content": "AFD: We firmly reject the deforestation of the cultural asset of the forest for wind turbines in order to protect wild species and to hand over an intact nature to our children. Water protection and drinking water supply Water protection does not belong in the hands of the EU, but in Germany and the individual federal states. In coordinated cooperation with representatives of municipalities, agriculture and other stakeholders, they can ensure water protection much more effectively. The AfD is in favour of regional water supply by municipalities and special-purpose associations. The ownership of the water resources, the conveyor systems, the water treatment and the pipeline network must remain in public hands and thus in the hands of the citizens. In this context, we reject the introduction of further taxes and levies for water withdrawals. An EU-wide liberalisation and commercialisation of the water market must be prevented at all costs. There must be no general privatisation of water or waterworks, as stimulated by EU directives. Wells of private property owners who obtain their drinking water from this are exempt from this."
+        },
+        {
+          "score": 0.46228110790252686,
+          "source": "AFD_Program_en.pdf",
+          "location": "165 / 177",
+          "content": "AFD: Production sites develop where regulations, infrastructure, education and costs do not allow for marketable production. Government subsidies for the semiconductor industry are a recent example of wasted taxpayers' money. Nuclear The AfD will create new, urgently needed nuclear research centers and nuclear power plants in Germany in order to regain its leading position in nuclear technology. After the sell-off of German expertise, targeted investments are necessary to develop innovative technologies and train new specialists. This serves both energy security and the prosperity of future generations as well as environmental protection. Raw materials and circular economy Recycling technologies can be an effective means of responsible use of resources and waste. They prevail when it is energy-efficient and thus cost-effective to process materials by type, and the recycling of residual materials offers a competitive advantage. Germany is already well positioned in this area. Research on such technologies in state institutes, in cooperation with industry, could help to drive innovation. The AfD rejects blanket bans, such as straws or the ban on entire groups of substances such as Teflon and PFAS, which is being discussed in the EU. Instead, we call for an evidence-based assessment of the risks of individual substances."
+        },
+        {
+          "score": 0.46401846408843994,
+          "source": "AFD_Program_en.pdf",
+          "location": "39 / 177",
+          "content": "AFD: In addition, replacement for old existing buildings must be made possible in the outdoor area under approval law."
+        },
+        {
+          "score": 0.4652988910675049,
+          "source": "AFD_Program_en.pdf",
+          "location": "54 / 177",
+          "content": "AFD: Less bureaucracy, more personal responsibility and a more efficient use of public funds are important prerequisites for a sustainable Germany. Despite the current high tax revenues, the constantly increasing consumption expenditure leaves less and less room for necessary investments. As a result, this leads to demands for tax increases and additional debt. We are committed to moving away from excessive taxation and in return for spending discipline in order to strengthen private households and our companies as well as to comply with the debt brake and reduce debt. We plan to simplify the complex German tax law. CONSOLIDATE THE FEDERAL BUDGET, END TAX WASTE, COMPLY WITH THE DEBT BRAKE Germany does not have a revenue problem, but an expenditure problem. Despite still high tax revenues, the federal government regularly fails to bring in a federal budget without further new debt. We must not continue to burden future generations with debts and interest. That is why we call for tax waste to be avoided. The main examples are the reduction of senseless expenditures owed to the alleged \"climate rescue\", as well as the termination of the financing of superfluous prestige projects, especially abroad."
+        },
+        {
+          "score": 0.47140997648239136,
+          "source": "AFD_Program_en.pdf",
+          "location": "15 / 177",
+          "content": "AFD: For us, the starting point for strengthening personal responsibility is, in addition to strengthening family life, a comprehensive school education that makes our young citizens well-educated and critical members of our society, lays the foundation for successful professional development and enables them to participate in government and voluntary work. Our understanding of education includes not only mental abilities and craftsmanship but also social skills."
+        },
+        {
+          "score": 0.47327011823654175,
+          "source": "AFD_Program_en.pdf",
+          "location": "62 / 177",
+          "content": "AFD: Any further participation in the permanent rescue policy is tantamount to delaying insolvency at the expense of German taxpayers. The AfD is aware that the reintroduction of a stable national currency cannot take place without the burden of changeover. However, these will be lower than the long-term costs of remaining in the euro system. Therefore, Germany must terminate this \"transfer union\" and end the wrong path of permanent rescue by reintroducing a national currency, if necessary while retaining the euro or a flexible ECU-like unit of account. Hedging against the euro crisis, reforming the monetary system and bringing back state gold Germany must also be able to act in the event of a monetary crisis. In the event of a reintroduction of the German mark (D-Mark), the state gold, some of which is stored abroad, could serve as a temporary cover option. According to all historical experience, gold is a potential backing for currencies, which is particularly relevant in crises and after the introduction of a new currency to build confidence. The German state gold must be kept in its own country as a potential last currency reserve without counterparty and custody risk."
         }
       ],
-      "citations_count": 3
+      "citations_count": 23
     }
   }
 }
