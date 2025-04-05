@@ -1,185 +1,186 @@
 {
   "answer": {
-    "afd": {
-      "agreement": 0,
-      "explanation": "AFD wants to abolish property tax and compensate for tax losses, relieving tenants.",
-      "citations": [
-        {
-          "score": 0.4630698561668396,
-          "source": "AFD_Program_en.pdf",
-          "location": "58 / 177",
-          "content": "AFD: The basic income tax allowance is to be increased to 15,000 euros, and the previous reference to social welfare regulations will be abandoned. The allowances are to be indexed in order to rule out secret tax increases in the future. These measures take into account the wage gap requirement and motivate people to participate in working life. We also consider the corresponding shift from further tariff benchmarks up to the top tax rate to be necessary. Abolish property tax and compensate for tax losses The collection of property tax, which benefits cities and municipalities, is extremely complicated and involves a very high administrative burden. The federal model is calculated according to the standard land values, which are often outdated, inaccurate or arbitrary. The property tax also violates the principle of equality, as it does not take into account the individual characteristics of the properties. Therefore, it will be abolished completely. The municipalities are fully compensated by a surcharge on income tax and corporation tax. This is based on the economic performance of the taxpayers. This also relieves tenants. Introduce family splitting According to Article 6 of the Basic Law, marriage and family are under the special protection of the state order."
-        },
-        {
-          "score": 0.511160135269165,
-          "source": "AFD_Program_en.pdf",
-          "location": "37 / 177",
-          "content": "AFD: Turn tenants into owners Property is freedom, protects against poverty in old age and against rent increases. We want to remove barriers to conversion. Tenants are to be supported in the purchase of owner-occupied residential property, e. To promote ownership, we will create a framework in which tenants can purchase their apartments from public housing companies on preferential terms. Housing cooperatives are to be given preference in the allocation of public land. Promoting locals When allocating residential building plots and housing, locals are to be given preference according to the local model. More housing benefit instead of social housing The previous social housing construction has failed, it can only reach a fraction of the eligible. It leads to incorrect receipts and causes high costs for the taxpayer. It is better to provide more housing benefit to low-income tenants, which ensures social mix. If the housing benefit is not sufficient to secure an apartment, citizens must also be paid a municipal housing benefit."
-        }
-      ],
-      "citations_count": 2
-    },
-    "bsw": {
-      "agreement": 0,
-      "explanation": "BSW wants to end the apportionability of property tax so that it can no longer be passed on to tenants.",
-      "citations": [
-        {
-          "score": 0.4556480944156647,
-          "source": "BSW_Program_en.pdf",
-          "location": "16 / 45",
-          "content": "BSW: Another loophole for the wealthy that urgently needs to be closed is the tax exemption of increases in the value of real estate with a holding period of ten years or more. We want this privilege to be limited to owner-occupied housing. By means of so-called \"share deals\", institutional investors can avoid real estate transfer tax when selling a property. We also want to close this loophole, which has been known for a long time. We demand a moratorium on burdens for normal homeowners and tenants. Currently, the higher the inheritance, the lower the effective tax rate. This is neither fair nor reasonable, because it means that an inherited single-family home is subject to higher taxes than an inherited business empire worth hundreds of millions of euros. We want to change this and tax all inherited assets above the exemption amounts equally."
-        },
-        {
-          "score": 0.49529924988746643,
-          "source": "BSW_Program_en.pdf",
-          "location": "27 / 45",
-          "content": "BSW: This goal was missed by miles. The number of building permits has recently continued to plummet. The number of social housing units has reached a low of around one million. In 1990, there were almost three times as many. Every year, significantly more apartments fall out of the social bond than new ones are built. In view of high interest rates and construction costs as well as increasing financial burdens on broad sections of the population and municipalities, it is high time for a trend reversal in new residential construction. Non-profit housing construction must be strengthened. Larger parts of the housing market must again be subject to the rules of non-profit status, non-profit and municipal housing companies should receive low-interest loans and launch a large housing construction program. Where social housing is built, the social commitment must apply permanently. Tenants have to spend more and more on housing, especially in metropolitan areas and university towns. Instead of increasing housing benefit, which ultimately only benefits property owners, the state should cap rents and invest in the construction of new rental apartments \u2013 with a clear focus on the low-cost segment."
-        },
-        {
-          "score": 0.49636316299438477,
-          "source": "BSW_Program_en.pdf",
-          "location": "27 / 45",
-          "content": "BSW: These earmarked public funds are intended to strengthen the equity of the municipal housing companies and enable them to build rental apartments that remain in public ownership in the long term and are thus available for affordable housing. One example is municipal, non-profit housing in Vienna, thanks to which around 60 percent of Viennese live in apartments that have been built or renovated with housing subsidies. We will campaign for the adoption of a law to better combat rent usury and take legal action against grossly excessive rents for furnished rooms. It is also necessary to accelerate construction projects, for example by simplifying serial construction and introducing a simplified approval procedure for social housing. At federal, state and local level, we advocate initiatives to tighten regulation of the conversion of apartments into commercial holiday homes and to combat housing vacancies. Costs for renovations have to be borne by the landlords. We want to curb speculation on building land and promote an active, long-term land policy and a sustainable urban development policy with mixed neighbourhoods. In order to curb construction costs, excessive building regulations must be put to the test."
-        }
-      ],
-      "citations_count": 3
-    },
-    "cdu": {
-      "agreement": 0,
-      "explanation": "CDU does not explicitly mention property tax apportionability.",
-      "citations": [
-        {
-          "score": 0.44096529483795166,
-          "source": "CDU_Program_en.pdf",
-          "location": "72 / 82",
-          "content": "CDU: We make costs for energy-efficient renovations deductible from inheritance and gift tax. In this way, we promote the efficient energy-efficient renovation of the real estate portfolio. We stand for effective and appropriate tenant protection \u2013 this also includes the rules on rent levels. The high rents in many training centres are a major problem. Social housing construction must be solidly promoted and housing benefit must be adjusted regularly."
-        },
-        {
-          "score": 0.4891194701194763,
-          "source": "CDU_Program_en.pdf",
-          "location": "72 / 82",
-          "content": "CDU: With us, there are no new standards that increase construction costs without significant added value. We reduce planning and ancillary costs by digitizing and accelerating land-use and building permit procedures. Low construction costs and more new construction are also benefiting tenants in particular. To this end, we are concentrating our funding on multi-storey housing construction in tight housing markets. With a significantly higher, temporary special depreciation for affordable housing, we are giving new construction a kickstart. We supplement this with effective degressive depreciation. We are adjusting the deduction of income-related expenses so that those who demand less than the local comparative rent will not have any tax disadvantages in the future. More building land and low construction costs help families to build their own property. We are realigning existing subsidy programmes, such as KfW's interest subsidy programmes, by raising income limits and including the purchase of existing properties. We are retaining the existing EH55 energy efficiency standard for new buildings and making it eligible for funding again."
-        },
-        {
-          "score": 0.5005239248275757,
-          "source": "CDU_Program_en.pdf",
-          "location": "33 / 82",
-          "content": "CDU: We support families in particular in fulfilling their dream of owning their own home. L\u00e4nder are to be able to grant an allowance for real estate transfer tax of 250,000 euros per adult and 150,000 euros for each child when purchasing owner-occupied residential property for the first time. We don't want to punish people who have worked hard for and built something. Instead, we want to support all people in building up their own assets. We reject a wealth tax. We are significantly increasing the inheritance tax allowances. This means that the home can be inherited tax-free to a greater extent. We are focusing above all on a clear legal framework, less bureaucracy and higher tax allowances. We are committed to harmonizing the rules in the EU and reducing bureaucratic hurdles. We are significantly increasing the income tax allowance for employee equity investments and ensuring that shareholdings are generally only taxed at the time of sale. We are introducing a capital formation premium in which we merge the employee savings allowance and the housing construction premium."
-        }
-      ],
-      "citations_count": 3
-    },
-    "linke": {
-      "agreement": 0,
-      "explanation": "Linke does not explicitly mention property tax apportionability.",
-      "citations": [
-        {
-          "score": 0.47825437784194946,
-          "source": "Linke_Program_en.pdf",
-          "location": "8 / 60",
-          "content": "Linke: With tax exemptions and preferential treatment for subsidies and public land, we want to create strong incentives to participate in the development of a non-profit housing market sector in which rents are based on real costs and profits are capped \u2022 We want to reintroduce and strengthen the municipal right of first refusal. A (re-)municipalisation fund is intended to support municipalities in bringing housing back into public ownership. We are committed to a price-limited right of first refusal that is not based on the speculative \"market price\", but on rents that are affordable for the residents (social income value)."
-        },
-        {
-          "score": 0.5097827315330505,
-          "source": "Linke_Program_en.pdf",
-          "location": "7 / 60",
-          "content": "Linke: Housing must not be a luxury Affordable housing is the central social issue of our time Olaf Scholz took office as rent chancellor, but rents have continued to explode in the last three years. Not only in the cities, but also in many rural areas, housing costs have risen sharply in recent years Millions of people spend a large part of their income on housing In addition, there are the rapidly rising ancillary costs Real estate companies make extra profits by sending excessive heating bills to their tenants and hoping that no one notices Exploding rents are not a law of nature: affordable housing, security from rent increases, cooperative housing construction are sensible, fair and also achievable The sale of public land is also a deliberate political decision \u2013 it could be stopped tomorrow SPD and Co claim that we have to build to get affordable housing again The average rent for a newly built apartment in Berlin: 20 euros per square metre A 50-square-metre apartment will then cost an average of 1,000 euros Who should be able to afford that? The real estate companies are using new construction to charge excessive rents, thus driving up the rent for existing apartments."
-        }
-      ],
-      "citations_count": 2
-    },
-    "fdp": {
-      "agreement": 0,
-      "explanation": "FDP does not explicitly mention property tax apportionability.",
-      "citations": [
-        {
-          "score": 0.5023229718208313,
-          "source": "FDP_Program_en.pdf",
-          "location": "44 / 52",
-          "content": "FDP: With a real estate transfer tax allowance of EUR 500,000 for the first owner-occupied property of natural persons, we facilitate access to property. For families, this allowance increases by 100,000 euros for each child. Following the Swiss model, funds from the company pension scheme should be able to be used for the purchase of property - an additional, flexible source of financing. Freedom in the boiler room: CO2-free, but affordable We Free Democrats are convinced: A warm home with modern, climate-friendly heating is possible - economically and open to technology. We rely on innovative solutions that promote climate protection and at the same time remain affordable. Instead of countless individual regulations, we rely on a market-based solution \u2013 CO2 certificate trading. The Heating Act with its excessive requirements must be phased out completely. In order to cushion the social costs of climate protection, we Free Democrats want to introduce a climate dividend and drastically reduce energy taxation. We reject a compulsion to connect to district heating networks. Heating with wood remains possible with us, and we want to reduce requirements for fireplaces and stoves. Entrepreneurial agriculture Agriculture is of outstanding importance for Germany, which goes far beyond the production of food."
-        },
-        {
-          "score": 0.5152908563613892,
-          "source": "FDP_Program_en.pdf",
-          "location": "13 / 52",
-          "content": "FDP: In order to create additional incentives to work, we want to exempt bonuses for overtime from full-time work from income tax. In the future, the top tax rate may only be paid by people who really earn a top income and not by the middle of society. Specifically, we demand that the top tax rate be based on the current contribution assessment ceiling of the pension insurance in the future. This means that the top tax rate no longer applies from an annual income of a good 68,000 euros, but only from 96,600 euros. In addition, we want to abolish the solidarity surcharge completely. Because it has now developed into a punitive tax for small and medium-sized businesses. To ensure that the state does not become a beneficiary of inflation and the taxpayer does not become a victim of cold progression, we want to automatically adjust the allowances and benchmarks of income tax to the general price development (tariff on wheels). The allowances of inheritance tax and gift tax must also be automatically increased by the inflation rate. We reject any form of wealth tax or wealth levy. Families are the backbone of our society and need to be strengthened. In order to provide greater relief for families and single parents, we want to improve the tax deductibility of childcare costs and statutory maintenance payments."
-        }
-      ],
-      "citations_count": 2
-    },
-    "gruene": {
-      "agreement": 0,
-      "explanation": "Gruene wants to end the apportionability of property tax so that it can no longer be passed on to tenants.",
-      "citations": [
-        {
-          "score": 0.3974284529685974,
-          "source": "Gruene_Program_en.pdf",
-          "location": "68 / 160",
-          "content": "Gruene: In addition, we want to end the apportionability of property tax so that it can no longer be passed on to tenants. About half of the people in our country live in rented accommodation and have to spend more and more money on it. We will extend the rent brake and tighten it by abolishing exceptions. We also want to apply the rent brake to apartments that are more than five years old. And we will close loopholes, for example when apartments are not offered at fair prices, but at overpriced prices as furnished apartments or holiday apartments. Rent indices are to be better qualified by extending the observation period. Municipalities should be able to provide evidence of tight housing markets on their own. We will enable a rent freeze in tense housing markets. Rent usury must be combated by strengthening Section 5 of the Economic Criminal Code in order to make it easier for tenants to provide evidence and thus to punish violations of the rent brake more strongly. Indexed rents are to be regulated by upper limits and renovations must be apportioned in a warm-rent-neutral manner. The letting of furnished apartments must be strictly regulated and the misappropriation of living space must be punished. In addition, we will counter rent increases by lowering the capping limits. Commercial tenants also need tenant protection."
-        },
-        {
-          "score": 0.4975775480270386,
-          "source": "Gruene_Program_en.pdf",
-          "location": "69 / 160",
-          "content": "Gruene: We want to support people in these plans by making it legally easier to exchange homes and by adapting and making funding instruments for supporting tenants more flexible. Home ownership \u2013 whether it is your own house or apartment \u2013 offers security, freedom and a sustainable retirement provision. That's why we want to make it easier to make the chance of home ownership a reality. We want to promote the purchase and construction of the first owner-occupied residential property as well as the conversion of vacant apartments and conversions into affordable housing in a stronger and socially just way. In this way, we support young families in particular through low-interest state loans. In particular, the energy-efficient renovation of vacant apartments, the division of underused single-family houses and extensions for the provision of additional living space are to be promoted. We relieve the burden of ancillary costs such as brokerage and notary fees. A housing subsidy, the amount of which increases with inflation and which is geared to climate protection targets, also makes it easier for people with low and medium incomes to access home ownership."
-        }
-      ],
-      "citations_count": 2
-    },
     "spd": {
-      "agreement": 0,
-      "explanation": "SPD wants to relieve tenants of property tax, not allowing owners to apportion all burdens to the tenants.",
+      "agreement": 80,
+      "explanation": "SPD mentions 'good working conditions at schools' but does not explicitly mention higher salaries.",
       "citations": [
         {
-          "score": 0.3923506736755371,
+          "score": 0.5137717127799988,
           "source": "SPD_Program_en.pdf",
-          "location": "20 / 68",
-          "content": "SPD: That's why we want only a maximum rent increase of six percent in three years to be allowed in areas with a tight housing market up to the local comparative rent. We want to open up the possibility for federal states to make independent regulations that go beyond this in order to limit rent increases more strongly in extremely tight housing markets. We want to extend the rent index observation period to ten years and include price-controlled housing in the consideration. The ancillary costs for tenants are to be more transparent and easier to understand. Property tax is a tax on ownership of land. We want to relieve tenants of property tax. The apportionability of property tax must therefore not go so far that the owner may apportion all burdens to the tenants. With the housing benefit, we specifically support employed people and pensioners. We have implemented the expansion of housing benefit to housing benefit plus, which means that significantly more people benefit from support. In the Housing Benefit Act, we have also stipulated the regular automatic increase of housing benefit in line with real price and rent developments. Similarly, we also want to stipulate a regular and automatic increase in the BAf\u00f6G housing cost lump sum for people in training. The support must continuously follow real rent developments."
+          "location": "15 / 68",
+          "content": "SPD: Too few students currently benefit from BAf\u00f6G. Therefore, more students should gradually have an entitlement for us. In the long term, we want to make BAf\u00f6G more independent of parents. We are striving for a gradual return to the full subsidy. In addition, the processing times for BAf\u00f6G applications must be shortened \u2013 through further digitization and simplification. We want to continue and increase the successful federal Young Housing programme in order to create affordable housing for trainees and students. In addition, we will provide greater support for dual studies and extend the protective rights of the Vocational Education and Training Act to this training path as well. We want good working conditions at schools and daycare centers. Daycare centers and schools must be attractive places of learning and working with good working conditions. In order to meet the best possible standards for contemporary daycare and school buildings in the many upcoming new buildings and renovations, we therefore want to create more incentives for providers. We want to make the education system fit for the immigration society. Our immigration society needs an education system that opens up all opportunities for children from different backgrounds to attend daycare centers and schools successfully. We also want to reflect diversity in curricula, textbooks and in the pedagogical professions. Students from different backgrounds should be able to identify with them."
+        }
+      ],
+      "citations_count": 1
+    },
+    "volt": {
+      "agreement": 80,
+      "explanation": "Volt mentions 'good working conditions' and 'fair remuneration' but does not explicitly mention higher salaries.",
+      "citations": [
+        {
+          "score": 0.480939120054245,
+          "source": "Volt_Program_en.pdf",
+          "location": "106 / 164",
+          "content": "Volt: STRONG EARLY CHILDHOOD EDUCATION \u2013 FOR EQUAL OPPORTUNITIES THROUGH BETTER CARE A comprehensive, child-friendly childcare service is crucial in order to offer all children equal opportunities and to ensure reliable support for parents. Uniform standards, fair working conditions and innovative concepts strengthen the quality of early childhood education and relieve the burden on educational professionals."
         },
         {
-          "score": 0.43641912937164307,
-          "source": "SPD_Program_en.pdf",
-          "location": "18 / 68",
-          "content": "SPD: If a property that is not used by the owner is sold privately, the profit is currently tax-free after a speculation period of ten years has expired. We want to change that and thus ensure more tax justice. It also reduces incentives for purely speculative property purchases while increasing incentives for long-term investment in real estate. This can also have positive effects on the supply on the housing market. More for you. Better for Germany."
+          "score": 0.5013443231582642,
+          "source": "Volt_Program_en.pdf",
+          "location": "105 / 164",
+          "content": "Volt: BETTER WORKING CONDITIONS FOR A STRONG EDUCATION Good working conditions in the education system are crucial in order to support educational professionals in their responsibility and to offer learners the best possible support. Multi-professional and practice-oriented teams create the space that young people need to develop into engaged members of society."
         },
         {
-          "score": 0.45621052384376526,
-          "source": "SPD_Program_en.pdf",
-          "location": "19 / 68",
-          "content": "SPD: That is why housing is a public good for us, which must not be left to the private market alone. This is a public matter. We want to overcome the acute housing shortage with an investment, tax and bureaucracy reduction offensive and accelerate planning and approval procedures. We want to have overcome homelessness by 2030. The creation and maintenance of affordable housing is a permanent task for the state. At the same time, we are strengthening private housing construction by creating good conditions for private investment, among other things by further reducing bureaucracy. We want to protect tenants from usurious rents and excessive demands. We want to slow down the development of rents. The rent brakes will expire at the end of 2025. The rent brake is a very good instrument for curbing rising rents. And we want to ensure stable and affordable rents in tight housing markets in the long term. In metropolitan areas, short-term rentals are to be reduced to a minimum. The rent brake is to apply indefinitely and also to properties occupied until 2019 in order to ensure stable and affordable rents in tight housing markets in the long term. We will ensure that the rent brake cannot be circumvented by, for example, (partially) furnished and temporary housing offers."
+          "score": 0.50368732213974,
+          "source": "Volt_Program_en.pdf",
+          "location": "116 / 164",
+          "content": "Volt: FINANCING OF STUDIES AND TRAINING A fair education system enables all people to develop freely, regardless of their financial situation. We all benefit from lower financial burdens and fair access to training and studies. That's why Volt is committed to this future: \u2022  Remuneration without risk of poverty: The training allowance is sufficient for a decent life and the state closes gaps through targeted, performance-oriented incentives, such as an orientation towards the minimum wage, in order to avoid poverty during training."
         },
         {
-          "score": 0.47906404733657837,
-          "source": "SPD_Program_en.pdf",
-          "location": "18 / 68",
-          "content": "SPD: We want to increase the personal allowances in order to take account of the increases in asset prices since the last adjustment. The family home used by the owner will remain untouched in the future. The suspended wealth tax we want to revitalize for very high assets. We also support Brazil's G20 plans for an internationally coordinated minimum tax on the super-rich. An internationally coordinated approach creates the necessary transparency about wealth accumulation and makes tax avoidance unattractive. The tax revenues from inheritance and gift tax as well as wealth tax are due to the states in whose area of responsibility education policy lies. It is therefore our goal that the L\u00e4nder use the additional revenue generated by our reforms for the urgently needed strengthening and modernisation of the education system. In addition, we want to tax income from capital via the income tax rate. Unlike in the financial centres of Paris or Milan, financial transactions in Germany have not yet been taxed. That is why we want to introduce a financial transaction tax. This should be done as much as possible in harmony with our European partners."
+          "score": 0.506557047367096,
+          "source": "Volt_Program_en.pdf",
+          "location": "114 / 164",
+          "content": "Volt: BEST PRACTICE Mentoring Program in Austria \u2013 The Induction Phase for Teachers The induction phase supports new teachers with mentoring, reflection and targeted support to make it easier to start their careers. Experienced contact persons offer individual support in lesson design and challenges, while job shadowing, coaching and networking promote professional skills. School principals assess progress and initiate development measures. This model reduces uncertainty, strengthens the quality of teaching and increases job satisfaction. LEAVING THE SCHOOL IN THE VILLAGE \u2013 OPPORTUNITIES FOR RURAL AREAS Village schools are essential for vibrant rural regions. They strengthen the community and offer unique educational opportunities that do justice to local conditions."
         },
         {
-          "score": 0.49239325523376465,
-          "source": "SPD_Program_en.pdf",
-          "location": "19 / 68",
-          "content": "SPD: In the future, index-linked leases will also be capped by the capping limits of normal leases, such as the local comparative rent. Misappropriation and vacancy of living space through short-term rentals must be prevented. There is to be more transparency about existing rents and new rental rents. Exorbitant rents must be effectively prevented, among other things by tightening economic criminal law. We want to extend the possibility of banning the conversion of rental apartments into condominiums in the BauGB beyond 2025. At the same time, we want to reform the law on termination for personal use and limit it to residential use by the nuclear family. More for you. Better for Germany."
+          "score": 0.5086629390716553,
+          "source": "Volt_Program_en.pdf",
+          "location": "110 / 164",
+          "content": "Volt: Teachers and specialists work closely together to enable holistic care that combines education and social support. That's why Volt is committed to this future: \u2022  Specialists in schools: Specialists in psychology, school social work, school health and special education will become an integral part of the school system."
         },
         {
-          "score": 0.5077665448188782,
-          "source": "SPD_Program_en.pdf",
-          "location": "20 / 68",
-          "content": "SPD: The support must continuously follow real rent developments. We want to ensure that students and trainees do not pay more than 400 euros for a room in a shared flat. To this end, we want to consolidate and increase the funds for the expansion of student and trainee halls of residence and ensure that these funds are actually used by the states for the construction of new halls of residence. By expanding the scope of the rent brake, significantly more trainees and students will be covered. By creating an online platform in cooperation with student and trainee unions that, as a legal service provider, asserts the claims of trainees and students under the rent brake free of charge and in an uncomplicated manner, we ensure that the rent brake is also enforced. Via the same platform, we will refund the difference to students and trainees whose rental contracts fall within the scope of the rent brake and have been reviewed by the platform and, if necessary, compliance with the rent brake has been sued, if the rent for their room is above 400 euros. We want more affordable apartments to be built. In order to stabilize the supply of affordable housing in the medium and long term, joint efforts are necessary for faster construction and a social land policy. We want to set the right framework conditions and impulses for this. We want to strengthen and consolidate investments in social housing construction at a high level."
+          "score": 0.5099430084228516,
+          "source": "Volt_Program_en.pdf",
+          "location": "105 / 164",
+          "content": "Volt: Reduced rents for apprentices reduce the financial burden. BEST PRACTICE Free Education in Sweden \u2013 A Model for Equal Opportunities In Sweden, educational opportunities from early childhood education to university are free of charge. This creates real equality of opportunity regardless of social background. Support programs such as interest-free loans also enable low-income families to access higher education. The model reduces school drop-out rates, strengthens social cohesion and makes Sweden a pioneer in lifelong learning and economic competitiveness. MORE INCLUSION FOR A DISCRIMINATION-FREE EDUCATION SYSTEM Inclusion must be lived as a matter of course in our education system so that all people can learn together, regardless of individual needs or talents. Needs-oriented and non-discriminatory education strengthens equal opportunities and social cohesion. That's why Volt is committed to this future: \u2022  Individual inclusion budgets: Educational institutions receive funding to implement individual solutions for inclusion."
         },
         {
-          "score": 0.5096670985221863,
-          "source": "SPD_Program_en.pdf",
-          "location": "21 / 68",
-          "content": "SPD: The cooperative program is to be consolidated and expanded. We want to stop the rapid price development for land in many regions. We need a trend reversal towards a social land policy, because soil is an unreproducible commodity. Its use should also serve the common good. In order to enable long-term and sustainable urban development, municipalities must be supported in setting up land funds. Models are to be supported by the municipalities of land value increases through planning. The right of first refusal for municipalities must be strengthened. Construction costs must be reduced and procedures accelerated. Our goal: Reducing bureaucracy must be continued and the construction administration must receive a digitalization boost. Too much bureaucracy and a lack of digitization prolong processes and decision-making paths. The Alliance for Affordable Housing is to be made permanent and expanded. Simplified building standards such as building type E must be further developed. There is great potential in serial and modular construction that we want to leverage. In the future, funding programmes in the construction sector are to be reliably offered at fixed funding conditions for the duration of the legislative period."
+          "score": 0.5317675471305847,
+          "source": "Volt_Program_en.pdf",
+          "location": "104 / 164",
+          "content": "Volt: FREE EDUCATION FOR MORE EQUAL OPPORTUNITIES AND PARTICIPATION Education is a fundamental right that must be fully accessible to all children and young people. A free education system strengthens equal opportunities and enables participation regardless of financial background. That's why Volt is committed to this future: \u2022  Free learning materials: Learning materials are provided free of charge to school-age children nationwide and financed by federal funds."
         }
       ],
       "citations_count": 7
     },
-    "volt": {
+    "fdp": {
+      "agreement": 60,
+      "explanation": "FDP mentions 'attractive opportunities for advancement' but does not explicitly mention higher salaries.",
+      "citations": [
+        {
+          "score": 0.4816296696662903,
+          "source": "FDP_Program_en.pdf",
+          "location": "8 / 52",
+          "content": "FDP: The present agreement between the federal and state governments is a missed opportunity, because the states are hardly contributing any additional funds. We want to give schools more pedagogical, personnel and financial competences. To this end, everyone is to receive a freely deployable opportunity budget. This allows schools to decide independently on the organisation of educational elements, their school profile, the use of multi-professional teams, but also on personnel decisions and the length of the grammar school career (G8/G9). Modern curricula and excellent teachers Schools need excellent teachers. With more attractive working conditions, practical training and further education, performance-based pay and attractive opportunities for advancement, we want to create more freedom in the teaching profession. We want to develop apprenticeship training nationwide into a dual teacher training program that closely interlinks theory and practice and places a stronger focus on digital and AI skills. A nationwide mobility guarantee is intended to make it easier for teachers to change federal states. At the same time, we want to modernize the curricula: We Free Democrats demand more space for economic and financial education, STEM topics, democracy and politics as well as media literacy. We are particularly committed to the nationwide introduction of the school subjects of economics and computer science."
+        }
+      ],
+      "citations_count": 1
+    },
+    "bsw": {
+      "agreement": 50,
+      "explanation": "BSW mentions 'attractive working conditions for lateral entrants' but does not explicitly mention higher salaries.",
+      "citations": [
+        {
+          "score": 0.4497789144515991,
+          "source": "BSW_Program_en.pdf",
+          "location": "24 / 45",
+          "content": "BSW: Working conditions in all educational institutions urgently need to be improved. To this end, teachers must be relieved of non-specialist tasks by support teams (social work, school psychologists, IT management). Teacher training should include more practical elements. Dual forms of training that lead to a bachelor's/master's degree followed by a traineeship are conceivable. In the short term, the shortage of teachers can be combated by attractive working conditions for lateral entrants. In recent years, teachers have been increasingly burdened with additional tasks, such as IT management, school organization, and psychological counseling. The formation of support teams for everyday work at schools \u2013 social work, IT management, psychological support \u2013 can bring about a decisive improvement. The children and young people themselves must be able to perceive daycare centres and schools as safe havens again \u2013 without discrimination, bullying or racism \u2013 with dignity and recognition. Education does not end in adulthood. Adult education centres must be financially strengthened. The chronic underfunding of universities must be ended."
+        },
+        {
+          "score": 0.49189651012420654,
+          "source": "BSW_Program_en.pdf",
+          "location": "23 / 45",
+          "content": "BSW: More and more young people are leaving school without elementary knowledge. They hardly have a chance on the job market later on. Two-thirds of current recipients of citizen's allowance do not have a vocational qualification, and many do not have a school-leaving certificate either. We need a comprehensive renewal of education policy. This will contribute to the end of small-scale education. Different types of schools as a prerequisite for different later training paths make sense in principle, but social selection according to the parental home is not."
+        },
+        {
+          "score": 0.5298315286636353,
+          "source": "BSW_Program_en.pdf",
+          "location": "20 / 45",
+          "content": "BSW: We want to raise the statutory minimum wage to 15 euros immediately. The minimum wage must be permanently poverty-proof. Future adjustments are to be based on the EU Minimum Wage Directive (60 percent of median income). Mini- and midi-jobs, fixed-term contracts and the abuse of work contracts and temporary work still make it impossible for millions of people to plan their lives reliably. We want to significantly reduce fixed-term contracts with objective reasons. We reject fixed-term contracts without objective reasons and chain fixed-term contracts. These measures are also intended to help close the income gap between men and women. Collective agreements are an important instrument for achieving good wages and working conditions. However, collective bargaining has been in free fall for 25 years, with only 49 per cent of employment contracts still covered by collective bargaining. To achieve this goal, we want to implement a package of measures: Public contracts and subsidies are to be awarded only to companies that pay collectively agreed wages. In addition, we want to make it easier for collective agreements to be declared generally binding."
+        },
+        {
+          "score": 0.5305219888687134,
+          "source": "BSW_Program_en.pdf",
+          "location": "24 / 45",
+          "content": "BSW: In secondary schools, in addition to the acquisition of solid basic knowledge, individual strengths are to become the focus of the training. Every young person must be guaranteed the right to a training place. Strengthening vocational preparation at lower secondary level is just as necessary as upgrading intermediate school leaving certificates and apprenticeships \u2013 the \"old\" master craftsman professions in particular are among our strengths and should continue to be so in the future. With a nationwide internship concept, companies and businesses are to enter into close cooperation with the schools. There is a need for more political education, peace education formats and democracy education in schools in all federal states. In order to solve the shortage of skilled workers in pedagogical professions, states and municipalities must be supported in training more teachers and educators."
+        }
+      ],
+      "citations_count": 4
+    },
+    "afd": {
       "agreement": 0,
-      "explanation": "Volt does not explicitly mention property tax apportionability.",
-      "citations": [],
-      "citations_count": 0
+      "explanation": "AFD does not explicitly mention higher salaries for teachers.",
+      "citations": [
+        {
+          "score": 0.5070687532424927,
+          "source": "AFD_Program_en.pdf",
+          "location": "161 / 177",
+          "content": "AFD: STRENGTHENING VOCATIONAL EDUCATION AND TRAINING: MORE MASTER CRAFTSMEN INSTEAD OF MASTER'S DEGREES Dual training in companies and vocational schools is a model for success. However, the striving for ever higher Abitur quotas endangers the next generation in the training professions. Numerous apprenticeships cannot be filled due to a lack of sufficiently qualified applicants, and too many apprentices drop out of training. Vocational schools must be strengthened as supporting pillars of vocational education and training and lifelong learning, and the value of vocational education and training must be better appreciated. The lower secondary schools and secondary schools are to become more attractive through cooperation with companies and the chambers of industry and crafts. MIGRATION AND EDUCATION The integration of migrants is a challenge for the German education system, as many of them come from other cultural backgrounds and often from educationally disadvantaged backgrounds. In many cases, a lack of previous education, a lack of language skills and cultural differences prevent successful qualifications for the German labour market. As long as children with a migrant background do not speak sufficient German to participate in regular lessons, compulsory German lessons must be in the foreground."
+        },
+        {
+          "score": 0.5158588290214539,
+          "source": "AFD_Program_en.pdf",
+          "location": "145 / 177",
+          "content": "AFD: In the \"woke\" society, mothers only count if they are gainfully employed and, if possible, place their children in all-day care when they are babies. Families should be a safe haven and must once again be at the centre of society, both economically and socially."
+        },
+        {
+          "score": 0.5248317718505859,
+          "source": "AFD_Program_en.pdf",
+          "location": "146 / 177",
+          "content": "AFD: Especially in the case of parents who work in two jobs, it is difficult to reconcile work and family. In addition, there are additional child-related costs for housing, care and education, which are only minimally compensated for in the assessment of taxes and social security contributions. Middle-income families in particular are massively burdened by this, so that their birth rate is alarmingly low. After all, fewer and fewer couples are economically able to do parenting work."
+        },
+        {
+          "score": 0.5251572728157043,
+          "source": "AFD_Program_en.pdf",
+          "location": "147 / 177",
+          "content": "AFD: With a childcare salary up to the 3rd birthday, parents should be given real freedom of choice between external and self-care."
+        }
+      ],
+      "citations_count": 4
+    },
+    "cdu": {
+      "agreement": 0,
+      "explanation": "CDU does not explicitly mention higher salaries for teachers.",
+      "citations": [
+        {
+          "score": 0.5173568725585938,
+          "source": "CDU_Program_en.pdf",
+          "location": "64 / 82",
+          "content": "CDU: It must not be the case that the place of residence is decisive for the quality of education. We rely on meaningful and binding comparative studies and learning status surveys. Our goal is a high-level Abitur that is comparable in quality nationwide. There must be no levelling of requirements. We are pushing ahead with the expansion of all-day educational opportunities for primary school children. Each child should be supported and challenged more individually. One thing is clear: reading, writing and arithmetic are the basis for any educational success."
+        }
+      ],
+      "citations_count": 1
+    },
+    "linke": {
+      "agreement": 0,
+      "explanation": "Linke does not explicitly mention higher salaries for teachers.",
+      "citations": [
+        {
+          "score": 0.5300441980361938,
+          "source": "Linke_Program_en.pdf",
+          "location": "38 / 60",
+          "content": "Linke: After the training, all trainees are to be taken on by the companies without a probationary period for an unlimited period \u2022  School-based training (technical school training according to DQF 6) is to be maintained. Anyone who undergoes such a three-year training course should be entitled to the so-called Aufstiegs-Baf\u00f6G (AFBG) and will not be subject to any sanctions."
+        }
+      ],
+      "citations_count": 1
+    },
+    "gruene": {
+      "agreement": 0,
+      "explanation": "Gruene does not explicitly mention higher salaries for teachers.",
+      "citations": [
+        {
+          "score": 0.5098016858100891,
+          "source": "Gruene_Program_en.pdf",
+          "location": "76 / 160",
+          "content": "Gruene: Together, we promote healthy working conditions, including recording working hours for teachers. In addition, more than 50,000 pupils leave school every year without a qualification \u2013 a risk of poverty and low participation. With a national strategy, we want to prevent school drop-outs through preventive and accompanying measures."
+        },
+        {
+          "score": 0.5303118824958801,
+          "source": "Gruene_Program_en.pdf",
+          "location": "76 / 160",
+          "content": "Gruene: Just like in the expansion of good all-day education and care services. We are expanding the range of mental health coaches in schools and we are committed to ensuring that the inclusion of all students in accordance with the UN Convention on the Rights of Persons with Disabilities becomes a lived reality in all schools. A good school lunch is crucial for all-day offers and promotes nutrition and health literacy from an early age. This support should arrive where it is most needed. Instead of financing only according to the K\u00f6nigsstein key according to the number of inhabitants and financial strength, we want to align financing more closely with actual needs. We need closer cooperation between the federal government, the states and the municipalities in education policy. In doing so, we promote cooperation between schools, school supervisory authorities, school authorities and youth welfare, for example in regional education networks. Where constitutional restrictions currently prevent reliable and necessary investment in education, we will agree on common goals and viable solutions with the L\u00e4nder in order to successfully overcome the major challenges in the education system together and also discuss new common tasks in the Basic Law. We want to abolish the ban on cooperation."
+        }
+      ],
+      "citations_count": 2
     }
   }
 }
