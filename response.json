@@ -1,186 +1,227 @@
 {
   "answer": {
-    "spd": {
-      "agreement": 80,
-      "explanation": "SPD mentions 'good working conditions at schools' but does not explicitly mention higher salaries.",
-      "citations": [
-        {
-          "score": 0.5137717127799988,
-          "source": "SPD_Program_en.pdf",
-          "location": "15 / 68",
-          "content": "SPD: Too few students currently benefit from BAf\u00f6G. Therefore, more students should gradually have an entitlement for us. In the long term, we want to make BAf\u00f6G more independent of parents. We are striving for a gradual return to the full subsidy. In addition, the processing times for BAf\u00f6G applications must be shortened \u2013 through further digitization and simplification. We want to continue and increase the successful federal Young Housing programme in order to create affordable housing for trainees and students. In addition, we will provide greater support for dual studies and extend the protective rights of the Vocational Education and Training Act to this training path as well. We want good working conditions at schools and daycare centers. Daycare centers and schools must be attractive places of learning and working with good working conditions. In order to meet the best possible standards for contemporary daycare and school buildings in the many upcoming new buildings and renovations, we therefore want to create more incentives for providers. We want to make the education system fit for the immigration society. Our immigration society needs an education system that opens up all opportunities for children from different backgrounds to attend daycare centers and schools successfully. We also want to reflect diversity in curricula, textbooks and in the pedagogical professions. Students from different backgrounds should be able to identify with them."
-        }
-      ],
-      "citations_count": 1
-    },
-    "volt": {
-      "agreement": 80,
-      "explanation": "Volt mentions 'good working conditions' and 'fair remuneration' but does not explicitly mention higher salaries.",
-      "citations": [
-        {
-          "score": 0.480939120054245,
-          "source": "Volt_Program_en.pdf",
-          "location": "106 / 164",
-          "content": "Volt: STRONG EARLY CHILDHOOD EDUCATION \u2013 FOR EQUAL OPPORTUNITIES THROUGH BETTER CARE A comprehensive, child-friendly childcare service is crucial in order to offer all children equal opportunities and to ensure reliable support for parents. Uniform standards, fair working conditions and innovative concepts strengthen the quality of early childhood education and relieve the burden on educational professionals."
-        },
-        {
-          "score": 0.5013443231582642,
-          "source": "Volt_Program_en.pdf",
-          "location": "105 / 164",
-          "content": "Volt: BETTER WORKING CONDITIONS FOR A STRONG EDUCATION Good working conditions in the education system are crucial in order to support educational professionals in their responsibility and to offer learners the best possible support. Multi-professional and practice-oriented teams create the space that young people need to develop into engaged members of society."
-        },
-        {
-          "score": 0.50368732213974,
-          "source": "Volt_Program_en.pdf",
-          "location": "116 / 164",
-          "content": "Volt: FINANCING OF STUDIES AND TRAINING A fair education system enables all people to develop freely, regardless of their financial situation. We all benefit from lower financial burdens and fair access to training and studies. That's why Volt is committed to this future: \u2022  Remuneration without risk of poverty: The training allowance is sufficient for a decent life and the state closes gaps through targeted, performance-oriented incentives, such as an orientation towards the minimum wage, in order to avoid poverty during training."
-        },
-        {
-          "score": 0.506557047367096,
-          "source": "Volt_Program_en.pdf",
-          "location": "114 / 164",
-          "content": "Volt: BEST PRACTICE Mentoring Program in Austria \u2013 The Induction Phase for Teachers The induction phase supports new teachers with mentoring, reflection and targeted support to make it easier to start their careers. Experienced contact persons offer individual support in lesson design and challenges, while job shadowing, coaching and networking promote professional skills. School principals assess progress and initiate development measures. This model reduces uncertainty, strengthens the quality of teaching and increases job satisfaction. LEAVING THE SCHOOL IN THE VILLAGE \u2013 OPPORTUNITIES FOR RURAL AREAS Village schools are essential for vibrant rural regions. They strengthen the community and offer unique educational opportunities that do justice to local conditions."
-        },
-        {
-          "score": 0.5086629390716553,
-          "source": "Volt_Program_en.pdf",
-          "location": "110 / 164",
-          "content": "Volt: Teachers and specialists work closely together to enable holistic care that combines education and social support. That's why Volt is committed to this future: \u2022  Specialists in schools: Specialists in psychology, school social work, school health and special education will become an integral part of the school system."
-        },
-        {
-          "score": 0.5099430084228516,
-          "source": "Volt_Program_en.pdf",
-          "location": "105 / 164",
-          "content": "Volt: Reduced rents for apprentices reduce the financial burden. BEST PRACTICE Free Education in Sweden \u2013 A Model for Equal Opportunities In Sweden, educational opportunities from early childhood education to university are free of charge. This creates real equality of opportunity regardless of social background. Support programs such as interest-free loans also enable low-income families to access higher education. The model reduces school drop-out rates, strengthens social cohesion and makes Sweden a pioneer in lifelong learning and economic competitiveness. MORE INCLUSION FOR A DISCRIMINATION-FREE EDUCATION SYSTEM Inclusion must be lived as a matter of course in our education system so that all people can learn together, regardless of individual needs or talents. Needs-oriented and non-discriminatory education strengthens equal opportunities and social cohesion. That's why Volt is committed to this future: \u2022  Individual inclusion budgets: Educational institutions receive funding to implement individual solutions for inclusion."
-        },
-        {
-          "score": 0.5317675471305847,
-          "source": "Volt_Program_en.pdf",
-          "location": "104 / 164",
-          "content": "Volt: FREE EDUCATION FOR MORE EQUAL OPPORTUNITIES AND PARTICIPATION Education is a fundamental right that must be fully accessible to all children and young people. A free education system strengthens equal opportunities and enables participation regardless of financial background. That's why Volt is committed to this future: \u2022  Free learning materials: Learning materials are provided free of charge to school-age children nationwide and financed by federal funds."
-        }
-      ],
-      "citations_count": 7
-    },
-    "fdp": {
-      "agreement": 60,
-      "explanation": "FDP mentions 'attractive opportunities for advancement' but does not explicitly mention higher salaries.",
-      "citations": [
-        {
-          "score": 0.4816296696662903,
-          "source": "FDP_Program_en.pdf",
-          "location": "8 / 52",
-          "content": "FDP: The present agreement between the federal and state governments is a missed opportunity, because the states are hardly contributing any additional funds. We want to give schools more pedagogical, personnel and financial competences. To this end, everyone is to receive a freely deployable opportunity budget. This allows schools to decide independently on the organisation of educational elements, their school profile, the use of multi-professional teams, but also on personnel decisions and the length of the grammar school career (G8/G9). Modern curricula and excellent teachers Schools need excellent teachers. With more attractive working conditions, practical training and further education, performance-based pay and attractive opportunities for advancement, we want to create more freedom in the teaching profession. We want to develop apprenticeship training nationwide into a dual teacher training program that closely interlinks theory and practice and places a stronger focus on digital and AI skills. A nationwide mobility guarantee is intended to make it easier for teachers to change federal states. At the same time, we want to modernize the curricula: We Free Democrats demand more space for economic and financial education, STEM topics, democracy and politics as well as media literacy. We are particularly committed to the nationwide introduction of the school subjects of economics and computer science."
-        }
-      ],
-      "citations_count": 1
-    },
-    "bsw": {
-      "agreement": 50,
-      "explanation": "BSW mentions 'attractive working conditions for lateral entrants' but does not explicitly mention higher salaries.",
-      "citations": [
-        {
-          "score": 0.4497789144515991,
-          "source": "BSW_Program_en.pdf",
-          "location": "24 / 45",
-          "content": "BSW: Working conditions in all educational institutions urgently need to be improved. To this end, teachers must be relieved of non-specialist tasks by support teams (social work, school psychologists, IT management). Teacher training should include more practical elements. Dual forms of training that lead to a bachelor's/master's degree followed by a traineeship are conceivable. In the short term, the shortage of teachers can be combated by attractive working conditions for lateral entrants. In recent years, teachers have been increasingly burdened with additional tasks, such as IT management, school organization, and psychological counseling. The formation of support teams for everyday work at schools \u2013 social work, IT management, psychological support \u2013 can bring about a decisive improvement. The children and young people themselves must be able to perceive daycare centres and schools as safe havens again \u2013 without discrimination, bullying or racism \u2013 with dignity and recognition. Education does not end in adulthood. Adult education centres must be financially strengthened. The chronic underfunding of universities must be ended."
-        },
-        {
-          "score": 0.49189651012420654,
-          "source": "BSW_Program_en.pdf",
-          "location": "23 / 45",
-          "content": "BSW: More and more young people are leaving school without elementary knowledge. They hardly have a chance on the job market later on. Two-thirds of current recipients of citizen's allowance do not have a vocational qualification, and many do not have a school-leaving certificate either. We need a comprehensive renewal of education policy. This will contribute to the end of small-scale education. Different types of schools as a prerequisite for different later training paths make sense in principle, but social selection according to the parental home is not."
-        },
-        {
-          "score": 0.5298315286636353,
-          "source": "BSW_Program_en.pdf",
-          "location": "20 / 45",
-          "content": "BSW: We want to raise the statutory minimum wage to 15 euros immediately. The minimum wage must be permanently poverty-proof. Future adjustments are to be based on the EU Minimum Wage Directive (60 percent of median income). Mini- and midi-jobs, fixed-term contracts and the abuse of work contracts and temporary work still make it impossible for millions of people to plan their lives reliably. We want to significantly reduce fixed-term contracts with objective reasons. We reject fixed-term contracts without objective reasons and chain fixed-term contracts. These measures are also intended to help close the income gap between men and women. Collective agreements are an important instrument for achieving good wages and working conditions. However, collective bargaining has been in free fall for 25 years, with only 49 per cent of employment contracts still covered by collective bargaining. To achieve this goal, we want to implement a package of measures: Public contracts and subsidies are to be awarded only to companies that pay collectively agreed wages. In addition, we want to make it easier for collective agreements to be declared generally binding."
-        },
-        {
-          "score": 0.5305219888687134,
-          "source": "BSW_Program_en.pdf",
-          "location": "24 / 45",
-          "content": "BSW: In secondary schools, in addition to the acquisition of solid basic knowledge, individual strengths are to become the focus of the training. Every young person must be guaranteed the right to a training place. Strengthening vocational preparation at lower secondary level is just as necessary as upgrading intermediate school leaving certificates and apprenticeships \u2013 the \"old\" master craftsman professions in particular are among our strengths and should continue to be so in the future. With a nationwide internship concept, companies and businesses are to enter into close cooperation with the schools. There is a need for more political education, peace education formats and democracy education in schools in all federal states. In order to solve the shortage of skilled workers in pedagogical professions, states and municipalities must be supported in training more teachers and educators."
-        }
-      ],
-      "citations_count": 4
-    },
     "afd": {
-      "agreement": 0,
-      "explanation": "AFD does not explicitly mention higher salaries for teachers.",
+      "agreement": 100,
+      "explanation": "The AfD resolutely rejects any softening of the debt brake.",
       "citations": [
         {
-          "score": 0.5070687532424927,
+          "score": 0.33392876386642456,
           "source": "AFD_Program_en.pdf",
-          "location": "161 / 177",
-          "content": "AFD: STRENGTHENING VOCATIONAL EDUCATION AND TRAINING: MORE MASTER CRAFTSMEN INSTEAD OF MASTER'S DEGREES Dual training in companies and vocational schools is a model for success. However, the striving for ever higher Abitur quotas endangers the next generation in the training professions. Numerous apprenticeships cannot be filled due to a lack of sufficiently qualified applicants, and too many apprentices drop out of training. Vocational schools must be strengthened as supporting pillars of vocational education and training and lifelong learning, and the value of vocational education and training must be better appreciated. The lower secondary schools and secondary schools are to become more attractive through cooperation with companies and the chambers of industry and crafts. MIGRATION AND EDUCATION The integration of migrants is a challenge for the German education system, as many of them come from other cultural backgrounds and often from educationally disadvantaged backgrounds. In many cases, a lack of previous education, a lack of language skills and cultural differences prevent successful qualifications for the German labour market. As long as children with a migrant background do not speak sufficient German to participate in regular lessons, compulsory German lessons must be in the foreground."
+          "location": "54 / 177",
+          "content": "AFD: Among other things, the contributions of almost 30 billion euros (2023) to the EU are to be drastically reduced. The debt brake laid down in the Basic Law must be observed. The AfD resolutely rejects any softening of the debt brake."
         },
         {
-          "score": 0.5158588290214539,
+          "score": 0.39797070622444153,
           "source": "AFD_Program_en.pdf",
-          "location": "145 / 177",
-          "content": "AFD: In the \"woke\" society, mothers only count if they are gainfully employed and, if possible, place their children in all-day care when they are babies. Families should be a safe haven and must once again be at the centre of society, both economically and socially."
+          "location": "64 / 177",
+          "content": "AFD: However, liability and repayment remain with the nation states, especially Germany. Such loans taken out by the EU, which largely benefit the euro crisis countries, lead to a deterioration in our credit rating and thus to an increase in the interest burdens and taxes of Germans. An exit from the euro would be beneficial for our economy and taxpayers."
         },
         {
-          "score": 0.5248317718505859,
+          "score": 0.4102853536605835,
           "source": "AFD_Program_en.pdf",
-          "location": "146 / 177",
-          "content": "AFD: Especially in the case of parents who work in two jobs, it is difficult to reconcile work and family. In addition, there are additional child-related costs for housing, care and education, which are only minimally compensated for in the assessment of taxes and social security contributions. Middle-income families in particular are massively burdened by this, so that their birth rate is alarmingly low. After all, fewer and fewer couples are economically able to do parenting work."
+          "location": "54 / 177",
+          "content": "AFD: Less bureaucracy, more personal responsibility and a more efficient use of public funds are important prerequisites for a sustainable Germany. Despite the current high tax revenues, the constantly increasing consumption expenditure leaves less and less room for necessary investments. As a result, this leads to demands for tax increases and additional debt. We are committed to moving away from excessive taxation and in return for spending discipline in order to strengthen private households and our companies as well as to comply with the debt brake and reduce debt. We plan to simplify the complex German tax law. CONSOLIDATE THE FEDERAL BUDGET, END TAX WASTE, COMPLY WITH THE DEBT BRAKE Germany does not have a revenue problem, but an expenditure problem. Despite still high tax revenues, the federal government regularly fails to bring in a federal budget without further new debt. We must not continue to burden future generations with debts and interest. That is why we call for tax waste to be avoided. The main examples are the reduction of senseless expenditures owed to the alleged \"climate rescue\", as well as the termination of the financing of superfluous prestige projects, especially abroad."
         },
         {
-          "score": 0.5251572728157043,
+          "score": 0.43109214305877686,
           "source": "AFD_Program_en.pdf",
-          "location": "147 / 177",
-          "content": "AFD: With a childcare salary up to the 3rd birthday, parents should be given real freedom of choice between external and self-care."
+          "location": "65 / 177",
+          "content": "AFD: Debt and tax collection should generally only take place at the national level. No German liability for foreign banks With the European Banking Union, the German savings banks, cooperative banks and the German private banking industry, which have so far been anchored in the local government, would be subject to EU redistribution. The planned European deposit insurance scheme would be the largest joint liability facility in the EU at several trillion euros. Through this mutualization, German savers would be liable with their deposits for ailing banks in other countries that have high and risky loan claims on their balance sheets. Huge defaults would only be a matter of time and would directly trigger a German payment obligation. This would be a further step towards the liability and transfer union rejected by the AfD. The AfD demands that German banks limit liabilities to the national level and continue to be able to maintain their own institutional, liability and deposit guarantee solutions specific to the banking group, such as the exclusively regionally active and locally anchored savings banks and cooperative banks. We advocate the restoration of national sovereignty across all financial services. We oppose the European communitarisation of liability risks."
         }
       ],
       "citations_count": 4
     },
     "cdu": {
-      "agreement": 0,
-      "explanation": "CDU does not explicitly mention higher salaries for teachers.",
+      "agreement": 100,
+      "explanation": "Sound budget policy is an imperative of intergenerational justice.",
       "citations": [
         {
-          "score": 0.5173568725585938,
+          "score": 0.3747343420982361,
           "source": "CDU_Program_en.pdf",
-          "location": "64 / 82",
-          "content": "CDU: It must not be the case that the place of residence is decisive for the quality of education. We rely on meaningful and binding comparative studies and learning status surveys. Our goal is a high-level Abitur that is comparable in quality nationwide. There must be no levelling of requirements. We are pushing ahead with the expansion of all-day educational opportunities for primary school children. Each child should be supported and challenged more individually. One thing is clear: reading, writing and arithmetic are the basis for any educational success."
-        }
-      ],
-      "citations_count": 1
-    },
-    "linke": {
-      "agreement": 0,
-      "explanation": "Linke does not explicitly mention higher salaries for teachers.",
-      "citations": [
-        {
-          "score": 0.5300441980361938,
-          "source": "Linke_Program_en.pdf",
-          "location": "38 / 60",
-          "content": "Linke: After the training, all trainees are to be taken on by the companies without a probationary period for an unlimited period \u2022  School-based training (technical school training according to DQF 6) is to be maintained. Anyone who undergoes such a three-year training course should be entitled to the so-called Aufstiegs-Baf\u00f6G (AFBG) and will not be subject to any sanctions."
-        }
-      ],
-      "citations_count": 1
-    },
-    "gruene": {
-      "agreement": 0,
-      "explanation": "Gruene does not explicitly mention higher salaries for teachers.",
-      "citations": [
-        {
-          "score": 0.5098016858100891,
-          "source": "Gruene_Program_en.pdf",
-          "location": "76 / 160",
-          "content": "Gruene: Together, we promote healthy working conditions, including recording working hours for teachers. In addition, more than 50,000 pupils leave school every year without a qualification \u2013 a risk of poverty and low participation. With a national strategy, we want to prevent school drop-outs through preventive and accompanying measures."
+          "location": "76 / 82",
+          "content": "CDU: It makes an important contribution to regional value creation and employment, housing and quality of life, the maintenance of customs and traditions and the safeguarding of infrastructure. It is particularly important for rural areas. Sound budgeting, responsible use of taxpayers' money The budget situation in Germany is tense. National debt is rising and rising, both at the federal level and in the states and municipalities. What Germany needs now is a sound budget policy. Citizens are entitled to demand that the state handle their tax money responsibly. A sound budget policy is also an imperative of intergenerational justice, because debt burdens our children and grandchildren. It ensures that burdens are not placed on our children and grandchildren. It obliges politicians to make do with the revenues available for the fulfilment of state tasks, thus ensuring the long-term sustainability of the federal budget. Even in times of crisis, it has proven its functionality and flexibility. Money is tight, so every euro must be used efficiently. We stand for a sound budget policy. Immediately at the beginning of the new legislative period, we are making an honest cash check and questioning all expenditures, especially subsidies."
         },
         {
-          "score": 0.5303118824958801,
-          "source": "Gruene_Program_en.pdf",
-          "location": "76 / 160",
-          "content": "Gruene: Just like in the expansion of good all-day education and care services. We are expanding the range of mental health coaches in schools and we are committed to ensuring that the inclusion of all students in accordance with the UN Convention on the Rights of Persons with Disabilities becomes a lived reality in all schools. A good school lunch is crucial for all-day offers and promotes nutrition and health literacy from an early age. This support should arrive where it is most needed. Instead of financing only according to the K\u00f6nigsstein key according to the number of inhabitants and financial strength, we want to align financing more closely with actual needs. We need closer cooperation between the federal government, the states and the municipalities in education policy. In doing so, we promote cooperation between schools, school supervisory authorities, school authorities and youth welfare, for example in regional education networks. Where constitutional restrictions currently prevent reliable and necessary investment in education, we will agree on common goals and viable solutions with the L\u00e4nder in order to successfully overcome the major challenges in the education system together and also discuss new common tasks in the Basic Law. We want to abolish the ban on cooperation."
+          "score": 0.39179953932762146,
+          "source": "CDU_Program_en.pdf",
+          "location": "77 / 82",
+          "content": "CDU: We clearly reject all forms of German liability for the debts of other states. The Maastricht criteria, in particular the debt ratio of 60 per cent and the annual deficit criterion of three per cent of gross domestic product, must remain binding. Violations must be sanctioned with an automated deficit procedure. EU budget funds must be used for tasks that create European added value and benefit European citizens. We are committed to an insolvency code for member states in order to be better prepared for emergencies. Maintaining stable money and financial markets The global financial crisis of 2008 and 2009 changed our banks and capital markets. Since then, there have been new rules in Germany and Europe for greater resilience and stability. We are doing everything we can to avoid new crises, to make our financial centre more efficient and to keep the euro currency system stable. As the largest economy in the euro zone, Germany must remain its anchor of stability. We are committed to the independence of the European Central Bank (ECB). At the same time, we expect it to work to maintain monetary stability and to fight inflation consistently. We reject government financing by the ECB."
+        },
+        {
+          "score": 0.43314501643180847,
+          "source": "CDU_Program_en.pdf",
+          "location": "76 / 82",
+          "content": "CDU: At the same time, we ensure that sound budget management is guaranteed when implementing our projects. Expenditure that misses its target must be eliminated. This creates scope for our policy change."
+        },
+        {
+          "score": 0.4388211667537689,
+          "source": "CDU_Program_en.pdf",
+          "location": "9 / 82",
+          "content": "CDU: This also applies to the involvement of insurers. We are also introducing the digital vehicle file. A functioning state \u2013 our promise for the future The traffic light has argued and destroyed trust. We want to act and regain trust \u2013 faster, more efficiently, digitally and with leaner structures. We act. What matters most now: \u2022  We are halving the number of commissioners and getting by with at least ten percent fewer staff in the ministerial administration and the Bundestag administration. Today's debts are tomorrow's tax increases. We clearly reject all forms of liability for the debts of other EU states."
+        },
+        {
+          "score": 0.43900442123413086,
+          "source": "CDU_Program_en.pdf",
+          "location": "4 / 82",
+          "content": "CDU: We reject a wealth tax. There will be no pension cuts with us. Those who voluntarily continue to work beyond the statutory retirement age receive their salary up to 2,000 euros per month tax-free. To this end, the state subsidises individual and funded private pension provision for all 6 to 18-year-olds with 10 euros per month. In this way, we build up a starting asset for early private retirement provision. Supporting our agriculture Farmers deserve recognition, respect and trust. We are providing relief through better framework conditions and planning security. We act. What matters most now: \u2022  We are reintroducing the agricultural diesel rebate in full. In this way, we relieve the burden on agricultural businesses. At the same time, the Common Agricultural Policy must be drastically simplified."
+        },
+        {
+          "score": 0.43901488184928894,
+          "source": "CDU_Program_en.pdf",
+          "location": "75 / 82",
+          "content": "CDU: We want to strengthen the EU's subsidiarity test and establish such a test at national level in order to be able to better assess the impact of legislative projects on local self-government. Municipal officials and elected officials support our state. That is why we must support and protect them. We are guided by the principle of connection. For us, it is clear that anyone who initiates or expands a service must pay for its financing. Particular attention should be paid to this if federal laws or other measures of the federal government lead to additional expenditure or reduced revenues for the states and municipalities. People need to be able to understand where the money is going. The states are to make transparent the extent to which they have used money from the federal government appropriately and which municipality benefits and to what extent. We want municipal services of general interest to be solidly financed. The processes must be faster, the legal processes shorter. The federal and state governments must find solutions in coordination with the municipalities to stop the spending dynamic in social spending."
+        }
+      ],
+      "citations_count": 6
+    },
+    "fdp": {
+      "agreement": 100,
+      "explanation": "Compliance with the debt brake is intergenerational justice.",
+      "citations": [
+        {
+          "score": 0.3762531280517578,
+          "source": "FDP_Program_en.pdf",
+          "location": "35 / 52",
+          "content": "FDP: We have fought for strict debt rules in the past. If we don't play by the rules, monetary union will fail. No debt at the European level We Free Democrats are strictly against the European Union's debt competence. The EU's Next Generation EU recovery fund must remain a one-off exception. Further EU debt funds would be a breach of law and trust. The European Union does not need new debt, but must focus on its core tasks with European added value. We Free Democrats therefore position ourselves firmly against a European debt union. Fewer subsidies and more market We Free Democrats want to reduce subsidies so that financial aid and tax reductions are brought to an appropriate ratio to economic value creation. After all, the many billions of euros in state money to individual industries and companies are better invested in the long term, for example in education. In future, existing and new subsidy programmes must be consistently limited in time, degressive and externally evaluated. We Free Democrats want to sell state shareholdings because private investors are the better entrepreneurs. In doing so, we must also adapt the federal government's budget law so that it does not stand in the way of a sale of federal shareholdings that makes sense for the economy as a whole."
+        },
+        {
+          "score": 0.3878682851791382,
+          "source": "FDP_Program_en.pdf",
+          "location": "34 / 52",
+          "content": "FDP: We are cutting back subsidies for the few, but we are creating better location conditions for everyone. Where we really need a well-functioning state, it must be better equipped. Federalism must become simpler and the state leaner and more efficient. With clear responsibilities, we want to upgrade the interaction between the federal and state governments from an obstacle to a locational advantage. A lot has to change in Germany. The state is perhaps the biggest construction site. We have it in our hands to change that. Sound public finances We Free Democrats want to protect future generations from the burdens of excessive national debt. That is why we stand for responsible and future-oriented budgetary and financial policy. Our goal is a successful economy that grows and creates prosperity. Compliance with the debt brake is intergenerational justice Freedom for future generations also means not leaving them mountains of debt. Therefore, for us Free Democrats, compliance with the debt brake enshrined in the Basic Law central commandment of intergenerational justice. Otherwise, children are liable for their parents. This also applies to the federal states. Sustainable and prioritizing budgets create intergenerational justice because burdens are not passed on to future generations."
+        },
+        {
+          "score": 0.39443710446357727,
+          "source": "FDP_Program_en.pdf",
+          "location": "34 / 52",
+          "content": "FDP: This is the only way we can secure the financial room for manoeuvre of future generations. Germany must remain an anchor of stability in Europe and set a good example. We cannot afford to have our creditworthiness questioned."
+        },
+        {
+          "score": 0.4136093854904175,
+          "source": "FDP_Program_en.pdf",
+          "location": "11 / 52",
+          "content": "FDP: We want a bureaucracy-free year for companies in which they do not have to comply with reporting obligations. There must be an annual bureaucracy relief law every year to create a reduction path for superfluous regulations. With a bureaucracy brake in the Basic Law, we are anchoring the reduction of bureaucracy in our constitution."
+        },
+        {
+          "score": 0.44037267565727234,
+          "source": "FDP_Program_en.pdf",
+          "location": "20 / 52",
+          "content": "FDP: Higher equity shares must also be made possible in company pension schemes. We want to make it possible for all companies to make the pure defined contribution scheme possible, especially micro-enterprises, which have so far shied away from liability risks. We will clarify the open question of the guarantee requirement and liability in company pension schemes. We also want to avoid double taxation of pensions. Sustainable social security systems Demographic change is putting social security systems under pressure. However, ever-increasing premiums cannot be a solution. High social security contributions burden employers and employees alike. They prevent companies from creating new jobs and make it unattractive to take up work. They also restrict the opportunities for the younger generation to make additional provisions. As a result, ever-increasing social security contributions are becoming a major burden for citizens and businesses. We Free Democrats want to rule out the possibility that social security contributions will continue to rise above the level of 40 percent. To this end, future federal governments must be obliged to take concrete measures. In order to make the social security systems fit for the future, significantly more funded elements are needed in the statutory pension insurance and social long-term care insurance."
+        }
+      ],
+      "citations_count": 5
+    },
+    "bsw": {
+      "agreement": 0,
+      "explanation": "The debt brake must be reformed as it has become a brake on investment.",
+      "citations": [
+        {
+          "score": 0.3457544445991516,
+          "source": "BSW_Program_en.pdf",
+          "location": "14 / 45",
+          "content": "BSW: The debt brake has not prevented unsound budgeting, but has become a brake on investment. That is why it must be reformed. For a responsible use of taxpayers' money, we need above all more competence in responsible offices, less lobbying influence and more say of the population through direct democracy. Alliance Sahra Wagenknecht - Reason and Justice Glinkastr."
+        },
+        {
+          "score": 0.4214155673980713,
+          "source": "BSW_Program_en.pdf",
+          "location": "22 / 45",
+          "content": "BSW: This broadens the revenue base and creates inhibitions in politics to lower the pension level if the decision-makers themselves are affected. Measured in terms of economic power, Germany today spends significantly less money on pensions than ten years ago \u2013 and this despite the fact that the number of pensioners has grown by about 1 million. After a long working life, a dignified old age free of poverty must be guaranteed. It must be possible to maintain the standard of living that has been earned. We want to strengthen pay-as-you-go pensions and put an end to the promotion of private pension models, which low-income earners cannot afford anyway. We want to delete damping factors in the pension formula such as the Riester factor. They were only introduced to cut pensions and lure people into private pension contracts."
         }
       ],
       "citations_count": 2
+    },
+    "gruene": {
+      "agreement": 0,
+      "explanation": "The debt brake in its current form prevents investments and other measures that stimulate the economy.",
+      "citations": [
+        {
+          "score": 0.36890244483947754,
+          "source": "Gruene_Program_en.pdf",
+          "location": "35 / 160",
+          "content": "Gruene: The black zero in the budget is a mortgage for the future viability of our country. We will therefore set up a Germany Fund for the federal, state and local governments. From this, we will build the rails on which trains will take people to their destinations on time, renovate daycare centres, schools and universities where equal opportunities are created for all, finance research that will form the basis of the ideas and technologies for tomorrow's prosperity, and give companies the space to invest in their future. Funds from the Germany Fund will supplement regular budget funds. The investment backlog in Germany is in the three-digit billion range, even though we are an economically strong country. The debt brake in its current form prevents investments and other measures that stimulate our stagnating economy again. In order to finance the necessary investments in infrastructure, in the decarbonisation of our country and in a strong, sustainable economy, we want to reform the debt brake in line with European rules. The taking out of state loans is to be made possible to the extent that investments are made by the state. In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times."
+        },
+        {
+          "score": 0.37858158349990845,
+          "source": "Gruene_Program_en.pdf",
+          "location": "35 / 160",
+          "content": "Gruene: In addition, the economic component must be expanded to enable the state to be more capable of acting in difficult economic times. In this way, we are creating new financial leeway, which we will distribute appropriately between the federal and state governments. At the same time, we will ensure that the overall debt remains sustainable in the long term. This is also advised by leading economic institutes such as the International Monetary Fund (IMF), the Bundesbank and the German Federal Government's Council of Economic Experts. At the European level, we continue to advocate common fiscal rules that leave enough room for sustainable investment. After the grand coalition has ruined the country for almost two decades, we in the federal government have initiated the turnaround. Investments in climate and environmental protection, in transport, energy, education and research infrastructure, and in national security are priorities for us. We propose a reform of the debt brake and a Germany fund for investment expenditure. In order to finance current expenses, we want to close gaps in fairness in our tax system."
+        },
+        {
+          "score": 0.4260880947113037,
+          "source": "Gruene_Program_en.pdf",
+          "location": "68 / 160",
+          "content": "Gruene: In addition, we want to end the apportionability of property tax so that it can no longer be passed on to tenants. About half of the people in our country live in rented accommodation and have to spend more and more money on it. We will extend the rent brake and tighten it by abolishing exceptions. We also want to apply the rent brake to apartments that are more than five years old. And we will close loopholes, for example when apartments are not offered at fair prices, but at overpriced prices as furnished apartments or holiday apartments. Rent indices are to be better qualified by extending the observation period. Municipalities should be able to provide evidence of tight housing markets on their own. We will enable a rent freeze in tense housing markets. Rent usury must be combated by strengthening Section 5 of the Economic Criminal Code in order to make it easier for tenants to provide evidence and thus to punish violations of the rent brake more strongly. Indexed rents are to be regulated by upper limits and renovations must be apportioned in a warm-rent-neutral manner. The letting of furnished apartments must be strictly regulated and the misappropriation of living space must be punished. In addition, we will counter rent increases by lowering the capping limits. Commercial tenants also need tenant protection."
+        },
+        {
+          "score": 0.43206313252449036,
+          "source": "Gruene_Program_en.pdf",
+          "location": "36 / 160",
+          "content": "Gruene: We want to enable citizens to participate in these investments for the state at low cost. The Germany Fund helps to increase the scope for urgently needed investments in the future at the federal, state and local levels. However, it is not a substitute for the task of prioritising more strongly in the budget and using the available revenues more efficiently. A responsible, results-oriented budget policy also requires clearly defined and measurable targets. Many important concerns, such as better education or greater security, also require consumptive spending. We want to relieve the burden on the budget by closing tax loopholes and streamlining the administration through further digitalisation. With good framework conditions, we are increasing the employment rate, increasing tax revenues and strengthening social insurance. We are committed to the introduction of modern instruments for budget management, such as gender budgeting. And in particular, we want to reduce subsidies that are harmful to the climate and the environment. In doing so, we pay attention to socially acceptable, reliable implementation. The distribution of taxes between the federal government, the states and the municipalities must correspond to the actual tasks and investment needs in order to enable equivalent living conditions in all parts of the state."
+        }
+      ],
+      "citations_count": 4
+    },
+    "spd": {
+      "agreement": 0,
+      "explanation": "The current debt rule is not designed to meet the challenges of our time and the future.",
+      "citations": [
+        {
+          "score": 0.37453967332839966,
+          "source": "SPD_Program_en.pdf",
+          "location": "16 / 68",
+          "content": "SPD: The current debt rule is not designed to meet the challenges of our time and the future. That is why we want to reform the debt rule in the Basic Law in such a way that investments in the future viability of our country and in prosperity are not hindered. This is the only way to make the good life possible for future generations. This is the only way to reliably secure the necessary leeway for the agreed expenditure on security and defence. In addition, the outdated credit ceilings must be reformed: In addition to the introduction of exemptions for important investments in the future, we are committed to a more flexible design of the deficit rule itself. The states are to be given the opportunity to borrow. This is done in accordance with European fiscal rules. In order to enable more security and long-term planning in the event of a crisis, we are striving to reform the emergency regulations so that our state is able to act at any time and across all years. The repayment obligations lead to savings pressures in future national budgets. This artificially prolongs the financial crisis and shifts the burden of a one-off emergency situation to future generations. We are therefore committed to changing this unjust mechanism."
+        },
+        {
+          "score": 0.41687214374542236,
+          "source": "SPD_Program_en.pdf",
+          "location": "16 / 68",
+          "content": "SPD: We want to ensure the financing of important investments in the future at all levels of the state. Because we want to prevent future generations from being bequeathed \"investment debts\", such as a railway rail network in need of renovation, outdated school buildings or jobs that have migrated. To finance long-term investments, it makes sense to take out loans. In this way, the financing costs are distributed fairly over many years. Future generations will also pay a fair share of the repayment, as these investments are intended to secure and increase both current and future prosperity. The possibility of promoting public and private investments through financial transactions is to be used more intensively, both by the federal government and by the states. The Basic Law already allows this today. This type of financing creates long-term planning security and enables the expansion of necessary investments in the future, while at the same time distributing the financing burden among the benefiting generations. In this way, we can, among other things, strengthen the equity base of public companies and increase their public investment. In addition, we want to adapt the outdated criteria of the cyclical component of the debt rule to current economic realities so that our community can ensure a steady and high level of investment, especially in economically difficult times."
+        },
+        {
+          "score": 0.4180469512939453,
+          "source": "SPD_Program_en.pdf",
+          "location": "16 / 68",
+          "content": "SPD: We are therefore committed to changing this unjust mechanism. For example, we must invest heavily in education, manage socio-ecological and digital structural change and modernise infrastructure up and down the country. Not only the federal government, but also the states and municipalities need the necessary financial leeway for this. We therefore propose a pact for the future of the federal, state and local governments. This includes the reform of the debt rule already described in order to give the states more financial leeway. In addition, we want to make the highest assets in our country more responsible for financing the community. Inheritance and gift tax as well as wealth tax then strengthen the revenue side of the More for you. Better for Germany."
+        },
+        {
+          "score": 0.42084288597106934,
+          "source": "SPD_Program_en.pdf",
+          "location": "59 / 68",
+          "content": "SPD: A growing Europe must also be a better Europe. The EU is already reaching the limits of its ability to act. European treaty reforms must take place with EU enlargement at the latest. To this end, we are committed to the results-oriented establishment of a European Convention. For us, an essential component of institutional reforms is to replace the principle of unanimity in the European Council and the Council of Ministers with the introduction of majority voting. Veto rights of individual member states are no longer up-to-date, as they are already being used as a means of exerting pressure in an inappropriate way. That is why we want to exhaust all possibilities to make the decision-making procedures as efficient as possible in the short term. This also More for you. Better for Germany."
+        },
+        {
+          "score": 0.4371997117996216,
+          "source": "SPD_Program_en.pdf",
+          "location": "17 / 68",
+          "content": "SPD: In addition, the L\u00e4nder are responsible for providing the municipalities with adequate financial resources to cope with their tasks. At the municipal level, a large part of the investments necessary for structural change is incurred anyway. At the same time, the financial situation of many municipalities is serious. We must and want to change that. A solution to the specific problem of old municipal debts is finally needed. In doing so, we want to ensure that the situation of the East German municipalities is also taken into account, which are also challenged by legacy issues through no fault of their own, such as the situation of the old municipal housing companies or the Entitlement and Expectancy Transfer Act (AA\u00dcG). In addition, we are committed to long-term support and financing agreements between the state levels, especially in the areas of education, transport and supply infrastructure, urban development, heat planning and energy efficiency. In addition, larger and modern capacities for infrastructure planning of the municipalities are required, for example for cross-municipal investment planning or joint personnel deployment. We want to significantly simplify and reduce bureaucracy in funding programmes as far as possible. We want to achieve a systematic improvement in municipal finances."
+        }
+      ],
+      "citations_count": 5
+    },
+    "volt": {
+      "agreement": 0,
+      "explanation": "A balanced ratio of income and debt to expenditure is needed, but the debt brake massively restricts important future investments.",
+      "citations": [
+        {
+          "score": 0.33676019310951233,
+          "source": "Volt_Program_en.pdf",
+          "location": "21 / 164",
+          "content": "Volt: However, Germany's rigid debt brake massively restricts important future investments in infrastructure, education, climate protection and digitalisation. A reform of the debt brake enables a sustainable and economically smart fiscal policy that strengthens current and future generations."
+        },
+        {
+          "score": 0.3500620126724243,
+          "source": "Volt_Program_en.pdf",
+          "location": "22 / 164",
+          "content": "Volt: MORE COMMITMENT TO THE FIGHT AGAINST TAX AVOIDANCE AND CRIME The consistent fight against tax avoidance and evasion secures urgently needed revenue, which can be used for education, health and infrastructure, for example. We all benefit from a fairer distribution of the tax burden and higher government revenues. That's why Volt is committed to this future: \u2022  Closing loopholes: Legal alternative options for tax avoidance will be closed. Modern technologies are increasingly being used to detect tax avoidance and evasion more efficiently."
+        },
+        {
+          "score": 0.4225410223007202,
+          "source": "Volt_Program_en.pdf",
+          "location": "21 / 164",
+          "content": "Volt: We all benefit from a sustainable fiscal policy that makes necessary investments, promotes innovation, creates jobs and strengthens social cohesion. PUBLIC FINANCES \u2013 SOLID YET FLEXIBLE Sound public finances ensure the state's ability to act in times of crisis and create the basis for Germany's economically, socially and ecologically sustainable development. By investing in a sustainable economy, we will succeed in the transition to a competitive, climate-neutral economy. That's why Volt is committed to this future: \u2022  Balanced state budget: A balanced ratio of income and debt to expenditure is needed."
+        }
+      ],
+      "citations_count": 3
     }
   }
 }
