@@ -21,9 +21,9 @@ class PoliticaladvisorConfig(AppConfig):
         if os.environ.get("LOCAL_MODE", default=False) == "True":
             if os.environ.get("RUN_MAIN") != "true":
                 return
-            if hasattr(self, "initialized"):  # Prevent multiple executions
-                return
-            self.initialized = True
+        if hasattr(self, "initialized"):  # Prevent multiple executions
+            return
+        self.initialized = True
 
         rebuild_faiss_index = os.environ.get("REBUILD_FAISS_INDEX", default=True)
 
